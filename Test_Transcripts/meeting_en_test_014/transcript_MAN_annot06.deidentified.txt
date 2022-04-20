@@ -1,0 +1,894 @@
+(PERSON12) So lets wait short while for a short while on because I hope that [PERSON5] would join.
+She went for lunch an hour ago, and then I hope that someone from [ORGANIZATION2]a can actually join.
+I know that [PERSON14] is teaching at this very moment.
+Would she learned only during the morning.
+Yeah, hello [PERSON5].
+(PERSON11)Hi, guys. 
+(PERSON12) Yeah, so while we are waiting if [PERSON2] reacts actually.
+So I do not know, if if he will join the call or not.
+Could you please tell us about the presentation platform, which now requires password.
+So what should we use to the see anything.
+(PERSON11) Yes.
+I'm going to share with you on the <unintelligible>.
+(PERSON12) Yeah, okay.
+(PERSON11) Okay username and password the authentication fees has been reintroduced so that only people participating participating in the event are allowed <unintelligible> subtitles.
+At the moment, there is only one user <unintelligible>.
+Which is the.
+Which is the administration one.
+And he, hes the user allowed to assist to settings.
+You will see <unintelligible> live testing username which is kind of email lets say.
+Its not a email its something I invented by myself.
+And the second one the [PROJECT1] 2019 is the password.
+(PERSON12) Yeah, okay.
+(PERSON11) We can register a new user.
+But lets say the credentials provided to people paricipating to the workshop, we can use just one credential for all of them.
+So that we are not <unintelligible> recording user data which is retty sensitive information.
+We'll create new the credential for simple end users
+Just and provide me something which sounds reasonable for you.
+Yes, but something si-
+I suppose something related to <unintelligible> workshop.
+(PERSON12) So does it have to be in include the at sign or not.
+(PERSON11)Well when I prepared the Admin User, they asked me to include the act sign, actually, I do not know mm.
+But hopefully.
+(PERSON12) So I would propose [PERSON8].
+<parallel_talk>
+password <unintelligible> 2019.
+(PERSON11) Okay.
+I'm going to register also these credentials and just being, yeah.
+(PERSON12) Yep.
+And you know [PERSON9] is around at the moment because he said that he restarted, the publishers and the they failed.
+So what could that be also related.
+(PERSON13) The publishers are running right now.
+(PERSON12) Okay.
+So.
+That is no longer problem on the publishers.
+So the only real problem that we have the the blocking problem is from [ORGANIZATION2].
+And we dont have anyone firm [ORGANIZATION2] at the moment, right?
+Yeah.
+So [PERSON5], are you listening.
+(PERSON11) Yes.
+(PERSON12) Yeah.
+One thing that is that like introduces the uh, the.
+Well the high load is the the missing multiplexing.
+So when [PERSON13] launches all the target languages, the same for the given the input stream the same ASR worker type is launched as many times as there is sort of the target languages.
+And thats putting stress on [ORGANIZATION2], because they need to provide so many workers and their have these bugs in workers so that they keep failing.
+How difficult is it in the platform in the mediator,to, to like follow the path and avoid duplicating work.
+So the idea.
+(PERSON11) Yeah.
+() actual infrastructure which will help us in managing with kind of ASR output multiplexing, at the moment unfortunately, it has to be done at client level.
+Then, for example, performing the request of transcription, and then delivering the the output.
+(PERSON12) To more workers.
+(PERSON11) Fortunately, there is nothing in the protocol <unintelligible> will help us problems solution.
+(PERSON12) Yeah, so there is no.
+(PERSON11) <unintelligible> take note and find better solution in the protocol after these events.
+(PERSON12) Yeah, so so [PERSON13], if you could just.
+Quickly share the screen where you had the the the launch of ten workers at the same time like underneath of each other.
+(PERSON13) Yes.
+Yes, I can, wait for a moment
+(PERSON12) Yeah, so the thing is that the mediator.
+I do not know if this EB client when it runs ten different pipelines.
+When it actually runs the requests to the mediator ten times, or whether the mediator receives a multi like a Multi Channel, or or multi path request.
+(PERSON11) Could you repeat this?
+(PERSON12) So when [PERSON13] will share the screen, hopefully.
+I'm still not seeing the screen.
+(PERSON13) Yes, oh it doesnt work on this browser.
+I'm going to change the browser.
+(PERSON12) Yeah, so [PERSON13] will probably disconnect for a while, or another machine.
+(PERSON13) I'm listening on other machine than.
+(PERSON12) So the the thing is uh.
+The thing is that the what I see in the log file from EB client is that these English ASR or English sound is being converted while a a to, one of the target languages.
+And then another line, which says the same English sound, converted to another machine translation output and so on.
+So it is there is just ten lines like that.
+These ten lines are they produced one by one from EB client.
+Or is it that the EB clients connects and asks the mediator once.
+With all these then targets at once.
+(PERSON11) As far as I know <unintelligible> 
+<other_noise>
+to the mediator.
+Just one, then the nine different <unintelligible> are feeded by mediator without sending <unintelligible>
+At this point, I 'm not more more sure and on neither of these information.
+Because in my opinion the mediator should, should somehow find an economic solution, also in the ASR route of the path, but is actually that it is not being a specially 90 here, and here.
+(PERSON12) So if you if you open the screen, that [PERSON13] has shared.
+And there you will see that in four lines, and these info lines are going from English lecture [ORGANIZATION2] hybrid audio to English <unintelligible> English text to English published, and similarly for the for the other languages.
+(PERSON13) Yes.
+(PERSON11) Yes.
+(PERSON12) So what I would like to see is that the the beginning until English <unintelligible> text would be actually done only once.
+And then in the mediator would either to send.
+It should have publishing or in English, or send it to the machine translation into Czech and so on.
+So we dont need any clever optimization of the path of we would need to only like combine the common prefix 
+(PERSON11) I understand, but at the moment that it is not meant to work in this way.
+Unfortunately.
+(PERSON12) Yeah.
+(PERSON11) We will reason about this problem, because actually for the [PROJECT1] project.
+We have also between communication protocols <unintelligible> reason possibility <unintelligible> to find a kind of when <unintelligible> is performed.
+To find the kind of <unintelligible>.
+instead of list of workers.
+Maybe <unintelligible> data structures.
+<unintelligible>
+in order to use the if possible common route and dispatch that to the different branches, but the is something we have to reason carefully.
+Because actually the [ORGANIZATION4] <unintelligible> is not meant to work in <unintelligible>
+(PERSON12) Um-hum, yeah, okay.
+So right now [PERSON13] has tried to launch those and it failed, because there is not enough, ASR workers <unintelligible> right?
+(PERSON13) No I dont, there was the problem that it didnt receive any output.
+I killed it right here.
+But I want to show you that I updated the EB client this way.
+One.
+At least one input stream was not available.
+Then it.
+Then it terminated.
+But I just <unintelligible> its return, and and it is, and and bug info, and it works sometimes.
+(PERSON12) Yeah.
+So this is just making the EB 
+(PERSON11) Yes thank you.
+(PERSON12) more to <unintelligible> of the workers
+(PERSON13) Yes, but and on this wide terminal we see how many, how many ASR workers are available at this moment, there are six, and I 'm going to run it on one, two, three, four, five, six, seven, eight, nine, ten on on one 30 second audio.
+(PERSON12) So it will not succeed says so, actually, well, it will succeed with the first seven ones.
+And now there are seven
+(PERSON12) Yeah.
+(PERSON13) But for me.
+Its weid that.
+Now.
+There are no available ASR.
+And at this point there are three, so probably three ASR crashed from the seven and were released.
+(PERSON12) Um-hum.
+So just any anyone know where [PERSON2] is or why.
+I know that [PERSON14] is giving the lecture, but has [PERSON2] said anything useful during this morning.
+(PERSON13) It doesnt matter.
+(PERSON12)Yeah, so I'm afraid that we what we need to you is, because the the the machine translation workers seem working well, right.
+Yeah, we are failing to feed them with with the input.
+So what i will try is to well, again, keep pinging [ORGANIZATION2] for a for getting this running, and for like providing so many workers that the bugs wont be that severe for the whole system, but does anyone have any idea.
+What else could we do.
+And the only thing that comes to my mind would be.
+The multiplexing worker, or other actually the ultiplexing client.
+So the client that would get the CTM output from the worker, and then send this CTM to  the different segmentation workers, more get the segmentation outputs already and send a text.
+So what is the status of the text input to the to the mediator.
+Is there text only pipeline available.
+(PERSON13) Last time when we thinked about this what was the batch mode and we agreed that we.
+(PERSON12) Dont want to develop this for the online mode.
+(PERSON13) Yeah but I can try it. 
+Because the problem is that when when we see we send to whole text file at once.
+And we have to wait for the segmenter to process it but in this this case <unintelligible> not at once, so it could work.
+We need to try.
+(PERSON12) Ok, so one one thing thats possible.
+The remedy that is a possible remedy.
+Of the current situation is indeed a use this text communication, so that we would have modified the EB client.
+The EB client would ship the audios to the mediator and get the segment output from the segmenter <unintelligible> mediator.
+And then it would send it to the different machine translation of systems as like another EB client would do.
+Right?
+And this would <unintelligible> [ORGANIZATION2] and we should not be facing the bug- the bugs in their systems.
+(PERSON13) Yes.
+I'm goint to test t- the ASR workers.
+(PERSON12) Yeah.
+(PERSON13) So it run one one audio to six six ASR workers at once, one, two, three, four, five, six.
+To all of them which were available.
+Now it finished, its still waiting for something.
+Yes, and.
+And and it seems that, two of them, no four of them are received identical output to friend and two of them are different, but I think its because there is.
+Because the <unintelligible> is dynamic.
+It, its still meaningful output, three and four, yes, so it works.
+(PERSON12) So the summary is that if we are lucky and the workers work.
+And then we can get it running.
+And for he highest number that we saw it running with was six right?
+(PERSON13) Yeah.
+At this point six German, oh six English.
+(PERSON12) Yeah.
+(PERSON13) I can run four German.
+Is it, no its not.
+Oh nevermind.
+(PERSON12) So what does it mean?
+It is not if it means that the in German workers did not start.
+They were available.
+(PERSON13) No I didnt choose proper
+(PERSON12) Fingerprints, right.
+(PERSON13) Yes.
+It doesnt work like this.
+I need to rewrite this script.
+(PERSON12) So is there anyone who would be available for implementing the C code the EB client, modified to do the multiplexing internally.
+How is [ORGANIZATION3] is always like that, those who have delivered their work in the best shape.
+Are those who are most free to do more useful work.
+<laugh>
+(PERSON7) I'm afraid that you have low availability because [PERSON2] is going on holiday.
+<unintelligible>
+So I dont think we can manage <unintelligible> anything like that.
+(PERSON12) Yeah, okay, so you have, you said [PERSON2] is away.
+Or will be.
+(PERSON4) <unintelligible> tommorow on Wednesday that I will be around for the event.
+(PERSON12) Ok, so you will be around on Wednesday, Thursday and Friday but not tommorow.
+(PERSON4) No, I'll be around Thursday, Friday.
+(PERSON12) Okay, yeah.
+(PERSON4) And the, I'll be around in the evening <unintelligible> stuff need to do on Wednesday.
+(PERSON12) Yeah.
+Okay, yeah.
+Thank you.
+Okay, so we'll have to manage ourselves somehow.
+Okay, so thats the ASR workers in the Google document, and hopefully we'll hear something from [ORGANIZATION2], then the empty workers I said that these good.
+The publisher that was some strange problem for while.
+And I see [PERSON9] on on the call now.
+So.
+Do you know what that was?
+[PERSON9] was the publishers.
+I cannot hear you.
+If you can hear us.
+So I 'm not sure if you wan- this.
+Hello?
+(PERSON1) Hi.
+(PERSON12) Yeah, yeah, yeah.
+(PERSON1) Okay actually no I still dont know where the workers <unintelligible>.
+I'm trying to upload different.
+Yet another update, but its very slow.
+So pleased wait a bit.
+Sorry.
+(PERSON12) Yeah, because [PERSON13] said the publishers are working.
+Yeah, so.
+(PERSON13) They are in admin web as as idle.
+And available here.
+(PERSON12) So so [PERSON9] what exactly was the problem that you mentioned?
+(PERSON1) I have plenty errors in my log.
+And I mean, you what it does not <unintelligible>.
+So.
+(PERSON13) Okay, so I'm going to run six publishers yeah.
+They cant connect.
+(PERSON12) Ok.
+So they are only register was the platform or the mediator, but they are not actually operation.
+(PERSON13) Maybe the maybe this one English EU could be working.
+No.
+(PERSON12) So what what what are you seeing in the subtitles now, because I dont see anything.
+I have the new, I have the new.
+(PERSON13) It finished already.
+And it release, yes it released everything.
+No this is weird.
+(PERSON12) I haven't seen any of the subtitles in my view of of the presentation platform.
+(PERSON13) Yes, and it received formally English and German.
+And so.
+I but there are still six six available ASRs.
+This is weird.
+(PERSON12)Yeah, okay.
+So [PERSON9] we will still be around to fix this right.
+(PERSON1) Yes, yes, I will.
+(PERSON12) And could it be related to the new authentication that is in the presentation platform.
+I guess it should not be related to that.
+But yeah, I 'm just.
+(PERSON1) I'm almost certain it is not related to that.
+(PERSON12) Yeah.
+(PERSON13) Ah from German.
+(PERSON12) Yeah, okay.
+So there is.
+[PERSON9] will still investigate.
+So the presentation platform.
+So the credentials are there, read only or or well, <unintelligible> user view should be [PROJECT2] password <unintelligible> 2019 admin view is the <unintelligible>.
+So and then the of subtitles.
+My question is so that we can make little platform running locally within sol Wired Network. So thats thats something for [PERSON5] probably because we need the presentation.
+So yeah.
+(PERSON13) What exactly.
+(PERSON12) So the participants notebooks will all be connected to the very same wired network, and we need the URL with RTMP protocol with the stream subtitles to work from for their notebooks.
+It means that the engine.
+Server has to run within network, but maybe not necessarily the whole presentation platform right.
+[PERSON5] can you, can you comment, because [PERSON5] you'll you'll be coming to the venues.
+You will be only arriving on Wednesday evening, right?
+[PERSON5] are you there?
+Hello [PERSON5], can you hear me?
+(PERSON13) I can see connection alert.
+(PERSON1) Yeah, [PERSON5] is talking to the microphone, and not even I can hear them.
+So maybe we we are having connection issues maybe.
+(PERSON12) Yeah, because she's muted I dunno.
+(PERSON1) She is talking right now, but I cannot hear.
+I can probably relate what she is saying
+<laugh>
+Oh, well, try with different microphone.
+(PERSON12) Yeah.
+So this is this is in the Google document I'm curious what the setup should be so that we stream the uh, the slides.
+And so far, we have failed streaming the slides, both from my notebook and my desktop.
+My desktop is not behind a firewall.
+But it fails to stream it for some input and output error.
+And my notebook is behind a firewall, and it failed for unknown error, which is probably the firewall.
+So how do we do it.
+At, on [ORGANIZATION1] premises, so that the slides are delivered.
+(PERSON1) <unintelligible> I I I can run the exact configuration I've been posting.
+I can run it on the local network.
+And I'm still trying to figure out what can, what can possibly interfere with that.
+Since I'm i guess on the event you are going to be, every machine is going to be connected to the same LAN, right?
+So.
+(PERSON12) Yeah.
+(PERSON1) There is nothing that <unintelligible>.
+So my guess is that the configuration will work.
+I still don-, cannot see for sure what is preventing us now from testing it.
+But I can I <unintelligible> the exact copy, and I can right now between my two machines.
+For instance, I am I am in the middle of pushing that the the very same file in some additional instructions on on cruise control.
+(PERSON12) Mm-hmm, yeah.
+(PERSON1) Right?
+As we speak.
+Yeah.
+(PERSON12) So could we with this file that he will push with the instructions.
+We should be able to test it locally here, right?
+So that we take uh, just an access point, the router or actually a switch, and we connect the two machines to that thing with wires.
+And one of the machines.
+We need to run engines on.
+And the other machine, could like open.
+The the [ORGANIZATION4] presentation platform web page, and URL should be something local like RMTP Cologne//192.168 and so on so.
+So what is it 168. the <unintelligible>.
+(PERSON1) 192.168. and then the number of the LAN.
+(PERSON12) And that should work, right?
+(PERSON1) Yes, yes.
+(PERSON12) So this is what you are using.
+You are using the in your tests, you are using the real [ORGANIZATION4] presentation platform, and the subtitles are coming from the the Internet while the stream is only copied locally.
+(PERSON1) Only local.
+Yes.
+(PERSON12) Yeah, so when we we should test this, and to get the enging server running.
+Is that in part of your instructions.
+Or should we use.
+(PERSON1) Yes I'm expanding this extra write <unintelligible> file, so you can you can find it on on GitbHub.
+(PERSON12) Yeah,yeah.
+Yeah.
+(PERSON1) Few minutes more.
+(PERSON12) Yeah, okay.
+(PERSON12) Yes, now but it is essentially the same thing that I've put in the a sample pr- sub streaming some time ago, right?
+Because at the beggining.
+(PERSON1) Ah yes of the <unintelligible> its almost the same.
+(PERSON12) Yeah, at the beggining I send.
+(PERSON11) Sorry guys, can you hear me?
+(PERSON12) Yes, yes, now it works.
+(PERSON11) Oh, finally.
+Nice.
+I restarted the browser.
+(PERSON12) Yeah.
+(PERSON11) Okay.
+Sorry.
+Firs of all i have a service notes.
+Sorry, sorry.
+Me and [PERSON3] will probably arrive at some point on Wednesday.
+(PERSON12) Um-hum.
+(PERSON11) Actually probably around the the 16 or 17.
+I 'm not sure right now.
+But we will join you in [ORGANIZATION1].
+(PERSON12) Yeah.
+If they dont kick us out.
+<laugh>
+(PERSON11) Okay.
+(PERSON12) So by the way, can you send me your cellphone number?
+Or I can share mine, so here in the,
+(PERSON11) Okay, I have a office number, but I can share with you the [PERSON3] one.
+(PERSON12) So I have [PERSON3] one, this this is mine cellphone number, i just pasted it to to the chat.
+(PERSON11) Okay okay.
+(PERSON12) So that you save it and give me a ring.
+I have the contact for [PERSON3] already.
+(PERSON11) Okay, perfect.
+And regarding the presentation platform, except for the logging parts, the release also implementing the feature, which will allows us to have select these source stream.
+But for example, the Spanish coming from the German translation or English translation.
+However, on Friday.
+We have tested the solution several times, and we and the students.
+It is pretty been impossible to the debug problems in these environments.
+<laugh>
+(PERSON12) Okay.
+(PERSON11) Yes.
+Because in the same log also in during those tests having ten streams concurrent.
+Its really hard to understand which stream as problem and which is the problem.
+<laugh>
+So actually the functionality is working but we strongly suggest to, select our preffered path at the beggining.
+And stream just the one we select and not perform all the possible translation and filter just the output of the presentation platform because otherwise it will be really difficult to understand what is going to happen.
+And this is important especially selec- is important especially the selection of the English the spoken English.
+Because [PERSON13] has shared with us the scheme of the microphones <unintelligible> and so on.
+And if as far as we understood of course maybe I'm wrong, there will be three person speaking English the one in the round table, and th<unintelligible> with corrects.
+(PERSON12) Yes,yes,yes.
+It will be impossible at the moment to descriminate which English is coming from which microphone at present platform level.
+So we the strongly suggest to choose the the preferred the English stream at the beginning.
+And the performer translation only of eternal tone of all the possible combinations.
+(PERSON12) Yeah.
+So if I may repeat this, uh, or or comment on this.
+Its [PERSON13] notebook which is capable of choosing the English sound.
+Among those three.
+They all come as different channels through the four channel input sound card, and and it depends how [PERSON13] launches.
+The EB client, what fed to the input to this EB client that determines the English channel.
+Its either one of the respeakers or the uh, the person from the round table.
+So I agree with you that uh, we do not want to have to use different English different versions of English for different target languages, but I think that it is possible.
+That we would want to have the English subtitles presented from the main round table, and the translations to go from the respeakers.
+And for this.
+Uh, uh, [PERSON13] can simply run the EB client twice, one of those who will have connect to the English presentation, using the the round table sound.
+And the other one will use one of the respeakers.
+Fixed one and connected to all the target languages in the machine translation.
+And this is possible if I 'm not mistaken.
+[PERSON13] pleas.
+Have you followed can you confirm.
+(PERSON13) Yes.
+I confirm.
+(PERSON12) So it is totally out of of control, and its <unintelligible> so out of control for presentation platform the presentation platform will simply you display different.
+Uh, presented languages.
+But it has no way to to see which the English is which it will simply anyone who connects as little as a worker providing English will be displayed there.
+(PERSON11) Yeah
+(PERSON12) So this is the uh, thank you for the classification.
+But this is there is still one more topic related, and thats the that the delivering subtitles to interpreters booth, and uh, that is something which will need different English languages the like string, booth one booth two booth three.
+So is the platform is the current setup a ready for this.
+Or what is needed to to add this.
+(PERSON11) Yes, it should be ready.
+We have to prepare you know, the X1 configuration, X1 X2.
+(PERSON12) Yes, um-hum.
+(PERSON11) It should work.
+Maybe during this afternoon.
+We can start putting up the final setup.
+Actually we are pretty stable with <unintelligible>, thanks to [PERSON9] and [PERSON13] for the work on Friday.
+We are going to check <unintelligible> each path and i think that they already manage the directs ASR output for English, Czech and.
+Just the part is missing at the moment.
+(PERSON12) What is missng sorry?
+(PERSON11) Interpreters.
+(PERSON12) Yeah, yeah, so.
+So if we are lucky with [ORGANIZATION2] ASR workers, then like it seems to be running right.
+And if if we are indeed lucky with the subtitles being streamed from the from the presentation notebook.
+So these are the critical things that need to be debugged during tomorrow.
+And the day after tomorrow.
+ASR workers or the multiplexing worker, and the the streaming off, stream of slides.
+From the presentation notebook into the into the like into the local network.
+<other_noise>
+(PERSON12) Sorry i cant hear you, there is there is some noise.
+Yeah.
+I guess it was very <unintelligible> who <unintelligible>.
+No.
+(PERSON11) I stongly suggest to perform as much as possible test today and tomorrow.
+(PERSON12) Yes.
+(PERSON11) Because on Wednesday.
+(PERSON12) You'll be travelling.
+(PERSON11) Yes, I will be travelling but also in [LOCATION2] is holiday
+(PERSON12) Oh okay.
+(PERSON11) Yes.
+So that I will provide you my support during my travel, of course having the when I will have the <unintelligible>, when I'm not flying, and [PERSON9] will not be there so actually we have two, arrive on Wednesday which if possible everything as much stable as possible.
+(PERSON12) Yeah, okay.
+So I think thats thats everything that we could have discussed.
+So X1 till X4 should work, [ORGANIZATION4] will add them this afternoon, critical things to fix today + tommorow as test streaming of slides and debug ASR workers and or create multiplexing and I'll call it client, because its actually a client for the mediator.
+Yeah, thats.
+One thing that I noticed when the subtitling was somewhat working was that there was a lot of repetition.
+And that feels that felt strange.
+So there was the same English sentence.
+Coming out repeatedly in the subtitles.
+And we have not debugged, this properly.
+But what could cause this.
+(PERSON11) It be the the the partial hypothesis output.
+So then how does the.
+Yeah.
+That in principle, that could be the case for the user.
+Uh.
+The experience was very annoying, because it was like two different text messages interchanging, or a select appearing one after another in loop on in the subtitles field.
+And one of them was very long.
+And the other one was quite short of.
+So while was reading the long one it changed to the short one.
+And then to long, one again.
+And the two, these two messages were actually just the continuation of each other, and they like kept kept repeating.
+So it was even some- something like the uh, the transfer unit mismatch.
+So that, for example, the output ASR could be an updated hypothesis that your presentation platform would be popping into two parts and showing them one after another.
+And one after another again.
+Um, that would this be possible?
+So you have uh, the word" Carl limit?
+(PERSON11) Lets say the worker who manage the publication on presentation platforms perform <unintelligible> of organisation based on configurable parameters.
+In order to have subtitles of suitable lenght, and also to have to not too fest.
+This is probably the reason why you see <unintelligible>uncomplete.
+Lets say sentences but partial hypothesis output has to be managed before the subtitle arrives to the publication worker.
+(PERSON12) Yeah, so could this logic actually be actually remove from the or or disabled, at the presentation platform, a so that the present- <unintelligible> will simply show uh, too long string if if it arrives.
+You dont like the <unintelligible> part, you just want to see the exactly what the.
+(PERSON12) Yeah.
+(PERSON11) Ah, okay, the um,
+(PERSON12) I'm afraid that if if there is like a logic implemented in two separate the components.
+Then these two logics may fight together will fight with each other.
+And the the this.
+What I saw the the this morning that seemed like that indeed.
+So that uh, the presentation platform was chopping the long string.
+But in my eyes.
+It would actually feed.
+Both of the of each of those segments from.
+By one by one by one were shorter than the line, so if the presentation platform was simply show me the two lines at the same time.
+Uh, like one chopped a.
+Then I would have more time to read it.
+Then the update it would maybe come.
+So these two lines would be redrawn of by the presentation platform, because the ASR shipped an updated hypothesis.
+But even if the ability to hypothesis scroll debate, then I would not lose as much context.
+But as the two parts of this message were alternating.
+I was not able to read it at all.
+(PERSON11) Okay.
+Ah, yes, we can do it is the okay.
+(PERSON12) So simply show, whatever you receive from the ASR output.
+(PERSON11) Actually it could happen that you receive two long strings.
+(PERSON12) Yes.
+(PERSON11) Ok.
+If its not a problem for you.
+OK.
+We, can do it.
+(PERSON12) I think I think this is something which the segmentation worker should should take care off.
+Well.
+And and already the empty should should ignore that and just path the true.
+And the the, you know, I think.
+This is done in one place.
+(PERSON11) But the I will well.
+We will, of course, dont worry.
+I 'm just reasoning.
+I think that probably the the segmenter worker is preparing phrases for the machine translation.
+So that probably would succeed.
+(PERSON12) Yeah, you are right, okay.
+(PERSON11) Preparing longer phrases.
+(PERSON12) Yeah.
+This is the.
+(PERSON11) Its correct the idea to put the segmentation if only in one place into, and not into different places, this is correct.
+(PERSON12) Yeah,yeah.
+So in the long term and now we still have the [ORGANIZATION3] team on onboard, in the long term I think that we want to have machine translation as immediate as possible, translating incomplete sentences as well.
+So the segmentation worker.
+Should be delierig well again, we dont know where the logic should, but the segmentation worker should send the whole sentece- well, should send segments, which start at the beginning of the sentence and they should gradually become longer and longer as more ASR output is ready.
+The risk is that there is no end of sentence in the original speech.
+Uh.
+And in that case, uh, uh, the subtitles.
+The translations wont fit into that into that small window, um.
+And in that case, I still think its beer if the segmentation worker is the one who would be forcefully cutting the sentences, rather than the presentation platform, because then the presentation platform is stuck with like I have shown only something, and I need to show something of the rest the later on.
+But in the meantime maybe a new message will come already.
+And then I do not know what to show like its the, Oh, where is the the segmentation worker from the ASR does have access to the continuous stream, right?
+(PERSON11) Actually, we can test it the solution without our <unintelligible>.
+(PERSON12) Yeah.
+(PERSON11) We can test it this afternoon.
+(PERSON12) Yes, yes so please disable it for now and test it during the afternoon.
+(PERSON11) Exactly.
+So that we can decide it the solution we prefer.
+(PERSON12) So there is one last thing to discuss.
+And I 'm adding that to the next call that I would like to make would be actually tomorrow, and I dont know what what time.
+So again, I will.
+Yeah, I will copy these availabilities of yours.
+Here, everyone please open the Google Document and fill your availability for tomorrow.
+<unintelligible> confirm your availability for debugging, be available on slack.
+So we may.
+We may not need to call with this phone call style.
+But we need that people are available on slack.
+So I'm not sure if [PERSON2]'s, [PERSON2] is away right.
+Yeah.
+(PERSON13) I found another type of error right now.
+If you can see.
+(PERSON12) Yes.
+(PERSON13) Moments ago, we had eleven ASR workers, connected ten of them, and there are only one and 5 of them connected.
+And only one empty worker was busy.
+So this is very weird.
+It didnt say that it didnt connect so we should have this check and Dutch,Hungarian, Polish and so on.
+We should be unavailable but, they werent.
+And now again.
+(PERSON12) And could it be some timing issues, so that like I assume that window on the right? 
+(PERSON11) On the admin web, it says that all all not available at the moment.
+(PERSON13) Yeah.
+(PERSON11) Just checking.
+(PERSON13) Yes.
+Now there are only two but three have, one, two, three, four, five connected.
+(PERSON11) Okay.
+Someone is freeing up.
+(PERSON13) Yes, some of them freed.
+Yeah.
+They still didnt return anything.
+Okay, this would be better if [PERSON2] join us right now.
+(PERSON12) Yeah, so actually, he appeared on slack so that's.
+(PERSON13) Yes, he restarted workers on my request.
+Now we have seven.
+Lets wait a bit.
+(PERSON12) So I'm checking if he can connect.
+(PERSON13) Okay, now we have.
+Lets test this segmenter.
+Yes, nine segmenters and ASRs are working according to this test.
+They returned.
+They returned this.
+But together with, with empty.
+Nothing.
+One two three four five six seven.
+Yes.
+I have connected one to nine, nine workers but only seven of them are taken here.
+Or no.
+There are two.
+So I.
+(PERSON12) So could there be some delay with the information about the availability of two workers, so that when you run.
+(PERSON13) It <unintelligible> this is updated every two seconds.
+This is watch command.
+(PERSON12) Yeah this is watch command, yes, yeah.
+(PERSON13) If you know the parameter updated <unintelligible>.
+(PERSON12) Minus N.
+(PERSON13) Yeah.
+And can we.
+(PERSON12) 1.5.
+Yeah.
+(PERSON13) And 0.5
+(PERSON12) So twice a second we are getting an update but [PERSON5], could there still an delay in the mediator in the admin interface?
+(PERSON11) In the admin interface could be.
+(PERSON12) So that he have not like <unintelligible> up to date information about the availability of the workers.
+<other_noise>
+(PERSON11) Sorry [PERSON12].
+(PERSON12) Well, [PERSON13] is concerned about empty workers not being used, while the they should be.
+And I think this could be simply relic and outdated information in the admin interface.
+So that the empty workers appear to be available but they are already in use by the pipelines.
+So I'm checking whether there is delay.
+(PERSON11) I think that probably the admin web is based on <unintelligible> there could be a delay.
+(PERSON12) Yeah, so [PERSON13] should not rely on this, like the.
+(PERSON13) Oh.
+(PERSON12) The interface is simply slow so only only when you run something for longer period of time then the numbers would be correct.
+So has [PERSON14] joined?
+Yes, [PERSON14] hello?
+[PERSON14] are you here?
+Yeah so [PERSON14] is entering his availability for tommorow.
+[PERSON2] has not yet filled this in.
+(PERSON11) [PERSON14] says he has a problem connecting to the pexip.
+(PERSON12) Yeah, but he is on- he was there for a while.
+I saw him in the list of participants.
+Yeah.
+Okay, so.
+<other_yawn>¨
+(PERSON11) <unintelligible> with the priority.
+<unintelligible> and so on and we will set the English as the most reliable source.
+<other_noise>
+For output <unintelligible>.
+Actually we are <unintelligible>.
+When you will switch to German or to Czech, <unintelligible> tell us because maybe you can see something which is not what you expect.
+So, okay.
+(PERSON12) Sorry I didnt get the message, so you, the message was that your, you have English as the preferred source language.
+(PERSON11) We are going to configure te presenation platform, English as the top priority source language since we are running test with English, but please if you change the test, tell us so that we can put German as top priority and so on, because otherwise we'll not be published i- on the front end the subtitle.
+(PERSON12) Oh so the the subtitles will not be published at all even if there is no English available, right?
+(PERSON11) Well, there is some kind of, fallback mechanism but its still pretty match manual, lets check things together.
+(PERSON12) Yeah, okay.
+So we expect to be translating or well to be translating mainly from English indeed, so if we happen to to use German or Czech as the source language we'll let you know.
+Yeah, okay.
+(PERSON11) Exactly.
+(PERSON12) Yeah, so [PERSON14] tried to connect the <unintelligible>, but he failed.
+And I think that at this point there is nothing else to discuss, I would like to thank [PERSON13] and everybody else who has been helping him a lot with the debugging and.
+I would also like to ask everybody to keep debugging this afternoon and and tomorrow so that we have the workers reliable, and, yeah.
+[PERSON2] is now, [PERSON2] will be available tomorrow morning.
+[PERSON14], can you hear us or not?
+[PERSON14] is again among the participants list on the pexip call.
+Yeah.
+Okay, so thanks everybody and please keep trying full load because this is something that we have not suceeded at all, [PERSON5] please let us know as soon as the <unintelligible> or the segmentation within the subtitle presentation is gone so that we can see what it what it looks like.
+And if we are happy with with the outputs when they are maybe too long, but directly from from segmentation worker.
+(PERSON11) Okay.
+(PERSON12) Okay, yeah, so thanks a lot and we'll be in touch well during the afternoon and also tomorrow during the times that you have inicated, possibly making another pexip call but its not planned far now yet.
+(PERSON11) Okay, perfect.
+Bye
+(PERSON12) Thank you,[PERSON14]?
+Oh [PERSON14] made it?
+[PERSON14] hello, you made it?
+Yeah okay, so sorry if someone is still.
+So [PERSON14] are coming to [LOCATION1]?
+(PERSON6) No, I will not be able to make it to [LOCATION1].
+We have other possibilities I can.
+(PERSON12) Yeah, yeah, yeah.
+Too bad,
+<laugh>
+and are you 
+<laugh>
+and are you and [PERSON2] available for Wednesday, Thursday and Friday, like possibly all of the time because right now we have as you were not at the call, but you have observed during the mornin that the critical point now is all the workers, its the combination of the non multiplexing in the mediator, and the unreliability of of the workers that puts extreme like demand on the number of ASR workers that are available, and we need you to swiftly restarting them.
+Would you be available for this, for all the coming days?
+(PERSON6) I understand, and.
+I want to be there as much as possible and to restart the workers <unintelligible> as possible, but i can not guarantee that <unintelligible> here at every minute.
+(PERSON12) Yeah, yeah.
+(PERSON6) <unintelligible> there will be spontaneous other meetings we have responsibilities that that we have to also do.
+(PERSON12) Yeah, soI've asked [PERSON2] in the slack today, maybe you can not see the message, but my idea was that maybe you could setup very simple CGI script or PHP script or whatever, so that we could ping fixed URL and tell it the session ID of a worker, ASR worker which is not functioning.
+And what you would do, in the script would be you would know which process ID this ses-
+this ID corresponds to and you would kill the process and start a new process instead, so that we could initiate the restart of the worker.
+Would this be possible?
+(PERSON6) I <unintelligible> begin to do that.
+I dont how I can make some kind of website available for you over the internet I dont know map our workers to session IDs, <unintelligible> the workers know about the session ID, I guess they do but it might have this.
+(PERSON12) When they start, yeah exactly.
+When they start they emmit the session ID when they get it from the from the mediator, so all you would need to do would be to grab the logs for the given session ID and the workers would need to save their process ID when they are put processing the log.
+Or the log file could already have the process ID in the file name or something like that.
+And to create a webpage that would be accesible for us, its it depends on your setup but in principle you could also run a very small webserver such as Python <unintelligible> or Parallel <unintelligible>
+that was the thing, and that that has to run on the machine where the workers are, so that like it can kill them and the firewalls must not be in the way, but if we set it up or if you set it up on on high port then you hopefully to get the request from us.
+I think this would be very useful and could be just the few lines of code.
+(PERSON6) Maybe but those would be some difficult for types of code.
+<unintelligible>
+I have no experience in coding in any web server package, I'm looking at the logs right now and I dont see easily from the logs where were the session ID, no I dont think  we can do this.
+(PERSON12) Yeah.
+So the only thing is that that we
+We keep telling you like wrist.
+But how do you know which workers are dead then.
+(PERSON6) We restore them all.
+(PERSON12) Oh, you restart them all all the time.
+(PERSON6) I mean, for for the empty workers <unintelligible> easy.
+(PERSON12) No the ASR workers are the problem.
+(PERSON6) <unintelligible> has to go and like control C and start new.
+(PERSON12) Uuuh, so that is very well fragile, because you can accidently kill things which are okay.
+And also its very slow.
+(PERSON6) But its, I dont think the process can be easily automated.
+Especially not because we dont really know what to <unintelligible>.
+(PERSON12) Well, I understand it is difficult to uh, to debug it, like to fix the workers so that they dont get stuck.
+But I think it should be easy to wrap them in something, so that you forgot to launch it you will modify the launching script so that the launching script will emmit its process ID.
+So so the log files, the word.
+Can you share the screen with with that?
+Can you on pexip, can you show us how you restart the workers?
+(PERSON6) We have a workers which all produce log files, <unintelligible> we have here are actually docker container ID is and we can look this is what one of the log files looks like.
+It has all the, everything this worker but they are no session IDs.
+So.
+(PERSON12) Can you maybe show the log back?
+So th-
+I think you must have switched the screen because there were some details in the yes.
+(PERSON6) No, this is correct.
+This is this is the worker <unintelligible> running on this server right now and the docker so that we can kill.
+Segmenter and the empty workers but its.
+(PERSON12) So there is no ASR workers in this list or are they.
+(PERSON6) The amount of effort it takes to change something about these, because you also.
+Be aware that this system is not just used in the detail, we also have.
+Which is more automated system but uses complete different techniques from that, and comp- <unintelligible>.
+It will be a lot more <unintelligible>.
+So we we have the system that works okay this way, I would prefer to find <unintelligible> the workers not resetting this so much more, for the [PROJECT1].
+We have this program also, regularly its starting and stopping sessions, several times a day.
+5 days a week.
+Because its - 
+We get maybe one worker getting <unintelligible> every week, so.
+(PERSON12) And here we get it all the time.
+(PERSON6) <unintelligible> workers and hour here.
+So something is different.
+With the way is using the system, which is causing this problem to be more severe.
+And I dont have the ASR workers <unintelligible> running in an screen session <unintelligible> right now, normally we dont have ten of them.
+It will be also be possible to have a script to make restarting one faster but mapping them to session IDs and making the script available online is a lot <unintelligible>, just simply can not <unintelligible>.
+(PERSON12) Okay, so I understand that creating this remote killing will be difficult.
+But if you could at least make sure that you can restart them with just one command and not like moving to some screen, and and so on, and then looking up which command.
+And and and then three commands to run the worker.
+Uh, it should be one command to.
+So.
+How do you.
+I would like to see, uh, how do you tell a dead worker from a working worker, because I really do not like the idea of you restarting all of them.
+Uh, when when we say a we are one of them that we need one.
+(PERSON6) So thats.
+Probably dont have one right now, because usually the ASR workers are.
+<unintelligible> logs.
+So right now at the end, it says waiting for client.
+So this one is idle.
+(PERSON12) Or maybe stalled.
+Could it also be one of the stalled ones, one of those that dont respond?
+(PERSON6) Well, in theory not.
+(PERSON13) I can test the worker right now.
+(PERSON6) But.
+(PERSON12) Can you, [PERSON14].
+[PERSON14] can you tell minus F instead of this less.
+We would like to see what is appearing in the log file.
+(PERSON13) Yeah, but if something appears there we wont see it.
+In less.
+(PERSON6) <unintelligible> gets this.
+(PERSON13) Yes, I am going to test all of ASR and segmenters yes.
+(PERSON6) Its back to <unintelligible>.
+(PERSON13) Yes.
+(PERSON6) So that the thing is, in theory this log output will indicate if this worker is in fact idle and is in fact new connection <unintelligible>.
+At the log output <unintelligible>.
+Which should be <unintelligible>.
+(PERSON12) And can you show us the beggining of this log, so again less of this file but it stopped.
+(PERSON6) This is the segmentation worker, so its using <unintelligible>.
+(PERSON12) <parallel_talk>
+So [PERSON5] would know if the session ID, [PERSON5].
+(PERSON11) Tell me.
+(PERSON12) In the protocol.
+When there is this connected to server medi- mediator, its like one third of the of the page.
+And before the first message waiting for the client.
+Uh, is there.
+The point is that the point in the code.
+Where the worker knows its session ID.
+(PERSON11) I dont know I have to check.
+(PERSON12) Yeah.
+So.
+So [PERSON14], if you could look at the code of this.
+Because  I assume that you can compile it.
+I know that you have not developed it yourself probably probably will see on.
+(PERSON6) I have not tried recompiling.
+Like I said <unintelligible>.
+(PERSON12) Yeah, they are gone.
+<laugh>
+(PERSON6) It probably works, if I can avoid it I will not.
+(PERSON12) Yeah, well.
+So I think it is the the the the matter of a would be only to recompile this worker with one print.
+(PERSON6) Yes.
+(PERSON12) To know the session ID.
+So I'mproposing that the log files would contain one more line.
+And that would say:" I've got this session ID from the [ORGANIZATION4] mediator.
+And then the log file already contains the docker ID in its file name.
+So then uh, I'm not like totally asking for uh, for this web interface killing but asking for speed up for you, so that we would tell you please restart worker for this session ID and.
+You would just grab the log files for the session ID.
+And you would immediately know, which container to restart.
+(PERSON6) I will have to discuss this.
+(PERSON12) So obviously we need.
+We need you like solve it properly.
+It should not get stuck.
+But for the, in the meantime, it will save a lot of nurse for and it will speed up.
+It will speed up the the the restarts.
+(PERSON11) [PERSON12], sorry.
+The session ID these.
+Written in each pocket,  receipt <unintelligible> mediator.
+Yes.
+(PERSON12) So.
+(PERSON11) The XML which is the data XML, there is stream ID, which I actually dont know what it is.
+But then the <unintelligible> session ID which is together for example stop <unintelligible>.
+There is also session ID which could be exactly the session ID we are talking about.
+(PERSON12) Yeah, so [PERSON14].
+For you I remember that there were some issues with the move from the old mediator  version to the new mediator version.
+And the problem was exactly this Xml that you were lying on some custom XML library, and you had to switch these libraries.
+And and so on so.
+(PERSON6) This was only about our presentation platform.
+(PERSON12) Okay.
+(PERSON6) <unintelligible>.
+(PERSON12) They use the provided library.
+So its actually not, so [PERSON5].
+Its not the XML that they are accesing , because they use precompiled library.
+So they need a function call that would extract the session ID from from.
+(PERSON11) When you have the <unintelligible> cloud packet, it will have the get session ID function
+Will provide you the session ID.
+(PERSON12) So.
+So [PERSON14] if you could do tried this afternoon, finding the source code of your workers.
+(PERSON6) Actually can you try right now?
+I <unintelligible> able to access.
+(PERSON12) Sorry?
+(PERSON6) I'm also <unintelligible> more complicated with the workers because they are running.
+<unintelligible> 
+We cannot run 20 ASR and 20 segmenters and so on.
+<unintelligible> they are actually running on different services.
+(PERSON12) Yes.
+(PERSON6) Can you try if you can <unintelligible> chat.
+(PERSON12) Yeah, put it in the chat yes please.
+(PERSON6) Can you see whether you can ping this adress.
+(PERSON12) I'll try.
+<other_yawn>
+Yes, I'm succesfully pinging it.
+And.
+Also and map it, so SSH <unintelligible> are open port there.
+So 22 4443 and 4444 are opened there.
+So I guess that if you, 
+<parallel_talk>
+So there is definitely way in which we could if you launch anything simple on your side then we should be able to reach it.
+(PERSON6) Its fine I just need to know.
+<unintelligible>
+(PERSON12) So that this is what you have already open, you have open SSH port on the on that machine, I'll share my screen.
+<parallel_talk>
+So this is this is the the net map of your.
+You see that?
+This is the open port on that machine.
+So if you launch one more simple thing there, that we could get in touch with, then it should work, and I'm now I look up simple.
+But I'll I'll have to leave very soon, my kids are waiting for me already.
+<laugh>
+(PERSON6) <unintelligible>
+(PERSON12) <unintelligible> Listen.
+<parallel_talk>
+Yeah, so if you see my screen now.
+On the right hand side this is the client, I'm typing something.
+And it appears on the netcut which was listening to this port.
+So are you on that machine the <unintelligible> the on that.
+Are you on this machine now[PERSON14]?
+(PERSON6) Yes.
+(PERSON12) So can you run can you run this?
+Can you run this?
+(PERSON6) Its running.
+(PERSON12) Its running, okay.
+So I'll disconnect from here and I'll try.
+Okay it didnt get through.
+(PERSON6) I would be very surprised if you did <unintelligible> university firewall that.
+I'm actually surprised <unintelligible> so.
+(PERSON12) Well, if you tell me your password.
+<laugh>
+I'll just try to see if it works.
+Yes, so I could be able.
+Okay, its not getting through.
+(PERSON6) <unintelligible> thirty.
+You are getting through.
+(PERSON12) I could be.
+So.
+(PERSON6) <unintelligible> might be getting your SSH access.
+And <unintelligible> but restarting the other workers.
+But that will also load the other two servers.
+At least one of which I think is not accessible <unintelligible>.
+(PERSON12) Yeah.
+So.
+But anyway, I think still having the session ID in the log would be very useful for you so that you could restart it right away.
+And I like you would see a message in the slak window, restart session ID and you would just run your own script restart session ID, and it would do the grapping and it would do the killing and it would do the restarting, so it would be one copy paste from slack to your screen and that would save us a lot of worries.
+(PERSON6) Yes, <unintelligible>.
+(PERSON12) So that you would paste its adress here.
+(PERSON6) <unintelligible>
+(PERSON12) Yep,yep,yep.
+(PERSON6) Sorry it is not correct, <unintelligible>.
+(PERSON12) Sorry, which, so the number should be different or.
+(PERSON6) I13.
+(PERSON12) I cant hear you well.
+(PERSON6) 52 instead of 53.
+(PERSON12) Okay.
+So this one is hidden.
+(PERSON6) Yes, I am a.
+(PERSON12) So its actually failed to resolve.
+Both are failed to resolve so they, even the name the host name is not available.
+Like its not published.
+(PERSON6) Yeah.
+(PERSON12) Yeah, okay.
+So I'll have to run now, but please prepare, please modify worker so that they show session ID and so that you have a simple script which would be something like restart by session ID.sh and we will send you session ID and yu would only do this, and it would do the right thing, and if you accidentaly run this on the wrong machine, which does not have this sesion ID the worker for the session ID it will tell you: "Well, I do not have that worker, you need to run me on the other other machine."
+(PERSON6) Will see.
+<unintelligible>
+(PERSON12) Yeah, okay.
+So thanks everybody I dunno of you want to stay on the call, or but please whoever can please keep debugging with [PERSON13] and speak to you or at least talk, write to you on slack tomorrow.
+(PERSON11) Okay.
+We will keep testing everything.
+(PERSON12) Okay, thank you.
+Bye bye.
+(PERSON11) Bye bye.
+(PERSON13) Bye.

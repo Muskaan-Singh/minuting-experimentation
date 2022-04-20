@@ -1,0 +1,714 @@
+(D) Hello, is anyone saying something?
+I can´t hear anything.
+(P) Hi Dominik.
+(D) Okay, it works.
+(P) Yes, it works.
+(O) Hello <unintelligible>
+Hello.
+(P) Hello.
+(O) Yeah, sorry, for the delay and sorry for the complications.
+I had a Zoom call  this morning with this cell phone, and it worked.
+Eeeh and I don´t know, why it doesn´t work at the moment.
+Eh -
+I´m on - eh
+<another language>
+Yeah, sorry.
+So I´m I´m I´m back.
+It´s -
+The kids have taken all my eh, all my computers and I left with eh, with the cellphone only.
+Eh, so I can not share the the the Google doc eh, eh -
+But -
+Well, I hope that everybody's looking at the Google doc.
+And thanks to all who joined, um, so to explain to especially Umar and Rishu who didn´t -
+And maybe Peter, eh, who didn´t have the experience with these calls last eh s- summer.
+Uh.
+The goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, uh, so that it is fits to most of us.
+Eh, and we if we see that the uh, the the participation is is eh, falling down, because people´s schedules changed.
+Then we will run, or we will update that call again and we´ll choose maybe a different slot.
+And eh, those who cannot attend eh, for a particular week, that´s not a problem at all.
+Like if if randomly you can not attend, no worries, eh, instead of excusing yourself just enter your details in the shared document before the call.
+And that´s it.
+That serves as an excuse already.
+Eh, so, eh, otherwise these calls are very important, especially to reconnect with people eh, that, eh ere somewhat eh, like stranded alone for a longer while.
+So one of those is Matus Zilinec, for example, eh, so eh I would later ask Matus to eh to to give us a brief summary of what he he has been working on for the past months actually.And what he is is he up to.And eh, there will be a lot of connection with eh, lot of connections with everything what he do.
+And one more eh, comment from myself.
+Eh, this call is being recorded, I hope you don´t mind.
+Uh, and eh, we are eh, hoping that that will be allowed by you have to use these calls for the meeting summarization eh, eh, so eh, the - 
+Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.
+It´s only consent to process the data within the team.
+So we will be processing the data.
+We´ll be anonymizing these calls, so we´ll be removing names, replacing names with placeholders and replacing project names with placeholders and so.
+And then once the data is anonymized or pseudonymized so, it´s like full anonymization is actually not possible.
+Because you could be always identified by your background.
+But eh, eh, but the text will not contain any clear links to you.
+So it would be eh, pseudonymized.
+After this we´ll ask you again eh, to give us a permission to uh, to use this in the uh, for the sum- meeting summarization purposes.
+Eh, so -
+Yeah. 
+That that´s about recording.
+And and the uh, the the warning that I have to say before we go into the individual ehm, individual report is that eh, there is the Metaforum conference.
+Eh, I think it´s early December.
+So less than month from now, and we should eh, get ready for that, because eh, this Metaforum conference will serve as a test eh, event for us.
+Eh, we should be as prepared as we would be for the main EUROSAI Congress.
+Eh, and this year we have eh, asked Metaforum to only allow us to connect to their -
+I think it would be Zoom eh, oh, eh <unintelligible> Zoom to only connect and show the the subtitle somewhere on the side, quite silently without much publicity.
+And if the EUROSAI Congress is actually not happening.
+Then we will use the next year's Metaforum as our main eh, demo event for for the ELITR project.
+So it is an important exercise.
+It will be with limited or no audience this year, probably.
+Uh, but it´s at least like sympathetic audience.
+I´s all MLT researchers.
+So they will understand what what are the problems of the technology.
+But we need to get ready for that, because it´s is a serious demo.
+So ehm, so eh, well w- we´ll be working -
+Everyone of you will be working somehow to uh, to help with this as you are working that anyway.
+Eh, okay, so that´s enough from me.
+Eh, and I would like now eh, I would like to ask Matus now to start, because he has been the most eh, eh remote  for a while.
+(M) Hm, hello.
+Can you hear me, see me?
+(O) Yes.
+Yes, I don´t see you <unintelligible>, but -
+(M) Okay.
+Eeeh.
+(S) I could see you.
+(O) That´s a problem.
+(M) Yes, so -
+Actually I don´t know what was the last time when I was eh, on this call.
+But so eh -
+The first thing actually that that I have been working since on this calls was the paraphrasing. 
+Which is that I I was using the rainbow model for for paraphrasing for, for Michal Novak.
+(O) Yeah.
+(M) Eh, and the- then since then I haven´t actually been working on so much.
+But there have been some things since I didn´t have really uh, so many instructions.
+So one thing that that, I have been working on is, uh, is actually actually trying to collect the data that we can use -
+The monoli- monolingual data tha- that we can use eh, for for this rainbow models.
+And for this I have actually found -
+I have I have a -
+Because like the problem is that that we need the domain specific data and -
+(O) Mhm.
+(M) I have -
+So, I have been thinking that that well -
+Eh, so so so at first, I tried eh, actually filtering eh, so- some some other data sets that already exists.
+Such as -
+Such as common crawl and so on.
+But I found that that it is actually quite a problem to to find spoken data there.
+Since it´s - 
+Usually web pages.
+So, so what I thought is that I would eeh -
+I would go over some, eh, some more pages, wer- where there are actually some videos, and to download transcripts from there.
+And so for this, I tried eh, to go to Core Zera.
+And I actually di- discovered that that you can scrape eh, subtitles from from these these, uh, courses,
+Eh, w- which are actually in eh, like multiple languages.
+So so so -
+(O) Yeah.
+(M) So this way I I obtained eh -
+Yes, so so in the free version there are some limitations.
+So I only obtained to scrape a small data set like one hundred thousand sentences, which could like be used for testing.
+But still, it´s something and and and otherwise I I didn´t find out any -
+(O) Mhm.
+(M) Any other ideas so -
+So any s- any suggestions would wo- would be welcome.
+(O) The Khan Academy.
+Khan Academy corpus.
+(M) Yeah.
+(O) So yo- are you in touch with Eda Subert?
+(M) Yes, so eh, so I received the e- mail from him.
+And I didn´t look at it yet.
+Eeeh.
+(O) Aha.
+Please do it.
+<laugh>
+So -
+So yes.
+(M) Yeah.
+So this would be an <unintelligible> parallel corpus.
+(M)Yes, so -
+Yes, so I have to get in touch with him.
+But I had a a lot of to do to do in in the past week.
+So I kind of didn´t eh -
+(O) Yeah.
+(M) Didn´t continue with this.
+So I I will write to him as soon as possible.
+And also what I have actually discovered is that Google -
+It´s not Google, sorry, Facebook.
+(O) Facebook.
+(M) Actually -
+(O) They release some data.
+(M) They released a data and a model.
+So so what they released is eh -
+So first what they released is actually an algorithm for mining parallel data in one hundred l- languages.
+(O) Mhm.
+(M) Not English-centric.
+But actually between all of those uh, English languages.
+And only I don´t know one third of it is English-centric.
+(O) Mhm.
+(M) So I I have been looking at this, and they they have also released -
+Basically they haven´t released the data yet, I think, but they have also released the the trained models.
+And I have I have been evaluating that trained models on our testing data.
+(O) Mhm
+(M) And the the models are really huge.
+It´s like sixteen billion parameters.
+(O) Uhm hm-
+(M) But actually, actually, I have discovered that on some, uh, on some of our testing data sets from IWSLT.
+They are actually not much better than -
+Even not better than than the best Edinburgh model.
+Probably probably because they didn´t train on o- o- on spoken data.
+A- and also like like they they are very tricky to run, because you need like for GPUs with sixteen gigabytes of RAM at least.
+And it takes like up to a minutes to translate just one hundred sentences.
+So for us they are quite useless and  -
+What would pro- probably be the most useful is is actually the data.
+So that we can eh, use it to to -
+So can you -
+So that we can adapt adapt their data collection, eh, for for some kind of spoken data.
+Otherwise it didn´t really wo- works works so much better.
+Which quite quite suprised me.
+But but maybe eh, on on testing data in in other low research languages it will be better.
+I  don´t know, just -
+(O) Yeah.
+Can you hear me it?
+(M) Yes.
+(O) Does it work at all?
+Eh, yes.
+You can hear me right.
+So this is eh, that is a long report and lot of work planned and lot of work done.
+So the evaluation -
+So I would like to highlight the the high level thing, eh -
+So we need monolingual data for eh, domain adaptation.
+So in the domain to create synthetic data, based on that, we need parallel data as much as possible.
+And there please get in touch, and really continue and finish the Khan academy corups that was started -
+(M) Uhm hm.
+(O) Eda Subert last year already, and we never got to finish that.
+And these huge models, that´s excellent.
+Eh, the idea that I have there is that we could use them for eh, teacher- student.
+Eh, so we could distill smaller model from that.
+(M) Uhm, yeah.
+(O) So that -
+(M) This could totally work.
+(O) Yeah, so that is something that we should,eh, we should consider this like next the possible thing to do.
+(M) Uhm hm.
+(O) And the evaluation is more important.
+So with the evaluation I would like you to em, test the evaluation eh, using ELITR test set and SLTF and in on the call I saw -
+Now it doesn´t really work for me the Zoom is kind of stuck.
+But we have Ebrahim Ansari here eh, and he is overseeing the development of the SLTF.
+And eh, we have eh, so-
+Who is now responsible most for eh for the ELITR test set.
+It used to be Vojtech eh, Srdecny, but eh, he is giving that to -
+Is that you Umar, is that you?
+Or are we kind of eh, in in a post phase with the ELITR test set.
+(U) I don´t know.
+(O) You´re not on that.
+Okay.
+So that is kind of in the eh, in like like hanging in the air.
+Because Vojtech Srdecny is moving more towards system integration.
+And eh, Daniel Suchy who has worked on the ELITR test set will join us only from December.
+Eh will rejoin us.
+Because he is busy with other things.
+Eeh, but the ELITR test set is there and eeh, s- so maybe if eh, Ebrahim can briefly summarize the status of the SLTEV.
+And the connection to ELITR test set.
+(M) And maybe if someone could send me the -
+<parallel_speach>
+<sneezing>
+Actually the status of  of the test set or some links or something.
+(O) Yeah, yeah.
+(E) Ok, so hi everbody.
+About SLTEV ELITR test set.
+Eh, I think the current version of -
+First of all Mohamad wanted to attend the call but he had problem with Internet so he wrote his report there.
+And I will speak on behalf of him also.
+There -
+So the ELITR eh, the SLTEV is completely finished.
+And as I said you Ondrej, it´s now workig wi -
+For example, it´s working eh with alignment by -
+I mean <unintelligible> if they are inside in ELITR test set.
+(O) Mhm, okay.
+(E) And we created one eh, index, new index, if you see, I put the name of the next inside the call, inside the, you know, Google doc.
+Eh, I think front of my name I wrote if I remember.
+Okay so if you see, we created a new index.
+The name is Khan Academy for SLTEV.
+And also only that files are created in another documents.
+It´s eh, independent from the others.
+So I commited it in the ELITR test set.
+And just I wanted to wanted to ask you, if you have just you know free time, for around one hour.
+We can run SLTEV on data and see the result and eh, you know, make the final agreement if you want to do some minor changes.
+I can do it.
+And then it´s ready and we can you know publish it.
+(O) Deploy -
+Publish it, yeah.
+So the -
+Yeah, so the -
+For everybody, the general idea behind this ELITR test set and SLTEV is that we would like to make it the standard evaluation tool.
+Not just for us, and not just for the ELITR project, but also for others doing a spoken language translation.
+And the ELITR test set contains the input texts and references and also input sounds and reference transcripts.
+Eh th- so eh, well look up that GIT hub repository and eh, SLTEV eh is the tool, which uses eh -
+It can use any other inputs and references eh, but it is also directly capable capable downloading what eh, files you want to evaluate on from ELITR test set.
+Similarly Sacre Bleu eh, is is like now the standard for WMT evaluation of Blair and other scores.
+So we would like to do this for eh, the spoken language translation eh, and also including machine translation, because its broader domain.
+Eh, broader range of domains than what the S-, eh what the Sacre Bleu has.
+So everybody who is evaluating something and that is Matus with the Facebook models Matus with eh, your previous eh, multilingual models, um, uh.
+Then Bohdan with his  multilingual model that he is going to develop.
+Then Rishu with all the the pipeline.
+And I'm happy also to see Sa- Sangeet here on the on the call.
+So Sangeet can help with that eh, to -
+So Rishu and Sangeet to evaluate all the workers that are in the ELITR pipeline.
+All that should go through ELITR eh, be evaluated through ELITR eh, test set using SLTEV.
+So please, everybody get in touch with Ebrahim directly, and get it s-
+Like eh, like find a way in which this tool will work for all of you.
+Eh and the mhm eh, so -
+Now we´re doing this like stress test within the consortium.
+And what Ebrahim was talking about that is the plan to publish it finally at eh, at a conference.
+So we have already sent it once.
+And it was eh, like not quite finished.
+And we sent it for the second time, and it is also not quite finished.
+So uh, we have uh, another chance in January as a demo paper.
+Uh, so for that, we would really like to have it eh, very nicely commented in a paper.
+Eh, documented in a paper, and we also want to include some real evaluation in that paper to show that it is useful.
+And eh, Ebrahim for this moment, selected the Khan Academy eh, data.
+Ah, so that would be like the test case of the evaluation for the purposes of the publication of the SLTEV.
+But if any of your, uh, evaluations would uh, would be like more interesting than we could switch to this other use case, so that´s -
+In any case this is a a big request from me.
+Everybody who are eh, evaluating any systems, please make sure to evaluate them using SLTEV on ELITR test set.
+There will be bugs.
+There will be like strange results.
+But this is exactly what we want to go through.
+We want to fix these bugs and we want to eh, get numbers and repeated measurements so that the number stabilize, and we and we trust that.
+And also Peter Polak -
+So you could also evaluate your ASR systems on SLTEV.
+(E) Yes, it´s possible, because it´s set as  ASR, but Ondrej in the current version, because I disabled there you know what´s the name  -
+Eh, it works off-line.
+But only with the files inside the ELITR test set.
+(O) Yes
+(E) But you -
+Okay, but you you want the previous version also, because you said in your you know when we were talking - 
+You said when you were talking you said: It works independently, without any <unintelligible>
+(O) Yes.
+(E) Do you prefer to have both of them?
+(O) Eh, so I think it should be the same tool, and it should try to connect to the Internet and download it.
+Download the ELITR test set when you ask for that.
+So it should be -
+(E) When we ask for theth.
+(O) Yeah.
+(E) Okay.
+It´s the same way -
+(O) It´s a same way as Sacre Bleu.
+Sacre Bleu also works like independently or you can ask it to provide -
+(E) Okay.
+<unintelligible> small changes.
+(O) Yeah.
+(E) Okay, I see.
+Okay, so the the main question.
+Could you please check -
+Because I arrived and I´m in Czech and I´m working on my things.
+But whenever you have time, I prefer to talk with you around half an hour to an hour to finalize it.
+(O) Yeah, okay.
+(E) I prefer next week is very -
+To- today I I 'm  co- I'm coming to university.
+I I will come UFAL, I will if you are in UFAL - I will go to UFAL.
+But eh, I think next week is very suitable for me, whenever you have time -
+(O) Yeah.
+Next week will be better.
+(E) Yes.
+(O) for me as well.
+(E) Okay, so let me -
+(O) Yeah, great.
+(E) Eh, okay.
+And about the paper also as you remember I put some fears there and I´m waiting  for your feedback.
+(O) Mhm.
+Yeah, okay, thank you.
+(E) I thank you -
+Okay.
+So maybe next week, when, we see we can finalize everything
+(O) Yeah, okay.
+Great.
+Yeah.
+So now, there is eh many of you and we have only eight minutes left  -
+(E) Okay.
+(O) I would really like to keep these calls short.
+So who is the most lost?
+Please  <laugh>Who who doesn´t know what to work on.
+Who is most like who feels most disconnected from the eh, from the goal of -
+Yeah.
+(S) Yes, so I´m like completely lost here, because o- one of my lectures is scheduled so I´m attending lecture as well as the the meeting.
+So I have been looking here and there.
+Quite many times.
+So -
+(O) Yeah.
+(S) So yeah.
+At the moment I don´t know what I should work on, and eh, who -
+With whom I should eh, maybe - 
+(O) Yeah, so -
+(S) Work with
+So yeah -
+I I´d be really happy if you just -
+(On) Yeah.
+So please talk directly to Rishu, and help Rishu with all what what he is lost in.
+And the most urgent thing to do is getting the evaluation of the of all the systems, of all the components from the eh, mediator, all the connected workers, running through ELITR test set.
+So we need this this cruise control.
+The true regular evaluation of all the systems.
+This is the most urgent thing.
+Uh, and this is what what Rishu is now also working on.
+(S) Oh, okay.
+(O) So please talk -
+You you don´t have to -
+So eh, that´s like this these conflicts with like regular lectures eh, eh, let´s eh -
+Your lecture has a p- has a priority higher priority than this call.
+So ehm, ehm, like we will try to accommodate to that eh, by maybe js- a- searching for new slot later on.
+Or simply having you represented only through your notes.
+So it´not eh, eh -
+I don´t want you to skip any of your school duties and that implies to everybody of course.
+(S) Yes..
+Uhm -
+(O) So please get in touch witch Rishu separately -
+(S) <paralell_speech>
+Yeah, okay.
+(O) And eh, the urgent most thing indeed -
+(E) Just -
+Yeah.
+(O) Mhm.
+Ebrahim, okay?
+(E) I´m sorry because just Mohamad asked me to ask you about the censorship pipeline and because he is waiting for it-
+(O) Mhm.
+(O) Yes, yes.
+(E) And if you if you have any answer for him I can tell him or you you can send e-mail about it later.
+(O) Yes.
+So that´s that´s another topic that is very much linked toward eh -
+Rishu is like uh, putting together, and also what eh, eh what Vojtěch Srdecny would be kind of doing.
+But eh, eh, the censorship component is something which we want to have as a one part of the pipeline after the ASR.
+And also another one, after the machine translation.
+And the goal of this censorship tool is to allow to immediately hide the outputs and then show them again.
+So there has to be some hidden user interface in which the eh, the operator of the system  checks what are the current outputs.
+And he re-enables those or he can also manually switch it off, when the automatic eh, trigger didn´t fire.
+When when it didn´ t see anything bad, but there was something bad.
+So it´s like -
+It´s not really editing of the life outputs, it´s just disabling of the outputs eh, for a moment.
+And um, uh so -
+I thing that the best eh, sorry because as you see, I'm unable to respond in time.
+So the best thing would be if if Mohamad, Sangeet, Rishu and perhaps Umar as well had a separate technical call on the design of this.
+and that Mohamad implemented that tool, right?
+(E) It´s good.
+I think it´s the best idea.
+So if San- Sangeet could you hear me?
+(S)Yeah.
+I can hear you.
+(E) Okay, so if it is possible please contact Mohamad and ask him for this call and if you want I can also attend the the call to -
+(O) Yeah.
+(E) just and for example to -
+(O) Yeah.
+And and from the management point of view, Sangeet and Rishu should be the two kind of replaceable persons.
+Because Rishu is taking over what Sangeet did.
+Sangeet has limited capacity.
+So Rishu and Sangeet are technically the same person there.
+They just are-
+(E) Okay.
+(O) On totally different places different places on the Earth, but you know-
+<laugh>
+But that´s that´s okay.
+Okay.
+(E) Okay.
+So you said Sangeet, Rishu, Mohamad and?
+(O) Eh, maybe Umar.
+(E) Okay, Umar, Umar.
+(O) Okay?
+(S) Okay.
+(E) Okay, thank you.
+(O) Thank you.
+So then is the uh, the second next lost person?
+(B) Hello.
+(O) Yeah.
+Yeah, okay, great.
+Hi Bohdan.
+So to- to- to give everybody brief summary.
+Bohdan has worked on multi-target machine translation for his master thesis.
+Which has been successfully defended in eh, in the starting the summer.
+And eh, now he eh, is also partly part-time employed on ELITR to develop multi source eh, models.
+To to find up the the set up.
+And was there any other eh, type of model that we wanted you to train, or was it just this one? 
+(B) Currently we wanted to eh, abandon the multitarget set up and to eh, concentrate as as you assume multi source set up.
+And so far I only reselected some experiments on that suspect cluster and only have just just for the UFAL cluster access.
+(O) Yeah.
+(B) So n- not very much of progress so far.
+I have asked eh -
+My task were so far to generate synthetic multi-source train set.
+And for this purpose, I asked Matus for model and he sent me the -
+(O) Great.
+(Bo) The place where it is.
+(O) Yeah.
+(B) But when I will receive the cluster access I will check this out.
+(O) Yeh,so they should happen soon.
+I´m I´m sorry bu it´s a -
+(B) Yeah.
+(O) It´s just that still the paperwork is still in the process.
+<laugh>
+(B) Ah, it´s still in the process.
+Okay, because I written there considering it is probably already okay to write them.
+So -
+(O) Yeah, I´ll I´ll double check eh today, if if if it´s already processed enough.
+(B) Yeah, but just in case that -
+(O) Somebody -
+(B) To have access to the system and cluster so I can do something what I can do there.
+(R) Okay.
+How many GPUs can you run at one, at once?
+(O) It´s two GPUs per machine.
+(R) Okay.
+So it´s not for 8 JPUs.
+(On) No.
+(B) Ah, well -
+<Parallel_speech>
+(O) But there some larger.
+(R) Ondrej?
+What is the -
+What is the memory of those GPUs?
+(M) Like this cluster is full.
+This kind of -
+You know.
+(B) Yeah, yeah, yeah.
+It is it is hard to receive more than one GPU there.
+(R) Okay, yes, so let´s wait for our cluster.
+I also started with multi-source synthetic corpus.
+And I and I think we need to to do it- itterative back translation on on Czech- German news to have some higher quality in German-Czech news corpus.
+And then we can combine it with with English- Czech, which is already high quality from WMT.
+(O)Yeah.
+(R) Then we can -
+(O) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?
+Is is that the idea?
+(R) Probably yes.
+And also we can take a look in the  -
+And I can also send you eh how how they do this eh data collection in Face- Facebook, if  that would help.
+(R) Or -
+(O) So maybe you can discuss like directly after the call.
+So l- le- let let´s keep this call running for longer, but let´s finish the the common part.
+For the common part I would just like to highlight the one more thing.
+And it´s Peter Polak and Umar Faru.
+Both of you should be working now on that multilingual ASR systems, right?
+Is that kind of eh, of the current summary or are you more working on eh, s- whatever data augmentation for ASR or -
+So maybe Peter?
+(P) Um, well, I'm working on the chopped data set as already -
+(O) Yeah.
+(P) Already told you.
+Yeah.
+So it is kind of I don´t know whether it´s strictly -
+(O) The data augmentation.
+(P) But yeah, yeah.
+It´s rather data data augmentation.
+(O) For better ASR.
+And your model is only for offline processing?
+Eh, so eh, eh-
+How far did you get with the onlinezation?
+Because that is something which we would -
+If your model eh, evaluates well, using SLTEV on ELITR test set, we would like to have that integrated.
+But I know that it´s eh, behaved differently.
+Eh, it doesn´t emit word by word.
+So eh, eh.
+If we have anyone with the capacity and the best person will be probably Rishu.
+Then it would be great to eh, like ask someone to help you, for example Rishu, to to help you, with the onlinezation of your model.
+So please keep that in mind eh, that we want to evaluate your model and if it looks good, then we want to have that integrated.
+(P) Yes, eh, the question is whether we would want to use just a Jasper as a model.
+The CTC eh end-to-end model or we want to use the extended one, the the cascaded model from my thesis.
+The eh, the Jasper, translates phonemes and then followed by transform.
+(O) Whichever whichever evaluates better in the offline run.
+(P) Yes, okay.
+(O) The the ev- the evaluation of the offline runs is, is the deciding thing.
+And I would like eh, to ask Umar to also work on the eh, on the same data and keep training.
+The Kaldi set up, right?
+(U) Uhm.
+(O) Yeah, so people are disappearing.
+Thank you for your participation.
+That´s okay.
+Thank you very much.
+And uh, just Umar just stay here with Peter for second.
+Eeh, yeah.
+(U) Yeah, sure.
+(O) So whenever Peter, whenever you have the data ready, please get in touch with Umar.
+Umar also please, train as a comparin- compa- comparison in using the exact same training data, exact of evaluation you two please be t- in touch together.
+So that eh, ehm, s- we have this old style cascaded, the new style cascaded possibly eeh, and eh, the the simple Jasper only wou- on the same augmented data set evaluated ehagainst each other.
+(P) Okay.
+(O) Right?
+Yeah, so I think -
+Yeah?
+(R) I have one more idea for Bohdan.
+(On) Mhm, okay.
+(R) You can try some transfer learning on on of double encoder model on small JPus.
+So if if we have trained model for English-Czech and German-Czech, then then you can try to copy the parameters one encoder to to the double encoder model.
+From one model.
+(On) Mhm.
+And that´s continue training on on the multi-source data.
+So that it´s pre-trained and it doesn´t eeeh like waste too much time in the in double encoder.
+(R) Yes then we can experiment with this on small models and small GPUs at first, and then -
+(On) Yes.
+So that´s definitely -
+Yes.
+This this is a general recommendation that holds for everybody who is trying to uh, put together new things.
+Always try it with small models and small data, and only once it works technically and does something very useful or on on this very small data set.
+Then use it eh, also a- applied on the large data.
+Yeah, okay.
+(R) So so Bohdan, if if you´re interested and I can write you some s- some points how to start.
+You can contact me by e-mail.
+(M) Can you can you also maybe eh, if you are doing some communication.
+Can you maybe just g- send the copy to me so that I know what models you are working on since I'm working on similarly on some multi-targeted models.
+(B) Okay, yeah.
+(O) Yeah, oka.y
+So I´ll have to leave myself at this moment as well.
+So thank you very much for this call.
+I know it was very packed.
+And some of you ha- ha- have had only like few eh eh seconds of of like eh, strict things strictly relevant to you.
+But it will get better eh, in the coming weeks as we like synchronize more.
+Uh, so the the purpose of this meeting was eh, very greatly fulfilled.
+So thank you again, and please, do the discussions, eh, pairwise or in in small teams as as we have discussed.
+I´ll now leave the call myself.
+And eh, so who was eh, supposed to keep talking.
+Please keep talking on this call, feel free to do that.
+What´s what´s that.
+(S) So so I I also have to leave, my lecture is ongoing and I have eh, said my part and I know what I should do next.
+And whom I should get connected with so I I´ll do all of these things after after the lecture.
+(O) Yeah.
+Okay.
+(S) Sorry for -
+(O) Yeah, that´s that´s okay.
+Thank you.
+Bye Sangeet.
+(S) Thank you and bye.
+(O) Yeah.
+So bye everybody.
+Yeah, thank you.
+Bye bye.
+(U) Peter can you stay for a while.
+(O) So Peter is staying, right?
+Peter and Umar, right?
+(P) Yes.
+(O) So I'm making now Peter the host of this call.
+Okay?
+(P) Okay.
+(O) Yeah, thank you.
+(P) Ehm, Umar you wanted to ask something.
+(U) Yes.
+I have one or two - 
+So first of all I need <unintelligible> on which you´re working <unintelligible> can you share the path with me?
+(P) Um, yes sure, um.
+What I´m uh, really eh, working on is eh, like call it there chopped data set and with that I I I´m using regular eh, speech data set.
+Mozilla Common voice.
+And what I'm trying to do is to is to chop the utterences to words.
+So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.
+So it has eeh -
+From my point of view it has eeh, few few at- eh, few few eh <cough>
+Eeh, few things that can improve the eh, improve the the robustness of the ASR.
+And it is that eh, eh, we can we can eh leverage more eh, non-native dat- non-native speakers, as we can reuse more frequently the words eh, spoken by non-natives.
+And also we can eh, create wholly new sentences, because ehm, when you´re training end to end ASR, which is my case.
+The model is eeh, train not only the pronuncation model, but also also the language model.
+And this is especially hard, if we have only few data.
+And that´s actually the case of Mozilla common voice.
+(U) Mhm.
+(P) Because eh, there are too many, you- sentence, ther- that´s eeh same or and they are just spoken by or read, because it it´s actually read data set.
+Eeh, and these same sentences are eh, read by eh, several speakers.
+And that´s why the the models which are trained only on on common voice are quite bad.
+Because the there are f- only few sentences and the language model is  is quite bad then.
+(U) <unintelligible> so it´s that non-native data set?
+(P) Uh, well, it´s partially non-native, partially native.
+Ehm, I´m I don´t know the exact statistics.
+I can I can eh I can checkt it.
+Eh -
+(U) Are you working on the same task which was due to the Interspeech challenge?
+(P) Sorry, once again, because I I didn´t understand.
+(U) I´m saying that are you working on the same, sorry.
+Are you working on the same thing that was due in Interspeech challenge or is it something else?
+(P) Uh, well, it´s not the Interspeech challenge, because it it was due twentieth of September.
+I guess.
+But eh, it´s actually very similar.
+I I I got the data from the challenge.
+And I don´t know whether we can use these data.
+(U) Okay.
+<strange_sound>
+(P) I have to check I have to check  whether we are allowed to use these data.
+But eh, but for example, uh, there are in the in the Mozzila Common voice data set there are twenty three percent unit- United States English.
+Then there´s eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish.
+One percent Irish, one percent Southern African and one percent New Zealand English.
+On the the data set also contains information about age and gender.
+Not all -
+Not all not all the data points have these eh, these attributes, but some of them do have.
+And eh, that´s why I'm using this data set.
+But v- ve- very probably there´s even better data set that we can use for this.
+(U) Mhm.
+So I I understand that but I couldn´t understand the main <unintelligible> the main objective is it to train LMNT <unintelligible> in English ASR?
+Is it so?
+(P) Eeeeh, well, eh, the main objective is to train a robust ASR.
+(U) Robust English ASR.
+And what does the robust means?
+Robust to the more -
+(P) Ro-
+Em, robust towards accents and eh, mainly accents, but also generally robust by eh, creating eh, new sentences.
+Or new sentences or -
+Using sentences that were not in the original data set.
+So because eeh, there is a lots of textual written data sets.
+<strange_sound>
+Or we can we can use for example subtitles which is written spoken langu- written eh, written spoken language data set.
+And we can try to synthetize eh, using the existing words this new data sets.
+Even though we don´t have the original speech data.
+(U) It´s oh, so which which toolkit are you using?
+(P) Which to-?
+(U) Toolkit.
+Which toolkit are you using?
+(P) Ehm, I am using the Nemo toolkit.
+(U) Okay, fine.
+So didn´t Ondrej mention something with multi-lingual ASR, or -
+I´m I got wrong.
+(P) Hm, well I should be I should start to work on multi-lingual ASR, but eeh, this this -
+Because I I´m still at home and I eh, do not have much time to work.
+So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be -
+I´ll start with the wil- with the multi-lingual ASR.
+And -
+(U) I would just confused that what he is actually waiting from -
+He was something mentioning about the comparing the performance of your system with something <unintelligible>
+So was he talking about the this multi- accented ASR or was he talking of multi-lingual ASR?
+(P) Um, he was probably thinking the the ASR I created or or ri- I´ll I´ve been using eh during my master the- thesis.
+And -
+That was eh -
+Well, I was using eh, the original original eh, ASR provided by Envidia.
+And I fine tuned it to -
+Because it´s end-to-end model I fine- tuned it to recognize phonemes exe- eh, eh rather than graphemes.
+And I eh, trained my own transfomer model that would translate the phonemes into graphemes and add eh, pun- punctuation and eh, also to recover some errors.
+That were in the transcripts.
+So maybe he´s thinking about this.
+(U) So that that was an English ASR?
+(P) Eh, English and Czech.
+(U)  Okay, okay.
+I I think I need need to work on whatever he was thinking about so I will just maybe first to <unintelligible> the path of data from <unintelligible>.
+And <unintelligible> to evaluate the ASR.
+So I need just eh, use the same data for Kaldi <unintelligible> evaluations.
+Does it make sense?
+(P) Yes, yes.
+So eeh, what are the tasks we need to do -
+Well, ehm -
+There´s these there are the data from the Interspeech challenge and we need to we need to check whether we can use these data.
+(U) Mhm.
+(P) But I'm afraid that these data are just eh, private and we cannot use them.
+Ehm, but we need to check.
+(U) I I mean, if they there is something what he want So I can ask him once again.
+<unintelligible>
+I know I´m bit confused.
+(P) And what next.
+Mm, and of course, I´ll I´ll have to use the common voice and maybe I´ll check fo another multilingual data set.
+But uh, I guess the the Mozzilla Common voice is the best option as-
+If I recall correctly, the most papers that work with accented speech eh, were are working with the Common voice data set.
+(U) That´s bad.
+I think will multilingual <unintelligible> through different things. Isn´t it so?
+(P) Yeah, yeah, yeah.
+Multi-lingual are different, and well, multi-accented are different.
+Maybe I have said wrong word.
+But I I meant eh, multi-accented.
+(U) Okay, so so if that was that requirement, then please share the <unintelligible> with me of the <unintelligible> data set.
+We train the set and we test it.
+And this <unintelligible> will be Kaldi again or same model <unintelligible>
+And then we - I think we can compare the <unintelligible> of more systems.
+(P) Mhm mhm.
+Yes.
+(U) So I'm leaving a message for you on <unintelligible>
+(P) Well, if it´s okay for you I I´m not -
+I rather use mail.
+If it´s okay for you.
+(U) Okay, that´s that´s <unintelligible>
+I´ll then eh, leave the message for you on mail and whenever you have time <unintelligible>
+(P) Okay, so I guess I think is evertyhing.
+(U) Is there anything?
+(P) I think it´s everything, yeah.
+(U) So okay, if we don´t have anything, thanks for your time.
+(P) Thank you very much too.
+Bye.
+(U) Bye.
