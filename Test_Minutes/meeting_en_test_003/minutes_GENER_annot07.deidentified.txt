@@ -1,0 +1,18 @@
+[PROJECT2] 13. 02. 2020
+
+Date: 13. 02. 2020
+Attendees: [PERSON8], [PERSON7], [PERSON6], [PERSON2], [PERSON5], [PERSON6], [PERSON5], [PERSON1],
+Purpose of meeting:  General overview
+Agenda: 
+1) ASR feedback
+2) [PERSON6] – pronounce and fluxes
+3) [PERSON4] – sentences
+4) [PERSON5] – real time audio visualization
+- Paraphrasing model
+- Paraphrasing server
+5) [PERSON1] – data collection of five languages
+6) [PERSON7] – implementing the segmenter worker, segments
+7) Idea of creating a page with all used data
+
+Minutes submitted by:	 [ANNOTATOR1]
+

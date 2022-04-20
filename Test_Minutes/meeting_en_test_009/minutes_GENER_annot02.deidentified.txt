@@ -1,0 +1,41 @@
+
+Date: 2020/03/19
+Attendees: [PERSON14], [PERSON15], [PERSON5], [PERSON1], [PERSON9],
+Purpose of meeting: Regular overview
+
+Summary of meeting:
+
+[PERSON14], [PERSON5], [PERSON15]:
+- they clarify [PERSON15]'s task that he would run ASR and segmenter separately and review the scripts.
+
+[PERSON14], [PERSON5]:
+- [PERSON5] should try processing Antrecorp. [PERSON14] prepare information about input files for [PERSON5]. [PERSON10] and [PERSON1] will help [PERSON5] with chunks and forced alignment. [PERSON14] pointed out that there is some inconsistency of names now.
+
+[PERSON1]:
+- SLT evaluation is now priority.
+- Create path names, now are not full (red highlighted).
+- Audible SLT test set
+
+[PERSON14]:
+- For next meeting choose different time, ask others for updated the Doodle poll.
+
+[PERSON5]:
+- Work on timestamps of one complete segment.
+
+[PERSON15]:
+- Finishing paper about subtitler.
+
+[PERSON9]:
+- Worked on test the data for preparing WSLT.
+
+
+
+
+
+Minutes submitted by: [ANNOTATOR1]
+
+		
+
+
+
+

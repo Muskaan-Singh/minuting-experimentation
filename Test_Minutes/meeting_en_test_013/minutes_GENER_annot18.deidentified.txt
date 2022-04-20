@@ -1,0 +1,13 @@
+[PROJECT12] meeting, 2020-06-16
+
+Participants of the meeting: [PERSON7], [PERSON1], [PERSON6], [PERSON4], [PERSON3]
+
+It was discussed at the meeting:
+
+- David plan write an email to professor [PERSON9] about publishing the book
+- discussed what was written by everybody and what is still missing
+- set new deadlines for stopping adding new content, stopping adding comments to others content and for having all recomments at rest or delete it
+- set dates for next meetings
+- the pictures in the book should be similar and how to do it
+
+The minutes was written by: [ANNOTATOR2]

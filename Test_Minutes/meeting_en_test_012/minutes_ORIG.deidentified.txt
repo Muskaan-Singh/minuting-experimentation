@@ -1,0 +1,61 @@
+Fri 24.5. at 11 AM,
+[PROJECT1] [PROJECT4] KUFR
+Agenda
+•	Pexip: [URL2]
+•	PIN: 1234
+•	Updates on components:
+o	[ORGANIZATION2] presentation platform development schedule
+o	[PROJECT2] worker
+o	Clones of [ORGANIZATION3] workers to run in [LOCATION1]?
+o	Data gathering: platform ready, can [PERSON2] start getting the files?
+•	Find dates for future meetings
+o	Fri 31.5. at 10.00
+o	Fri 7.6. at 10.00
+o	Fri 14.6. at 10.00
+o	Fri 21.6.  at 10.00
+o	[PROJECT4]: 26.-27.6.
+•	(too early to Select final ASR and MT models)
+
+Minutes 
+•	Pexip: [URL2]
+•	PIN: 1234
+•	Updates on components:
+o	[ORGANIZATION2]presentation platform development schedule
+•	The first prototype should be available at June 15.
+•	[PROJECT3] would surely like to see a less finished prototype sooner.
+o	[PROJECT2] worker
+•	Initial steps made. [ORGANIZATION2] worker &lt;-python server-&gt; [PROJECT2] server
+•	Python script should take care of pre- and post-processing
+•	Handling of partial sentences:
+•	[PROJECT3] does not see any difference, assuming that the [PROJECT2] model would be trained to work reasonably well on partial sentences.
+•	Handling of timestamps
+•	[PERSON7]’s guess is that the [ORGANIZATION2] worker should work well with timestamps and totally hide them from the python and [PROJECT2]
+•	The only timestamps that we have are the beginning and end of the sentence/utterance. Is that a problem? ([ORGANIZATION2] should consider this.)
+•	[PROJECT3] needs to discuss with [PERSON10] the updates vs. history of text fields.
+o	Clones of [ORGANIZATION3] workers to run in [LOCATION1]?
+•	[ORGANIZATION1] now provides 16-17 workers
+•	To be tested with [ORGANIZATION3] after this call:
+•	[URL1]
+•	[ORGANIZATION1] will prepare an image and [ORGANIZATION4] will try to get that running
+•	This is not very critical for the [PROJECT4] workshop
+•	This is more important for [ORGANIZATION3] translated calls.
+•	There is no real rush with this image, unless [PERSON3] agrees that a backup site of ASR workers is very sensible thing to have.
+o	Data gathering: platform ready, can [PERSON2] start getting the files?
+o	ASR worker: the bug
+•	sometimes one worker can handle several sessions (one after another) but then it becomes stuck; it remains in available state but does not provide any output
+•	[PERSON11] has also seen it, will diagnose it.
+•	Please make the bug replicable by using a separate fingerprint, a single worker and stress-test it.
+o	Production client
+•	Only default parameters, comments and documentation changed
+•	We removed windows version, OK?
+•	Text-to-text client to run only segmentation, only MT, … please, help! It’s the same as in sample, but it didn’t return anything ( [URL] )
+•	[PERSON10] &amp; [PERSON8] please help PERSON9, PERSON9 will resend the e-mail.
+•	Find dates for future meetings
+o	Fri 31.5. at 10.00
+o	Fri 7.6. at 10.00
+o	Fri 14.6. at 10.00
+o	Fri 21.6.  at 10.00
+o	[PROJECT4]: 26.-27.6.
+•	[PERSON10] to support us remotely
+•	(too early to Select final ASR and MT models)
+
