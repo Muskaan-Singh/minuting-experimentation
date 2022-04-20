@@ -1,0 +1,11 @@
+[ORGANIZATION1] minuting 13.2.2020 - [PERSON8], [PERSON5], [PERSON7], [PERSON4], [PERSON2], [PERSON1]
+• Improving ASR: [LOCATION3] translations
+• Solution for static slides: Screenshots
+• Replacement of [LOCATION2] words 
+• Domain adaptation data: Monday 16.2.2020
+• [PERSON5] worked on real time audio visualization tool
+• Training the model: deployed 300mil. open subtitles from various languages
+• Translating main languages: [OTHER4], [LOCATION3], [OTHER5] and [OTHER6]
+• Making Wikipedia page with all possible data sets for [ORGANIZATION1]
+• Open neural network export format
+• Implementing segmenter worker
