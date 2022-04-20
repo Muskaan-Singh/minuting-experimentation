@@ -1,0 +1,17 @@
+Virtual coffee hours
+Attendees: Tirthankar, Anja, Ondrej, Muskaan
+Purpose of meeting: Interspeech and sick dial discussion
+
+Summary
+• Muskaandid test TDID of keyword extraction
+• Sick dial 2021 is in June
+• Interspeech student member costs 20 euros
+• Validate if implementation is correct
+
+		Milestones
+		• Dial dates submission deadline is 15 January 2021
+		• Interspeech live event March 15th
+
+
+
+Minutes submitted by: Marek Zak

@@ -1,0 +1,53 @@
+Projects:
+
+[PROJECT1]- ELITR
+[PROJECT2]- Malach
+[PROJECT3]- THEaiTRE
+[PROJECT4]- Kaldi
+[PROJECT5] - ASR
+[PROJECT6] - SLT
+[PROJECT7] - Multisource
+[PROJECT8] - SAO
+[PROJECT9] - ESI
+[PROJECT10] - MT
+[PROJECT11]- IWSLT 
+[PROJECT12] -Flicker
+[PROJECT13] - SLTL
+[PROJECT14] - LDC 
+
+Organisations:
+
+[ORGANIZATION1] CUNI
+[ORGANIZATION2] Faculty of Mathematics and Physics
+[ORGANIZATION3] UFAL
+[ORGANIZATION4] Karlsruhe
+[ORGANIZATION5] Weight and Biases
+[ORGANIZATION6] Microsoft
+[ORGANIZATION7] Google
+[ORGANIZATION8] Github
+[ORGANIZATION9] Wall Street Journal
+[ORGANIZATION10] Library Speech
+[ORGANIZATION11] EUROSAI
+[ORGANIZATION12] EURO Parliament
+[ORGANIZATION13] ACL
+
+People:
+
+[PERSON1] Ondřej Bojar
+[PERSON2] Sangeet Sagar
+[PERSON3] Rishu Kumar
+[PERSON4] Peter
+[PERSON5] Dominik
+[PERSON6] Jonáš
+[PERSON7] Omar
+[PERSON8] Vicki
+[PERSON9] Bohdan
+[PERSON10] Vojtěch
+[PERSON11] Angela Merkel
+[PERSON12] Ivana Kvapilíková
+[PERSON13] Muhammad
+[PERSON14] Tyson
+[PERSON15] Lee
+[PERSON16] Kid
+
+[ANNOTATOR17] DANA OCELIK

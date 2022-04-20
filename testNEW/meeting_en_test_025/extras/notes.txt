@@ -1,0 +1,15 @@
+personal notes: byla jsem z této schůzky docela zmatená, nebyla jsem si jistá, o čem se mluví
+
+automatic transcript
+- mnohem lepší automatic transcript! vycházela jsem z něj
+- byly tam ale často mezery (např. minutu žádný přepis)
+- hodně čárek navíc, hlavně když ten člověk mluví pomalu a dělá takové malé pauzy po těch slovech 
+- zkrácené verb forms byly zapsány v automatic transcript nezkráceně - did not místo vysloveného didn't
+
+<unintelligible> je docela dlouhé slovo na to psát ho takhle během poslechu, ale zvykla jsem si :)))
+
+deidentification
+- v případech, kde byla vyslovená pouze část jména před celým jménem, např. "Pe- Peter, what do you think about this" jsem po deidentifikaci smazala to "Pe-", protože to pak vypadalo takto: "Pe- [PERSON2], what do you think about this" a vlastně to nebylo deidentifikované, to jméno se dalo rozklíčovat z toho "Pe-".
+-- v původním transkriptu (minutes_GENER_annot17) jsem to ale samozřejmě nemazala 
+
+- programy: Skype, Zoom, Slack - jsem nenahrazovala [ORGANIZATIONxx], i když to organizace samozřejmě jsou, ale v tomhle kontextu jsou použity ve významu "program"

@@ -1,0 +1,544 @@
+﻿03:01 
+
+(M) Hi, Anna.
+Can you hear me?
+(A) Yes, hi.
+How are you Muskaan?
+(M) How are you doing?
+Today you came to UFAL?
+(A) Hmm, mmm, mmm, today, I am in the office today.
+I'm in the office.
+(M) Okay, yeah.
+(A) I just decided to enjoy walking here.
+<laugh>
+(M) <laugh>
+(A) Is Tirthankar joining us?
+(M) Yeah, I was just going to message him that <unintelligible> are we meeting today or not?
+(A) And by the way did you do Maria Hrebječková, the annotator?
+(M) No.
+(A) Uh, uh, Tirthankar was supposed to do here on Friday.
+Aha, I actually should ask Tirthankar about it.
+Well, okay.
+Let's wait for him.
+(M) Should I call him, I think, is he joining?
+(A) Probably yes.
+Thank you.
+(M)  He usually joins, uh-.
+Ah, he is not answering the call also.
+I hope everything is fine.
+(A) Uh?
+(M) Now he is not answering to the call.
+Uh, I just hope we will join soon.
+Uh, he joined.
+Hi Tirthankar.
+(A) Hi.
+(T) Can you hear me?
+Hi.
+(M) Yeah.
+(T) Oh, okay.
+Oh, I missed your calls.
+(M) Yes, I am so <unintelligible> you are usually there on time.
+So I was wondering you didn't came.
+If everything is fine and you are joining or not.
+(T) Oh no, everything is fine.
+Looks like we have to like replan everything now.
+(M) Yeah.
+(T)  So the thing is that we are not going for special sessions, right?
+What is the last mail.
+I think Anna can translate that for us.
+What the person has written.
+(A) Uh-huh that Czech text you mean.
+(T) Mhm.
+Yes.
+(A) Nothing serious.
+I will translate it.
+That's actually not.
+And, um, thank you for the email, uh, we had a te-, tech- a technical communication meeting.
+And uh, the results are the following: that their are papers for for special sessions, uh, should  
+fill the same criteria as all other papers and the same timelines.
+So if you want.
+Uh, if you plan to make a special challenge session, you should, uh, just follow these rules.
+And if it would be a satellite event.
+Uh, you should do what you want just coordinate it with something like <unintelligible> two more  
+higher.
+I do not know what is that.
+Un, ah, ah important bit is that uh, the uh, the articles are not in the proceedings of  
+Interspeech.
+(M) So I think the same, uh, was written by Ondřej as well.
+(T) So I actually knew about this satellite event.
+So this is usually for some full fledged workshop.
+Uh, not really for shared tasks, which are very focused.
+But, uh, like this gives us much more flexibility and freedom to choose our event, or also like  
+accept papers.
+Ah, but the thing is that we have to do much like almost double work with this.
+(M) So that means it is going to be,uh, like we are going to, uh, handle the track alone, right, is 
+it?
+Is it so, or did I said yes?
+Did I understood everything?
+(T) Yes, yes, everything.
+So it is like a mini conference.
+It is like a mini conference that you want to do.
+(M) Mhm, okay.
+(T) It is entirely independent of Interspeech.
+So program committee, key note speakers everything we have to choose, okay?
+And, uh, then, like, uh, Interspeech, will only be there.
+They will just promote our, uh, workshop in their webpage and nothing else.
+(M) Now, what do we do?
+Do we refine the proposal?
+(T) Yes.
+(M) Uh, for a satellite.
+The proposal is gonna be different?
+(T)Yeah, there are.
+Yeah, yeah, yeah.
+There are many things now.
+(A) Tirthan-.
+(T) We have to figure it out.
+(A) Tirthankar may ask you, do you want to do that?
+(T) Yeah, um, we don't have any option right now.
+(A) Uh, but there.
+Another option is this next conference.
+I forgot COLING or not COLING, something different.
+(T) SIGDial.
+(A) SIGDial.
+At SIGDial we can make a shared task.
+Yes?
+(T) Yes.
+(A) And why not to do a shared task at SIGDial.
+(T) I would propose both, Anja.
+We should do both.
+Like we don't know that.
+Uh if we, if we apply this will get eventually accepted.
+(A) Mhm.
+(M) Then what after?
+If we do not get in SIGDial like, do we have some other option as well after SIGDial
+(T) We have to go on trying, we have to go for IEEESLT.
+Ah, IEEESLT spoken language technology workshop.
+But I 'm strongly feeling from, uh, like whatever Ondřej said that our, uh, work is not exactly in  
+the domain of speech, it is NLT.
+So, uh, so, because there is nothing like no concept of speech here.
+We are directly working on text.
+So I'm resonating what Ondřej said.
+But the thing is that the proposal for a Star leaf workshop this year is over.
+Which was in September, which was too early for us.
+And the next proposal would come for 2022 would, which would be too late for us.
+So, uh, Anja what I would propose is.
+Like, um, eventually we have to try and see.
+Uh, like, uh, it's better that if we get either of the two, um, SIGDial or Interspeech. 
+Because both of them are well recognized in the community and our.
+Like we can motivate participants to submit.
+(A) Ah, okay.
+(T) The only the only <unintelligible> that I'm finding now is, going with Interspeech is like they 
+will not allow us a space in the proceedings, which may, uh, deter some of the participants.
+Like, um, like, I am not sure that how much, how much they will be excited to publish a paper in  
+CBNL or Archive is a big no.
+So in in Archives people can publish any time, right?
+So that is not a benefit to their profiles.
+So how to motivate, uh, participants to join our shared task.
+Uh, if there is no endorsement in proceedings from Interspeech.
+So this was the reason that I especially, uh, vouched for the special session.
+But this time, the problem is-.
+What I can understand is the last time that that differ-.
+The like, uh, time periods between proposals, submission and your, uh, final paper submission was  
+five months.
+So it would have enough time for our shared task.
+But this time it is only three months, so uh.
+Yeah.
+That is one <unintelligible> here.
+(A) Uh, may I just make here one more thing.
+(T) Yeah, yeah.
+(A) If we made this kind of workshop, the satellite.
+So we now make a proposal for the workshop.
+We either get it or not.
+If we get it, we write to our participants.
+So we make an advertisement.
+Please take part in the shared task.
+Uh, or workshop.
+So they are supposed suppose during this three months to, uh, write a program.
+So to make, uh, this, uh, minuting somehow.
+(T) Mhm, mhm.
+(A) And write a paper also beforehand.
+During these three months, there plus a separate paper on the topic.
+Uh, at the same time, together with the shared task.
+Yes? 
+Or how is it going to work? 
+(T) And so if we are going for special like-.
+Uh, if you are if your proposal is accepted for a workshop, uh, then we have much more independence 
+than special session.
+So it is entirely up to us then, wha- when to float the deadline.
+Ah, how should we do the review processes?
+Everything.
+So we are free to choose everything for this.
+But for the special session, we have to strictly follow whatever Interspeech says there.
+(A) We don't do the special session anymore.
+It's clear.
+I'm asking about the workshop.
+(M) Ah, one more thing, uh, which is coming to my mind is.
+If we have to prepare, like, in three months, like, like all the, if you are just emailing all the  
+participants to take part into it.
+And is our data prepared for it?
+Because all the participants are going to,uh, experiment with our data, right?
+<parallel_speech> They are supposed to prepare <unintelligible> <\parallel_speech
+(T) Yes, I think, like, in three months our data will be prepared.
+Like the proposal submission, the last date of submission, submitting the proposal is February  
+twenty eight.
+And before that, we have to get an ISC endorsement that the speech community is endorsing our  
+proposals.
+Then only we can submit, uh, the the workshop of proposal.
+And then they will let us know by March fifteen.
+So by March fifteen, we know that whether we are, we are accepted in Interspeech workshops.
+And then we have to like, write our call for proposals and stuff.
+But before submitting the proposal, uh, we have to get everything ready, like the website uh our  
+program committee, key notes, the program, everything.
+And then only, uh, we have to make a full fledged, uh, proposal for like workshop program and then  
+submit.
+And that would request time.
+(M) Mhm.
+(T) That would request time.
+(M) So so but when is, when is the date, uh, for submitting the full papers to participants.
+If we conduct a separate workshop.
+(A) We can set it up.
+(T) That is up to us.
+(A) Up to us.
+(T) That is up to us.
+(M) Okay. Mhm.
+(A) I will be back in two minutes.
+Yes, I 'm sorry, just-.
+<other_noise>
+(T) So it should be very much double work.
+(M) Yeah.
+So.
+(T) Like many things.
+I yeah, yeah, yeah.
+Go ahead.
+(M) So, uh, right now, is the deadline the same?
+For for the satellite, is it ninth?
+(T) No, no, no, no, no.
+No, for the satellite event it is February twenty eight.
+But before that, we have to submit the proposal any time.
+Okay, like as soon as possible and get endorsement.
+And one of the endorsement is their. 
+So there is two <unintelligible>.
+One is endorsement from ISCA and when ISCA endorses we have to, uh, submit.
+Yeah.
+(M) Yeah.
+(T) Submit and then they will say.
+So it is a long process now.
+But, uh, that is ok.
+But my <unintelligible> is, we have to now look for proceedings.
+Uh, take care of all those stuff on our own.
+(M) Mhm.
+(T) I know since I am like-.
+I did this for the past year.
+It is too too much heavy.
+(M) And so anyway, we have prepared the, uh, this document.
+We can send it to SIGDial, no, for the shared task. 
+(T) Yeah, yeah, yeah.
+Yeah, yeah.
+By January fifteenth.
+(A) If they accept us both to SIGDial and uh, uh, this Interspeech.
+What does your-?
+(T) Interspeech. 
+We do both.
+(A) What?
+(T) We do both. 
+(M) <laugh>
+Yeah.
+(A) Really?
+(M) <laugh>
+(T) Yeah, see, eventually it will be online.
+So there is no travel.
+Just, uh, like we have to manage this submission and do our thing.
+So, I think that better, Ondřej will, uh, will have a better say.
+But if you are to ask me.
+I will do both then.
+Because both have a very good visibility.
+(A) Yes, but ,uh, can we find so many participants.
+(T) I think so.
+(A) Yeah, okay, okay.
+(T) I think so.
+Because, uh, since it would be entirely on to us, we don't need twelve submission.
+We can even do with five, six submissions.
+(A) Mhm, okay.
+(T) Like, I have seen workshops in ACL having two or three submissions only.
+So still, they are doing the proceedings and stuff.
+So, that's not a problem.
+(A) So, Tirthankar you are here to go to both.
+And to begin with, uh, workshop now.
+(T) Yes, yeah, but it, but it means double work.
+That is what.
+(A) Yes I understand, but you are very good.
+(T) <laugh>
+(A) <laugh>
+My response.
+<laugh>
+(T) <laugh> Oh, okay.
+(M) He just replied to that email.
+(T) I talked to him, and there was some things <unintelligible>, <laugh>.
+And he just said "Agreed".
+(M) Yeah.
+He just said "Agreed".
+So I thought, that is a new information.
+(A) Yes.
+(T) <laugh>
+Yeah, okay, uh.
+So I think I need to settle down a bit.
+Last three, four days, it was too too much hectic for me.
+Uh, I like had to reorient everything.
+Okay, uh, so , um, uh, like ,uh.
+The thing is that our proposal is almost, uh, near to complete.
+But we have to take out institutional membership.
+For like, for um like, for all of us, to submit to the ISCA workshop administration portal.
+So for this, Anja, I shou- I should contact Ondřej right?
+(A)  I missed the point.
+Sorry.
+(T)  So we, we have to take a membership to submit the proposal.
+(A) What is membership.
+(T) Membership to ISCA.
+(A) I do not know, really.
+Tirthankar don't don't ask me about these administrative plants.
+I have no idea.
+(T) Oh, okay.
+(A) So I can make the data.
+I can read the texts, uh, but I can never, uh.
+So, or understand this organizational things.
+(T) Okay, no, I'm just asking, suppose Anja where, we have to pay some fees somewhere for our  
+workshop.
+To whom should I ask.
+Like, if we have to ask Ondřej, right?
+(A) Yes, aha, Ondřej and he will forward you to Tea.
+(T) Uh, okay, okay, I got it.
+So we have to pay two forty Euros for institutional membership, maybe.
+(A) Yeah, yes, I think it's not a problem at all.
+But, uh, ask ask, uh, Ondřej.
+(T) Okay, okay.
+So do you want to discuss about the proposal content for the workshop now or?
+(A) Um, um, no, I don't know what.
+(T) Okay, so let me prepare this as part of the content that is required.
+I have to study some, uh, other satellite events that I got accepted to an Interspeech last year.
+So we have taken reorient in these things.
+And the, uh, the additional thing we have to have to do Softcom management, uh and um,
+Softcom management and especially we have to invite the program committee now.
+And to make a website for our propo-, uh, for our shared task.
+(A) Yes.
+(T) And what else?
+Interesting..
+(A) Yeah, it is really big work all of it.
+(T) And and, uh, another thing, uh, Anja so ,uh, can you tell us a bit more about PBML?
+And I was, I 'm like not aware of this journal.
+(A) Hm, I would.
+I would rather advise you to Google it.
+I do not know, um, much more.
+(T) Oh, okay.
+(A)  I 'm not really interested in all these points.
+I have never searched of that.
+So I probably published there something once or twice.
+But ,uh, I didn't make a  a reche-, a research about ,um-, what is-.
+(T) So it is from UFAL.
+Okay.
+(A) I don't know.
+Probably not just that.
+Probably there is some points, I don't know which points.
+Really don't ask me about it.
+I don't follow.
+(T) Mhm.
+(A) Either Google it  or ask Ondřej.
+(T) Yeah, I got it.
+Yeah, yeah, yeah.
+(A) These are things that I never understand.
+(T) Um-hum, okay.
+So Ondřej is the technical editor, so it makes sense.
+(A) Yeah, probably. 
+Yeah, I'm very, very anti-organisational type.
+(M) Which journal?
+(T) The Prague Bulletin of Mathematical Linguistics.
+(M) Oh, yeah, yeah, okay, mhm.
+(T) Have you ever read it?
+(M) Yeah, yeah, actually.
+Ah, very good papers.
+This machine translation got published in it.
+So I have read about it.
+(T) So is this?
+(M) Yeah, yeah.
+(T) So do you think that like, uh, the participants would be interested, uh, for a publication in  
+this, in this journal?
+(M) It depends on, depends on the participants actually.
+(T) Oh, because I have never heard of it.
+I know I have, uh, in in like in my, uh, research duration.
+I have read lots of papers.
+(T) Uh.
+(M) So I think machine translation is-.
+(T) I think it will be mostly focused on machine translation.
+(M) Yeah, yeah, yeah.
+(T) Mhm.
+(M) That is why I think I have experience with it. 
+(T) But it is very old.
+It was published in 1964.
+(M) Yes, actually the like.
+Um, like all the statistical machine translation, all the paper.
+The core papers were actually in this.
+So, I read lots of those papers.
+(T) Okay.
+(M) So they can be interested.
+You know, it depends upon person to person.
+So if he is aware of this, then I think he can be interested in.
+If he is not aware, then probably you know.
+It really depends.
+(T) Mhm.
+And is it indexed?
+Or-.
+Let me see.
+(M) I think it was indexed, uh, in like all Google Scholar and all that.
+But let us give it some <unintelligible>
+(T) Okay.
+(M) I think editorial board members are really, uh, interesting to see.
+(T) Ondřej is there so that is good.
+(M) Yeah.
+<unintelligible>
+<laugh>
+(T) Mhm, so anyway.
+So I think, uh, this would be easy for us, like if we have to do PBML.
+Uh um-hum.
+(M) Yeah, even if you see to the website of it.
+They have mentioned that machine translation corpus linguist Davidson morphology, syntax and  
+semantics is what-.
+(T) But I 'm trying to look at the where it is indexed.
+Because, you know, like, uh, to a new person, um, they would probably go for where it is indexed.
+(M) Yeah.
+(T) So in BBLP it is not indexed.
+(M) It is not mentioned on the website, I wonder why.
+So one good thing for, uh, going for <unintelligible> and would be,  uh, if we go for  
+<unintelligible> , uh, the proceedings would be indexed with ACL anthology.
+(M) Um, that is a good.
+That is a good positive point.
+(A) I would say that the <unintelligible> is better than Interspeech workshop.
+(T) Yeah, less work.
+(A) This is a little less work and intent and more intensive output.
+(T) Yes, I agree.
+Okay, so it is indexed in Google Scholar.
+(M) Yeah, Google Scholar I have seen.
+Thank you.
+Despite of that-.
+(T) So it is mostly on machine translation.
+It is already, uh, written in there.
+(M) Yeah, yeah.
+(T) In their description.
+Okay.
+(M) Yeah, and it will be like <unintelligible>.
+(T) But I don't see any kind of like proceedings in this journal.
+(M) Uh, proceedings.
+(T) Proceedings of any workshop or something, it was not there.
+(M) Yes, yes, yes, yes.
+Yes, any kind-.
+In any kind of conference or workshop, yes yes.
+(T) Mhm.
+Okay.
+But I think if we are to do it Ondřej will take care of that.
+(M) Yeah. 
+(T) Okay.
+So-.
+(M) Did he mention it in some email? 
+Ah, did I skip something?
+Did he mention that we are going to publish in the proceedings?
+(T) Yes, he says, that either either we can go for Archive or we can go for PBML.
+So, but Archive is is no, because, yeah, it.
+It won't motivate anyone to submit.
+(M) So I think, uh, PBML is very famous to the entire machine translation community at least.
+(T) Community, right.
+(M) Yeah, so ,uh, not aware of the other summarisation and all people.
+(T) Yeah, that's the point.
+(M) So maybe we can try it.
+(T) < unintelligible> light of-.
+Uh I, uh, uh, I kn- I know something called, uh, SSRN from Elsevier.
+So SSRN is something where they host.
+They like they can host.
+Um, the proceedings of some conferences and workshops.
+But I 'm not sure that if they will charge for that. 
+And if they charge how much is the charge. 
+(M) SRN also has some specific or those.
+Oh, for that, like a what they have, the general specific journals.
+<uninteligible>
+Like applied science and something there are after a certain there is specific something.
+So are you talking about something specific.
+(T) Ah, no.
+I'm talking about SSRN Elsevier, SSRN conference proceedings from Elsevier.
+(M) Mhm.
+(T) Let me post the link.
+(M) And where is it indexed?
+(T) Yeah, <unintelligible> they will be indexed in <unintelligible>, Google Scholar, all the major  
+industry services.
+(M) Mhm.
+Okay, maybe we can ask Ondřej I think about this.
+(T) Yeah, let me let me scan it to-.
+(M) It was Scopus indexed, I guess.
+(T) Scopus yes, it will definitely will be because it is from Elsevier.
+But I think it would also be indexed in others like <unintelligible> or something.
+(M) Mhm.
+Um-hum like, if I would have been so, I would have actually preferred a PBL over SSRN.
+(T) PBL over SSRN.
+(M)  Because I have read actually like four papers.
+So I have like a very good image of PBL.
+(T) Of PBL okay, yeah, yeah, yeah.
+I understand.
+(M) The quality of paper is very good, which I've have read.
+(T) Yeah, for machine translation?
+(M) Yes.
+(T) Oh, okay, mhm.
+<other_noise>
+(M) And PBL is also an open index.
+(T) Open access right?
+(M) Yeah, open access.
+And, uh, it is uh indexed by <unintelligible>
+Directly <unintelligible>
+(T) Mhm, okay, uh, you checked it?
+(M) Yes, I checked it from the website of that.
+(T)  Mhm.
+Okay.
+(M) That can be one, uh, positive point about it that it is open access.
+(T) Yes.
+Okay.
+So another thing, another thing that we can do-.
+Um, but I have to ask like we can, uh, uh, we can also do it as part of the <unintelligible> forum.
+I think so.
+I have to ask my other co-editors, if that is possible.
+Oh, so <unintelligible> forum has  a very big visibility among the IRN and NLT community.
+Okay, okay.
+So I think maybe we can defer this discussion with Ondřej.
+You could propose something better, um?
+Anything else we had to discuss today?
+I think it was mostly the proposal, right?
+So that we are not doing.
+Ah.
+So we have to revise this and list down the thing that we need to do for, uh, the satellite event.
+Okay.
+Then, uh, do we meet tomorrow then?
+Uh, maybe by tomorrow, I can come up with something that what are the additional works, we need to  
+do.
+(A) Yes.
+Tirthankar thank you very much for willing to do that.
+Uh, I am sorry that I can't help you on this stage so I really, I have been-.
+(T) No, no, it's absolutely okay Anja.
+(A) I will -
+I would be really glat to help in some contextual things I will really-.
+I will be glad to read the proposal and to, uh, to write some chapters to the proposal, so-.
+(T) For sure, yeah.
+Sure, sure.
+(A) I think it i quite, yeah-.
+(T) Anja, your your input is absolutely necessary at every point.
+Ah, the only thing is.
+Like, everything is okay.
+The only thing is, we have to do double work, ah, that is the thing.
+Ah <laugh> otherwise, everything is fine.
+(A) Yes, yes, unfortunately, it is double work.
+Okay, thank you.
+(T) Okay, okay.
+So we meet tomorrow.
+Okay.
+(A) Good luck.
+Yeah.
+(T) You too, you too.
+(A) Thank you.
+(T) Okay, okay.
+Bye then.
+(A) Bye, bye.
+(T) Mhm.
+(M) Goodbye.

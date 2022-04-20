@@ -1,0 +1,42 @@
+Persons:
+PERSON1 = Ondřej Bojar
+PERSON2 = Dominik
+PERSON3 = Bohdan Ihnačenko
+PERSON4 = Rishu
+PERSON5 = Sangeet
+PERSON6 = Peter, Petr
+PERSON7 = Daniel, Daniel Suchý
+PERSON8 = Matuš
+PERSON9 = Phil
+PERSON10 = Omar
+PERSON11 = Mohammad
+PERSON12 = Vilém
+PERSON13 = Barry
+PERSON14 = Natasha
+PERSON15 = Dušan
+PERSON16 = Sunit
+PERSON17 = Vojtěch
+PERSON18 = Michael
+PERSON19 = Hana
+PERSON20 = Janus
+PERSON21 = Tea
+PERSON22 = Vojtěch Srdečný
+PERSON23 = Eda Šubert
+PERSON24 = Michaela Kousalová
+
+Organizations:
+ORGANIZATION1 = ÚFAL 
+ORGANIZATION2 = KIT
+ORGANIZATION3 = Europarl
+ORGANIZATION4 = Facebook
+ORGANIZATION5 = YouTube
+ORGANIZATION6 = Google
+ORGANIZATION7 = Metaphorum
+ORGANIZATION8 = Twitter
+
+Projects:
+PROJECT1 = Elitr
+PROJECT2 = Kaldi
+PROJECT3 = Marian
+PROJECT4 = Babelnet
+PROJECT5 = Slack

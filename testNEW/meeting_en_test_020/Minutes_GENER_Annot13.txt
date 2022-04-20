@@ -1,0 +1,32 @@
+﻿MEETING MINUTES
+Organisation: CUNI, Faculty of Mathematics and Physics, UFAL
+Meeting Name: Virtual Coffee Hours
+Meeting Date: 08.12.2020
+Meeting Topic:  Interspeech and SIGDial submissions
+Meeting Participants: Anna, Muskaan, Tirhtankar
+Main points of discussion:	
+•	Discussion on advantages and disadvantages of proposal submission to two major conference venues – Interspeech and SIGDial.
+Interspeech – special session proposal declined but option to apply for a satellite event
+Advantages:
+•	More flexibility, freedom to choose events and accept research papers
+•	Fully fledged workshop with attributes of an conference
+•	Independent of Interspeech.
+•	Very good visibility in the community.
+Disadvantages:
+•	Requires intensive and large amount of workload.
+•	Interspeech doesn’t endorse the articles in the proceedings, only promotes the workshop on the website. This might discourage some participants.
+•	Time period between proposal submission and final paper submission shortened from 5 to 3 months.
+•	Submission deadline February 28, 2021 after community and ACL endorsement requirements were fulfilled. Interspeech decision to be received by March 15, 2021.
+SIGDial conference
+Advantages:
+•	Great visibility in the science community.
+•	Shared task submission possible.
+•	Less work and more intense output.
+•	Proceedings indexed in ACL Anthology, Google Scholar and other major industry players.
+Disadvantages:
+•	Requirement for corporate membership access.
+To Do list for the Team:
+•	Refine the proposal for submission.
+•	Do further research on proceedings and publication possibilities (such as Archive or PBML).
+•	Present their finding to the Project Manager (Ondřej) for further discussion.
+Minutes submitted by: ANNOTATOR 13

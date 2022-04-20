@@ -1,0 +1,2061 @@
+(O) Hi, can you hear me?
+
+Is here anyone yet.
+
+(P) Hi.
+
+(O) Perfect.
+
+(P) Yes, we can hear you.
+
+(O) Yeah, that's good.
+
+So I'm curious, if Rishu is here, we don't have Rishu.
+
+Okay, that's too bad.
+
+Ah, and but we have Daniel.
+
+That's good.
+
+And ah, we have Dominik, Matuš, Omar.
+
+And, ah, also Bohdan, yeah.
+
+So I would like to hear primarily from the people that I haven't really talked to.
+
+Ah, for a while.
+
+Ah, so that's Bohdan and Matuš.
+
+Ah, and then the the rest of you.
+
+Ah, so Bohdan if you could start.
+
+(B) So basically, I'm a bit, I get stuck with those experiments, because I had notable problems with how to run it at all with explayable mistakes.
+
+But finally, uh I managed to run.
+
+(O) Ehm.
+
+(B) And uh currently I'm I started running those experiments that Dominik told me a while ago.
+
+(O) Ehm, so what are they?
+
+(B) To run the same set up Dominik ran for that test part on other parts .
+
+(O) Ehm, Okay.
+
+And it's multi source or is it only the baselines?
+
+(B) It is only the baselines.
+
+(D) Yeah, it is it is to complete the GPU test and and to know that one version, one new version of Marian really, really works.
+
+And it trains on floating point FP 16.
+
+(O) Ehm.
+
+(D) So after we done this, then we will know which version of Marian we will for the use.
+
+(O) Yeah.
+
+Okay, ah, so you are doing it in FP 16, in the half precision, right?
+
+(D) Yes, yes.
+
+(O) Okay, that run on tesla GPU use, ah, for a comparison.
+
+Okay, ah.
+
+So, ah, that's good that you're finally starting.
+
+Um, I'm a little worried about the multi-source status for the deliverable.
+
+So, is there any chance that we will have -.
+
+So what, ah, Bohdan, have you contributed to to the deliverable in any way?
+
+And this is also a question on Dominik.
+
+Like in in the deliverable.
+
+What is missing there?
+
+What is, what is really outstanding, what are the problems that we have not like -.
+
+(D) I'm waiting for the input from <unintelligible> from KIT.
+
+He promised it by Thursday.
+
+(O) Ehm.
+
+(D) Then, then I only need to finish the executive summary.
+
+And maybe, maybe one comment from you.
+
+On on Vilém's paper and then -.
+
+(O) An an overall, does it look reasonable, or are we uh do we have a problem uh with not enough progress in multi-source?
+
+(D) I hope it's reasonable.
+
+(O) Yeah, yeah. <laugh>
+
+(D) I explain that we don't have much progress with multi-source because we first need the data.
+
+The interpretation corpus.
+
+(O) Yes, okay, that's good.
+
+So you are moving it to the wri- to the spoken multi-source like explicitely.
+
+(D) Yes.
+
+(O) We could have done the multi-source research also in the text domain.
+
+And there that was also like of interest.
+
+And actually, ah, ah, the ah, yeah.
+
+So that's, ah, the one of the reviewers in in the review also ask whether we are, ah, combining, ah, the ah, the document level aspect with the multilingual aspect.
+
+And I answered that yes.
+
+There is like nothing against that.
+
+And the all the corpora that we are collecting are document level if we can have them like that and they are as multilingual as they are.
+
+Ah, so, still it would be useful to to replicate.
+
+So, so, so read with the multi-source experiments on some larger text, ah, text only data.
+
+So that's something that Bohdan really, ah, should work on, after this baseline.
+
+So ah, do we have a corpus, ah, like that.
+
+So who who all has played with, ah, multi-source text based data?
+
+It was Dušan as far as I remember.
+
+You, Dominik played with the Window, ah, approach.
+
+But you never got to multi-source yet, right?
+
+(D) Hhm.
+
+(O) And then it was the the experiment by Sunit, which are covered there wheter like small data only and your monkey only.
+
+(D) Yeah, we can use the text from europarl.
+
+(O) Mhm.
+
+So that's the transcripts?
+
+(D) Yes, and translations.
+
+(O) Yeah.
+
+So, I I really think that some experiments with multi-source text, ah, in europarl should be done immediately after -.
+
+(D) Yeah.
+
+(O) Or actually concurrently with what Bohdan is doing at the moment, right?
+
+(D) But I've, I suppose, that text multi-source is not a challenge.
+
+Because the text are all already very, ah, very disambiguate.
+
+So that that only one source will be better than than two sources.
+
+So that's my assumption.
+
+(O) So so sorry, what you are, you're saying that there is no gain to be expected, ah, from multi-source, right?
+
+(D) Yes.
+
+Contexts.
+
+(O) Does not really expect any gains from multi-source.
+
+Okay, we'll see.
+
+Ah, we should, we should really test this.
+
+I agree that with the long written sentences, it is possible that you're right.
+
+And that the spoken language, ah, is more ambiguous and therefore the, ah, the multi-source is more likely to help.
+
+But we don't have numbers for that.
+
+It is should be tested empirically.
+
+So, so Bohdan, I think we need to have a separate call with you and Dominik.
+
+Ah, and when could that happen?
+
+Ah, so, so that we would like double check the the exact plans and and look under your finger.
+
+So to say what you are working on at the at this moment and what else you you could start to experiment with the multi-source.
+
+So when you two would be available for the separate call?
+
+Ah, what whatever, tomorrow?
+
+Ah, or at what tomorrow afternoon work for you?
+
+Bohdan and Dominik?
+
+(D) Yes.
+
+(B) At at what time tomorrow?
+
+(O) Just say something, so whatever two, two pm or three pm?
+
+(D) Yes, it work for me.
+
+(B) Uh, three thirty?
+
+(O) Yeah, yeah, that's fine for me.
+
+Yeah.
+
+And for Dominik it's okay, right?
+
+(D) Yes.
+
+(O) Yeah, so great.
+
+Well, I'll send a link, ah, later.
+
+But ah, I'll definitely plan it to the <unintelligible> calendar, ah, for you.
+
+That's, that's great, okay.
+
+Thanks.
+
+And in the meantime, ah, we got the Rishu.
+
+Ah, so it's the, ah, now it's the good point to mention the two biggest things.
+
+Ah, and, ah, the one of the biggest thing is that Omar is leaving, which is listed at the end of the, at the end of the, of the notes for today's call uh.
+
+So, Omar is already hopefully in touch with, uh, everybody, uh, who is getting some of the Omar's original tasks, uh.
+
+So, uh, Omar himself will finish the language model checking of ASR outputs.
+
+That is text only check if the words kind of make sense.
+
+So then we would have a monitor, live monitoring of whether the ASR is producing something sensible or whether something is terribly wrong.
+
+Such as wrong language chosen for the wrong chanel.
+
+And once this is finished by Omar it shoul be integrated somehow.
+
+The integration will probably already be more on Vojtěch and Rishu.
+
+And with Vojtěch and Rishu, Omar will synchronize about the tools that, ah, that Omar has developed.
+
+And that Vojtěch should incorporate.
+
+And, eh, Rishu should regularly use.
+
+Right?
+
+So have you already agreed on some date for this?
+
+I've seen Vojtěch here and he disappeared at the moment. <laugh>
+
+So, Rishu.
+
+(R) Uh, not exactly, but I'll probably be in touch with Omar or some sometimes early next week.
+
+So.
+
+(O) Yeah.
+
+(R) That would be somewhere on Tuesday or Wednesday.
+
+(O) Yes, so the sooner the better.
+
+Because, ah, like he will be leaving and, ah, ah, it's, yeah, things will only get harder.
+
+So actually, I was confused.
+
+That the Mohammed, here on the call, is not Omar, right?
+
+As the -.
+
+(R) Eh, no.
+
+It's the other one.
+
+(O) The other one, yeah.
+
+Okay, yeah.
+
+So I was confused because Omar said that he could be late for the call and that's probably happening.
+
+So please be in touch with Omar.
+
+Then, ah, if the other Mohammad, who is on the call, ah, can you hear us?
+
+Ah, Mohammad?
+
+So I'm not sure, if the call -.
+
+(M) Yeah, yeah.
+
+(O) Okay, that's good.
+
+Yeah, so I've, have started, but I think I never finished an email to you, because you have reminded Rishu that your, ah, profanity filtering is not yet integrated.
+
+And, ah, I think this is also an important message for Vojtěch who has disappear again from the call.
+
+Ah, ah.
+
+So the the important message is that, yes, it's very good that you are actively pushing so that your results are integrated and everybody should do so.
+
+And at the same time, we need to have the set up so that you can actually integrate and tested yourself.
+
+So I call it like self or do it yourself integration.
+
+So Rishu, when working with Vojtěch and when, when, ah, like documenting what the set ups are, ah, make sure that it is tested well enough by colleagues such as Mohammad, or then even Omar for the language model checks us and and everybody else.
+
+So whenever someone develops a new useful component.
+
+The full pipeline should be accessible to to him reasonably easily.
+
+So he can test it himself.
+
+So this do it yourself integration is important, because otherwise it will remain on you Rishu.
+
+And you don't want to be overloaded.
+
+So, you you want to provide these people with inputs and outputs as the first, ah, ah, testing approach.
+
+Ah, which has been already done.
+
+Mohammad, right?
+
+The profanity filtering, has it been tested on locks?
+
+I think it was.
+
+(R) Yeah, it was tested on <unintelligible> something.
+
+(O) So now, now it's the time to test it on the life pipelines.
+
+And again.
+
+I think it's better if, ah, Rishu explains to, ah, to Mohammad how to do it.
+
+So that Mohammad runs it for himself.
+
+Using some of the workers and life playing some of the problematic files.
+
+Ah, ah, ah, like ah, using MPlayer, or whatever simply play them, follow the sound output on your machine and and see how how that works.
+
+Ah, because only when doing the real setup.
+
+Ah, the true errors were will appear.
+
+Like it's important to first debugg it using the lock files, and then it's important to debugg it in the pipeline.
+
+And if this debugging can be done by the author of that component.
+
+Here, in this case, Mohammed, it would be most efficient for for all of us.
+
+So, so, Rishu, please confirm that you agree with this idea of like do it yourself integration.
+
+(R) Yeah, I do.
+
+Also, I have a call with Mohammad later today.
+
+(O) Yeah.
+
+(R) So, we will discussed exactly <unintelligible> with Mohammad <unintelligible>  that we have that and if he couldn't <unintelligible> the local copy on his laptop because <unintelligible>. 
+
+But I think we <unintelligible> get on to bad he can simply download the files on the oval machines.
+
+(O) Ehm.
+
+(R) And then using files or something else he can tolerate the files, oh, to his local machine.
+
+(O) Or he can also use X2Go.
+
+So he also has a chance to use X2Go.
+
+(R) Yeah, yeah, that that's also uh very well.
+
+But since his intent of bandwidth is very limited.
+
+(O) Ehm.
+
+(R) So oh -.
+
+(O) He prefers to download things.
+
+(R) Yeah.
+
+(O) Okay, yeah, eh.
+
+Yeah.
+
+Do whatever works for you.
+
+I know it's, it's complicated. <laugh>
+
+Okay.
+
+So speaking of the profanity filtering, and especially the spasm detection and and removal.
+
+We have seen during the last sessions that the new ASR, the end to end ASR, E2E ASR, also suffers from the spasm issues.
+
+So the profanity filtering should really be, ah, employed twice on each path.
+
+First after the ASR and second after the MT.
+
+(R) Okay, yeah.
+
+But the -.
+
+Were there instances of spasm coming in?
+
+Let's one language stream only?
+
+Because -.
+
+(O) They're already in the ASR language.
+
+Already the English contains contain suddenly something like uh, oh, oh, oh and there were full stop after every Oh.
+
+So it was actually for a second, Dominik saw that I think, for a second ah, the ah the incoming, ah, sentences were like flooded with lots of oh, oh, oh, oh, oh.
+
+And then they disappeared again.
+
+(R) Oh, yes, yes.
+
+Ah, so, ah, I I don't think we need to fold proprietors spasm removal, because if we remove the the one from the ASR itself.
+
+(O) Mhm.
+
+(R) Nothing is getting past to that MT worker, so -.
+
+(O) Yeah, but the MT worker can create its own spasm for good ASR.
+
+(R) Oh, yeah.
+
+Me and that that also.
+
+(O) Yeah, so.
+
+I think two two are, ah, needed.
+
+Okay, so there was, ah, there was the self or to do it yourself integration.
+
+And um.
+
+Yeah, you are, ah, ah, so Rishu, you have the call with, ah, Omar later today.
+
+Ah, so, ah, that that would be on the dashboard and the monitor.
+
+And hopefully Vojtěch will be there as well.
+
+So are you also in touch with Vojtěch?
+
+(R) Ah, not right now, but I will after this call.
+
+(O) Yeah, please please join -.
+
+He disappeared.
+
+So please make him joined to that.
+
+Then another thing that Omar is passing over to others is the Kaldi check ASR.
+
+And Peter, ah, will will get this from him so that we have, ah, so repeat has Kaldi baseline for his own experiments, right?
+
+Is that correct?
+
+(P) Oh yes, yes.
+
+(O) Okay.
+
+And the domain adaptation saw the daily -.
+
+So the regular preparations for every session that will unfortunately land on Rishu only.
+
+So Rishu this is another thing that you need to discuss with Omar.
+
+Maybe that is the main subject of your call today, right?
+
+(R) Oh, I haven't plan the call with Omar.
+
+I have a call with Mohammad.
+
+(O) Okay.
+
+Yeah.
+
+(R) As MT <unintelligible> profanity filtering.
+
+(O) Okay, okay.
+
+So I'm confusing the Mohammad even even though, okay. <laugh>
+
+But anyway, this domain adaptation that will land on you.
+
+So, when you have a call with Omar, then Omar has already started, ah, preparing for the upcoming Monday seminar that's going to be given by ,ah, Italian guy, a famous one, the author of babelnet, actually.
+
+So if you are curious about that, it's it's interesting to to to see it, he'll be talking about verb frames.
+
+And, um, we should again get ready for for that with some domain adaptation.
+
+So Omar has probably started, but he should walk you through that thing.
+
+So that you can do it yourself next time.
+
+And it should be as automated as possible.
+
+Yeah.
+
+And the last bit is the multi-accent English.
+
+Ah, so the English, which is robust to the various speakers.
+
+So, ah, on Monday we will hear the Italian English and yesterday, ah, we had a chance to hear the Japanese English and the ASR was really struggling with that.
+
+Ah, so, ah, that's, ah, yeah, we really need to adapt.
+
+But this, ah, this is mainly on on Peter.
+
+Yeah.
+
+So, that was -.
+
+(R) Ah, can I <unintelligible>  I can that the accented English one to caught -.
+
+(O) Yes.
+
+(R) I like the idea, and -.
+
+Ah, I mean, I really like to see how it plays out.
+
+(O) Yeah, yeah, yeah, sure.
+
+So just make sure to be in touch with Peter.
+
+So, Peter, please include Rishu in this part as well.
+
+So whenever you have like whatever tasks that that Rishu can help with, then work on that jointly.
+
+So for that, I think that Peter Peter is now mentioning in in his report here.
+
+The recording segmentation is that the thing that you are, ah, ah, the is it really?
+
+So what do you mean by recording segmentation.
+
+That's the short question, Peter.
+
+(P) I mean they're cutting the recordings to words and done getting together to to create a new, new, new recordings with, ah, different sentences.
+
+(O) Yeah, yeah.
+
+So, ah, so for the multi-accent English.
+
+So we are now with with Petr putting that, ah, ah, together to, ah, just one.
+
+Ah, one technical solution.
+
+The current idea that that better is is working on is that he will create new sentences by concatenating words that were spoken in other sentences.
+
+And he will do this across different speakers.
+
+So, it will be really multi speaker, ah, sentences and, ah, therefore, the robustness to the different accents of these speakers could be also improved.
+
+Ah, so that's, ah, that's one particle experiment.
+
+And later on, we, ah, we may, ah, do something more about, ah, the the, um, the multi accent things.
+
+So this, ah, these new sentences will, ah, it will actually try to solve two problems with one, one experiment.
+
+One problem is the implicit language model.
+
+Ah, so the ASR system has to see the largest possible set of sentences.
+
+And, ah, we are going to create new sentences by from text only language model by adding the the sound part to that.
+
+So that's, ah, the language model will be better by that.
+
+For the ASR and the robustness to different speakers would be also better.
+
+Yeah.
+
+And in a talk yesterday, I heard another idea.
+
+It was like during the training.
+
+Ah, they were dropping out, ah, a time bands and frequency bands from the sound.
+
+So they were training on on disruptive inputs, and that also greatly improved the robusteness of of the system.
+
+(P) If I'm, I'm not su- sure how they apply it.
+
+But um, I think that the pipeline, um, the training pipeline, um, which is used for training of the <unintelligible> that uses this same technique.
+
+So, it's already -.
+
+(O) It's already there.
+
+Okay.
+
+(P) Yeah.
+
+(O) Yeah.
+
+So that's -.
+
+This is very important to know which all bells and whistles are are available in which toolkit.
+
+Okay.
+
+So that is, ah, that was the, ah, like news and and work that is being put on you, because Omar will be leaving.
+
+And another, ah, like a long term, or as well as a short term pile of work has arrived, because of the two sessions that we had.
+
+So, I would really like to ask everybody to record the experience from the Metaphorum, and as the one sessions.
+
+And also, ah, Vojtěch is not ah here.
+
+Also the there is one more lesson that we have like harshly learned yesterday, when Rishu was still in in hospital waiting for the covid test or something like that.
+
+And the pipeline had to be started by Omar and Vojtěch.
+
+And unfortunately they failed.
+
+So, so, we still are totally relying on one person who is able to start the pipeline, and that is a bad situation.
+
+So, ah, Rishu, this is this is mainly on you and also on Sangeet and and Vojtěch.
+
+To, ah, like make sure that the whole set up is understandable and regularly tested by others in the team.
+
+And the do it yourself integration would help with that actually.
+
+So the the system needs users, and the more diverse users, the more different users, the better.
+
+Because it will be robust to the different conditions of of the users.
+
+And the yesterday, ah, Vojtěch knew in principal what to do.
+
+He managed to get the ASR running and presented.
+
+But the rainbow worker was stuck for while.
+
+Then it was restarted by Phil Williams, ah, in Edinburgh.
+
+And then it, we were not able or Vojtěch was not able to to properly use it.
+
+So the language is were swaped there and some of the languages didn't contain any reasonable output.
+
+Just some language coats instead of the output.
+
+So, it's to for agile and did respect.
+
+And, Rishu and Sangeet please be in touch with Vojtěch and propose some solution.
+
+So that we are much more robusst even to individual persons not being available, right?
+
+(S) Yeah, yeah, yeah.
+
+So, I actually, I have a call just and while, um, I saw word checks e-mail regarding the girls -.
+
+(O) Yeah.
+
+(S) That he got rolled in the pipe and and I kind of had a ah talk, ah, call with him right at the moment, when I was free.
+
+And acting ah.
+
+<unintelligible> we just not sending them um in the mediator.
+
+(O) Mhm.
+
+(S) So that was kind of creating, ah, errors.
+
+Yeah.
+
+(O) So, ah, obviously he didn't know enough about the architectures.
+
+(S) Yeah, exactly.
+
+(O) He he didn't know where to look and what to check.
+
+So, ah, yeah.
+
+So this is something that it it should be like more self-explanatory.
+
+And, well, better documented.
+
+So that, ah, people would be able to to get it running.
+
+So Sangeet, you were during that time you're in some different lecture or, ah, because at some point I suddenly saw that like Vojtěch stopped trying, maybe.
+
+Or maybe he was trying, but without any any success, I don't know.
+
+(S) No, I actually, around <unintelligible> like two pm.
+
+We were having a call.
+
+And I was spending him through the pipelines that escaped like, what does each block, what exactly does and how to debugg.
+
+So I explain him.
+
+Now you are getting this errors how to debugg what what section is exactly the issue with so first tribe with the ASR of then try with the <unintelligible> itself, try individual ASR <unintelligible> and things like that.
+
+So, he was able to understand.
+
+But yeah, because it would not be a surprise if Vojtěch failed, because he was time for the first time.
+
+(O) Okay.
+
+(S) Yeah, the the pipeline is pretty complicated for someone who has seen it for the first time too.
+
+(O) Yeah, but I was surprised that like the pipeline, because it was the same pipeline that the pipeline -.
+
+(S) Yeah, yeah.
+
+(O) Couldn't be simply <unintelligible>.
+
+But why did the fingerprints then change?
+
+(S) No, the fingerprint was still the same, but the worker was not running.
+
+(O) But when the workers started running, it it didn't work.
+
+That that something which I don't understand.
+
+(R) Hm, maybe it's because of second.
+
+Or have you seen the common addresses file to include Natasha's ah army worker.
+
+(S) No we have a separate directory for that.
+
+(O) Yeah.
+
+So, ah, ah, -.
+
+(S) This is kind of again.
+
+You know, I mean a bad thing that, ah, if we want to implement Natasha's worker, we we need to have a separate separate descript.
+
+This is kind of bad.
+
+(O) This is very bad.
+
+Yes. <laugh>
+
+Exactly.
+
+This is very bad.
+
+Ah, so it.
+
+Ah, so please, you three, make a call pre- like set up a call with Vojtěch.
+
+Ah, it's a pity he he is not here at the moment.
+
+And, ah, discuss how this should be done.
+
+Ah, because Vojtěch is now, ah, after his experience, ah, he is working on on like, ah, how to make the configuration cleaner.
+
+Ah, so, please discuss this with him very carefully.
+
+So, next week, I would like to hear from you three how far you got in the in the like specifications of the requirements.
+
+So to say.
+
+So, eh, there is -.
+
+Coach -.
+
+Been -.
+
+So, ah, I ll put it here.
+
+Ondřej asks Vojtěch, Sangeet and Rishu to have a call and provide the first specification of requirements, uh, for a pipeline set ups.
+
+So that, uh, it is much less error prone and a more modular.
+
+Ah, easy -.
+
+Ah, EG easy to integrate, ah, also the profanity filtering.
+
+Matuš, ah, -.
+
+Rainbow worker and so on.
+
+(S) Matuš, ah, I also like to I also like to request you.
+
+So you have multiple scripts that start the um that starts you avanti and workers, which is like a multi- and multi bigger and multied relevant.
+
+So this is kind of confusing for, I guess, I know, each of these scripts.
+
+But then the new people did not know.
+
+So maybe if you could remove these scripts which have the similar performance, or only leave that which which is usable and which is kind of okay for the for our life sessions.
+
+(M) Mhm, can we maybe?
+
+I can maybe make it so that there is one script, because -.
+
+(O) Ehm, with different parametres.
+
+(M) Yeah, with different parameters.
+
+Because basically before this structure was like for the.
+
+Oh, actually, workers for the English to Czech model.
+
+(O) Ehm.
+
+(M) Which also uses tensor to tensor, so it uses the same structure.
+
+But, yeah, so maybe I could add some parameters, for example, to limit the number of languages.
+
+(S) Exactly.
+
+(M) And also to, yeah, for some switch for the for the which model to use.
+
+But is it possible to pass these parameters to uh to can I assume when you, when you were it on cluster.
+
+(S) Oh, sorry.
+
+So suppose like, if you have one worker, which emits all the languages.
+
+I mean, it's up to us, we can control how many languages we want to see the subtitling subtitling platform.
+
+It's completely up to us.
+
+But if you think that when starting the worker, if you limit the parameters, if you limit the number of languages there itself.
+
+And if you think that it improves the maybe I don't know, maybe speed.
+
+So then I think we should go for that uh.
+
+(O) Yeah, so.
+
+That's a good question on Matuš.
+
+Matuš.
+
+(M) Mhm.
+
+(O) Is, is it better to run the multi lingual moral with fewer languages enabled?
+
+I don't think it it is any saving?
+
+(M) Well, we did it actually, when we were testing it.
+
+I think we did it with with Dominik.
+
+If I'm not not mistaken.
+
+When we were testing a reef Sangeet, when we were testing it on -.
+
+I don't remember where, where it was.
+
+I -.
+
+(S) I think it was -.
+
+(M) It was the -.
+
+(S) It was the -.
+
+(M) It was not.
+
+It wasn't a hackathon.
+
+(S) Yeah.
+
+Yeah, yeah exactly.
+
+And -.
+
+So -.
+
+Mohammad at a performance stable constructed with the Phil's rainbow worker and Natasha's rainbow worker.
+
+And comparatively, ah, Phil's rainbow worker were a better, were better side.
+
+(M) Mhm.
+
+(O) So also -.
+
+All the rules of speed.
+
+Phil's rainbow worker was better in speed, but was it better in bless course?
+
+(S) Not to speed.
+
+I mean, overall, it was blows.
+
+Course was were better for fulfills were okay.
+
+(O) So then the, there is actually no point in having Matuš rainbow worker in the pipeline at the moment, right?
+
+(S) But, but -.
+
+(M) Yeah.
+
+I think -.
+
+Yeah.
+
+(S) If, well, for a fall back solution, it's important like uh remember during the Metaphorum.
+
+We didn't so -.
+
+Yeah, exactly.
+
+We need to have it -.
+
+(M) Yeah, but still, basically, yeah, yeah, there are still basically like two things that that are bad with the model.
+
+One thing is that it wasn't train trained with the fine tunings that feel used, such as using partial sentences and other stuff.
+
+And the other problem is that it was basically trained using tensor to tensor, which makes it very, very slow.
+
+So that's why we used the subset of the languages, because then, like then, it could work real time.
+
+But but otherwise that there was quite a big delay like two seconds to translate something.
+
+(S) Ah, maybe this is a stupid idea.
+
+But what I think is that if we could have like multiple word, multiple, multiple replicas of your same workers, and, each emitting, a different subset of languages.
+
+(O) Yes, that could be as fall back solution.
+
+But the main question is, how come that it's slower with more languages.
+
+Like, I don't see that because it should be paralyzing when your -.
+
+(M) Yes, so there are maybe like forty languages, so so there are forty, like the big size is forty.
+
+(O) Yes.
+
+(M) And for back size for it, it is actually a lot slower than for back size eight, for example.
+
+(O) Okay, so that is very strange.
+
+This is something that I would not have expected, because it should be running in parallel, right?
+
+(M) Yeah it it.
+
+It is somehow somehow Marian is better optimised, so -.
+
+(O) Mhm.
+
+(M) So maybe like for a better solution.
+
+I would probably -.
+
+Yeah.
+
+(O) Still, I think that -.
+
+(M) Use Marian, yeah.
+
+Yeah.
+
+(O) So I suggest that we do not use Matuš tensor to tensor worker at all for the live sessions.
+
+It is good, maybe, for creating the the syntethic data or whatever.
+
+Ah, but.
+
+Ah, as the fall back solution, we should have the Marian models running as a worker on our side.
+
+So, we should be able to launch rainbow worker from Phil on our cluster.
+
+(R) Yeah, for that uh, I think I located the directory on uh.
+
+Well, we have the code for that.
+
+I think Sangeet had copied from Phil.
+
+(O) Yeah.
+
+(R) I got the directory for it, and I will start looking into it.
+
+(O) So, sorry, I missed that.
+
+So are you going to do that, right Rishu?
+
+Correct?
+
+(R) Yes, yeah, I'm going to look into it.
+
+Sangeet mentioned that he when he tried that failed because of some medows that he does recall right now.
+
+I'll see what errors are those, and -.
+
+(O) Get in touch get in touch with Bohdan and others.
+
+So actually all of you I suggest that all of you are on the devel at ÚFAL mailing list.
+
+And let's use this mailing list for these technical issues like getting Marian running.
+
+I know that it will it will flood the list also for others who are working other things.
+
+But this is so like low level issues, that it's worth having this discussion in the devel at ÚFAL mailing list.
+
+So -.
+
+(M) And also -.
+
+(O) Are you all in the list?
+
+(R) I'm not sure if I am.
+
+I don't think I am.
+
+(M) I think that I'm not either, but also, I am using the newest version of Marian actually to train the shortening models.
+
+So I have version one point nine comparates as well.
+
+(O) So the devel, is or another option is to use.
+
+So the devel is really, I see its old people there.
+
+We have people like Vojtěch Srdečný there, but we don't have you.
+
+So we could also use the Elitr ÚFAL lists for that.
+
+(D) And what's your issue with Marian, can you repeat it?
+
+(S) So actually, when I was working with with Marian I had several like part conflicts.
+
+There were like chain of parts with which needed to be which needed to be fixed, and kind of unable to backtrack each each of them.
+
+Yeah, so I, I, I never tried it, then.
+
+(M) Do you mean path configs like, like, work paths for the Marian itself, or for the or in the model config.
+
+(D) If if you talk about learning Phil's model then Phil send us some scripts with absolute paths on their systems, and we just need to replace them with our paths, correctly.
+
+And then hopefully it will work.
+
+(M) Yeah, I can also try this if you send me the location of the models.
+
+(R) Yeah, sure.
+
+I'll again find it and send it to you.
+
+Sangeet can do that at me.
+
+<unintelligible>
+
+(S) Yeah.
+
+I'll follow you the even later.
+
+Okay.
+
+(O) Something who else, who else should be?
+
+Yeah, uh.
+
+(S) I think you already have the email?
+
+Matuš.
+
+(M) Really?
+
+(S) Yeah, it's the subject is UEDIN rainbow audience.
+
+But, ah, ah, let me send you again with the part of the -.
+
+(M) Yes, yes, yes.
+
+Because I don't have the path, I think.
+
+(O) Yeah, so.
+
+(R) So Sangeet please send me on that e-mail as well.
+
+(S) Yeah, yeah, so, so.
+
+(O) So, so, use whatever a communication platform works for you.
+
+Like direct emailing is fine as well.
+
+Remember to that Bohdan is also a source of information, because Bohdan will now be fighting with that.
+
+And he'll be running into the same issues, and and he has successfully fight it with Marian in the summer.
+
+So, he also has some pretty fresh experience.
+
+So it's Bohdan Ihnačenko.
+
+The zimbra will auto- autocomplete the um, ah, the ah, the the email for you.
+
+And also, so if you do not know who could help you with what, email Elitr dash UFAL.
+
+And I'm just asking Tea to add Bohdan there.
+
+And I'll I'll make sure that that you are there.
+
+Like all of you, who can possibly answer such questions are there.
+
+So let's let's use, ah, Elitr dash UFAL, also for the technical technical issues.
+
+If you have if you ran- random questions, ask around.
+
+Never wait.
+
+That's that's it.
+
+Never wait.
+
+Okay.
+
+So, I would like to hear from Matuš quick report.
+
+(M) Ehm.
+
+Yeah.
+
+So, right now, I am working on the shortening and extending models.
+
+And so I already have the first models, but now I'm trying to vary the amount of data and the length in the dataset, and to see, like, what is the difference in performance and and length.
+
+And then when I'm happy with this, then I will get to the second phase, where I will basically translate and and synte- and creating to dig data from the rest of the and the end dataset, and then I will build like the final shortening model.
+
+(O) Yeah.
+
+(M) And also, yes.
+
+So, here I I actually run into one issue that basically I'm running out of storage quota -.
+
+(O) Ehm.
+
+(M) On on levá strana.
+
+(O) Yeah, so, just ask for more.
+
+So have an estimate, ask for more.
+
+That's it.
+
+(M) So -.
+
+(O) So, so you just need to come up with a reasonable estimate how much more you need.
+
+So there they do have space, they only give it away only like after.
+
+They have seen that the people have thought about it.
+
+(M) Okay.
+
+(O) Because the practice is that no one ever cleans up after themselves.
+
+So the only way to avoid an exponential growth is to make the growth modest and moderated.
+
+(M) Yeah, okay, oh.
+
+And also, yeah, also, this is the problem with the facebooks one hundred language models, because they they take like fifty gigabytes themselves.
+
+(O) Yeah.
+
+Yeah, just answer -.
+
+(M) Ah, okay.
+
+(O) Keep it in the copy.
+
+Ah, write an estimate.
+
+How much you need.
+
+(M) Okay.
+
+(O) To IT EDU <unintelligible>.
+
+(M) And do you, maybe know, ah, like, how how much space there is available on Troja because maybe I could save something there.
+
+(O) Ask- simply say what you need.
+
+(M) Okay, okay.
+
+I will just added.
+
+Okay.
+
+(O) They will, they will know what is better.
+
+And actually, it's since the better GPUs are on Troja.
+
+Having the data in Troja makes more sense.
+
+(M) Okay, okay, okay.
+
+(O) Okay, that's good.
+
+(D) You can use Command DF and it will tell you the the space on all the disk.
+
+(O) Yeah.
+
+(M) Okay, okay.
+
+(O) Or DF minus age for human redo.
+
+Okay, just I just I won't see the quota there.
+
+(P) There is a command to check the quota.
+
+(D) Yeah, write it into the document.
+
+(M) Okay, okay, thank.
+
+(O) So in the, I'll check what is called, yeah.
+
+So, oh yes, quota, so is it this one?
+
+Yeah.
+
+So are you used?
+
+(M) Ehm.
+
+(O) Oh, that's a different quota. <laugh>
+
+Okay, yes, agree.
+
+Yes, that's that's the command.
+
+Opt and a few tils?
+
+(O) So I actually have an alliance for this.
+
+So, so.
+
+(M) Ah, ah, okay.
+
+I see it now.
+
+(O) When I type quota I, I get this.
+
+I get the output of this.
+
+(M) Ehm.
+
+Okay, so on Troja I have fifty gigabytes.
+
+Yeah, that's -.
+
+(O) That's too little.
+
+Obviously you can, you can ask for much more.
+
+Okay?
+
+That's good.
+
+So, ah, is there anyone who should report some progress, and we have forgotten about him.
+
+(M) Yeah, I I I actually have like one last thing.
+
+(O) Ehm.
+
+(M) And basically, ah, Eda Šubert would like to <unintelligible>.
+
+(O) Yeah, yeah, yes.
+
+(M) And he would like you to be participating as well.
+
+(O) Yeah, so what are his confidence. <laugh>
+
+And what are your confidence.
+
+Tomorrow afternoon, before the call that I have with Bohdan and Dominik, like tomorrow at two.
+
+Will that work?
+
+(M) I think that would work for me, so I can write to him.
+
+(O) So try, yeah, try that, because I'll have called at half past three with Dominic and and Bohdan.
+
+(M) Okay.
+
+(S) Also Ondřej and there is a guy here in, uh, in Zabrican.
+
+Um, he he is only, he is almost completed done with his masters.
+
+(O) Uhm.
+
+(S) He is an Indian guy and saw the data, it's his name and he mentioned that, uh, he is actually interested to join your group, your team.
+
+Maybe it's a PSD or do that at full time job.
+
+And -.
+
+(O) To apply for PHD one deadline is very soon.
+
+It's the end of the year.
+
+(S) Okay.
+
+(O) It's a briefly the one.
+
+So uh he should check uh it's something like UFAL slash PHD -.
+
+(S) Okay.
+
+(O) And he should email uh that he is interested uh, uh, to send to PHD at UFAL and something like that.
+
+(S) Okay, okay.
+
+I mention all.
+
+He also mentioned that -.
+
+Because his master thesis is based on modern machine translation.
+
+(O) Ehm.
+
+(S) But, he expressed his interest to join your group and he also mentioned that he had a discussion with you.
+
+I don't know about something during our debruity,
+
+(O) Yeah, Buffalo, I don't remember so his name.
+
+Yeah, so.
+
+Yeah.
+
+So for PHD application, he should email that email PHD at UFAL.
+
+And, ah, I'm beyond my capacity, but others may have the capacity and for the general connection with Elitr.
+
+Yes, that's not dependent on on that deadline at all.
+
+(S) Yeah.
+
+(O) Yeah, that will work.
+
+So I'm trying.
+
+Žilinec <unintelligible>, okay, yeah, yeah.
+
+So I'm for tommorow at two I'm trying to send a google invite.
+
+So, that's probably edge and I want still -.
+
+We are way beyond planned time.
+
+That's because we haven't had the call last week, unfortunatelly.
+
+So, I'm now highlighting the experience, ah, from the Metaphorum and as you want again.
+
+I've already reminded everybody to record what you what you saw and also read what other has other have experience.
+
+But let's also discuss the the lessons that we learned.
+
+And the immediate lessons and the to do list, ah, are this.
+
+Ah, yes, we absolutely need the evaluation of all systems, all files, ah, in the test set.
+
+Ah, like, ah, ah, ah, in, Elitr test set automated.
+
+So, how far is that?
+
+That's a question for Rishu.
+
+(R) Ah, so for that because the last week I couldn't work.
+
+(O) Yeah, because of the covid. <laugh>
+
+(R) Yeah, it's okay.
+
+Look at me and I wouldn't do anything like I told them.
+
+This is my local bactery.
+
+Pretty <unintelligible> strange but having made.
+
+Then <unintelligible> let me go home .
+
+(O) Oh, okay, so you're really like caught in the in the hospital, right?
+
+(R) Ehm, I was, yeah.
+
+(O) <laugh>
+
+(R) Eh, but, I was raised like very late in the night around nine, nine thirty Indian time.
+
+So.
+
+Okay, yeah.
+
+Yeah, so, I have started finishing that today.
+
+By the end of the day, I'll be done with it.
+
+So I have a call at two thirty Prague time with Mohammad to discuss some of the specifics of that is around the SLTS capability of downloading files.
+
+Do I need to do it manually.
+
+So, there are some calls to this -.
+
+There are something calls Mohammad.
+
+And apart from that, the code is almost finished with that discussion.
+
+I think I'll be able to wrap it up today itself.
+
+So.
+
+(O) Yeah, and we have Daniel Suchý on the call.
+
+So, Daniel will be the person who will pick this up from you.
+
+And and Yeah.
+
+(Da) Yes.
+
+(O) So are you also planning Daniel to be on that call with Mohammad, or with with the Rishu after that?
+
+(Da) Ah, which one is it?
+
+I'm sorry.
+
+I don- don't remember.
+
+(R) I think I'll have a call with Daniel later.
+
+Because that specific is only lated to automating the ASR evaluation.
+
+Yeah, it's basically to generate ASR automatically.
+
+And if I evaluate the ASR given any index file.
+
+So what essentially my script will be doing is taking an input of taking the index file as an input and it will generate the ASR from whatever model there is mentioned in the script.
+
+And I'm trying to make it as as well as possible, so that we don't need to hardcore the ASR in the script.
+
+We just choose that this is ASR I want to use.
+
+Same goes for, ah, the MT models.
+
+But, yeah, essentially, it's that.
+
+So, after that I'll have a call with Daniel to discuss all the, oh, things that I put in the script, and then I think he can take it up from that.
+
+(O) Yeah, okay.
+
+Yeah, idea is that once you evaluate exactly as flexible as you just describe it.
+
+Once you evaluate it, the outputs need to be stored somewhere, and the scores have to be stored somewhere.
+
+And Daniels know, Daniel knows where these things should be stored.
+
+So next time when you ask for the same thing like it.
+
+It could give you the the cashed, ah, output already.
+
+I think it could, because I think it's better to like have it, ah, run again.
+
+Ah, but, ah, and create one more entry.
+
+And if the entry is identical, then we.
+
+We're good.
+
+We know that nothing has has the like worsened.
+
+Ah, but ah it.
+
+Then, without running anything, you should just be able to look at the the stored outputs and the store scores, and it would immediately see where we are standing.
+
+So this recording of the results is something that Daniel will will manage.
+
+(Da) Okay.
+
+So, Rishu, let me know when you finish it, and we can arrange a meeting, and then I will look at it, and then I will write it into the deliverable.
+
+Yes?
+
+(R) I think I will have I'll have call with you next week on my <unintelligible>.
+
+(Da) Okay, okay, that sounds good.
+
+Okay.
+
+(O) Yeah, great.
+
+Okay, so that that that was the the first immediate lesson and to do that that arose from the last week sessions.
+
+And the other one is the management thing.
+
+So, when there is some session happening, we really need to make sure that we have the important people around the globe, ah, ah, like available.
+
+So I've halfway asked if Phil would be there.
+
+He didn't respond.
+
+And in the end he was not available.
+
+And a very similar thing happened also yesterday.
+
+During the, ah, the call at three pm Prague time the two to UTC call.
+
+Again we we were like chasing Phil through a Barry on on Slack.
+
+So it was, ah, it was crazy.
+
+So, ah, for this we we need to know which components we are using and who are the people behind these components.
+
+And for important sessions we should secure that we have the people.
+
+So that's is like, ah, a message for me but also for for Rishu.
+
+Ah, as a fallback solution, if I if I forget to to make sure that we have these people available, or they do not know that they won't be available.
+
+It is also okay.
+
+So if we knew that Phil is unreachable because he is traveling, or whatever.
+
+That that can, of course, happen.
+
+But we need to know what to do.
+
+We need to know what is our fallback solution if that party is not not present.
+
+And then we have the long term focus.
+
+And I would like -.
+
+So, the things that I spotted that really need attention are these.
+
+And I would like to put your names next to those for your, to know that like you are the people who are long term, including this goal and this, ah, ah, this challenge in in your plans.
+
+So this non native accent that's very critical.
+
+And here the person is Petr and possibly Rishu to a little extent, right?
+
+Ah, yes.
+
+(O) Anyone else, anyone else can work on on the non native accent think.
+
+Prob-.
+
+Could be -.
+
+My, well -.
+
+Yeah, I don't know.
+
+Ok, then, another thing that I spotted is this is in the Monday test document.
+
+It's it's highlighted in four times highlighted.
+
+It's called Gazette years.
+
+So when some session is happening, we need the names, ah, and terminology for that session.
+
+And we, ah, need to collect it like prepare it, manually created somewhat.
+
+And this manual creation should be supported with automatic tools as much as possible.
+
+So there is, there is a certain like skill, ah, behind that, that needs to be practiced.
+
+So I'm quite skilled in shuffling text files.
+
+And whenever I see you any any of you doing that, then I, like, always have tips in my head that what could be done faster.
+
+Maybe it's not faster for you in the end, but at least you should consider it.
+
+So this skill is something that that we need people to have.
+
+And, ah, we need someone to be like responsible for for that.
+
+And I, I 'm afraid that the only person, ah, for this could be Rishu.
+
+If you find anyone else who would be ready to help with the immediate domain adaptation the data crunching please, ah, say so.
+
+And then, we need -.
+
+So, once we have secured the dictionary of terms and whatever the word pronunciations.
+
+We need, ah, techniques to put these dictionaries to use in the systems.
+
+So, my impression, ah, from the, ah, domain adaptation that Omar has been carefully doing for all the sessions, was that it was not really visible in the hybrid ASR.
+
+So, one such session is again going to happen this Monday.
+
+Omar is already starting the data collection.
+
+But I would like to see the the benefit of of that domain adaptation in in in the Kaldi set up.
+
+So, maybe Omar and Rishu because he is learning how to do domain adaptation.
+
+And Peter, because he is doing how to work with Kaldi.
+
+If you three could, ah, meet and double check what is Kaldi doing with the -.
+
+It's not Kaldi, actually.
+
+The domain adaptation is for the Janus toolkit, right?
+
+Oh, yes, it is so.
+
+(D) Yes, yes, yeah.
+
+(O) So if you could, like somehow, the Kaldi will be similar.
+
+But we don't have that pipeline for Kaldi yet.
+
+But if you could like dig into the toolkit, and debugg whether it is actually getting the worst into that.
+
+So I know that Omar has already thrived that once.
+
+Can you confirm that you are a hundred percent sure that the dictionary is well included.
+
+And the substitute words are for the language model are are really used, and it's asking the correct anagrams with the substitute words instead of the the new words.
+
+Can you confirm that this is really happening?
+
+(R) The domain adaptation?
+
+I think so because, I think so, because we had, we were testing it with a non domain adapted model -.
+
+(O) Ehm.
+
+(R) And the domain adapted ones.
+
+And the domain adapted ones were capturing the domain related words much better than non domain adapted ones.
+
+(O) Yeah, so if you have this great experience then, then maybe I'm wrong.
+
+But my impression was that it is not really not really, ah, visible in the output.
+
+So please convince me idealy with outputs and also numbers that it's it's doing, Ah, ah, the job.
+
+(R) Uh, okay, but for that, we will probably need of the transcribed.
+
+Like we need one of the Monday meetings transcribed.
+
+(O) So the, for example, in Elitr test set there is this Monday talk of mine.
+
+The, ah, the everything can go wrong.
+
+That contains a fair bit of of terminology.
+
+(R) Yeah, we do board -.
+
+Oh, okay, so.
+
+But our models, I'm not sure if we have the domain rapid model for that or not.
+
+But for sure, all we can test the latest one on that as well.
+
+(O) Exactly, yeah, exactly.
+
+So this is like kind of backward looking, making sure that the old approach works the the new data well.
+
+But then there is also one thing, and there is -.
+
+At the moment it is absolutely impossible to do any domain adaptation for the fully neural ASR.
+
+So what I'm considering is to have an independent keyword spotting, ah, from sound.
+
+And some merging procedure.
+
+So, we could have two ASRs running at the same time.
+
+End to end ASR, which is better in general.
+
+And then domain adapted Kaldi set up, which is used only to spot the keywords.
+
+And when we see a keyword in the domain adapted version then we would then we would like use that sentence from Kaldi, which is in general worse, but contents the right terms.
+
+So that's that's my like suggestion, what we could do.
+
+And and another suggestion is that we really should have our arm fully new ASR and do various experiments on fine tuning and and and all that.
+
+So we've discussed this with Petr -.
+
+P P ah, Petr.
+
+And, Petr, is there any update from the potential, ah, ah, colleague or friend of yours.
+
+(P) No, not yet.
+
+(O) Yeah, so, if there would be anyone else, ah, would be curious about this, please let me know.
+
+Or get in touch.
+
+So this is something which is, which would really be accepted well in generally as a as a paper, because people don't do that yet.
+
+And that's the most, ah, string- stringing the the most urgent problem these days.
+
+So, we really could make a an impact there.
+
+(M) Yeah, I was maybe just thinking about, like, what kinds of data we currently use for this.
+
+Because, ah, because, for example, ah, like, if you check, like, Google's models on YouTube that they are like already pretty good at these things.
+
+(O) Yeah.
+
+(M) And and I think that if we, just like we could probably just steal the data from them.
+
+Be- because, because you have like a such a large, uh, set of of videos that that basically with with different domains and and different speaker and speaker native languages on YouTube.
+
+(O) Yeah.
+
+(M) And and like, I had this idea that we could just like, ah, use some tool to the download basically these some kinds of filter and videos from YouTube and make your training tests, ah, ah, a training set out of them.
+
+(O) Yeah, I agree, except we don't have the the human capacity to do that.
+
+So, Matuš proposal, ah, the scrape YouTube and even automatic -.
+
+(M) Yeah, and -.
+
+And it's actually something similar to what basically the kind academic purpose was.
+
+If I -.
+
+Make sense.
+
+(O) Yeah, exactly.
+
+(M) So maybe we could reuse actually what what <unintelligible> there.
+
+(O) Yes, yes, that's true, so we need, we need colleagues for this.
+
+So if you, ah, if you are, ah, are in touch with someone such as Petr is in touch with someone.
+
+Then, mhm.
+
+Yeah.
+
+So this is.
+
+It would be -.
+
+Yeah, it would be great.
+
+(M) Yeah, it's just an idea. <laugh>
+
+(O) It is so little chance here a little chance Peter's, ah, friend, ah, will help with this.
+
+Yeah, Rishu will evaluate.
+
+Ah.
+
+And then.
+
+Ah, yeah, profanity and then the positive speak.
+
+So, um.
+
+I have some examples.
+
+Ah, mm, eh, eh.
+
+And I've recorded them either in the Monday seminar document or maybe here in the Metaphorum as you want.
+
+That the ASR is sometimes, ah, yeah -.
+
+So one session was that at Metaphorum.
+
+There was a debate whether languages, ah, are the African languages will be supported by some of the European project.
+
+And the answer from the project, ah, coordinator was that, well, we were discussing this a lot.
+
+And then, unfortunately, it's it's African, and we don't have capacity for that.
+
+But the word discussing was recognized as disgusting.
+
+And the translation was that, like we were disgusted by the idea of including African languages in our project.
+
+So even the word disgusting, which is not a bad word on his own, is very risky.
+
+So, ah, we should, ah, our our profanity filtering should really be, ah, aggressive about about any slightly negative words.
+
+Right?
+
+(P) Maybe, maybe I have idea here.
+
+Because I'm afraid that we cannot just aggressively removed these words, because there are many words that actually might harm someone, and and especially these days.
+
+But maybe we, we could employ um these neural networks that I forget how this this task is called, but it's like based on the movie review -.
+
+(O) Yeah, sentiment analysis.
+
+(P) Yeah, yeah, sentiment analysis.
+
+Well, maybe we can use some sentiment analysis to to remove, um, sentences or or some a group of words with a negative sentiment.
+
+Or or something like that.
+
+Or or adapted to to some not actually negative negative sentiment, but rather some um agressive sentiment.
+
+If we can retrains that in such a way.
+
+(R) I have some experience with that.
+
+(O) Ehm.
+
+(R) But it doesn't play well.
+
+Because ultimately, uh I mean, that s uh kind of of very specific to a use case.
+
+So not exactly similar, but when I was working with the financial dataset that we had created, or in my previous work, so uh we were looking for things uh from, let's say, an investor's point of view, it was since it is related to sentiment analysis.
+
+That view is very subjective.
+
+So, even if you train a neural network model to a spot some, some of the things that might be disrespectful or um demeaning to someone, or maybe that that shouldn't be there.
+
+The including the subjectivity is pretty hard.
+
+Oh, it's a complete task of its own.
+
+So uh it takes a lot of work, it will probably take a lot of work.
+
+(O) Ehm.
+
+(P) And maybe maybe there are al- already some, some datasets, because, um, if I remember correctly.
+
+I'm the the the social media like Facebook or or or um or Twitter etcetera they, they actually use such things to filter the the posts.
+
+Because they, they are obliged to filter some, some rasist and some bad statuses.
+
+So maybe they, they have created some, some of the tape of this.
+
+(M) Yes, this is very true.
+
+There was actually a cable competition for this, where people had to make models to detect the tweets or like sentences which were harmful in some ways.
+
+And basically, if you just download some models from this competition.
+
+Then you will have a question fire that can classify basically this sentence is like hateful or like, there are, there are like five categories like fake news, hateful and I don't know like what.
+
+So definitely, you can use this for for the task.
+
+(O) Yeah, that's, that's good -.
+
+(M) I can send, send you the link.
+
+(O) Yeah, please pasted document -.
+
+But remember -.
+
+(R) <unintelligible> multi task of that.
+
+(O) Yeah, but remember that our setting is slightly different from these competitions and also the yeah -.
+
+The, the, the difference is that we do not expect the speakers to use this abusive language, or whatever you call that.
+
+So in our case, what we are after is more like sentiment inconsistency rather than bad sentiment.
+
+Because we expect these people to to to say only the nice thing.
+
+It's like official speeches.
+
+And the the bad words arise only as errors of ASR and errors of translation.
+
+And that's a different setting.
+
+And I think that with in this different setting, the the problem with the subjectivity that Rishu mentioned and I agree it's very important, but it may be less, ah, less severe.
+
+So I think there it could work, but it could -.
+
+We should probably train it differently to to get the most of that.
+
+(M) But also, if we detect, detect something using this, this model, then we can know that <cought> that there was a potentially,
+
+(R) Actually, I think it would make the task much easier, because since we are not expecting anything bad.
+
+So anything bad that is there can just be removed.
+
+I'm not sure how, how well it will perform.
+
+But, ah, yeah, if it if it seems hateful in gender, we just remove it.
+
+Because we are not expecting the speaker to say.
+
+So, we know that if it's hateful, it's just bad.
+
+So we are not showing it.
+
+Yeah.
+
+So in in other words, the ASR should make a different hypothesis.
+
+That's, that would be the idle behavior.
+
+Like that that in your ear there would be this positive filter.
+
+You never.
+
+You would never ever understand the the bad word at all.
+
+(R) Ah, yeah, something like that.
+
+Ah, I mean, we can just say in the profanity filter part, they can just look out for a hateful comments or or hateful sentence, and we can simply remove it.
+
+(O) Yeah.
+
+(R) It will be like a sentence was said.
+
+But it's not transcribed by ASR.
+
+It's not irritated actually transcribed, we will have it in our logs, but it won't be displayed on the subtitling platforms.
+
+(M) Yeah.
+
+There will be like hidden.
+
+(O) Yeah, so I see that as a great option for someone who would like to supervise a student.
+
+So it could be whatever Dominik or Peter, or Matuš, I don't know if you have any any stu-.
+
+No, you don't have any -.
+
+You're not.
+
+You don't have any bachelor students yet, because you're still studying from <unintelligible>, right?
+
+(M) I have some at fit.
+
+Who might be interested that.
+
+(O) But yes, yes, that would be easier.
+
+We could.
+
+We could also then employ them easier because they're, they will be Czech citizens.
+
+(P) Well, maybe maybe I can ask my student, because we haven't agreed on the bachelors thesis.
+
+(O) I think he should stay with the non native English accent.
+
+(P) Okay, okay.
+
+(O) Find another one. <laugh>
+
+(P) Okay.
+
+(O) Yeah, okay.
+
+So so we see, and again, like a good space for, um, ah, for research.
+
+And the, ah, here, the last item that I had on my list was shortening MT.
+
+And that's in Matuš.
+
+So, ah, Matuš, but also, um, -.
+
+Who was that, who was that?
+
+The two more people, Michael, Hana.
+
+And then one more person was, ah, was, ah, somehow related to to this task of shortening MT.
+
+I'll I'll think about that, working on that.
+
+(R) All the <unintelligible> ask one more thing.
+
+So for that task of, ah, can I ask the elderly students who are already in Prague for the first or second year.
+
+If they are interested in doing that then, maybe since they will already be in Prague.
+
+(O) Ehm.
+
+(R) And they were studying there.
+
+(O) Yes.
+
+(R) Is just uh it'll be equivalent as the other student.
+
+(O) Yeah, yeah, yeah.
+
+(R) I'll ask if one of them <unintelligible>.
+
+(O) For the positive speak, for the profanity filtering.
+
+(R) Yes.
+
+(O) Yes, please do.
+
+Definitely, that will be useful.
+
+(R) Okay.
+
+(O) Okay, well, so thanks a lot for your time.
+
+If you, I would still I like to ask you, please read the experience of others, record your experience from the most recent sessions.
+
+And also, if you are short of ideas read the the problems in the Monday tests document.
+
+And if you spot any other ideas that I could be fruitful.
+
+Put them here.
+
+Let's.
+
+Let's discuss them next, ah, ah, next week as well.
+
+I'm happy to see that actually we have covered by someone, to some extent, the- these topics that I've found.
+
+But there's probably more and, um, ah, yeah, we just need more people to do that.
+
+So, with that I would probably end.
+
+Is there still anything that we should discuss today?
+
+(R) Ehm, I don't have anything else.
+
+Okay, as well, other than like saying that my visa is a <unintelligible> probably be in Prague in January.
+
+(O) Yes, so that will be great if you finally make it.
+
+You'll be the first one who who really makes it to Prague.
+
+Because people from, ah, ah, the others are struggling.
+
+So please do arrive here.
+
+That would be very, very useful.
+
+So we will have one more this call next week, and then, ah, it will be already the Christmas Day and then, um, the the New Year's Eve.
+
+So, two weeks of of of a break from these Thursday calls.
+
+And then on the 7th of January will meet again.
+
+So next week and then in January.
+
+(R) Okay.
+
+(O) Yeah, okay.
+
+So, thanks very much.
+
+Ah, to all of you for the attendance and for your patients.
+
+Ah, patients.
+
+It was too long today and talk to you individually and also next week.
+
+(P) Thank you.
+
+(S) Thank you,
+
+Bye, bye.
+
+(D) Bye.
+
+Thank you

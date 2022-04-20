@@ -1,0 +1,16 @@
+PERSON1 = Ondrej Bojar
+PERSON2 = Anja Nedoluzhko
+PERSON3 = Tirthankar Ghosal
+PERSON4 = Ahmad Haji Mohammadkhani
+PERSON5 = Martin
+PERSON6 = John
+PERSON7	= Mary
+PERSON8 = Muskaan
+
+PROJECT1 = INTERSPEECH
+PROJECT2 = Shared Task
+PROJECT3 = ELITR
+
+ORGANIZATION1 = ACL, The Association for Computational Linguistics
+ORGANIZATION2 = Moderna
+ORGANIZATION3 = Pfizer

@@ -1,0 +1,651 @@
+(M) Hi there Tirthankar.
+(T) Hi.
+(MU) So Ondrej is gonna be there in the meeting?
+(T) Yes yes.
+Uh.
+Should we?
+(MU) <unintelligible> today?
+Uh.
+So he told me to share video.
+Hi Anna.
+Anna just joined.
+(T) Hi, hi how are you.
+(M) <unintelligible> mic is muted I guess.
+<laugh>
+(A) Now we are unmuted hi.
+<laugh>
+Ondrej said that he would join us he has written me an hour ago, he is somewhere in the city centre, he's running in the University and she will have a very quick lunch so.
+So I think he will join in about 20 minutes or such.
+(T) Okay, okay.
+(M) So I was.
+I wanted to discuss the one.
+Um, ah, Anna.
+Ah, ah, today Ondrej did send ah, that TDID for keyboard extractor.
+In the minute, did you did you went across that?
+(A) Oh no.
+(M) That mail.
+(A) Who sent what?
+(M) Ondrej did sent in the minute, eh group.
+In the minute, a Google group, he had send an email.
+(A) Oh, ah, keyboard yes.
+(M) Yeah so I did try it for the minute which we, we did the dry run, the dry evaluation.
+(A) I think I should first read it I do not know anything about it.
+So I, well.
+Well this is something yes, I have read it.
+(M) Okay, so ah, I did test this ah TDID of keyword extraction.
+On the minute which we were doing the dry run, for the one which we had nine minutes, and we evaluated it for the same meeting, so it gave so horrible results.
+It was, which was the keyboard extractor, and laugh.
+These were the two words.
+(A) Because they are all the most frequent its.
+(M) Yeah, so I said, 200, they are really bad.
+<laugh>
+And I want to agree that he is at that.
+They are they are seriously, they are hilarious.
+<laugh>
+So so, but Felix has today written to us that this he has some TDID based on summarize.
+So lets try that one.
+If it gives uh better results.
+So he has written some TDID based on keyword extractor his own program, so to check.
+But the one which is from CUNI is not good.
+(A) See, what is the name.
+(M) Charles University.
+(A) <laugh>
+Ahah.
+(M) So Ondrej sent me to discuss with both of you that how these results came for that.
+(T) Um.
+(M) So he said that it is all says the task is very difficult.
+(T) Yes, not sure.
+It is difficult.
+(M) Yeah, actually it is because a meeting data, it gives you the most, the maximum probability words.
+So the most occurring result.
+(T) Oh.
+(M) What meet meeting data?
+Yes, yes, yes, meeting data.
+Yes yes meeting data.
+Ah like our our meeting data it gives you most most commonly occurring words which are, like all those, all those words, which we usually say, because our <unintelligible> meetings are not something which are set up, then they are like in an organized fashion.
+They are not played.
+Our meeting is something which is usual meeting.
+So these are the common words which are occurring.
+And that is why the summarizers are giving such horrible results.
+(T) Okay, so uh cant we preprocess those <unintelligible>.
+(M) We can 't prepare us.
+We cant remove.
+Yeah we can remove that but anyway still, it gives sentences which are not relevant, like.
+(T) <unintelligible>
+(M) Using not the ID but other approaches so.
+That is a problem actually of meeting so uh Ondrej said that maybe he can include a newer motivation to share task or some paper maybe.
+Uh this <unintelligible> these commonly occuring words which we saw in the TDID like uh hmm and like laugh.
+So you can include them as the motivation so these are the common occuring words which usually which we usually we extract when we are doing summarization for meeting data.
+So that is one of the biggest problem of meetings summarization.
+So you can include that point into your shared task.
+So this is something we also noticed very early uh uh that the- these are some random words which are uh the usual word which we speak are occuring into the summarization of so this is the biggest drawback of meeting data which needs to be handled someway.
+(O) Hi.
+(M) Oh Ondrej joined us.
+(O) Yeah hi sorry for the delay.
+I was at uh lunch.
+And i need to go uh to the court room.
+(A) You are extremely quick Ondrej.
+<laugh>
+(O) No no actually the email the email should got send only when I was already sitting at the canteen.
+So it the email was delayed.
+(A) Um hum okay.
+(O) Yeah this is needed because I had to move to the court there.
+Uh okay uh yeah so, uh, Tirthankar about the venue, have you found the sick dial dates?
+(A) Yes.
+(T) Uh, yes the dial dates are like submission deadline is January 15 and the like the <unintelligible> are not uh published yet, I went through, but I went through the <unintelligible> and possibly they will follow the same timeline.
+<unintelligible> after one month, so if you if you say January 15 by February 15 we should know that whether we are accepted in <unintelligible> or not.
+Going by the other um years and then um.
+(O) Earlier then after.
+Signal itself is earlier interspeech, so I think its very uh risky or.
+(T) So we.
+Yeah so we would have 3 months before the paper submission deadline.
+You know like big dial special session is just like interspeech <unintelligible>.
+So uh like we have to be totally dependent on the sick dial people for running the special session, because it will be an like <unintelligible> part of the program.
+It will not run as a parallel task parallel session it will be a part of the program.
+(O) This is, this is, yeah this is preferable if we make it timewise, so thats thats a cricital problem so if the timing is harsher or not any better than interspeech then it doesnt make sense to go for sick dial because the sick dial itself is earlier.
+So if we if we cannot get the benefit of being integral part being in their proceedings then I would prefer interspeech uh <unintelligible>.
+(T) Yes, for that, so another date for sick dial is like uh the papers that would be submitted in our shared task would be reviewed by the program committee of sick dial and they do not guarantee that whoever our participants are we can like in like choose and invite that who would be presenting because.
+(O) Yeah thats okay, like I would not see that as a big problem, increasing the quality of the shared task paper is fine if there is enough time for the submission.
+So thats the critical thing so so Anja I've read the document or I've opened it already in the morning but the problem is that I havent found the the paper submission deadline for sick dial and that is critical.
+If the paper submission for sick dial is uh similar to what was our submission for the system outputs, then let lets do sick dial, but if the paper submission deadline for sick dial is earlier if its around the time as the submission deadline for uh for interspeech.
+I mean their main one then there is no point in going for sick dial.
+(T) So uh, I will just post the timeline for previous sick dial so you can understand that how Uh ah submission for a.
+(O) <unintelligible> to the document that that we are browsing the the.
+(T) Yes yes, i did.
+(A) <unintelligible> all these yellow things like <unintelligible> committee members invited speakers uh submission process so.
+Are we able to do that?
+(O) To review the papers?
+(A) No ah, to create all this.
+Ah, around things.
+Scientific commission large enough to handle paper reviews.
+So it is a creates our.
+(T) Program committee.
+Yeah
+(O) Yeah, I think it is where you can do it.
+It is not too bad.
+Like I have done it for a few empty marathons several years ago.
+Empty marathons used to have this system or tool papers that were published as a special issue PBML that was in the first year when that happened.
+And then, in the subsequent years, it was integrated with normal like.
+There were also PBML issues which mixed empty margin papers and separate papers because of the the number of those papers.
+And we even had a thing like if the paper was not good enough for the PBML.
+But if the tool was presented at the empty marathon.
+The authors were invited to submit for another review for for the next PBML issue.
+So we have, even like said, your system or your tool is interesting.
+Please publish it at the Anti Marathon among the people.
+But your paper is too bad.
+<laugh>
+You need to improve it, and you will get only to the next PBML.
+(A) Yes, but Ah, another possibility for sick dial is not it possible that a <unintelligible> dial
+we attract kind of better participants.
+(O) Yes, that is a that I also had, but I do not know, either of the the venues.
+So you had.
+They had a fine paper registration July.
+So the conference was in September, and the paper submission was in May.
+(T) Was in May.
+This time it was in July.
+(O) So it was time it was in July, June, July, August, September, its four months approximately.
+(A) But actually, when you create this as if somebody from outside, from good, summarizes, say, summarizers, say, besides to take part in our shared task.
+Anyway, he would never spend on it more than two weeks, is not it?
+Je.
+(O) Yeah, yeah, that is right.
+So we cannot expect more involvement than two weeks of of person.
+(A) Actually just the reality that possible rocks.
+And so probably it is not such a problem, and their application process is definitely easier and Ah.
+(O) For what?
+(A) For sick dial.
+(O) I dunno.
+<laugh>
+I dont think that the, I dont think that the application procedure for us is easier.
+(A) The preparation is easier, your just say that we want to do that and that for interspeech we have precreate the separate action.
+(O) But what I 'm worried is that the timing of sick dial is equally bad as the interspeech special session.
+Or worse, perhaps.
+(T) I uh I, I personally would proposed that we should have at least four months buffer time.
+(O) Yes.
+(T) Like four months time, where we done a dead thing at the deadlines we are able to choose.
+So in that respect, I think if we get into interest, that will be better for us.
+(O) Yeah, I think so.
+(T) But uh again, the sick dial thing is probably like uh what an honest thing that is probably, ah, it is already established to attract more participants, and that the uh application proposals we already have, so it is easier.
+(O) Yeah, yeah, I would still prefer the later timing.
+I think it makes more sense because you have to.
+I agree that the people would spend two weeks working on the submissions at most in some, but they need to have three months of sitting, just like having it on their to do lists.
+And then in the two weeks, they will give it, but they need to have this time of of not doing anything and still knowing about that.
+(T) And also, another other thing like uh, it may so happen that it happens in many shared task.
+We we release the data, and then the participants come up with many problems that we can 't see right now.
+(O) Yes, yes, yes.
+(T) And then we have to feed those and then again republish.
+(O) Yeah, if the time is short, then this is very in high risk.
+(T) Yes, yes.
+So it happens in almost all the shared task, like, um.
+The first, the first challenge is released, and then the participants come up with, okay, these are the problems in this data, then they release another version.
+(O) Yeah, it is better if this does not happen in WMT  this does not really happen often, but that is a very established task.
+You know exactly what to do.
+And even when preparing the data for the shared task, everybody knows what to do.
+So the in WMT there are.
+It is a rare thing that the test sets are updated, and also the training data.
+It is a rare thing rather, but it would be, I think it is more likely for our minuting setup.
+So yeah, I 'm.
+I 'm definitely in favor of the later dead lines.
+If so, we?
+I said, Four months.
+So what is the um?
+Sick dial 2021 is already in June right?
+(T) Yes, yeah <unintelligible>.
+(O) So that means that the deadline for papers for their like.
+Regular papers for special session papers would be a March, and that is, Ah, the same timing here.
+Yeah, this is coming as interspeech the official one, the special track set up.
+And it does not fit our needs.
+(T) Yeah.
+(O) So I think we, we actually have to do.
+If we get accepted, we should try and and try to get accepted.
+And we really should do interspeech at a live event.
+(T) Mhm I think I think we should start to uh preparing for that.
+(O) Yeah.
+(T) What do you think on you?
+(A) Okay, well.
+(O) Yeah, so Anja of the extra work for the invited speakers that the workshop.
+(A) For me it is totally unrealizable work.
+(O) Um hum I dont see it like that.
+(A) I would not do that never, so I'm not.
+(O) We have Tirthankar, so I dont think.
+(A) So for me its very very hard work i would just intuitively for less income but if you think the time that later task are more important I totally agree.
+(O) I think the later time is is very important.
+(A) If the ways ways are are sat I totally.
+(O) And I've done empty marathons and there.
+(A) Yes you have a lot of experience with that.
+(O) Ah, it is a work that has, to, be started soon for the invited.
+But actually at anti marathon its the I know the people so that is the difference.
+So at anti marathon, I just like asked around, and actually I myself created the structure of what I would like to hear.
+Half or two thirds of the structure were known from the previous years, because there is this summer school aspect.
+And then, I like thought, what other topics?
+What topic on the side would I like.
+And I specifically asked colleagues who I actually knew before if they would come so.
+And they knew empty marathons.
+So there was a different situation.
+It was only logistics and the the work for like putting the program together was less less of a problem, because people knew what to expect.
+They were they were willing to come kind of anyway.
+And when they were invited, we've saved some of their turtle funds or something like that.
+So it was.
+It was easy because it was in the field that I know, uh.
+(T) I think like inviting the program committee.
+And that, you know, because when we have a problem, we know people from the simulation committee, and we can reach out technically reach out to them.
+(A) Yeah, mhm fine.
+(T) So uh the the other thing I'm just bit worried about, like because, um, interspeech is all about speech rights.
+So for any reason, suppose if we do not get into interspeech like a backup plan if you do not get it.
+(O) So then we will apply for sick dial, but they also have the option of separate proceedings for sick dial.
+(T) Yes.
+So, ah the program committee would, Choose, ah the, the, the people that they want to appear in the proceeding.
+But if we want to create our separate proceedings, afraid to do.
+(O) Yes, so we can also run it as a sick dial thing.
+Ah, but without.
+And again in PBML.
+(T) Yes, so the papers appearing in sick dial are okay.
+We do not publish in PBML those who are not appearing in sick dial posing.
+(O) If someone manages to.
+Thats good.
+So if someone manages to do it in time for the sick dial deadline, yes they should go through the sick dial submissioned deadline.
+And if they fail, we invite them to to send it to PBML, and we will review it ourselves.
+(T) Yes, yes.
+(O) So maybe what I do the same thing also for in their speech.
+So like there would be plenty.
+(T) For for interspeech we have to do that.
+(O) For interspeech we could also split it paper by paper so that some papers would go to the interstate proceedings and some interest.
+Some of our submission papers would come later for the PBML proceedings, and the authors would be free to choose.
+So we have to negotiate this with either sick dial or interspeech.
+If it is okay for them to have some of our papers, given that these papers are submitted by the March deadline.
+So there is an absolute strict requirement, and I think its, they cannot have anything against it.
+Because if the paper is worth publishing.
+Like, it is only a bonus that the paper has some shared task result appearing in the satellite event.
+So yeah, I think it is okay, so we do not need to ask for a special session in any of well in interspeech.
+It is called Special Session.
+We do not want that in interspeech.
+We want the satellite event, but we will tell our people.
+If you manage to have your paper ready by the interspeech deadline, send it as an interspeech paper, and you will have it with interspeech.
+Ah, ah, if you do not, ah, do it for the interspeech deadline.
+Here is our deadline.
+And that is for PBML.
+(T)  Ah, okay.
+But the thing like uh for interspeech satellite event.
+Erm, interspeech, like, will not get into any proceedings.
+(O) Yes, we will do the proceedings as the PBML yeah.
+(T) Yes so so you want to say, like, if someone does it earlier, so they can send you interspeech.
+(O) Yep.
+(T) Oh, okay, okay.
+But uh that will be a total surprise thing, not.
+(O) Yes.
+So it is then from the outside, it will be just a coincidence that, like in interspeech they are presenting this.
+And this is the live event they are listed as a participant in the shared tasks.
+And in the overview paper for the shared task, we are citing the interspeech paper and not the PBML paper in the PBML or proceedings.
+(T) Um-hum.
+(O) And the same applies to sick dial.
+(T) Yeah, uh 
+<laugh>
+I, I think, uh it may make a bit complicated, because uh we won't know uh the result of the interspeech live event until March 15th.
+By that time, the interseech deadline would already be there.
+(O) Um, ah, that is, I hope that we will know.
+But, ah, but obviously, yeah, we need not.
+Maybe they will be late.
+So, maybe we will tell us only so late.
+So, yeah, but then, ah, okay, then never mind if if someone is working on the thing for, ah, for years, ah, then he can do it in in the two weeks until the March deadline.
+And if someone is not working on that, then he will have the deadline for our PBML like I. 
+I do not see any big problem there.
+(T) Okay, okay, so uh.
+So the thing is like, only right now.
+We have to like prepared the proposal for both.
+(O) Yeah, but the one for interspeech is the preferred one, in our case.
+(T) Yes because we have to commit it soon.
+Yeah, uh because the proposal is already active.
+And uh, as the year said, that they would need at least one month, okay?
+<unintelligible>
+And then after the endorsement we have to send it by February to <unintelligible> to them.
+They will do another round of division yep.
+(O) Yeah, so let us.
+Ah, okay, so.
+Ah, ah, it is.
+Ah, we need to apply for the <unintelligible> membership.
+And I'm afraid that you cannot do it?
+Well, maybe Mrs. <unintelligible> could do it like for you?
+Because, ah, so it is probably bound to a person who is who is a member, a person or an institution.
+(T) An infusion can take what a person can take.
+So the part of personality is very live a for student.
+(O) Mhm. 
+(T) It is just 20 euros.
+So I can do that, yeah.
+(O) But the question is whether this would be sufficient for them, or whether they would need the institutional.
+(T) Ah, oh, I do not think like uh it is required institution, because once you have the login id and password you can submit.
+Submit the proposal yeah.
+(O) Okay, but they will probably consider a differently if it is submitted from.
+I do not know, maybe you, maybe you had that person responding.
+So double check with them if a student price would be a student registration for, or would be okay and uh, or whether we should do the uh, the institutional one, and uh also so, is it annual?
+So, is it like for 2020 and then separately for 2021.
+Or is it for a year.
+(T) No i think it will be for 365 days.
+(O) Okay, yeah.
+So in that case, I think, and how much is the institutional.
+(T) It is uh it is for for package it is to fourteen euros.
+(O) Sorry say, say again, 40, forty, four zero
+(T) 240 euros.
+(O) 240.
+(T) Two four zero.
+(O) Two four zero versus just 20.
+<laugh>
+Yeah, that is a big difference.
+(T) Yes, um, yes.
+(O) So let us try this.
+The student <unintelligible>.
+(T) I will just ask him.
+(O) Yeah ask him.
+(T) We, Um i was just to mention that we have only one membership.
+So is, it is required that all the organizers have the membership.
+(O) And in that case, the institutional is better, probably because the institutional is, I assume, that the institutional is kind of like for five researchers and two students, or something like that, though.
+If you have the institutional one.
+You dont.
+(T) Yes, if you have the institutional one, then you do not need that separate uh thing.
+(O) Yeah.
+(T) So for a full member regular rate is one year, is sixty euros, and for a student member for one year, it is 20 euros
+(O) Yeah so.
+(T) So, and for institutional member package.
+It is 240 euros for one year.
+(O) So that corresponds to four members from the institution.
+So it is like, without knowing these numbers, I said, it is like for four researchers and and two students.
+So these two students are for free, so thats like.
+So I made the estimate exactly correct.
+<laugh>
+So the best thing is to ask, also Jan Hajic, ah, so this entitles people to attend in their speech as well.
+Right?
+No, obviously it is not the conference fee, but it is a reduced conference fee.
+Then, right?
+(T) Like one one show.
+If one has the membership for, yeah, they will have some, some discount at the interspeech conference.
+(O) Yeah, so I, such as that, you email Jan Hajic and ask him, what is preferred for the department.
+If we should go for the institution one, or if we should.
+Ah, go to Ah, because there are more people possibly.
+Ah, and also Ondrej Dusek or Ah, these.
+These are the speech people kind of.
+So it does make, it can easily make sense to um.
+Ah, do the institution in.
+Ah, ah, registration anyway.
+(T) Okay, So who should I ask I did not get.
+(O) So well I would say out in general ask Jan Hajic, Jan Hajicat UFAL because he is the former head of the department, and also, he knows about all the projects who are here.
+So he would have an estimate like how many people could possibly be interested in taking part in interspeech.
+(T) Okay, okay, uh.
+But uh I 'm not really sure that if one has a income membership, they will get reduced three restrictions.
+He had inter switch so that I am not sure.
+(O) And can we check from past.
+Ah, interspeech conferences.
+(T)Okay, okay that I can do.
+(O) And also sick dial is also <unintelligible>.
+And so it is either.
+Or that means that the registration for <unintelligible> is also probably sufficient for sick dial application.
+(T) Yes, yes, oh, oh, okay, I saw.
+So they have reduced fee for interspeech.
+You have.
+(O) Please put these numbers, the student versus non student to the email to [PERSON96] so that he like sees the the differences.
+And he would have an estimate like how many people potentially could take part in their speech.
+(T) Okay, okay, mhm.
+(O) Yeah, so that is um.
+I think we are all set.
+This is all clear at the moment, at least to me.
+(T) Yeah.
+And now, like since we would start repairing for uh this Ah proposal, we have to.
+The major thing that we need to believe.
+Make our scientific committee like we have to now reach out to people.
+Yeah, very quickly, and prepare the website, and uh like prepared the call for papers on the website, like, Make up with it, and uh do all the stuff.
+(O) So yeah.
+So when creating the the website.
+It is best if you email Honza Ptacek.
+So it is PTAL mail.
+That is not Anja privately.
+(T) Can you like write in that dock maybe?
+(O) Yes, I put it at the very top.
+So, ah, oh, I 'll make it.
+Oh, I can only suggest nevermind.
+Ask for preffered type of membership give numbers to all estimate how much we will save waste by institutional one and [PERSON247] at [ORGANIZATION2].
+(O) Let us see that is an all this carbon <unintelligible>
+Um, Ask, ah for the best, ah setup of a webpage.
+Before that, Ah, that brows.
+Ah, for some of the projects that we already have.
+So, for example, <unintelligible> project.
+Ah, and Ah, Ondraj suggests <unintelligible> ELITR minuting.
+Ok, so I think this is, ah also clear ah and ah then, ah thanks to <unintelligible>
+Evolution so have you seen the outputs of the, of the of the extractions of of key words <unintelligible>.
+(M) I discussed with them, but did not see it.
+<unintelligible>
+(M) So actually, Felix, is giving some, uh <unintelligible>
+(O) I havent opened that yet.
+<unintelligible>
+Is it TFIDF based on our collection so that it is like that <unintelligible>
+(M) No, no, no.
+<unintelligible> I have not ran it so.
+But the dictionary is not all based on our corpus.
+That is something which I saw.
+(O) So it would be good to learn from Felix.
+How come that it works, or what they do.
+And it is good to have reasonable baselines.
+(M) Mhm.
+(O) So this is exactly the thing that we wanted from Arion for quite a while, and we never got it.
+It was not like when, when Anya asked for that.
+It was not the first time that I ask for./
+<unintelligible>
+So I can see, okay, can you hear if you, if you are opening the Felix outputs, can you?
+Can you share this.
+<unintelligible>
+If you are opening the Felix output.
+Can you, can you share <unintelligible>
+(M) So the system think we did <unintelligible>
+No, i havent run the Felix output. He had just shared his code, so that needs to be applied to our data
+(O) I tought he send the output.
+(M) No, he did only send the code, not the output.
+<unintelligible>
+Ah, any snapshot or no results.
+Something is on there, so I need to run it.
+I need to run this code on our data to see how it performs.
+(O) Yeah, uh.
+(M) So this is something <unintelligible> I noticed very early.
+I did when I just started.
+I did notice that the most frequent words, which are like, mm, hello, can you hear me, something like those words are something extracted from the meeting data.
+So that is the maximum probability words which are most occurring words are mostly fetched by all these lexical methods.
+(O) Yeah, okay, yeah.
+So please, please run it yourself as well.
+Because ge said, I ran it on some of the meetings, and there <unintelligible> decent.
+<parallel_talk> let us check.
+Because what?
+What are we going from the K E R Atlanta is not decent.
+(M) Yeah, so let us see uh.
+So let us check if, if they are otherwise, I 'll contact Felix if he has run on our.
+Data, because that is our meeting data.
+(O) I yeah, okay.
+(M) <unintelligible> 
+(O) So that is probably everything from me at the moment.
+I 'm now opening the document by <unintelligible> the progress report.
+See any changes.
+<unintelligible> is interesting?
+So while we have resolved the comments of muskan, is the correct that you, for both the evaluation and also for the automatic summarization the methods you mention.
+Can you easily run them right?
+Like, <unintelligible>
+(M) So actually, ah, most of the Ah codes 
+(O) um-hum
+(M) Yeah, actually they are already there in one <unintelligible> implemented.
+So that is not much to implement, because that is just running their own code.
+(O) but have you done it.
+I know it should be very simple, but it is often <unintelligible>
+(M)Yes, yeah.
+Tanker also has implemented it so mhm they both have it.
+So can maybe <unintelligible> can share his screen, like, What is the current?
+What is on your worth bench.
+So to say what you can immediately use for either meeting summarization itself, or the evaluation of of that, or what you can do, and can you share it on your screen?
+(T)
+<unintelligible> matrix
+(O) Either matrix or the summization itself, whatever you have.
+(T) Okay, I shared that few was, Ah, weeks back.
+<unintelligible>
+(M) <unintelligible>
+So, ah, so better than <unintelligible> ideas.
+(O) And well, I do not see Ahmed on this call.
+Are you in touch with Ahmed?
+Is he attending most of these calls, or are not?
+Or is he working separately?
+(O) <unintelligible>
+(A) Oh, last time he sent me something, then he er developed it somehow actually I do not know.
+(O) Yeah, so that is important, because it is.
+The time is is, ah, ah, harsh.
+We really need to have quite a bit of the data available in January, and all the data that we want available in in March.
+But between that, we need to show it to the people for the second round of consents.
+So this is very, very important, so that we give people some time to browse the data.
+(A) Mhm, Yes, I will write him.
+(O) So that is like be in touch with him, and he should have access to all the data that we have transcribed.
+So it is so far the data has been processed only by you and your people.
+So you were giving it to the people, and you knew what, in which state.
+But now the data also has to go to the anonymisation, and that should be done as much, <unintelligible> as possible.
+So that the same style of anonymisation is applied everywhere.
+(A) I know already.
+He sent me something about three weeks ago of extracted name <unintelligible> to take.
+He said that he had some discussion with you, and he understood that he should change it somehow.
+And I make it better.
+(O) Today, He said that?
+(A) No, no, no, no.
+Three weeks ago,
+(O) Okay.
+(A) And that he would send another table and said they should check it probably.
+(T) Okay, so I have shared the evaluation with <unintelligible> that was run on one of our um like dry <unintelligible>
+And so basically, we have now like lots of evolutionary <unintelligible> from which we can chose.
+Yeah, so and there are lots, <unintelligible>
+I was preparing the other documents, which would do better.
+It is some kind of messy now, because there is so much information right here, yeah.
+<unintelligible>
+(M) One thing go which Ondrej came across was that we do not have anything called as gold standard.
+So everyone in the building, automatic <unintelligible>, they have something called as <unintelligible> comparing their generated minutes with the gold standard minutes, so possibly for, like, preparing our own.
+If you, if you talk about preparing our own automatic <unintelligible>.
+We have to see to something which is without reference, which is like without gold reference.
+So that is what I had in my mind that because we do not have anything which is gold standard.
+And oh, it is all made by annotatus.
+So if we can consider any of them gold standard.
+(O) Yes, this is what what we can do.
+So we can split, and we have to do that anyway.
+We have to have the meetings split into the training part of the development part and the ah, ah and the final test part.
+And ah, this is something that has to be done, like immediately after we have the data anonymized, and then the gold standard is available for all the training data and for the development set, and we will have it, or we have it, but we will not disclose it.
+Ah, ah, for that as well.
+So does the gold standard.
+We will choose if we have more meetings, more minutes for a single meeting, we will choose just one, or we can even have two gold standard.
+That is also OK there can be multi reference metrics.
+(M) So that means the one which originated by anotators is the gold standard one?
+Okay.
+(O) Okay so I thought, Yeah, uh the <unintelligible> please go ahead.
+(T) So so uh like all these uh metrics are well and fine running, although I must say I do not know much about them.
+<unintelligible>
+I 've started writing a dog about the discussion of each of them after reading the papers so uh.
+But these are all running, so any of them, we can like choose.
+Yeah, mhm.
+So there are some semantic level metrics, like bird score sentence mover similarity.
+So that was also there in the proposal, like we gift at least two lexical and two semantic level metric now, so that we can judge the submission <unintelligible>.
+So yes, so this is very messy, but I will, ah, prepare the like.
+Ah, like like this.
+Ah the 6th set of metrics uh like from the rules, we can just take the rules position for one, two, three, and then.
+Ah, then, ah, also.
+You can see the dataset metrics, where there are many other metrics, like over age, a density compassion ratio.
+So we do not need all of them.
+I will prepare at least like those which are easily understandable from this.
+And I will send it to you with my comments.
+So one thing that I noticed, one thing that I noticed is like we took minute five, like in the dry event that you need five was the best performing one, according to all of us.
+And then it was meeting two, I guess.
+Ah, so you are missing one and two uh.
+So you can also see that um, usually for these two uh minutes, the school is higher at the (O) Score against what what is for the discourse are reference based?
+(T) According to the minute we need five.
+(O) Okay, so you take you take minute five as the gold standard.
+And then, like you <unintelligible> one and minute two against a minute five.
+(T) Yes, yes, so I did it for all all the <unintelligible> but that is usually so.
+I consider that other minutes are like submitted by our participants.
+A minute five <unintelligible> is the gold standard that we have.
+(O) What we totally know which of the methods work best when we have the true submissions, so you can now use the, that is what most can mentioned <unintelligible>
+Can which of the summarization methods you have implemented, can you run them?
+(M) But ah, so can I share my screen, I think I have I have open.
+<parallel_talk>
+(O) How do I get rid of this <unintelligible> that is too complicated.
+<unintelligible>
+So you are now <unintelligible>
+You need to mute yourself on one of the two devices.
+Okay, um-hum.
+(T) So what we are currently also doing is that we are doing the same rhythm evaluation or two other um uh meetings, and we have created those minutes, and I 'm still lagging behind it one of those, but I will do this by weekend.
+And then I will also was the evolution of all these three in one dock.
+It would be easier for us to understand that what is a general train for the metric, <unintelligible>
+(O) So can you ah, start, ah, wrapping of lines in this editor, or maybe ah can you exit this and open in the <unintelligible> instead, or <unintelligible> to this control.
+<unintelligible> do not say that.
+Hello.
+Can you hear me <unintelligible>
+She is hearing, and she does not hear anything.
+Can you hear me yesterday?
+<unintelligible>
+So you need to <unintelligible> in the turn of the speakers, on the on machine, yes.
+So now that is a good your your machine will your desktop will provide the screen and your Iphone will provide the sound.
+(M) Yeah. 
+(O) Can you please close this in nano and instead open it in less, or <unintelligible> or <unintelligible> 
+(M) I usually use, I 'll tell you how to exit <unintelligible>
+Okay, it is a long time when I used to use a VIM 
+(O) ou really should take use them, because now you will learn immediately that, for example, the outputs contain this bite or their mark, this FEFF so whim reveals much more about the Ah, the textiles, then the number.
+So it is <unintelligible> because then less of mess is left accidentally in the files.
+So, yes, and I see how everybody Ah, hinds <unintelligible> another language.
+Oh, so this is for the whole.
+For how long was the original session?
+(M) Can I open that meeting?
+Ah, I think I have it on my desktop.
+Ah, just a second.
+Um, yeah, this is the meeting.
+Oh, here we have uh, i think it was one or long.
+(O) Oh, and it produce these short summaries, then obviously a lot of content is, Ah, is Ah lost.
+It is not a not in the summary.
+(M) Yes.
+So at least I think that is better than the like baseline like better than extracting <unintelligible>
+So this is actually extracting.
+So we cannot expect much to, but still the highest probability sentences are not good, like they are not important to us.
+(O) Yeah, their <unintelligible>
+(M)  <unintelligible> ah, recent acceler paper and the net.
+And so this is something I 've just implemented that paper.
+(O) OK.
+(T) So <unintelligible>
+(O) <unintelligible> or they do not provide the code.
+You had to implement it yourself?
+(M) Ah, yes.
+(O) So could you also please get in touch with the authors of the paper just send them an email and say, I would like to test your system on our summaries, and I reimplemented but I would like to double check if I got it right.
+So ah either ah, that they send you their input data so that you run it and you compare the outputs with their outputs or that, but this is Ah, because this is not ah anonymised yet that you would do like a test probe with only one of the meetings and carefully select one which contains only the project Internal people, ideally only us, then and ah.
+Send it to them so that they run it ah, and ah.
+The the question is whether your implementation.
+Delivers the same results as their implementation, and it is very unlikely that it will be the same outputs actually.
+So by this contact, you will first validate whether your implementation is is correct.
+And second, you will kind of tell them, and halfway invite them for the share task as well.
+So this is also like a side goal that I have there, so please contact them for sure and try to use that because they are now actively working in the field, so hopefully they will see how difficult our data is.
+And what do you do, what they can do with that.
+(M) So they have actually one person.
+I think that is a Phd student, and he is working.
+He he has lots of papers into meeting summarization.
+Yeah, so yes, I think we can yes, yeah.
+<unintelligible>
+<parallel_talk>
+(O) So it is very common that you learn a lot by replicating trying to replicate someone 's paper, and <unintelligible> learns a lot about his own paper when, when someone replicates it because, there are many decisions that are never written in the paper, and you made them <unintelligible>
+He or she has made them differently.
+So it is also, sometimes you get a better score by by the box that you have in your code, and sometimes you get a worse score.
+So it is very important to have two are very useful to have two implementations and compare their outputs, and then discovered the box in each of the ah, the implementations.
+Yeah, ah, I 'm sorry I 'll have to leave for the other meeting ah, now.
+But ah, well, ah, you can continue discussing, I think, we are all said, so this is this is good we have, something it is not doing, the, the, summarization, as we want but it is doing something.
+Ah, so yeah, yeah, please working on that, I see Anya even with the the family.
+So, ah, so, please make sure that we make a timeline for the data preparation and share it with Ahmad <unintelligible> so that, like for every file we know by when it should be processed to want <unintelligible>
+Yeah, so that for every file or every set of files, we know by when it should be processed to what level, and that we can check whether we are on track.
+So the timeline is very important.
+So some files which are still without the transcripts, they will probably not make it to the release.
+Some files which already do have transcript, but are not <unintelligible> they should get in there, <unintelligible>
+(A) It is quite clear, resolved it is unclear for me at the moment with the date so we should and i 've set it with the <unintelligible> i think it is take a dime and how many steps so what are the steps well demise what is not clear for me at the moment <unintelligible> 
+(O) With a <unintelligible> and Ahmed, and then <unintelligible>.
+(A) So once it should go through some <unintelligible> programme, yes, to get back to me and I should give it back to anotators.
+<unintelligible>
+(O)yes, but this kind, of, details, with, ahmed, it is not so.
+<unintelligible>
+So we, we do not release.
+<unintelligible>
+(A) Ah, at all any.
+Ah, alignments they will.
+(O) <unintelligible>
+<parallel_talk>
+(O) It is nicer to release them, <unintelligible>
+(A) I think we can finish now, just.
+<unintelligible>
+(O) I did not mean to dissapear.
+<unintelligible>
+(A) Bye, bye.

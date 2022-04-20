@@ -1,0 +1,3 @@
+PERSON1 = AnjaPERSON2 = Tirthankar GhosalPERSON3 = MuskaanPERSON4 = OndrejPERSON5 = Jan HadzikPERSON6 = EdwardORGANIZATION1 = UFALORGANIZATION2 = Charles University
+LOCATION1 = Czech, Czech republic
+

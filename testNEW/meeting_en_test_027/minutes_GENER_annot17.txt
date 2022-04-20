@@ -1,0 +1,64 @@
+Project updates
+Date: January 2021  
+Attendees: Ondřej Bojar, Sangeet Sagar, Rishu Kumar, Peter, Dominik
+Purpose of meeting: discussing various updates: THEaiTRE, MALACH
+
+- General updates for THEaiTRE.
+-- Postponed by a month to 26 February.
+-- If Sangeet or anyone else could help Rishu, get in touch with him.
+--- Sangeet is very busy right now (exam period), in a month he will have more time.
+-- THEaiTRE will have two parts: one online, pre-recorded, the second one will be a real live discussion taking place in the THEaiTRE. 
+-- Ondřej is going tomorrow to the THEaiTRE for a technical meeting.
+--- Dominik is a back up person. 
+
+- General updates for the MALACH event.
+-- In need of somebody to take care of the recording. 
+-- Likely that we will get some dictionary. 
+-- It is in Czech.
+
+- Ladder climbing: to do for Rishu.
+-- This is the most urgent thing right now.
+-- Clean up the evaluations.
+-- Use simple auto-generated HTML tables. 
+-- Create a conversion from the tables into HTML. 
+-- Put the results regularly to Rishu's webpage / GitHub.
+--- Useful for people outside UFAL so that they can browse it.
+
+- Ondřej's updates.
+-- Currently working on updating the demo paper submission and some project reports.
+-- Also busy with minuting. 
+-- Reminds everybody to work continuously over several weeks, not just before the deadline evaluation takes time.
+-- With the subtitler study paper, we are aiming for the ACL deadline.
+
+- Rishu's updates. 
+-- He finished the deliverables. 
+-- We have a statistic to represent the numbers. 
+-- Rishu thinks we should also add a statistic to represent language pairs (English > German or vice versa)
+-- Original plan was to get an idea about the word ration of the two languages for a given transcript.
+-- Add other complementary metrics.
+--- Profanity filtering evaluation: create a list of words which must not appear in output.
+--- Rare words evaluation: create a list of words which we want to appear in output. 
+-- This involves manual preparation of the reference.
+-- Ivana Kvapilíková has compiled a translation dictionary and will share it soon, might be helpful. 
+-- Rishu will have a call with Omar and then take a look at the lists.
+-- Rishu should also create delay scores from some files from ELITR test set.
+
+- Peter's updates.
+-- Currently working on Kaldi, managed to compile it.
+-- Now he is training the model on common voice. 
+-- Rethinking the data set he will use for the experiment, maybe use Wall Street Journal or Library speech.
+--- Ondřej says to definitely use more data sets, common voice alone would be too small.
+--- Waiting for a reply from Karlsruhe about the data sets.
+-- Peter is the one at UFAL who is training the ASR system.
+--- Sangeet, Peter and Omar will have a call to discuss further.
+---- Vicki will be a replacement for Omar, include him in the call too.
+
+- Dominik's updates.
+-- Released the ESI corpus to Bohdan. 
+-- Trained speech language identification: Czech, German, English. 
+-- Discussing ASR system details. 
+--- Ondřej: we should have multilingual MT models and multilingual ASR / multiple ASR feeding into the same multilingual MT. 
+---- Might lead to bad quality. 
+
+
+Minutes submitted by: DANA OCELIK

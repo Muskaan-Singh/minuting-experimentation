@@ -1,0 +1,17 @@
+Virtual coffee hours
+Attendees: [PERSON54], [PERSON27], [PERSON7], [PERSON53]
+Purpose of meeting: Interspeech and sick dial discussion
+
+Summary
+• [PERSON53] did test TDID of keyword extraction
+• Sick dial 2021 is in June
+• Interspeech student member costs 20 euros
+• Validate if implementation is correct
+
+		Milestones
+		• Dial dates submission deadline is 15 January 2021
+		• Interspeech live event March 15th
+
+
+
+Minutes submitted by: [ANNOTATOR3]

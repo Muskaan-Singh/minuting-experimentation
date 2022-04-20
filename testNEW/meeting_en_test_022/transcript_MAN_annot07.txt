@@ -1,0 +1,665 @@
+(A) Hello.
+
+Hello.
+
+(B) Hello Anja.
+
+Can you hear me?
+
+(A) Hi.
+
+Yes, I can hear you.
+
+Sorry for delay.
+
+I spoke to Ondrej in the in the next room.
+
+And whose-
+
+(B) Oh, ok.
+
+(A) Muskaan is not coming?
+
+(B) Nei, she is having fever actually.
+
+(A) She is what?
+
+(B) She is having fever so.
+
+(A) Aha, she is ill.
+
+(B) Yea, yeah, yeah, right.
+
+(A) Oh yey, what is, is it Covid?
+
+(B) I hope not.
+
+(A) Many of my friends are having Covid now.
+
+(B) Oh, <unintelligible>.
+
+Oh, how is it looking now?
+
+(A) I don't know, differently.
+
+(B) Czech.
+
+(A) In Czech Republic it is quite bad, but I do not know what is bad.
+
+(B) Oh, Muskaan joined.
+
+(A) Yeah, Muskaan joined. 
+
+Muskaan Hi, how are you? 
+
+(B) Hello, Muskaan can you hear us?
+
+(C) Hi, can you hear me?
+
+(A) Yes , how are you?
+
+(C) Oh, actually I 'm-
+
+(A) Oh, yey.
+
+(C) <unintelligible> since-
+
+(B) <unintelligible> list maybe <unintelligible>.
+
+(C) Yeah, anyway was just lying down I can hear-
+
+I'm getting bored actually now.
+
+My mom is not letting me do anything.
+
+So.
+
+(A) Stay in the, stay in the bed and relax.
+
+It's important.
+
+To stay healthy.
+
+(B) Yes.
+
+To, Anja do you have anything specific to discuss today?
+
+(A) Not very specific I wanted to thank you for preparing this Google forms for alignment annotations.
+
+It's very useful and pleasant to use actually.
+
+To have all this spreadsheet with all the annotators that download their data there, it's very nice. 
+
+Really having overview for what was done.
+
+And I can answer them, it's really nice.
+
+(B) Ok, so Anja I was like looking through the task that we need to do.
+
+As specifically I need to do very quickly for the like for the workshop proposal.
+
+(A) Yes.
+
+(B) And here it seems to be mimi.
+
+So, so let me just quickly give you an overview.
+
+That what, what we have to do very quickly is we have to uh set up the website now.
+
+So, Ah I have connected to the person whom Ondrej reffered.
+
+And he reverted to me back with a link and say that you can do it there.
+
+So I'm get to see that how it looks like to do with the UFAL, ah, website.
+
+What I was wondering like if we can quickly do it on a Github or something.
+
+I do not know, like how much it time will take to do with the UFAL website?
+
+(A) It may be similar.
+
+I do not know either.
+
+Should I ask Ondrej?
+
+I have no experience with that.
+
+(B) Okay, okay.
+
+So, let me first look into that um, like, how does it works, uh, to do with <unintelligible> and something.
+
+Because I'm not very experienced with those technologies.
+
+So I have to see, but if it is, if it is tough, I would not do.
+
+<unintelligible> do it in Github and do it very quickly.
+
+(A) Yeah.
+
+(B) <unintelligible> like do much more timing to, into these things.
+
+(A) Yes.
+
+(B) So, yeah.
+
+So one thing is setting up the website, but the website should have, uh, the content like, ah, the call for participations.
+
+(A) So the website of Ah, the <unintelligible>, of the, of the special event.
+
+(B) Yes, yes, yes.
+
+(A) Mmm.
+
+(B) So it will contain the call for participation.
+
+Uh the program committee.
+
+Uh the dates and the submission information type in the review process, location and stuff.
+
+So these are easy to do.
+
+Like but we have to write about the call for participation.
+
+So I will like uh start writing them here today.
+
+Mmm, but I was requiring your input.
+
+Like, let me write it first version, and then, um, like maybe you, Muskaan and Ondrej should comment on that. 
+
+(A) They comment to that, of course.
+
+(B) Yeah.
+
+(A) Of course we will comment on that, yes.
+
+(B) Yeah, sure.
+
+Ok.
+
+So after this is done then at the same time Anja I will also ask you Anja and Muskaan.
+
+Please try to invite people for like reviewers for the share task <unintelligible>.
+
+So.
+
+Yeah, so I will share with both of you a <unintelligible> e-mail for that we will resending to people we know and we want to-
+
+(A) I don't know-
+
+I don't have any, I don't have any connections in this summarization field.
+
+I'm <unintelligible> new there.
+
+(B) No, no, not require, not require Anja, not require to like only for summarization, ok?
+
+(A) But how-
+
+(B) We have to show we have a good program committee.
+
+So I think you already-
+
+You already brought the-
+
+(A) Not summarization people.
+
+(B) Like no one is going to check, you know.
+
+So that's it.
+
+<laugh>
+
+(B) Yeah.
+
+(A) They will know that they are good, but at the same time they will not know that they are summarization people.
+
+I don't know. 
+
+(B) So you have already brought three people, right?
+
+As participants.
+
+So even big and like agree to do uh review at least one or two papers.
+
+(A) Well, they are okay, maybe.
+
+Okay.
+
+(B) You can just ask them, because eventually, like finally, it depends on how many papers we are getting.
+
+And ah, like um.
+
+And then we can invite more people based on how many papers we are getting, okay?
+
+So that is <unintelligible>  requirement, but for in the website we have to show at least, I will say approximately around more than 20 people in the program committee.
+
+(A) More than 20 people in the program committee.
+
+(B) Yes, yes, yes, yes.
+
+So like we have many good uh contexts, like, for example, from UFAL only we can have two or more than three or four people.
+
+Excluding as the organizers.
+
+So one could be <unintelligible>, uh, you might know someone.
+
+So yeah.
+
+(A) Hm-hm.
+
+(B) And so let us let me write the draft e-mail and share it with you.
+
+So I think this this can be done easily uh.
+
+And yeah.
+
+So uh can you open that particular doc that I shared uh <unintelligible> about inter-
+
+(A) This overview?
+
+Overleaf.
+
+(B) Not overleaf.
+
+Google doc.
+
+Ok, let me share it with you again.
+
+(A) Yes, thank you.
+
+(B) Hold on.
+
+Okay, so this is no correct thing.
+
+So I, I just shared at the Zoom chat.
+
+(A) Oh, does not work <unintelligible>.
+
+(B) Which one?
+
+(A) No one.
+
+Just Google Docs is kind of uh it does not work today.
+
+(B) Oh, why is it?
+
+(A) Just Google today is busy.
+
+It happened to us already, once with Ondrej now.
+
+Just it does not work.
+
+I do not know.
+
+I can 't open it.
+
+(C) How can I help you?
+
+(A) I don't know, but Ondrej told that today Google doesn't work.
+
+<laugh>
+
+(B) Yes, I can also see that.
+
+It's not working.
+
+(A) Yeah.
+
+Somehow.
+
+So what I already opened, it it works.
+
+But the new Google documents are, so don't work.
+
+So I should download it, it doesn't work.
+
+(B) Okay, anyway.
+
+So uh let me tell you uh briefly.
+
+Uh so the thing is like a for the website we need this thing uh to be ready.
+
+And uh like uh we have to have the membership <unintelligible>.
+
+For that I have mail to professor Jan Hadzik, I guess.
+
+So, he is yet to respond back that we should do the individual membership, or we should do institutional membership so that we have to know what to do.
+
+And yes.
+
+So these are the, like, immediate pending task for preparing the proposals.
+
+(A) I think I 'm a little bit lost and <unintelligible>.
+
+What was the last information I.
+
+(B) Yeah, so we have to also like get the <unintelligible> membership right.
+
+So uh for that, I have mail to that-
+
+(A) Aha, okay, I see on my <unintelligible>, ok.
+
+(B) And I was looking at the, into some challenges of for the last year and their websites.
+
+So we are going to like make that uh similar to them.
+
+Like the content.
+
+(A) Hm.
+
+(B) Yes and.
+
+Yeah, I think that is it.
+
+(A) Oh, okay.
+
+So what does it mean for us?
+
+<unintelligible> read your document and then we will see.
+
+Yes?
+
+Wait for trust.
+
+(B) Yeah.
+
+(A) Ok.
+
+(B) Wait for the draft and, yeah.
+
+So I will send you the email draft to themselves.
+
+And uh maybe like uh, I will also copy on to it so that he can also invite some more people into the program committee.
+
+(A) Definitely, definitely um copy to Ondrej.
+
+Because, yes he is the person who could have know about somebody.
+
+(B) Mhm, right.
+
+Okay, so this is it.
+
+Uh it seems a lot of work to do.
+
+For this.
+
+(A) Yes.
+
+(B) For this workshop thing.
+
+Because, you know, like um, usually in workshop, like we used to have a big organizing committee, and some people are from <unintelligible>.
+
+So and I think none of us are from someization background.
+
+So-
+
+(A) Yes.
+
+(B) We have to work extra hard.
+
+(A) Yes. 
+
+None of us from-
+
+You're also, you're also not from the summarization background?
+
+(B) No.
+
+(A) Aha.
+
+(B) Yeah.
+
+So that is, anyway, I did not thought like, um, like making a share task would be that much challenging.
+
+(A) Mhm.
+
+Well, I <unintelligible> that it is challenging since why I was so much unsure about making workshop that.
+
+I think you manage it.
+
+(B) Yeah, the actually, like we are also doing uh some workshops with <unintelligible>.
+
+But thing is that there are like, like, the organizing committee is very big.
+
+And so all of us are doing some, some, some portion, ok?
+
+But I, like I am mostly looking into the like publicity and the website.
+
+Uh for that.
+
+And also a bit on writing the paper uh for that uh, but I did not like, um, <unintelligible> share task I guess it there is so many things that we need to take care of.
+
+(A) Yes.
+
+(B) And the thing is like for us full legit workshop we don't have content.
+
+You know.
+
+So that is why we have to focus on-
+
+(A) Yes, we don't have, we don't, we don't actually have scientific input.
+
+We have just the results of the experiment.
+
+(B) Yes and I believe, like if to make it a workshop we definitely need at least one or two people who have a background in summarization.
+
+So that they could can think of many content.
+
+We are just focusing on only one data, right.
+
+Like only one aspect of summarization.
+
+(A) Yes, well, actually this discussion makes me totally frustrated.
+
+Because originally, we planned and make a work, a shirt task.
+
+It means to give the participants a totally new task and asked them to make mixed experiment and then compare the results.
+
+Now we make a scientific workshop.
+
+We need invited speakers on the topic and articles on the topic.
+
+I really, I can 't help beat frustrated how it is it is possible to do.
+
+But you are and Ondrej are optimistic.
+
+So, why not.
+
+(B) Yeah, I think uh like uh, even if we call it a workshop, but it will be mostly challenge specific.
+
+Because we do not really have content for the workshop.
+
+(A) Yes, yes.
+
+But it is also actually not a workshop it's a satellite event.
+
+At the satellite event maybe <unintelligible>
+
+(B) Right, right, that's the exact word.
+
+<unintelligible> not call it a workshop.
+
+(A) Yes, let's not call it a workshop.
+
+Yes, let's call it an event.
+
+(B) And for the like <unintelligible> speakers also like we have to invite some <unintelligible> for the input.
+
+Because uh we have <unintelligible> to some like prominent people in summarization.
+
+Uh for uh like uh for some other topic.
+
+Uh so, but uh like they did not like, they didn't like responded affordably so they were actually not available.
+
+(A) So you address somebody?
+
+(B) Yes, yes, many, me and Ondrej we, we addressed at least six to seven people from summarization community.
+
+(A) Aha.
+
+(B) But they are very, like they are very famous professors, including Edward, <unintelligible> and-
+
+(A) And they did not answer?
+
+(B) No, they did answer, but they said, they were very busy.
+
+(A) But what?
+
+(B) They said they were very busy.
+
+(A) All of them answer that they-
+
+So everybody declined.
+
+(B) Yes, yes.
+
+(A) Aha, ok.
+
+(B) But the thing is that we <unintelligible> to like the like what unquote very famous people from some relation who were like, you know.
+
+If we could have reached out to some early career people that would have been great from summarization.
+
+But anyway, we have to think of <unintelligible> who has already worked on summarization.
+
+So for that, I will talk to Ondrej.
+
+(A) Mhm.
+
+I do not know anybody.
+
+I really do not know at all this earlier at all.
+
+Maybe <unintelligible> could know somebody.
+
+(B) Yeah, maybe.
+
+(A) You didn't ask him.
+
+(B) No, I 'm going to ask him to be a part of the program committee because he declined to be a part of the organizing committee.
+
+(A) Mhm.
+
+(B) I'm going to ask him to be part of the program committee.
+
+(A) Yeah, <unintelligible> is definitely a good idea.
+
+He should be, if he agrees, he is a good part of an organizing committee.
+
+Probably he could know somebody for keynote.
+
+So from this <unintelligible> media generations so, little bit younger, say.
+
+(B) Mhm.
+
+So uh in this regard.
+
+But feel uh Charles University is is organizer, so it does not make sense, like someone from UFAL, right?
+
+(A) As a, as a what?
+
+What?
+
+(B) As a <unintelligible> does it make sense like someone from UFAL to deliver the keynote?
+
+I do not think so.
+
+Because we are part of the organizing committee right?
+
+(A) Hm, I do not know.
+
+So if it is somebody, why not if it could be, if it is an authoritative person who knows about the topic, but I do not know the person.
+
+I do not know who could have this talk.
+
+(B) Mhm.
+
+Um-hum.
+
+Yeah, right.
+
+(A) As as I think about summarization, I knew just a couple of very young students who began to do the year.
+
+My gisters work on Phd.
+
+Actually I do not know about senior people for just summarization.
+
+(B) Yes.
+
+And that too in terms of speech, not really text.
+
+Mm, so let me ask, let me ask Ondrej <unintelligible>.
+
+(A) Should I, should you, do you want to ask him now?
+
+(B) Ehm, I can e-mail him or how do you propose to ask him?
+
+(A) Yes, yes, yes.
+
+(B) Ok.
+
+(A) No, he's in the next room.
+
+(B) Oh, ok.
+
+(A) In the office.
+
+(B) So if he is available maybe he can, would he be able to join?
+
+Or maybe-
+
+(A) I will ask him.
+
+I will ask him.
+
+As you say, as you-
+
+As you tell.
+
+(B) I think just let me-
+
+(A) Ok, let <unintelligible>, write him an e-mail, yes.
+
+(B) Ok, so I will do that.
+
+Anything elsa Anja?
+
+We are going to discuss?
+
+(A) No, I think no.
+
+This proposal isn't important.
+
+It doesn't have sense to thing about to to discuss summarization.
+
+(B) Yeah, yeah, yeah, right, right.
+
+(A) I think you're totally busy with this topic now.
+
+(B) Yes, I try to figure out what are the other things that we need to take care of.
+
+(A) Yes.
+
+(B) Ok, anything else?
+
+Muskaan do you want to like share or we can drop for today.
+
+(A) I think we can drop.
+
+Muskaan should stay in bed.
+
+(B) Yes, take rest.
+
+(A) Yeah, take rest.
+
+(B) Exactly.
+
+(A) And be healthy as soon as possible.
+
+(B) Yeah, yeah, just take rest, yeah.
+
+Ok then.
+
+(A) Bye then.
+
+(B) Yeah, <unintelligible>, ok, bye.
+
+(A) Bye.

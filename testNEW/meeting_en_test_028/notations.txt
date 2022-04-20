@@ -1,0 +1,55 @@
+
+People:
+
+[PERSON1] (O) - Ondřej Bojar
+[PERSON2] (S) - Sangeet Sagar
+[PERSON3] (R) - Rishu Kumar
+[PERSON4] (P) - Peter
+[PERSON5] (D) - Dominik
+[PERSON6] (E) - Ebrahim
+[PERSON7] (V) - Vojtěch
+[PERSON8] (M) - Muhammad
+[PERSON9] - Tea Vojtěchová
+[PERSON10] Lee
+[PERSON11] Omar
+[PERSON12] Phil
+[PERSON13] Vicki
+[PERSON14] David
+[PERSON15] Chang ( author citation) 
+[PERSON16] Matuš
+[PERSON17] Ivana (Kvapilíková)
+
+
+Organisations:
+
+[ORGANIZATION1] CUNI
+[ORGANIZATION2] Faculty of Mathematics and Physics
+[ORGANIZATION3] UFAL
+[ORGANIZATION4] Karlsruhe
+[ORGANIZATION5] Yale
+[ORGANIZATION6] UEDIN
+[ORGANIZATION7] ACL
+[ORGANIZATION8] ACTL
+[ORGANIZATION9] ESIC
+[ORGANIZATION10] EECL
+[ORGANIZATION11] EACL
+
+Projects:
+
+[PROJECT1] ELITR
+[PROJECT2] Malach
+[PROJECT3] Kaldi
+[PROJECT4] ASR
+[PROJECT5] MT
+[PROJECT6] Nemo
+[PROJECT7] Opus
+[PROJECT8] Linux
+[PROJECT9] Verbatim
+[PROJECT10] GitHub
+[PROJECT11] Gauch
+[PROJECT12] Zoom
+[PROJECT13] SLTV
+[PROJECT14] SLT
+[PROJECT15] Library
+
+[ANNOTATOR17] DANA OCELIK

@@ -1,0 +1,57 @@
+﻿[PROJECT1] Remote Meeting
+Date: Unknown
+Attendees: [PERSON1], [PERSON2], [PERSON3], [PERSON4], [PERSON5], [PERSON6], [PERSON7].
+Purpose of meeting: discussing [PROJECT1] updates, setting up future meetings to do test runs and evaluate [PROJECT1] test sets
+
+- [PERSON4]'s updates.
+-- Transcripts for checking are almost done.
+-- One transcriber from Germany is working now.
+-- [PERSON4]'s mother is writing the questions for the German subtitle user study.
+--- Progress from this study will be moved to the spreadsheet.
+-- Started writing deliverables. 
+-- [PERSON1] is hopeful about [PERSON8]'s work, maybe contact him to remind him.
+
+- [PERSON5]'s updates.
+-- [PERSON5] finished transcripts for the first 30 parts, for the next 10 parts it is still running. 
+--- Issues: some files have weird output, the audio format is wrong.
+---- But for most folders it is fine. 
+
+- [PERSON1] thought of another possible task for [PERSON5]. 
+-- Training the empty systems to do the shortening. 
+-- Similar to what [PERSON9] is doing with the [PROJECT3] project. 
+-- [PERSON5] could get implement the technique from [ORGANIZATION2]: processing prefixes, which is much faster.
+--- Our systems work with sequence to sequence, they process the entire sentence, which is slower.
+-- [PERSON5] would train the system to stop generating after some time. 
+-- Update from [PERSON10]: [PROJECT4] is not ready.
+-- Candidates for this task: [PERSON5], [PERSON11], [PERSON12]. 
+-- [PERSON5] will check if this is realistic for him and how hard it will be to change the source code.
+ 
+- Miscellaneous updates.
+-- [PERSON3] is setting up the presentations.
+-- [PERSON6] has been working on adaptation for two domains. 
+-- [PERSON3] and [PERSON6] will have a call again and do a test run.
+--- Test two concurrent subtitlings of videos without domain adaptations. 
+---- That means that two (local) machines need to be operated. 
+-- [PERSON3] is also doing some ASR.
+--- Issues with audio/video, some are not in the proper format. 
+---- Needs manual override. 
+---- [PERSON1]: this is critical, proper formats should be part of the automatic evaluation of [PROJECT1] test sets. 
+---- [PERSON7] will help. 
+-- [PERSON1] reminds everybody to do plenty of test runs: before you try, you never know what will be the problem.
+-- [PERSON3] and [PERSON11] will have a call discussing the [ORGANIZATION4] test set.
+--- [PERSON6] should also join this call. 
+-- [PERSON2] is finishing training German ASR that may be used for time stamping.
+-- [PERSON1] needs to see the ASR numbers today asap and improved numbers by Monday.
+-- Currently have two ASR workers.
+-- [PERSON5]: output for some folders is terrible, unintelligible audio. 
+
+- Multiple custom dictionaries.
+-- [PERSON2] and [PERSON6] are working on them. 
+--- Put the two perspectives together.
+---- [PERSON2] knows what he created in the dictionary, [PERSON6] knows what it looks like, he is creating it manually.
+-- Discussing issues: a lot of empty noise in this dictionary.
+-- To do: have various version of it, including only the words that were observed at least five times.
+-- The dictionary will have three columns: grapheme (output), phoneme (different variations), grapheme (for all those variations). 
+-- [PERSON2] will help [PERSON6] by changing the IPA phonemes into CMU
+
+Minutes submitted by: DANA OCELIK

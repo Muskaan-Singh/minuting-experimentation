@@ -1,0 +1,68 @@
+﻿ELITR SurgeTech
+Date: May 11, 2020
+Attendees: [PERSON1], [PERSON2], [PERSON3], [PERSON4], [PERSON5], [PERSON6],[PERSON7], [PERSON8], [PERSON9]
+Purpose of meeting: Synchronizing the group, checking the progress of work
+
+-Introduction.
+--Explaining delay.
+--Presenting the goal of the call which is to synchronize the group and check the progress of work.
+--Remarks regarding recording were made.
+--Warning about [ORGANIZATION3] conference- it will be an important test event and it is necessary to get ready for it.
+
+-[PERSON4] presentation as he was the most remote for a while.
+--First thing he has been working on is paraphrasing.
+---He was collecting the monolingual data using [ORGANIZATION4].
+----It has some limitations.
+--[ORGANIZATION5] was discussed.
+--[ORGANIZATION6] releases some data which could be used for the trained models.
+--The monolingual data for domain adaptation are needed.
+
+-Testing evaluation using [PROJECT1] test set and [PROJECT4].
+--Who is now responsible for the ELITR test set?
+
+-The status of [PROJECT4] [PROJECT1] test set.
+--The [PROJECT4] is completely finished.
+---It should be the standard evaluation tool, not just for the [PROJECT1]project, but also for others doing a spoken language translation.
+---Everybody who is evaluating something should get in touch with [PERSON6] to find a way in which this tool will work for all of them.
+---Everybody evaluating any systems should make sure to evaluate them using [PROJECT4] on [PROJECT1] test set.
+
+-Planning the meeting of two participants of the call.
+
+-[PERSON5] is lost due to lectures.
+--He should contact [PERSON9].
+
+-Censorship component was discussed.
+--It should be one part of the pipeline after the [PROJECT5].
+--The goal of this censorship tool is to allow to immediately hide the outputs and then show them again.
+--[PERSON14], [PERSON5], [PERSON9] AND [PERSON7]should have separate call.
+
+-[PERSON8] work was discussed.
+--He has worked on multi-target machine translation for his master thesis.
+--His task was so far to generate synthetic multi-source train set, but he does not have the cluster access.
+
+-[PERSON2] work was discussed- the data augmentation.
+
+-Recommendation for all was made-first try everything on small data set.
+
+-[PERSON2] and [PERSON7] discussing chopped data.
+--[ORGANIZATION13] Common voice is used.
+--Can data from [ORGANIZATION14] challenge be used?
+
+
+
+
+
+
+
+Minutes submitted by Dagmar Kleinová
+
+
+
+
+
+
+
+
+
+
+

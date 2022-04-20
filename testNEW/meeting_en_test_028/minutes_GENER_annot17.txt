@@ -1,0 +1,74 @@
+Project updates 
+Date: January 2021   
+Attendees: Ondřej Bojar, Sangeet Sagar, Rishu Kumar, Peter, Dominik, Ebrahim, Vojtěch, Muhammad
+Purpose of meeting: discussing various updates: ELITR demo paper, evaluations, experiments, SLTV
+ 
+- General updates.
+-- Yesterday the session was disastrous: bad recognition and slow.
+--- Ondřej asked Rishu and Sangeet to debug, also get in touch with Lee about it.
+--- The slowness happened because Rishu wasn't connected into one of the machines. But this has no influence on recognition quality.
+-- Sangeet added some files to ELITR test set.
+--- Rishu was asked to evaluate them: priority!
+
+- Rishu's updates. 
+-- Had a call with Omar yesterday.
+-- Right now working on solving the problem of files that were too big to get uploaded to GitHub.
+--- Maybe will upload them as a link only.
+-- Haven't heard from Phil if UEDIN server is up again or not. 
+-- Ondřej reminds Rishu to be in touch with Phil also about the extended set of target languages. 
+-- Rishu is also in touch with Vicki about the text files.
+--- Vicki has set up Kaldi by now. 
+---- Ondřej says that we primarily need Vicki to collect the domain specific text data. 
+---- Ondřej clarifies that we are not interested in the Malach Archive (interview with survivors of WW II), but in the historians' analyses and presentations. 
+---- For the data, Vicki should scan in breadth, rather than in depth.
+---- People who have experience with Kaldi should work with it instead of Vicki. 
+---- But Kaldi is definitely useful in the long term.
+
+- Ondřej's updates.
+-- Struggling with EECL demo papers, due tomorrow. 
+
+- ELITR demo paper.
+-- Dominik should revise the ELITR demo paper and look at the reviews.
+--- The reviews are not that positive: they don't like the paper, it has 'little impact'. 
+
+- The experiments.
+-- ASR quality is very bad for all remotely handled sessions, especially if people wear face masks. 
+-- Ideas for improvement.
+--- Pass training data through Zoom in an automated way so that the data gets distorted.
+--- Use a frequency filter to cut down on the high frequencies (this mimics what face masks do). 
+--- Then it will be retrained by us or Karlsruhe (their system is online & fully integrated).
+-- Ondřej will do that (Rishu offered, but the priority for him is to work on evaluations). 
+
+- Dominik's updates.
+-- Working on data preparation of ESIC corpus. 
+-- Running the first alignments.
+-- Will rerun the alignments of source and targets of the interpreters and analyze them.
+-- Will write a paper with David, who is currently busy with exams. 
+
+- To do for Vojtěch.
+-- Get in touch with Peter and process all the training data.
+--- We need English on 25/1, Czech later: in February.
+
+- Vojtěch's updates.
+-- Vojtěch summarizes the process of preparing pipeline / pipeline configuration tool. 
+--- For every event, the pipeline is made a different way.
+--- Pipeline consists of ASR, MT and online subtitles. 
+--- Vojtěch is writing a tool that will allow an operator to define all the components of a pipeline and how they are connected.
+--- Ondřej suggested one more compilation target: probing if the pipeline components are up and running ('a test of availability', 'live debugging').
+---- Vojtěch will do that. 
+-- Next Friday a Malach conference, we will provide life subtitles and transcription.
+--- We will need to get feedback about what's (not) working.
+---- Vojtěch to get in touch with Tea about that.
+
+- Peter's updates. 
+-- Currently aligning the training data, building a more robust ASR.
+-- Struggling to optimize the pipeline. 
+-- Peter should talk to Ivana about her Gauch tool and how they will be paid.
+
+- Ondřej discussing alignment issues in German/English in SLTV with Ebrahim and Muhammad. 
+-- Ebrahim will check and correct the progressive maximum, increase the numbers.
+-- Ondřej discovered a mistake in the segmentation strategies: they are not proportional.
+--- Ebrahim will double check.
+-- Ondřej will give access to Muhammad's GitHub account to the ELITR test set.
+
+Minutes submitted by: DANA OCELIK

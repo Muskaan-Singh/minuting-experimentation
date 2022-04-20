@@ -1,0 +1,57 @@
+﻿ELITR Remote Meeting
+Date: Unknown
+Attendees: Ondřej Bojar, Peter Polák, Rishu Kumar, Dominik, Matúš Žilinec, Umar Faroog, Sangeet.
+Purpose of meeting: discussing ELITR updates, setting up future meetings to do test runs and evaluate ELITR test sets
+
+- Dominik's updates.
+-- Transcripts for checking are almost done.
+-- One transcriber from Germany is working now.
+-- Dominik's mother is writing the questions for the German subtitle user study.
+--- Progress from this study will be moved to the spreadsheet.
+-- Started writing deliverables. 
+-- Ondřej is hopeful about Bohdan's work, maybe contact him to remind him.
+
+- Matúš's updates.
+-- Matúš finished transcripts for the first 30 parts, for the next 10 parts it is still running. 
+--- Issues: some files have weird output, the audio format is wrong.
+---- But for most folders it is fine. 
+
+- Ondřej thought of another possible task for Matúš. 
+-- Training the empty systems to do the shortening. 
+-- Similar to what Jörg Tiedemann is doing with the MeMAD project. 
+-- Matúš could get implement the technique from Baidu: processing prefixes, which is much faster.
+--- Our systems work with sequence to sequence, they process the entire sentence, which is slower.
+-- Matúš would train the system to stop generating after some time. 
+-- Update from Barry: Marian is not ready.
+-- Candidates for this task: Matúš, Ibrahim, Pepa Jon. 
+-- Matúš will check if this is realistic for him and how hard it will be to change the source code.
+ 
+- Miscellaneous updates.
+-- Rishu is setting up the presentations.
+-- Umar has been working on adaptation for two domains. 
+-- Rishu and Umar will have a call again and do a test run.
+--- Test two concurrent subtitlings of videos without domain adaptations. 
+---- That means that two (local) machines need to be operated. 
+-- Rishu is also doing some ASR.
+--- Issues with audio/video, some are not in the proper format. 
+---- Needs manual override. 
+---- Ondřej: this is critical, proper formats should be part of the automatic evaluation of ELITR test sets. 
+---- Sangeet will help. 
+-- Ondřej reminds everybody to do plenty of test runs: before you try, you never know what will be the problem.
+-- Rishu and Ibrahim will have a call discussing the Khan Academy test set.
+--- Umar should also join this call. 
+-- Peter is finishing training German ASR that may be used for time stamping.
+-- Ondřej needs to see the ASR numbers today asap and improved numbers by Monday.
+-- Currently have two ASR workers.
+-- Matúš: output for some folders is terrible, unintelligible audio. 
+
+- Multiple custom dictionaries.
+-- Peter and Umar are working on them. 
+--- Put the two perspectives together.
+---- Peter knows what he created in the dictionary, Umar knows what it looks like, he is creating it manually.
+-- Discussing issues: a lot of empty noise in this dictionary.
+-- To do: have various version of it, including only the words that were observed at least five times.
+-- The dictionary will have three columns: grapheme (output), phoneme (different variations), grapheme (for all those variations). 
+-- Peter will help Umar by changing the IPA phonemes into CMU
+
+Minutes submitted by: DANA OCELIK

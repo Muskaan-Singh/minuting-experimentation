@@ -1,0 +1,1214 @@
+﻿
+02:41 
+<?another_language?>
+(T) Hello.
+(A) Yeah, hi Tirthankar.
+Hi, we are just two?
+Just?
+(T) Hi.
+(A) Just two of us?
+(T) Yeah, uh, I I guess so.
+Ondřej was about to join because he told me that he wants to be in the meeting.
+Because there are some decision points from his end.
+So, I had been in, in communication with him for two days.
+Like, there are already a chain of emails.
+(A) Yes, yes, he is writing a lot of emails today.
+Also, I have also got around three or four.
+<laugh>
+(T) Oh, okay okay, okay.
+(A) He was just was a way for the for for Christmas holidays now.
+And uh, whatever else-
+And today today-.
+(T) Uh, yeah can you, can you drop Ondřej your message over the phone that we are already online.
+(A) Okay, okay, I can.
+Uh, he is here already.
+(O) Yeah, yeah.
+I'm writing you a mail.
+Hi.
+(O) Yeah, hi.
+Okay. 
+I was running little bit-
+Sorry I was caught in another call.
+Ah, yeah, ah.
+(T) Hi.
+(A) Hello.
+(O) So, uh, I'm I'm happy to see you.
+Uh, both of you.
+Is, uh-
+Are others also joining, or you don't know yet?
+(O) Yeah, okay, yeah.
+ That's that's that's okay.
+So you are, you are the-
+(T) For others you mean-
+Yeah, uh.
+The others you mean-
+(A) I guess Muskaan-.
+(T) On our regular calls, yeah, it is Muskaan.
+I don't think Ahmad was joining us.
+(O) Yeah.
+(T) For quite a few times, so yeah.
+(O) So what, what we have to discuss today?
+I, um, I , I reviewed the webpage.
+Uh, uh, and I don't know if you have highlighted the portions of the document with the colourful papers.
+(T) Oh, I-.
+(O) Never mind.
+I didn't have the free minute since then so don't worry.
+<laugh>
+(T) Okay.
+<laugh>
+(O) And, uh, uh, then I I'm really worried about Ahmad if he can actually help us or not.
+Because, I, uh-.
+Like, I think he might have started some PhD somewhere or or whatever.
+So he he may be actually much more busy then then we would be hoping for.
+So it's possible that-.
+(T) Yes, he was about to move to Canada I think.
+(O) Yeah.
+So, that, that will not make our lives easier, but well we have to work with this.
+Uh, that means that we will lose a pe-, the person to prepare the data.
+So, I was curious how far did Ahmad get.
+And that's probably something that Anja should know, right?
+(A) Uh, he sent me a list of named entities.
+I have partly did it myself and partly the annotator.
+(O) Mhm.
+(A) And he didn't reply.
+And now after this Christmas holiday, during the holidays I didn't address him but now I see that he is not going to finish it because he stopped.
+Didn't respond.
+(O) Stopped responding.
+Uh-.
+Please-.
+(A) And probably-.
+Uh, I will just probably finish it myself.
+And-.
+But it's-.
+(O) But, but, but-
+Well, finish-.
+You will finish the annotation.
+(A) Yeah.
+(O) So the annotator has stopped or Ahmad has stopped.
+Who, who-
+(A) Annotator has stopped.
+(O) Annotator stopped, okay, yeah, so, uh, so if you, see, if it is an online document-
+If you see that the annotator has stopped-.
+(A) He didn't do anything.
+He just didn't finish it.
+I've <unintelligible> to him and it's an online document so I see that he didn't do it.
+(O) Okay, so, that is good that you can finish it yourself, so, please do so. 
+So, so, we can move, uh, forward.
+And, then, um, uh, get in touch with Ahmad and double check that he would be able, uh, to do the processing, uh,  also at the token level.
+Uh, so this annotation was done at the type level, like word types.
+And, uh, we need to do the second round for many of the words, uh, the annotators-
+You and the annotator should have indicated, that it depends on the context.
+And for these context dependent, uh,-
+(A) Uh-, I don't understand at all what you are talking about.
+(O) Yeah, so this is something, that I wanted to also-
+(A) <laugh> write it down.
+Somehow, somewhere.
+So, I will not be able to transfer all this information to Ahmad.
+I try to-
+So I have-.
+It will get lost somewhere in the middle.
+I will open the agenda now and will send you the link so we can write it down.
+(O) Yeah, yeah, okay.
+<unintelligible>
+(T) I think I should also take note of this.
+(A) Uh, um, we can write it to the agenda if we can find it.
+It must be somewhere.
+(O) We can actually put it to the to the master plan, uh for the-
+Um, um first shared task on automated minuting.
+Timeline, so we could put it into the shared task components, or we could put it to your agenda, whatever you like better.
+(A) So this is the agenda.
+(T) So, uh, Anja- the ma-
+The agenda is in the master document so if you can check the Coffee Meetings.
+(A) Uh, uh, uh, okay so I've forwarded it now to-
+(T) Okay.
+(O) Virtual Coffee agenda.
+So am I in the correct one?
+(A) And the last is this from the middle of December?
+(O) Yes, yeah.
+So I 'm here as well.
+(T) Yes.
+(O) Yeah.
+(A) So five-
+<unintelligible>
+(O) 0 eight- 
+So I thought, I know that I have discussed this with Ahmad.
+And I 'm not sure if we have written this anywhere or not.
+So this is like, get in touch with Ahmad.
+That is the short thing.
+But if he is not responding, then, like we have to-
+(T) Is-
+(O)  Recreate it, uh, ourselves.
+Yeah, uh, yeah.
+De-identification, uh, procedure.
+So there is a stages.
+(A) I'll be back in thirty seconds.
+(O) Yeah, yeah, I'll I'll write the <unintelligible> here.
+Uh, so collect, uh, candidates for, uh, <unintelligible>
+Annotate at word type level.
+Candidates without context, if they are surely a named entity.
+Uh, are uh, cannot be a named entity.
+And a NE uh, uh, in context, um, our context.
+And dependant then, mhm, um, insert type level annotations into xml mark-up of the documents.
+Mm, collect token level.
+Um, um, well, instances for annotation.
+Annotate at word token candidates in context of the sentence, or perhaps in, um, each occurrence.
+Uh, um, um or perhaps well-.
+Uh, exactly as the-.
+This is in full documents if, uh, that particular instance is an NE is not ,uh,  an NE, and then insert token level annotations again into the same xml Kaldi documents.
+Uh, so.
+Uh, at this point.
+Uh, the documents will, um, contain information like, uh, this word was once, uh, was suspected to be an NE, but at the the words type, uh, annotation it was, uh, marked, uh, as a regular word.
+Uh, this word was suspected NE marked clearly as an NE in word type annotation.
+This word was suspected, an NE marked as unclear at type level.
+Uh, not processed at token level yet, and then, uh, marked as an E at token level, right?
+So this is not complete, but it illustrates that we want to have the, uh, uh, the finest possible detail about the annotation process.
+So we need to know exactly what has been touched by people with what result?
+I'm saying that this, uh, uh, the process, is documented to the finest level.
+I'm not saying that the distinct decisions are made to the finest level.
+That is a different thing.
+So we may be unsure about the particular instances being or not being entities.
+But we, we, we always must be sure about the fact, whether someone has processed this or not.
+(T) Sure.
+(O) So do you do you understand?
+Anja, you look puzzled so-.
+<laugh>
+(A) Partly.
+<laugh>
+(O) Yeah.
+<laugh>
+So, but, but Tirthankar have you read the process?
+And is, is that easy to follow?
+(T) No, I think I need to see an example.
+(O) <laugh>
+Yeah, okay.
+(T) I'm really like.
+(O) Uh, yeah, yeah, uh.
+So, uh, thanks Anja for the link.
+Uh, to the uh, annotation maybe a rename that document, so it should not be a copy of-.
+But it should say something like, uh, annotation at the type level and and and so on.
+(A) This is copy, because Ahmad has made the annotations to the same file.
+And that he wanted to name it.
+So the idea was, uh, well.
+But  we can rename it.
+(O) Okay, he doesn't want to rename it.
+Uh, if it is, uh, if it is agreed, then-.
+(A) He, he asked me to make a copy of his document not to delete the lists so so-.
+(O) That is, uh, good-.
+(A) Accidentally not to move the information.
+(O) But yeah, yeah, uh, I, I just would like the name to be more descriptive for someone so it-.
+(A) Okay.
+(O) Like the the word copy, is okay.
+Like it-.
+But it has to, uh, be this this copy of that is, is, like, just an automatic what uh, what, happens, if if you make a copy, uh, okay. 
+(A) This is better now.
+Proper nouns.
+(O) Proper nouns and personal copy of Anja or whatever.
+That's-
+Like the word copy is good but this copy od is just automatic what, uh, what that happens if you make a copy.
+(A) Yes, yes.
+(O) Okay, well, so the idea, uh, is, uh, at the end we need to have the full collection of all our documents with all named entities replaced by place holders.
+We agreed some time ago, uh, that-.
+You should find out the notes on this, uh, that we will stick to the name tech hierarchy.
+Perha- perhaps even a simplified one.
+Uh, so that we do not go into the details of types of the named entities.
+So the least possible detail.
+For some of the entities, uh, like ,uh, names of months.
+We will plan to do them later because they are closed set.
+Very, very simple ones to, uh, to do.
+Uh, but they should also be like documented.
+So the process of the named entity removal has to be very clean, and we have to know at what stage of this process we are.
+So this would be, uh, the, the small, uh, closed set.
+Uh, things that they will be handled separately, and they are easy to do.
+The hard part are the entities which, uh, uh, like are normal names or project names or words, which can be names and may not be names at times.
+And we need this process to be like as fast as possible.
+Um, uh, so that's why I suggested to proceed at the two levels, first at the word type level, and then at the word token level.
+So that is the standard distinction from lexicographers work types and-.
+(A) Maybe I don't understand this entire world type level.
+What is the difference?
+(O) Yeah.
+So a word type is the word as it appears in the dictionary.
+And word token is a particular instance of the word in a running text in in the running text.
+(A) So that is the first way.
+And now we are working on types, because I just see the words.
+(O) Yes, exactly.
+(A) And after that, we will once more do something with contexts.
+(O) Yes, exactly.
+So we do want to have the annotation of the documents.
+So that we do want the token level annotation in the end.
+But some words like Jan or some clear names like it would be totally a waste of time to to do them a token by token, so we can do these words all at once.
+So that is the word type annot, or word type level annotation.
+This is this this the terms from lexicography.
+So that's, professor <unintelligible> mentioned that the word type
+(A) Yes, yes.
+(O) and word token in in one of the early seminars.
+So maybe maybe you are too advanced, and then those those basic seminars.
+<laugh>
+(A) That's.
+It is.
+It's okay.
+I just could not have tried.
+Well, I needed to connect it to work, so.
+(O) Yeah, yeah, yeah.
+So, so I 'm not sure if we will have Ahmad.
+Uh, uh, and he was supposed to be the system operator.
+To do like the bulk processing of the documents and the insertion of the annotations into the Xml and things like that.
+So that is some programmer's skill that-
+If if Ahmad is is not available, that will be like seriously in need off.
+So that's that's what worries me somewhat.
+(A) Especially if Ahmad will be away.
+(O) Yes.
+(A) It means that we are doing now is.
+Actually, I do not really need to finish the annotation, because this is some procession that's-.
+(O) No, no ,no ,no, no.
+ Ah, like, uh, someone can pick it up from that point.
+(A) Ah, okay, well, I don't understand the code.
+(O) So that is not a-
+(A) Yeah, okay.
+(O) That's  not a problem like, uh, you have, uh, what you are doing is, is, the, manual, decisions, that's the value.
+(A) Mhm.
+(O) Uh, like then, uh, creating such a list again, uh, it is very easy. 
+Uh, there could be some small mismatches when there is, uh, like toke- pancreatian marks.
+Uh, but uh, otherwise in vario-.
+In most cases in in ninety nine percent of cases these tokens, the particular things that you have in the list, they will appear in the list for everyone, whoever does it.
+So these distinsti-.
+These decisions that you make then could be easily transferred an restored.
+So that’s good.
+So, uh, uh, this collection of candidates that was done by Ahmad.
+Uh, at the stage where the documents, uh, were when he did it.
+And the annotation is still proceeding.
+And new documents are still coming, I guess.
+(A) Well, it is really very-.
+It has very bad quality, everything of that.
+First of all, there are a lot of typos.
+(O) Mhm.
+(A) I'm getting into the list so Edinburgh once written with M once written with N, once written with MN and so on.
+once written with-
+(O) Mhm.
+(A) <unintelligible>
+(O) Remember-.
+Yeah, so this is, the the typos in named entities are mainly because the people do, the annotators not knowing the correct spelling.
+(A) Yes, yes.
+So I'm just saying that when I'm looking through the list there are a lot of different words, really.
+I don't know.
+(O) Yeah, that's, uh, uh-.
+(A) Dozens and dozens-.
+(O) Yes.
+(A) And then, also most of the output is not a named entity.
+Eighty percent is not a named entity.
+(O) Yes, that's because there was, uh, probably beginnings of sentences.
+So all of, uh, the words at the beginning of sentences, uh, also got into the list. 
+This could have been, better if name tag was used.
+Uh, and I I'm not sure.
+I think that Ahmad did not use name tag because he needed to collect this list quicker.
+(A) Yes.
+(O)  Uh, the, uh, the, student, uh, Martin, uh, Mareš.
+He used name tag so there is, uh, quite a big chance that if Martin creates this list, it would be shorter.
+Uh, it would not include, uh, named entities that like-.
+It would not suspect all beginnings of words to be named entities.
+(A) Yes. 
+And also the multi word ones.
+(O) The multi word ones are also a problem.
+(A) Yes.
+And they are connected.
+So, if you have World War II, you, you, you will have three words and and, well-.
+(O) Yeah, so this, mhm, mhm.
+Uh, this I'll say stages and then-
+Uh, after that, uh, un-, uh, or remaining or open problems.
+Open problems, uh, and one  of the open problems is the edition of new documents.
+Another big problem is, uh, multiword NEs.
+These are even-.
+(A) And I don't think it inclu-.
+The proble-.
+I don't think that the program included all the words beginning from capital.
+Because there are, uh, there are really, uh, not so many, not so many.
+(O) Mhm.
+(A) <unintelligible>
+I'm not really sure that he has included all the all this stuff in.
+(O) Yeah, yeah, well, uf, uf, uf.
+Final checks, uh, -
+How do we ensure nothing, uh, leaks, uh, into the final data.
+How do we ensure no NE leaks into the final data.
+And uh, uh.
+Open problems will also be this closed lists.
+Months, uh, names, uh, of of days in the week.
+Yeah, uh and uh, what I want to say, as the last stage is, uh, the actual deno-.
+Uh, so replacement of a?
+Well, actually there need not be a replacement, but like the, like, the actual actual removal of the original text, uh, from the documents.
+Leaving, uh, just the Xml mark-up to indicate.
+Here was an NE of this type, right?
+(A) Mhm.
+(O) And what is an unresolved problem as the identity of NEs, um, preservation and now well-.
+Co-referencing, co-
+Co-referencing of chains, including, uh, the identity of, uh, the individual speakers.
+So we can for the for the summarization.
+I think it is important to know who said what.
+And when someone referred to someone else.
+Uh, we do want to hide the original name of the person.
+But we do want to ideally we do want to keep that this was like Jane and Peter.
+And then Jane addressed Peter, and and so on.
+(A) Mhm.
+(O) So we, uh, probably do not need to.
+Uh, it would be better also to preserve the identity of project names or or whatever.
+(A) Mhm.
+(O) But I think it's-.
+We really need to focus on persons.
+And we can, for the sake of time, ignore the identity or tracing of the identity of projects.
+For projects and other things we can say like:
+Here was a project name.
+Here was a project name.
+Here was a project name and don't make it explicit, whether it was the same project or a different project.
+So there there will be a lot of gaps in this type of output, but I think it's for the sake of time.
+It's it's a thing that we can do.
+We can afford to to ignore this.
+Uh, this type of chaining, but we should not afford it for for the people.
+Okay.
+So, I'll, uh, so.
+Uh, so.
+Uh, for the sake of time, we can probably afford to, uh, drop, uh, order to to ignore ignore tracing of these chains for projects.
+You see, but we should not ignore that for speakers and, uh, for persons ,uh, referred to. Mhm.
+So, I, uh, the, uh, to, to-
+For speakers.
+For for speakers like, uh, as, uh, utterance labels, uh, bu- f- and persons-
+I think that-
+Persons, uh-
+Well, I do not-
+Um but we should not ignore it for speakers, ah, in both, uh, cases.
+When they, uh, appear, uh, as utterance labels and, uh, when they are referred to in the text.
+Uh, when we-.
+(A) Maybe sometimes in can't be added.
+If the annotators already  de-identified, they didn't know who is who so the labels can be A, B, C and so on.
+And within in the text it will never be the same C, it will be varied.
+(O) Yeah, that's okay.
+There can be errors.
+This is, uh, there could be data swaps.
+I don't think that the data set for the purposes of summarization will suffer much if we if we-.
+(A) Yes, I agree.
+Yes agreed.
+(O) If we like mess up people.
+(A) Yes agreed.
+(O) We might afford tracing, uh, other people who are only mentioned, uh, in the, uh, in the ext and uh, not, uh, taking part in the meeting.
+So, uh, what I 'm saying by this is that if someone refers to Jane.
+Jane is not not a speaker in this meeting, and someone refers to Jane at the top of the meeting, and someone else refers to Jane at the end of the meetings.
+(A) It will be the same being.
+(O) We can afford to ignore, uh, that that tracing.
+We don't have to discuss whether this is the same Jane or different Jane.
+We can say there was some person in the top.
+There was some person at the end.
+And that is the same, like checking if Bill Gates.
+Is this Bill Gates or different Bill Gates?
+So we do not have to do this type of annotation.
+We, we, I, I suggest that we ignore it.
+We do it only for the speakers, if we can.
+(A) How do we know if this is the speaker or not.
+(O) Well, if we don't, we don't never mind.
+(A) Mhm.
+Because actually, if the labels of-
+(O) Yes, if the labels are  A, B, C, that is what you said.
+Let's leave it like.
+Let's leave it non linked.
+(A) Mhm.
+(O) That's, that's okay.
+So actually, our main worry is that some true named entity will leak into the data.
+Our lower or less important worry is whether we preserve the identities.
+And I'm happy to do errors in the second part, but I would be very unhappy to do errors in the first part.
+(A) Mhm.
+(O) Yeah, so this is the outline.
+And we need to put this outline on a time frame.
+(A) And person frame.
+(O) And person frame,
+Yes, so get in touch with Ahmad and check if this is what was discussed with him.
+And maybe it's it's in some document with him.
+I 'm not sure.
+Um, so please get in touch with him and extract from him the information if if he can do this for us.
+And if not, then we have to do this ourselves.
+And in that case, that probably falls on Tirthankar for the programmer parts, I'm I'm afraid.
+So that means that you may need to offload some of your , uh, the what- modelling ideas or to Muskaan.
+(T) Mhm.
+(O) We still have time.
+I'm not like so worried like I could I could de-identify this.
+If I had a week of, uh, uh-.
+If I could lock myself in a sanctuary for a week, then I think I will have anonymised the corpus myself.
+Like it's it's not to.
+If you do, you do it with clever text editors and and combining scripting and all that it's.
+Our data set is not too big.
+(T) Yes.
+(O) It's it's doable.
+(T) Yeah, I think I think like I'm not, uh, like certain minutings are still not clear to me.
+I will have a session with Anja with the data.
+How like?
+What is the imput and what should look like?
+Once, I have that, then then it would be easier for me.
+(O) So what I'm thinking of is, for example, for the token level annotation.
+If I was doing it myself.
+If if if I locked myself for that week, it would be a few via macros, and I would be just hitting
+F one, F two, F one, F two, F one, F two.
+And that would be the token of annotation.
+And it would be done for a document like very quickly.
+So, it is, uh, I  I 'm, not so much worried.
+Uh, I think, it's doable.
+Uh, but it has to be a skilled person in in this, ah, like text processing.
+It's a special type of text processing.
+(T) Yeah.
+(O) Okay, so that's the de-identification procedure.
+What is equally important is the de-identification guidelines.
+And potentially some new concerns will be added, like after Anja discusses this with Libuška.
+So, this is now my question on Anja.
+Whether you have already dates set on when to talk to or call or meet Libuška.
+So please-.
+(A) Nothing.
+(O) Plea-, please do plan something-.
+(A) Well, Libuška is working on our de-identification from the beginning of January or?
+(O) Yes.
+Yesterday actually.
+I told her yesterday that she should start.
+So she-.
+(A) And she has time and she -
+(O) Uh, well she will have to make the time for that.
+So she is till on number of of projects and, uh, and-.
+But I really think that, uh, -.
+(A) So what should I-.
+So what d you mean?
+She needs to do what?
+Yes.
+(O) She needs to read the regulations.
+That will take her some time.
+(A) About how to de-identificate it?
+(O) About what is present data.
+ So we do not know exactly.
+I do not know what exactly this person laid up.
+(A) So she has to decide what should be actually anonymised.
+(O) Yes, kind of.
+The way that I set it in the procedure that we discussed here that is based on my intuition. 
+But I, I could-
+(A)  So she has to say, if we have to delete also the names of languages.
+(O) For example.
+(A) Well, so this is one of our basic questions.
+So this is actually very.
+I would be very happy if we leave it.
+If we don't anonymise it.
+(O) Mhm.
+(A) Leave English, German, Czech and don't mix it up.
+Because it is at least some information that could be preserved in the minutes.
+So actually, if we have some, well-.
+(O) We can always do mock named entities.
+So, for example, for the languages, we can shuffle it.
+And we would say Romanian instead of French in all cases?
+(A) Yes, okay, of course.
+But once one more thing.
+That we should align the transcript with the minutes.
+(O) Yes, that has to be done this.
+The identification has to be done on both, of course.
+(A) On the same way, so that we-
+(O) Exactly the same way.
+So when I 'm talking about a document.
+I mean, either the transcript or any version of the minutes.
+(T) Mhm okay.
+(A) Uh.
+(O) So we-.
+So you have multiple versions of minutes.
+(A) Yes.
+(O) So a document is either the transcript or any any minute version for that particular meeting.
+(A) Mhm.
+(O) So document is any text, uh, in the collection that is very important.
+I like, it seems natural to me.
+But we.
+We must not forget about this.
+(T) So one question I have like.
+So this should be done especially on the ELITR data, right?
+So we don't need to do this on Euro parliament?
+(O) No, not at all.
+So do you feel that not at all?
+Euro parliament doesn't go through this at all.
+(T) Yeah, okay.
+(O) So, back to Libuška.
+Uh, I'm waiting for Anja to finish.
+(A) I'm just writing it to-.
+(O) Yeah, yeah, yeah.
+So, uh, back to ,uh, Libuška.
+So, please get in touch with her as soon as possible.
+And, uh, agree on a timeline with her.
+So she will definitely need some time on, uh, reading for, for reading the the 
+regulations.
+The key word indeed is the personal data.
+She needs to tell us what exactly is persons data.
+And all person's data must be removed.
+Absolutely removed, the data set needs to be free of personal data.
+(A) Mhm.
+(O) Uh, that-.
+She is like-
+She will have various concerns-.
+We we need to like discuss with her, what is what is the strategy.
+So that, from that , uh, discussions-.
+From her survey of of the regulations the guidelines will follow.
+The guidelines will be the result.
+And the guidelines will say something like person's name must not appear in in that.
+And we will then check if the procedure that we are already running is in line with that or if anything else needs to be included in the procedure.
+So so that the guidelines are satisfied.
+(A) I think that these are not personal data.
+Things like months and languages.
+(O) Yes, I agree that these are not personal, uh, uh, data.
+But she should check.
+Like kind of think about it.
+(A) Mhm.
+(O) Yeah, so, so that's the guidelines.
+And uh, uh, yeah.
+Please Anja agree on a timeline, exactly.
+So I think that the, uh, the annotation can go independently.
+And there will as last resort, there could be like a secondary or tertiary or or final annotation stage.
+Where we would be still removing something which, like, we 
+haven't thought of and Libuška has found it out.
+(A) You mean the annotation of what?
+(O) The-.
+When I say annotation now I mean de-identification.
+(A) Yeah, okay.
+Mhm, mhm, mhm.
+(O) Yeah, so.
+And then, the other thing that Anja needs to discuss with Libuška, uh, is the consent forms.
+So that we do it-.
+(A) So that is something totally different.
+(O) that is something totallly different.
+Uh, it's very closely related but, uh, explain-.
+(A) But this is what Libuška actually doesn't know at the moment.
+(O) Uh, I sent an email to her this morning mentioning these two things.
+She kind of was expecting this.
+So, so  we've discussed this before.
+So it is not that-.
+(A) Because I have also shown her many times this consent forms.
+This is totally new.
+(O) Mhm.
+(A) And she will demand for kind of piece of that type too.
+(O) Yes, yes, exactly.
+Yeah.
+With this, we are in some time pressure.
+But not any worse time pressure than a month ago.
+Uh-.
+(A) So we have to decide how-.
+What should be included, yes,
+(O) What should be the wording of the consent form.
+(A) Mhm.
+(O) And there are two types to, like, two stages of the content forms.
+This is new compared to the beginning of the project.
+Where we thought we would have only one consent form.
+Now we have two consent forms.
+The first one is, uh, the one that we are using.
+Uh, uh, where people like, give us the permission to work with the data.
+And we need primarily now the second one.
+And the second one is we are getting the permission to publish the data in the the de-identified form.
+(A) So it means that we should kind of forget everything that we did before and do again from the ze-, from zero.
+The first constant form created, which agrees with, uh, kind of working with our data.
+And then, uh, create a second consent form.
+Uh, about publishing.
+(O) Yeah.
+(A)  And give all the participants of all meetings, both consent forms of the same 
+time at the same time.
+(O) No, no, no.
+So actually we do not need to redo the the first page.
+(A) We do, because we have we have we have-
+(O) Yeah.
+(A) Kind of, our consent form.
+Our existing consent forms are about publishing actually, mostly.
+(O) Yes, but they are not, uh, but they are not perfect.
+And people didn't <unintelligible> and they are-.
+(A) Of course, they are not perfect.
+(O) Yeah.
+(A) And they are signed by thirty percent of participants.
+(O) Yeah, that's that's the problem.
+So, people who have not really signed those.
+Uh, uh, we are processing their data without having recived their consent.
+Hopefully they will give us their consent now.
+So yes-.
+(A) Mostly we proceed their data with their oral consent.
+(O) Yes.
+That's good.
+So that's-.
+So yeah.
+So we have at least that.
+<laugh>
+(A) <laugh>
+(O) 
+And-.
+So I would now, with Libuška, I would focus on the second form which is the consent to publish the data.
+And this, uh, consent, uh, will be complimented with samples.
+So, ideally every person would have all the meetings that he was taking part in.
+He could browse them and check himself if he is still represented in that or not.
+It would be leady this de-identified.
+So he should not be able to, l uh, uh, like feel identified.
+But he would know the the content.
+So that's-.
+(A) So why not to forget about the first phase, in this case.
+(O) Yes, so let's.
+Uh, let's totally ag-.
+Like forget about the first form for the purpose of the release of the corpus.
+And let's come to the first form only once the corpus is finished and released.
+And let'ss do this first form for the new meetings that we will still be collecting even after 
+that.
+So I-.
+That I was my proposal as well.
+Let us really focus on the second form now.
+Uh, to have the permission to publish the data in the anonymous form.
+And and later come to the first form again, because we will still be reaching out. 
+And trying to get more people, provide us with meetings, and there and there we will need the the first form.
+And the first one will be on the content to process the data and deidentify it with the forcing goal of publication.
+When people will be asked with the second form again.
+(A) Mhm well, I'm just thinking about this, uh, samples.
+(O) Yeah.
+If-
+Uh, so with um kind of preli-, openly said, if we really need all these samples for people we are sure about, like you and me, Tirthankar and so on.
+So, er, should-.
+(O) We can simplify it also by, uh, like giving everybody the full dataset.
+Access to the full data set like brows this.
+(A) Should probably be this in a consent form.
+So I'm kind of-.
+I am a little bit lost in what should be done.
+(O) So-.
+(A) So really should prepare the special examples for every consent for every participants.
+It appears to be the task for the whole year.
+And I -
+(O) Um, well, no.
+It is a little bit of programming and a little bit of evidence, like, who was in meeting of what?
+(A) Yes but neither me nor Libuška will never do that.
+(O) Yeah, yeah, yeah sure.
+<laugh>
+Yeah, yeah.
+I understand, that there is, uh, there could be, uh, a substantial amount of administration so to say.
+Or data ma- management.
+Uh, uh, for this, which can be skipped.
+And the easiest way I see to skip is to prepare the data set fully de-identified already.
+As a simple directory with documents which people could browse.
+(A) And give a link.
+(O) And give a link.
+And people could open these.
+And then in the-.
+You would like tell, sent everybody the consent form.
+So here is the consent for for you.
+You need, uh, to to get your permission to, uh, to publish the the data.
+You have been a participant of a meeting of these days.
+or something like that.
+So people could find themselves.
+(A) Mhm.
+(O) If they want to check specifically themselves.
+And they would be also avail-, allowed to to browse any of that data.
+(A) So we will do that, or not.
+(O) Uh, so I think this is like a pre-release of the corpus.
+So as soon as we have the corpus, clean, uh, removed the named entities.
+Uh, it is a matter of like a putting it in a directory, wrapping it in a Html uh, or, or,  
+, uh, any any browsable format.
+So that is very simple.
+And I think Tirthankar would do that in ,uh, in two hours.
+Uh, so the the the preparation of the web page.
+Uh, that people can browse.
+(A) Aha, so-.
+(O) What is what is the the tedious part is ,uh, the ,uh, the linking which 
+person was mentioned where.
+So this meta data that is-.
+(A) Yes, this is what I'm asking about.
+(O) Uh, this should be, uh, I hope that this is in your directory structure 
+somewhere.
+That you like know who was participant of what meeting.
+(A) Uh, not about all of them.
+Definitely.
+I have just made a sample.
+(O) Yeah.
+(A)  Uh, to make it manually it is a very big task.
+What I-.
+(O) Is it?
+Okay, can you-?
+(A) What I it can probably automatically extract is from is to extract the names
+of participants from meeting minutes.
+(O) Yes yes that is.
+(A) Created by annotators.
+(O) Yes, exactly.
+(A) Yes and but sometimes this is-.
+(O) Incomplete.
+(A) You have to incomplete and the names are incorrect.
+And you have to some some others.
+And some people that the person, the annotator-.
+(O) Yeah, so that's.
+I think, uh, uh, the, the.
+Let's do the best effort thing.
+The best effort is to-.
+Like, if you have an annotator who could review this.
+If you know that the meeting participants information could be improved, corrected by someone.
+One of your annotators.
+Uh, if you have like items which, where you specifically know that this is missing or something like that.
+Some manual effort could be invested there.
+But even if we don't do this, let's just collect it from the meeting minutes.
+The list of participants.
+And then we will say in the content, content, consent form based on-.
+Oh, I forgot to record this meeting, is that a problem?
+<laugh>
+(A) No, you are recording it.
+(T) It is already recording I guess.
+(O) Is it?
+That's good.
+Okay, yeah, yeah, yeah.
+(A) <laugh>
+You would never forget it.
+(O) Yeah.
+So even if we don't do this manual refinement of the participants.
+We have some information on that.
+And with the consent form sent to Jane or Mary we will say: "Based on our records you were a participant of this and this meeting. Maybe you were also present to other meeting and you were accidentally not listed.
+So feel free to browse any meetings you like."
+(A) So, this is-.
+(T) I think we can-,
+Uh, what we can do is, like we create a master sheet.
+Then we extract the name of participants from each of the minutes.
+(O) Yes.
+(T) And give that the, to all of them.
+Like-
+(O) Yes.
+(T) Please, please see, uh, <unintelligible> and check.
+(O) Find yourself, yes, yes, yes, yes.
+Yeah, so that's like a -.
+(T) That would be much easier.
+(O) I think this is.
+Yeah, I don't think the the stay-, the extra step of cutting out the extra portion of the master sheet is too tedious.
+I think it's it's doable.
+It's it's kind of mail merge.
+So, uh, uh, a mail merge operation.
+So you you like prepare personalised emails.
+(T) Yeah.
+(O) It's it's not too bad.
+ It's it is a little bit of work extra.
+I will leave it up to you what do you find, uh, like the the balance between your labour and and their labour.
+What is polite and what, uh, what is laborious.
+I 'll leave that up to you.
+(T) Yeah, so once we have, once we have the meeting IDs and these are the partcipants so like, uh, we can easily find to which ID belongs which participant.
+And then-.
+(O) Yeah.
+(T) That is-.
+That should be easy.
+(O) Yeah, yeah, yeah.
+(T) That should not take much time to do.
+(O) And then, uh, kind of separately of the consent form.
+We should ask people for bug reports.
+So this is, this is a big value.
+When we are sending the people again the links.
+And when we, uh, know that people will be again opening these files, every gaze to that It's crowd-
+It's like, it's crowd sourcing essentially.
+Every gaze into the data set gives us an opportunity to spot other things that should 
+have been anonymised.
+So they need to have a place where they would record, uh, these, uh, extra observations. (T) Okay.
+(O) And then we would do a second pass.
+If there-.
+We will see, maybe there will be no more, uh, outstanding pieces of information that need to be deleted, but maybe they will.
+And then we will do like a second pass of the data.
+And then remove these final things and and release it.
+(T) Yes, so I think uh what you are suggesting Ondřej is like  instead of the master sheet, we could-
+We keep one master sheet, but we keep well from the masters.
+It will.
+We create the individualized sheets-
+(O) <unintelligible>
+(T) And they will have the remarks.
+Yeah.
+(O) That is like a purpose-
+They will have remarks, they will have, they would have the remarks.
+(O) Yes.
+(T) Will have the remarks column with colour and based on that, we will refine it.
+(O) Yes.
+So just please put this on a timeline.
+We should have a sample document, uh, one meeting or two meetings at most.
+Ideally, uh, at the end of January.
+So that we can put it online as to the prospective participants of the task at the beginning of February.
+This is something that I suggested in in an email to Tirthankar this morning.
+(T) Yes.
+(O) And we need to have the full thing, was it end of March?
+(A) 16?
+(T) Um.
+(O) Or 16 of March at the full dataset.
+(T) A trial data is16 March but training data first April.
+(O) Probably, yeah.
+So end of March.
+Yeah.
+(T) Yeah.
+(O) So please put this de-identification procedure and this check with the consents on the time scale.
+So I think that, uh, end of February.
+(T) I think we should-.
+(O) End end of February would be a good date for the participants, for the meeting participants, to uh, to get their consents, right?
+Would that make sense.
+I think it's doable for us in those kind of two months to have almost finished the de-identification.
+And-.
+(T) March, April. 
+Yes, I think I think two months would be great.
+(O) Two months for us are good and then one month for them to answer.
+So they would-.
+They should answer within a week.
+Uh, and we would have three weeks to to finish it.
+And there is like, uh, a little bit of time soul to handle any issues.
+(T) So we write the data de-identification from the participants by February end.
+(O) Uh, sorry, say it again. 
+In full words and full sentences.
+<laugh>
+(T) <laugh>
+Yeah, so the data de-identification consent from their end should be done by, uh, February end.
+(O) Uh, no was the-.
+ We have to have the data ready for them to browse.
+So if we are able to have the data for them by mid February, then I would agree with you.
+I'm a little bit concerned about it.
+I think that we will have the data at the end of February, and they should then do the consent.
+Uh, in the first week of February, or something like that?
+(T) Okay.
+(O) Sorry.
+First week of March.
+(T) March.
+(O) Yeah, yeah.
+(T) Mhm okay.
+And so so talking about the timeline, what should be the time in line for this total task.
+Like for the de-identification.
+(O) Yeah, well it depends on whether we have Ahmad or not.
+That that will also like affect the timing, I believe.
+But I think that Anja will be finished with the work type level annotation, uh, well, in 
+two days. 
+(A) Yes, I have written that I will do till tomorrow.
+(O) Yeah, okay.
+<laugh>
+(A) <laugh>
+(O) So it is.
+So, uh,-.
+(A) So it's it doesn't take-
+It's like thousand and a half maybe.
+<unintelligible>
+It takes two hours or something.
+(O) Yeah.
+So then we need the coding of the Xml.
+Which is item three, and then again, item six.
+Items three can be kind of delayed if if inevitable.
+But it would be better to do it so that you can also you already use this.
+Uh, uh, the Xml mark up to to find, uh, uh, uh to extract the token level instances, um?
+So I think that the exact timing really depends here on who is doing that.
+And ,uh, the actual remover of the original, uh text from the document.
+So the six, six and seven.
+This should not happen later than in mid February.
+(T) Mhm. 
+(O) So I'll put it in here.
+This, uh, should not happen later.
+Or this or this.
+This should happen, uh, by the end of by the mid of February at the latest.
+(A) Where do you write it?
+(O) Just as a comment to that, to point six and seven.
+(A) Aha, aha okay.
+(O) So put it elsewhere.
+Uh, uh-
+(A) No, it's just in the agenda document I didn't see that.
+Okay, now-
+(O) Yeah.
+Okay, so is that it?
+Or is there anything else we need to discuss.
+(A) Well, there is a lot of things, I think.
+Tirthankar has created a lot of different things during Christmas holidays.
+(O) The the web page.
+I like the webpage.
+(A) The only thing I'm not sure I don't like this changing very quickly.
+(O) That's modern.
+Anna, you are too old.
+Ignore that.
+I also hate it.
+<laugh>
+(A) <laugh>
+I wanted to read it and it disappears.
+(O) Just just like, close your eyes for that.
+<unintelligible>
+<laugh>
+(T) Okay, so I will, I will increase the timer.
+So, don't worry.
+(O) Yes, yes please.
+<laugh>
+(A) <laugh>
+Probably, yeah.
+(T) Yeah.
+<laugh>
+Okay.
+(A) And maybe one will thing, as you created the Scientific Committee.
+Why did you include all the Russians, all the Russians in the in here.
+So actually, I'm not sure should be in the Scientific Committee.
+You, they do not even know about that.
+They are probable participants.
+(T) No, it is.
+It is just-.
+(O) This mock.
+Uh, or is that through-.?
+(T) So, it is not finalised.
+You know Anja.
+(A) Oh, okay.
+(T) So, um, it is not finalised, as I have just put the names.
+Because, um, like-.
+(O) Yes, yeah.
+(T)  If they are participating, so they could also be the potential reviewer.
+So they can review others work, right?
+(O) That is right, yes.
+(T) Yes.
+(A) But we should probably ask them.
+So if you-.
+(T) Yes, yes.
+Definitely, definitely.
+So that is why I have forwarded you the email, right Anja.
+The email template that we would be sending to the-.
+(A) Yes, yes, yes, definitely.
+(T) I did.
+(A) If I-.
+So I am kind of unsure of if we should invite all of these people to the Scientific Committee.
+Because more or half of them are master's students.
+(T) I know I, I do not know.
+Yeah.
+(O) Yeah, let's let's leave that open.
+But I -.
+And I think master students should not be there really.
+It's it's at least PhD students.
+(A) And I don't know who-.
+And I, I don't know these people personally.
+So, I don't know who are master students.
+So this is kind of a special.
+Uh, um, somebody is an autumn.
+Somebody is already like a kind of assistant professor.
+(O) That's out of-
+That's clearly good.
+And PhD students-.
+(A) But they don't-.
+<unintelligible>
+So it is a very special task to look through these people.
+And somebody of them have some Google, some Google, Google Scholar's or something.
+And some of them do have it, but don't have it online.
+So, it's-.
+(O) Well I would suggest Tirthankar that you put this list down and you would just put to be determined or in preparation.
+In the in the Scientific Committee.
+Keep it elsewhere and we will like discuss it separately.
+Do we have to have the list for the application?
+(T) Yes, yes.
+(O) Okay.
+(T) Yes, yes, yes.
+That's the problem.
+Otherwise we could have done it later.
+This is needed for the application.
+(A) Mhm.
+(O) So then please prepare the text for an email to the prospective members of this.
+(A) He already did.
+(O) Where is that text.
+(T) I have already done forward.
+(O) Is it in the C, F, P, uh.
+(T) I guess I, I emailed you like, maybe in December.
+But I didn't get a reply.
+(O) Yeah, yeah, yeah, sorry, that is my fault.
+So maybe can we paste it.
+So there is this Interspeech and SigDial 2021.
+Does the document with the C, F, P.
+Could we use the same document for, uh, editing the text of that, uh, email?
+(T) Yeah, yeah, yeah.
+So, uh, so I'm forwarding it to you again.
+And you put a link there.
+(O) Okay, yes, oh, sorry.
+(T) And in the spreadsheet we keep track of whom it-. 
+Like who has it declined or accepted or in <unintelligible>.
+(O) Yeah, yeah, yeah, uh.
+So for this work better, the more personal we write it, uh, the the better.
+So, uh, the the sheet where it is the Google sheet.
+Uh, there is a second one right conf with the status.
+Okay, so please put all the candidates, uh, from the web page to this list and, uh, fill what you-.
+Like do not spend too much time.
+The critical is the name and the email, and then obviously the status.
+But I would add one more column.
+I'm now in the, uh, uh in this program Committee.
+Uh or let's let's let's call it Scientific Committee, right?
+Scientific Committee, so that we have the same language.
+I'm now on the Google Sheet, uh, that you will created.
+I don't see you the Tirthankar there?
+Are you there or not? 
+Left-.
+Oh well, contact ,uh, him her.
+So Tirthankar I have now added column F in the Google sheet.
+And I suggest that we divide the people.
+Uh, so that we invite them personally, if possible.
+(T) Okay.
+(O) So the invitation email will be personalised in some way.
+So let's, let's in this Google document, with the invitation email.
+Make several copies, uh, uh, individualized in in various ways, and I will contact some, and you will contact some and Anja will contact the Russian ones.
+Perhaps we will get even more.
+And-.
+(T) Yeah.
+(O) Yeah, that's, uh, we really have to do it, uh, today, right?
+Because we need to-.
+(T) Yes.
+(O) Need to, uh, have this information in ten days?
+(T) No, I I I would propose that we submit the proposal within the January seventh or eight.
+(O) Oh.
+<laugh>
+(A) <laugh>
+(O) Oh, okay.
+(A) Ouch.
+(O) Yeah, yeah, you have to be more insistent on getting information from me.
+Like December is hard. 
+But I should have not left this, uh, uh, unattended for two weeks.
+(T) So the thing is, so the thing is like-.
+Ondřej we have to just submit the proposal because a scientific committee is not, will be fixed.
+So, uh, like like, like the people we know, they will quickly give us consent, right?
+Like from the ELITR project itself.
+So-.
+(O) Well, there are people from a list.
+So let's.
+Can you put their names in the, uh, in the Google sheet.
+So that we can.
+(T) Yeah, yeah, yeah.
+(O) So, yeah, because I I actually want to cancel some.
+For example, this Armin Swanford and others.  
+From AlfaView I don't expect anyone to be in any good position for, uh, serving on this. For example.
+(T) Okay.
+(O) So-.
+<laugh>
+(T) So, uh, so, uh, Ondřej can you just, uh, uh, tell me the names?
+I will then.
+Who do you want to see.
+(O) Put them, or put all of them there, and I will delete the lines, or like cancel 
+them like strike them out.
+(T) Okay, okay.
+Mhm.
+(O) Yeah.
+(O) And you can also suggest some more people like you would you would want to write.
+So I will propose that at least if we can have fifteen people, fifteen people, that would be great. 
+In a Scientific Committee.
+(O) Yeah, okay.
+So I suggest that for the sake of time, let's finish the call now.
+And let us keep working on the on this request to participate.
+And on this list of people to contact.
+And, uh, let's send them the emails today.
+And let's aim for the deadline that you suggested in two days from now.
+This, OK, yeah.
+(A) I have one little question before finfish the call.
+(O) Mhm.
+(A) This Elizabeta, I have written to you.
+You answered for and transferred it to Tirthankar. 
+Uh, just-.
+(O) Uh, well.
+I didn't really transfer it to the Tirthankar.
+I kind of like transferred the data questions to Tirthankar.
+(A) Yes.
+So actually, uh, -.
+(O) But not the modelling questions.
+(A) Yeah, just the short questions.
+I'm just to ensure-.
+Are you both willing to take part in the call as she answers.
+(O) No, I I I haven't seen her answer.
+(A) She didn't answer yet.
+(O) Yeah, exactly.
+So so, uh, I expect that I would be in the call only.
+I don't expect Tirthankar to be there.
+(A) Ah, okay, okay, mhm.
+So yeah we will do it -
+Let's do it later when she replies.
+So let's not-.
+(O) Yeah.
+(T) Uh, so ,uh, another thing Ondřej, just to I would be adding you to the GitHub repo for this.
+So you can make changes to the HTML page if you want.
+(O) Yeah, yes.
+Sounds good.
+(T) And another thing.
+This can be done later but at the same time do you have any key note speaker in mind for this summarization?
+So that-.
+(O) Do we have to have one?
+(T) Yeah, uh, it would be great if we could have one.
+(O) Mhm.
+<laugh>
+(A) <laugh>
+(O) So, obviously we have to ask the old dinosaur well, not dinosaur, but the experienced people from the 2006, or what was that instance, the the AMI corpus?
+Jean Caleta, uh, these these people.
+I've I've clicked the link.
+I like the linked the reference to the previous Interspeech event.
+The this word re-, rejuvenate .
+That is also a perfect match.
+I like that in in our text.
+Uh, so I think we should try those people as the key note speakers. 
+Because they will.
+They will like give us the best background knowledge from the past.
+(T) Mhm.
+(O) And I'm happy to ask them also with the, uh, with  request of being on the committee, we should ask these two questions for these three persons.
+And then, uh, I would ask Ian <unintelligible> if he would either himself be, uh, like agree or have someone else to to suggest.
+(T) Yeah, okay, that would be great.
+(O) So these are my things.
+My tips, but yeah.
+Okay, so let's.
+(T) We can delay these <unintelligible>
+So let's start writing the emails, uh, two prospective people here.
+<unintelligible>
+(O) Yeah, okay.
+(T) So, so the plan is like we will do it latest by 10th.
+ Uh we we should be sending this proposal to ESCA.
+And uh January 15th, we should be sending this proposal to SigDial.
+(O) Okay.
+(T) Yeah.
+(O) Yeah, it is like, yeah okay. 
+So that's it.
+Le-, let's cut it short, uh, now.
+And Anja will hopefully get some response from both, Libuška and Ahmad.
+These are my main concerns.
+(A) Not today.
+I I will also-
+(O) Not today, like, yeah.
+(A) I will I will come to UFAL at Thursday.
+(O) Mhm.
+(A) And and I will also write Libuška.
+If she also comes and probably we will speak.
+(O) Yeah, yeah.
+(A) Otherwise se will do it somehow, other way.
+(O) Remotely, that's okay.
+(A) Remotely, mhm.
+(O) Okay, great.
+So thanks a lot.
+(T) Okay.
+(A) Yeah, one mote.
+Please Ondro, Ondro, could you please i will send yu the three prepared letters.
+Please could you send it to my candidates?
+Because it would be better if you sent it.
+(O) To your candidates?
+What do you mean?
+(A) Uh, to my, to three Russians.
+So.
+(O) Mhm.
+(A) So, I think it would be better if you send it.
+(O) Mhm.
+(A) As the leader of the ELITR.
+Just for them to feel better to be on the <unintelligible> Committee.
+(O) Okay.
+(A) Just to <unintelligible>
+(O) Okay, I can do it.
+I thought it would be better from you because, you know them, but never mind.
+I I I can use it easily.
+Yes.
+(A) I think, well it's a little bit better from you.
+(O) Okay.
+(A) I also can send it, but if you send it it is.like from higher.
+(O) Feel free to-.
+9A) I have privilege because they have points  for cooperating with foreigners and I'm not a foreigner enough.
+(O) Oh, I see.
+Okay, yes.
+(A) cooperating with all this foreigners.
+(O) Okay, okay.
+(A) So, it's really a financial question.
+So if they get an email from Anna Nedoluzhko, it's too Russian.
+It's something-.
+(O) Too Russian, okay.
+(A) <laugh>
+(O) Bojar doesn't sound?
+<laugh>
+I'm just kidding.
+<laugh>
+(A) <laugh>
+Everybody knows, everybody knows that I am Russian.
+Everybody will be there.
+So it will be better if they will cooperate with you than with me from the financial point of view.
+(O) Yeah, yeah.
+And and you can at at the same time you can actually word it in Russian because I can validate whether you are saying good things or bad things.
+I can read it.
+(A) I I think it's be better, I think it's better in English.
+<unintelligible>
+(O) Yes, of course.
+(A) <laugh>
+(O) I'm, I'm just telling you that like I I can validate Russian.
+(A) Yeah.
+No, let's say it in English, I think it's better in English.
+(O) Okay, let's let's do it this afternoon.
+Great.
+(A) Okay.
+(O) So, thank you.
+(A) Yeah, thank you.
+Bye, bye.
+(T) Thank you.
+Bye bye. Bye bye.
+

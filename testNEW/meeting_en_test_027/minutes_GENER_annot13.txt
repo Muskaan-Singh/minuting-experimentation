@@ -1,0 +1,45 @@
+﻿MEETING MINUTES
+Organisation: CUNI, Faculty of Mathematics and Physics, UFAL
+Meeting Name: ELITR SurgeTech
+Meeting Date: 07.01.2021
+Meeting Topic:  Catch-up, workload distribution and upcoming sessions preparation (Malach, Theatre)
+Meeting Participants: Sangeet, Peter, Ondřej, Rishu, Dominik
+Upcoming sessions:
+Malach Event
+•	Spoken in Czech language
+•	Archiver person required to record the session
+•	Documents being gathered.
+•	Kaldi is model set-up needed. Model to be trained on common voice biased towards non-native speakers and multiple data sets.
+THEaiTRE 
+•	Two part event comprising of pre-recorded session interleaved with direct live recording.
+•	Session postponed till February 26th.
+•	Technical meeting on site to be held at the venue. Back-up person required to handle the set-up if necessary.
+•	Documents being gathered.
+For both sessions system should be selected on informed choice and performance numbers, not only on current availability.
+ELITR Ladder Climbing 
+•	Suggestion for tables to be made as simple HTML format as easiest solution, although difficulties with HTML may arise in performance difference assessment comparison in every new evaluation campaign.
+•	Conversion similar to Tech should be created for ELITR as well.
+•	Results to regularly stored on the web, in user friendly and immediately accessible fashion.
+•	Demo paper submission due on Friday 15th January.
+•	Automated minuting tool time is in time intensive stage.
+ELITR Deliverables D 1.5 and D 6.3
+•	Statistics about transcript is a good metric to represent numbers but lacking language pair representation. Complementary metrics are required.
+•	Ratio of two languages would be helpful.
+•	Arrange modification of ASR input through filtering such as profanity elimination.
+•	Rare words evaluation. Explicit list of names and terms required in the output.
+•	Manual preparation of reference lists is required. Ready for Malach event but to be done for SAO domain. Positive and negative lists to be extracted.
+•	Segmenter needs improvement in order to increase evaluation scores.
+•	SLT style evaluation is missing. To be discussed with partners on Wednesday 13th January. Delay scores calculated on ELITR Dev set to be presented.
+Multisource Tool
+•	Filters tor ASRs to be applied from multiple sources to multiple outputs.
+•	To decide if English will be used as reference language not (pivoted or direct set up). Google and Microsoft articles to be explored.
+
+General points:
+•	Call for additional time resources allocation to the project.
+•	Information from former team members (Jonáš, Omar) to be passed on and retained within the team for future application.
+•	Implementation of speech language identification completed - model working for Czech, English and German.  Implemented as audio to text worker emitting time stamps. To be passed to several team members for further languages training.
+•	Subtitler study paper aiming for end of January deadline.
+•	Book release planned for the mid-year.
+•	Next meeting due on Thursday 14th January.
+
+Minutes submitted by: ANNOTATOR 13

@@ -1,0 +1,34 @@
+﻿
+People:
+
+[PERSON1] (O) - Ondřej Bojar
+[PERSON2] (A) - Anja, Anna Nedoluzhko
+[PERSON3] (T) - Tirthankar Ghosal
+[PERSON4] Muskaan Singh
+[PERSON5] Ahamd
+[PERSON6] Bill Gates
+[PERSON7] Libuška
+[PERSON8] Martin Mareš
+[PERSON9] Elizabeta
+[PERSON10] Jean Caleta
+[PERSON11] Armin Swanford
+
+Organisations:
+
+[ORGANIZATION1] CUNI
+[ORGANIZATION2] Faculty of Mathematics and Physics
+[ORGANIZATION3] UFAL
+[ORGANIZATION4] Edinburgh
+[ORGANIZATION5] Euro parliament
+[ORGANIZATION6] Google (Scholar)
+[ORGANIZATION7] ESCA
+[ORGANIZATION8] Interspeech
+[ORGANIZATION9] SigDial
+[ORGANIZATION10] AlfaView
+
+Projects:
+
+[PROJECT1] ELITR
+[PROJECT2] Kaldi
+[PROJECT3] GitHub
+[PROJECT4] API

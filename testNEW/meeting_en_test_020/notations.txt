@@ -1,0 +1,33 @@
+﻿Projects:
+[PROJECT1] - NLT
+[PROJECT2] - CBNL
+[PROJECT3] - SSRN
+[PROJECT4] - PBL
+
+People:
+[PERSON1] - Anna, Anja, (A), - Anna Nedoluzhko
+[PERSON2] - Muskaan, (M) - Muskaan Singh
+[PERSON3] - Tirthankar, (T) - Tirthankar Ghosal
+[PERSON4] - Ondřej Bojar
+[PERSON5] - Tea Vojtěchová
+[PERSON6] - Maria Hrebječková
+[PERSON7] - Davidson (author cited in the text)
+
+Organizations:
+[ORGANIZATION1] CUNI
+[ORGANIZATION2] Faculty of Mathematics and Physics
+[ORGANIZATION3] UFAL
+[ORGANIZATION4] Interspeech
+[ORGANIZATION5] SIGDial
+[ORGANIZATION6] ACL
+[ORGANIZATION7] Google, Google Scholar
+[ORGANIZATION8] PBML
+[ORGANIZATION9] Archive
+[ORGANIZATION10] IEEESLT
+[ORGANIZATION11] COLING
+[ORGANIZATION12] ISCA
+[ORGANIZATION13] Softcom
+[ORGANIZATION14] Scopus
+[ORGANIZATION15] Elsevier
+[ORGANIZATION16] Star leaf
+[ORGANIZATION17] BBLP

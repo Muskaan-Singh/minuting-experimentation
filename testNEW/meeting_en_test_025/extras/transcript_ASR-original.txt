@@ -1,0 +1,651 @@
+Hi, hello.
+Can you hear me?
+Yes, I do not hear anyone I have to reconnect again, or maybe can someone else, give it a try as well, because I can hear you.
+What can you say something as well.
+Because with Peter, I remember that there also had some microphone issues at times.
+And you can hear you cannot hear me her.
+Yeah, so I will try to reconnect I will.
+Hello, can you say something?
+Oh yeah, I yeah, I. I will have to reconnect making host.
+Ah, for now.
+Yeah, so I will make the host for now, and I reconnect and leave meeting.
+Oh, okay, I hear you, by the way.
+Hello, yeah, yeah.
+Now I can hear it.
+So for some reason I have always to connect a few times until zoom starts sending also the sound to me.
+It is annoying.
+Yeah.
+So I was in a call until the very last minute.
+So sorry that I did not remind everybody to to connect.
+Ah and, Ah, I 'm happy to see that you are here.
+So let us start.
+And also my machine crashed in the meantime, so I had to like restart it.
+And now it is all starting up.
+So I would like to start, maybe in the other order, in the opposite order than last week.
+So, Dominic, if you could start.
+You were one of those.
+So you want to hear, what did I do?
+The transcripts for check are almost done.
+And one one transcriber of Germany is working, and she wants to do it alone until December the 10th.
+And my mother is writing the question for the German supply subtitle user study, and she and she has some progress, and then then she will move it to the spreadsheet so we can get her feedback and and continue with it.
+And I started to write the deliverables, Okay, that is great.
+Yeah, ah, starting to write.
+That is, Ah, ah, that is excellent.
+Ah, I 'm hopeful about boordan, but I have not heard from him back, and he is not on the call either.
+So let us feel free to pink boordan.
+Ah yourself as well.
+So the more okay, the more we do, the better great.
+Ah, yeah, then.
+And I asked to do do transcripts of by German for the German transcriber.
+Yep, yeah, that is so.
+So so I have just added the transcripts for the first 30 parts, and for the next ten, it is still running.
+But for some folders, for some reason, the audio format is wrong, so something is wrongly, basically, the big trade, or something is wrong.
+So some files are still have still weird output, but but for most folders, it should be already fine.
+Okay, thanks.
+Yeah, that is great.
+So, ah, I support this, it, is, it, is, it, is, great that, ah, the Dominic, you, yeah, yeah.
+And actually, so so uh all of our models uh basically work with uh with, yeah, sequence to sequence where we, just, process, the, entire, ah, input, sentence, and, then, when, we, have, the, final, output, from, from, the, entire, input, sentence, we, start, generating, but, the, output, sentence, but, ah, but, actually, so, the people from, I think, it one new token.
+So basically, it is much faster because you just generate one word at a time.
+And also, I think it.
+It could be quite easy to implement the shortening in this in this model as well.
+Yeah, so it would be shortening because we ran out of time, right?
+Yes, so basically we would just call it like we would just train it so that it is generating it after some, some time.
+Yeah.
+So, so that could also work.
+Yeah.
+So they have talked to Barry, or very mentioned in a call that is, Marianne is not ready has no ah specific things.
+Ah for speech.
+Translation so this Made, Kay.
+And other strategies are no longer okay, so we will have to implement this, and there is nobody.
+Ah, ah, in Edinburgh, who would have the time to do that.
+So if you would have the time, then you are one possible candidate.
+And we actually do not have any other candidates, where maybe I thought that that maybe some students of Abraham, I do not know if he is on the call already.
+But that is also like very risky and like distant.
+So it would be difficult, ah, but ah, so that, ah, ah, the only other possible candidate would be, ah, papayon from ah, the bargamar project.
+Ah, who, ah, like, works, half, way, in, prague, and, halfway, in, bruno, um, but, he, is, working, on, other, things, ah, in, marion, so, i, do, not, want, to, ah, like, to, focus, him, too, too, much, so, ah, mother, 's, priest, think, about, it, it, is, okay, okay, so, right, now, i, basically, yeah, it is.
+It is quite like then.
+Yeah, then, yeah, I will like, you know, based on, yeah, they think things.
+So let me check the.
+This is so.
+Ah, so poor I would never see.
+So we have Peter Omar and wish you here on the call further.
+So now, from all of you, I would like to hear an update for the sessions for next week.
+So one thing is the Monday seminar that should be done very easily.
+Do not bother yourself with that much, but I think that Omar should just like, Click, ah, click on to some buttons and get the Get the Ah, Ah vocabulary.
+Ah, expanded for that, right?
+Well, yes, certainly I will work it on tomorrow.
+Yes, but then a lot of effort is to be put into Ah!
+The Ah preparation for the two setups.
+Um, ah.
+For, ah metaphor room and as you want.
+And ah, whom are you mentioning that you do not have the webpage for a metaphor.
+Is that still true?
+Now I found it, and I just saw the program for metaphor, and I was checking the talks.
+And I am trying to uh gathered the database at the debt of the relevant from those talks that are mentioned in the program.
+So could you maybe, perhaps, for, Ah, the Ah.
+Well, how you are you away?
+So you are away the whole Friday, or only at eleven, I 'm away from eleven to 110 to granted wealth.
+Okay, so in the afternoon, for example, in the check afternoon, you are able to to do something.
+So how would I suggest if it is not too late for for issue.
+And I guess it is not that you could have a zone call again with the videos and to have a dry run of some past similar talks to metaphor forum dogs and see how uh that system works.
+And at the same time.
+We can do the same thing with the mayoral.
+For example, the The Ah Supreme Court talks.
+So they are in the elite, the death set.
+So I will.
+We have the the links, some or else say, Maybe I 'm.
+I 'm a bit afraid that the murder probably will not be prepared till tomorrow.
+Because tomorrow I will be working on the Monday similar model as well.
+So I think we can run the dataset for Monday.
+Yeah, ah, well is it too?
+Late, the more tests we do, the better.
+So even if we do the test of like the two concurrent subtitlings.
+Without domain adaptation, it would be a useful test.
+So for sure.
+So, ah, so we should, if you could plan Ah!
+For tomorrow afternoon, so that, Yeah, I 'm planning to do that.
+So there it will be two videos.
+Ah, played concurrently.
+So that actually means that we need you to operate two machines.
+That is another critical thing.
+I can 't stop it.
+I can operate two machines.
+I have two laptops at home.
+So I can do that, I guess.
+Yes, but you need two local need to unit arc, and one more machine with X to go.
+I can use blackbird okay.
+Yeah, so Ark and blackbird, right?
+Yeah, so tomorrow in the afternoon, should we say, like one or two, Check time.
+What is better for you?
+Both is okay.
+What are what would look for me.
+So I such as that at one.
+Ah, check time.
+So, like Zoom Test for Ah!
+Two Ah!
+YouTube Ah!
+Videos at the same time.
+So ritu would the Ah!
+Two Ah!
+Presentations be ready to paragraph use.
+Ready.
+So I got the access to, took his platform, my engage last night, so it was pretty late in India.
+So I did not set up my account, then I will complete it today, basically yesterday, or worked with all the steps.
+So it should be easy for me to do that now.
+Oh, it will be done today, I guess.
+So tomorrow we are going there is, there is some chance that.
+Ah, yeah.
+So, and they will provide so Ah ratio ratio setting up.
+Ah, two presentations.
+So, and Omar Omar has been working on adaptation for the two domains.
+Ah, up to online text.
+Ah, ah on.
+Ah questless virtual machines, ah behind and then A friday um test uh time for two concurrent sessions, uh so it will be arc plus black uh bird.
+Uh one will follow saw video, one will follow.
+Ah, I will say C, L video.
+So Omar, if you put, put a link here.
+Please add a until tomorrow.
+And, Ah, I will put a link, and they will put a link here.
+Yeah, so this will be the two videos, we will start them, and we will watch that the pipeline will be probably the very same.
+But still, you should like, have it as two separate pipelines, and you must not mess it up.
+And later.
+Ah, like later Friday or on on Monday.
+Ah, the models will be updated with the with the domain elected ones.
+So on Friday, use uh to separate pipelines, but each running actually the same thing uh update the each of the pipelines.
+Each of the pipelines on Monday for the two different domain adaptations.
+Yeah, so that is that.
+And I 'm curious about the evaluation, the scores, or if you have mentioned that you are already doing some.
+Yeah, so I am compiling some days, are tasked for that.
+But I am a facing some of my shows.
+It is basically that some videos, Arnold, getting some audiences or videos are not inconvenient properly into a 16 cave format.
+So I 'm looking into that.
+So sunglasses told me yesterday that there are some issues with some audio, and I have to do that manually if that does not happen.
+Yeah.
+So this is essential.
+This should be we should we all should know like how to do it.
+It should be part of the automatic evaluation of a leader test set right there is that is not working properly, yeah.
+But there are some audio files where it, it gets converted to the format.
+But when you pass it to the Asa system, or the solar system will not work on that mhm.
+So this is this is strange.
+Ah, issues with some files.
+Ah!
+Ah with Ah!
+The 16 uh for a match uh converted her from so uh.
+Yeah should seek for any help you can get.
+So if sung, it can do that.
+Ah, then.
+Ah, please tell sung it to do it.
+Yeah, he is shared with me how to do it.
+So I am doing it today.
+But yeah, ah, that that is saying a bit of time, because I need to figure out which one is the one which is are getting passes where they is heard.
+So once I know that I can keep a track of it so that for future, or actually, for which I would not.
+We need it, because once I have the web be file, I probably want, you need to do convert.
+Well, this, this should be actually, can you still hear me?
+The sound quality is.
+So this should really be done all the time.
+So every time we run this evaluation, it should be, Ah, run from scratch.
+So every time, there should be a fresh download of a fresh conversion and fresh evaluation.
+Ah, yeah.
+But still, if I am keeping track of the files, which are needs to be manually converted so that I can write a script, and it could take care of at least the known ones.
+And of course, if we add some new files, or I can see for that later.
+Yeah, so this is an important thing that we should have like come across, or it is a months ago.
+Remember, it is since August that I 've been telling that that we want to evaluate on a later just said.
+And like every time you all.
+It is not just you personally issue it.
+There are other things, obviously.
+But like every time you thought about that you thought that, well, this will be easy.
+We will just run it.
+And only when you actually do it, you will see all the problems.
+So this is known common.
+It is always like that.
+So that is a message for everybody before you try, you never know what would be the the problem.
+So for example, the call that I had there was someone was interviewing me so they, they, they wanted to record the video zoom.
+Never worked as badly for me as it as it was today for the recording.
+So before you do, you do.
+You cannot say whether it will work or or not.
+And here we are running on the in the province of conversion of the file formats.
+So hopefully you will be able to quickly get the numbers.
+So do you have any word errors so far?
+No, I have not processed it.
+So abruptly said that once they get the transcript, we will learn it together.
+Because he also has not thoroughly attached to the system.
+So he wanted to do it together.
+Right?
+Yes, yes, that is very important.
+So Abraham is going to be extremely busy, because he is organizing some event tomorrow and over the weekend.
+So we, we must not rely on Abraham, so today is your last chance to get it running before the weekend, and then only from Monday on words, probably he could help.
+So that is, Ah, that is better than maybe have also sung it on that call with Abraham.
+Is that planned that way?
+Um, not right now.
+I will last San Diego.
+This is only zoo.
+And ah, who else could be of any help there.
+So my only thinking is of matuchu was able to simply come by and help immediately.
+Well, in this.
+I do not think anything will be a, I do not know.
+For now.
+There are like a lot of things to run, but I 'm also simplifying everything so that, ah, we will not have, I think.
+Yeah, okay, uh.
+Yeah, so let us hope it will all work out.
+So as soon as you have any numbers, please send them to me.
+Just regardless how low or high the numbers are, just receiving the numbers will be a big relief for me.
+I will, at least for I, will send you the numbers today.
+Yeah, so for for which data set the it is a khanic admitted that it is 2020, uh it is uh part of that.
+Can 't I can 't academically?
+Ok, it is just.
+I mis pronounced it.
+So probably, you know, the correct pronunciation, and I do not recognize it.
+So there is these saw files.
+And these are more important, because they reflect the domain that we have for the meeting.
+And there is the money dogs, and these are important for the Ah!
+Seal domain.
+Yes, oh, okay, so uh I, I, they will all the three.
+Yeah, okay, great.
+Ah, yeah.
+And so I know that Omar is working on the elevation for the two remains.
+Well, do Monday tomorrow that we will like, one should think.
+And I 'm very curious.
+So, Omar, are you taking a part in that call, Ah, with Abraham as well.
+No, I think it is a, I think, issue.
+You also should, because you should also evaluate.
+So I 'm hoping that you will be able to have the multiple custom dictionaries in the as our system.
+The dictionaries that come from Peter and that you will choose, which is the best one that you will have some numbers to to choose, Ah, ah, which of the S our systems should be used?
+Which of the vocabulary should be used, and for that, you need the evaluation.
+So whatever you see by shown by Abraham will be also useful for you, unless you already know how to run a I do not know yet.
+And ah, so I think there are some things too discuss about the the medical dictionaries when I received your email yesterday with the thing I was I mentioned in the midwest at the system without using.
+The was better than the one used with people 's generated pronunciations.
+So so sorry said again and be more precise.
+So Peter sent this email with the forwards, the Watson Ibm.
+So this family was.
+I sent the, whilst Peter, three bells of Ibm and three bells of Watson.
+So he sent me the spoken in those files here.
+And so, since his model works on some.
+And so he first recognized the words in the audio fight, and then converted into phenomenon and then sent it to me.
+So there was.
+Ah, for example, there was one trial in which the word was for Ibm.
+And so a the did it, as I think four Ibm and so for names were recorded.
+So in this way, he sent me the phone names, and I added those pronunciations in my addictionary.
+And so the performance of this description was exactly the same without adding these pronunciations in the dictionaries and be one domain adaptation model that I develop with my manual pronunciations.
+Dead perform is slightly better than these models.
+Okay, cool.
+Yeah, uh well, this is too small of a sample, and then I know that.
+Ah, ah, ah, Peter produced.
+Ah, the long Ah!
+Word list, right?
+And you have not decided that one yet.
+Yes, sir, that is A to graphine he is anterably.
+I do not think so, or I 'm confused.
+How can I use it as it is, I think, that can be used by developing for some model from model and then using it.
+No, no, no.
+This is.
+This is exactly what you did with the Watson.
+So you just swap the columns.
+Okay, okay.
+So you just convert the the international phonetic alphabet into the phonemes, Ah, that that cmu knows.
+So it means that that lace should contain Watson.
+Well, I do not know if it was the one time 's person, but I mean, it assumed that the Middle East should contain our rights.
+Yeah, yeah.
+And then I agree that there is a lot of noise in this dictionary.
+So the thing that I asked for is that you would have various versions of this dictionary by taking only the words that were observed five times, and only the pronunciations that were observed three times or more or something like that.
+So that way, these random errors, such as the example with this four Ibm instead of Ibm.
+This will be not so frequent, but still, you will have the very ends in pronunciation.
+Because if the person says this also, if you remember, if he says this also with that 20 times in the in the talk, then you will see that in the data with the Zen.
+And if he sometimes manages to say correctly, also, then again, you will see that in the data.
+So, I would like, Whom are you call, right?
+I have to I. I will have to leave now, because I need to give the kids, the, the, the luncheon and so on.
+But please stay on this call and vigor out jointly how to use that dictionary.
+So Omar, please show the Peter.
+What is the dictionary that the system is accepting.
+Share your screen and and show it and better.
+Please have a look at that and help with converting the dictionary that you emitted to that file.
+One thing that will be still needed is the language model substitute.
+But all these words should be like the known words.
+So Omar, you need to figure out what words are in the in the language model.
+And the words which are in the language mortal should be simply copied.
+So the the dictionary will have three columns.
+The as it is output.
+One recognized the phony as Peter proposed.
+And there will be multiple lines with different phoning variations.
+And the third column, that will be also the same again for all of those, and there will be, again, the same graphing form.
+So that is when the language model sees.
+And I think that this way the these systems should be able to load it, and you will also possibly run into one more problem that is not ready for two big custom dictionaries.
+So this is also something that has to be tested, but please tested the YouTube together.
+So Peter knows what he created in the dictionary, and you know what the dictionary looks like when you are creating it manually, and you need to put these two knowledgeist pieces of knowledge together.
+Ah, so that it works with the with the generated dictionary.
+Okay, okay.
+So Peter, does this make sense.
+Yeah, sure, we will discuss it.
+Yeah, so is there anything else?
+Peter, that you, ah, ah, that you have.
+Well, maybe an interesting information for Dominic finishing training of a German that may be used for for time stamping on.
+I 'm not sure how, but it will be because I 'm trying to do it on Liberty Speech.
+And although when I was downloading uh it, they claimed it has uh more than 600 hours than a battle of the training center.
+The actual training settlement contains only around 300 hours.
+And I 'm still not sure whether this 300 hours.
+It does not contain similar sentences.
+Are actually the same synthesis, but spoken by by different speakers.
+Yeah, so it is.
+Ah, it is Ah, because mm, well, um.
+For example, in English or check I was used to uh.
+Oh, I used to observe her more steep conversions, and now it um.
+Now it is want to converse so fast.
+So, oh, and if if I 'm a.
+I am take uh some samples of uh during the training.
+Then there are some still some serious errors in the air output.
+So so maybe I 'm.
+I 'm hopeful that.
+Ah, for for the time I think it is, Ah, good enough, or at least we, we might try it.
+Okay, sure.
+And is it it possible to enrich the language motor by text, because we have lots of relevant texts from your parliament.
+Oh well, I 'm for for the decoding.
+I, my deal with also language model for at all.
+Well, it depends on what we want to do.
+If we want to just infer like like open uh transcripts, then we can uh we can use the language model and, um, well we can.
+We can also get to time stamps.
+For for for the transcript that if if you have transcript, and we will not just do a wrong just to time stamping.
+Then there is no way how we can use the language model.
+Yes, I. We may need both transcripts for, or, I mean, forced alignment for the fantas set, and then recognition for, for the rest for around a 100 hours.
+Well, there are further recognition.
+There is responsibility to use language model.
+Yes, so.
+Yeah, thanks for the progress.
+Please discuss this separately.
+I just because I will have to leave.
+I would like to stay on the call with Peter, right, and discuss how to use the dictionary, and I see here.
+So how much time do you have in the coming days?
+It actually depends on what day are we asking, like, I have some presentations to make an assignments are filming up.
+Yeah.
+So while there is a lot of things that ratio needs to do.
+And I think it would be good if you too would like split it among yourselves so and manage that in time.
+So there is this, the scoring, some meeting with Abraham this afternoon.
+So I think you should really join that as well.
+Okay, because this is the numbers that we want to obtain for the different models.
+And then Russia needs to prepare to have the double system running.
+We will do first test of this tomorrow at one part time.
+So I think that if you sung, it focused more on getting the numbers, and we should focus on getting these systems running, then it would.
+Then we will reach the the goals.
+Okay, makes sense, yeah.
+So please discuss this separately to find the time.
+I do not know the meeting time for, Ah, with Abraham.
+Ah, and but I really want to see the numbers.
+So I would like to have the asr numbers today and improved numbers on Monday, when Omar has the domain adaptation for those.
+And then we will, on money, decide which of the models to use, and we can still move Monday to Tuesday, but Tuesday is already the day.
+So the the decision really has to happen on Monday, and we need at least two numbers to compare.
+Get one number the baselines now and the Um.
+Ah, the Ah improved.
+Ah, ah, honor on Monday.
+Okay, okay, okay, so I 'm leaving at the moment.
+And if it is asks me to know.
+Now, issue is the host, so that is that is good.
+As long as the issue is not the call like you.
+The goal can run.
+So please Omar and Peter synchronize and sung.
+You follow that as well.
+And ratio, and you synchronize Ah!
+And Ah!
+Get the numbers and send any numbers to me today.
+Ah, ah, so as a baseline.
+So thanks and sorry for thinking more time.
+And thank you for stressed for all the, for these tests things.
+All right.
+Well.
+Well, send you a texton slack later or yes.
+So that her told him.
+Because, oh, I was mentioned by you on the call call yesterday or yesterday.
+I tried processing it.
+But I think some of the files, even in ah karnic terminators are or are doors files, which does not get converted into 16 killer Cape Guards format pretty easily.
+Okay, that is not, but I 'm making sure I 'll take care of it again.
+Well, are we discussing anything else, all the workers in their quality and latency, actually mostly about the.
+It is basically about the error rates are translation?
+And the answer, Yes, I think we have only one option for, Do not we only one I saw or or two sunny.
+How many workers do we have right now.
+One is from.
+One is what we use for our mondesseum in ours.
+That is true.
+Ah, even with Kyoto, we have two.
+Ah, one is.
+Ah, the nearest one sequence, the other one is a normal one.
+And in the Monday Seven album is going to do more of an adaptation for the saw and uh suit for both the different tasks.
+And uh finally, on Monday, we will see, or which model performs best.
+Yes, when I did the comparison of the workers.
+For then I observed that there are no big differences in machine translation parts, but the the bottom line in quality was the Asc quality.
+So you may select the best in quality, and then then pick the empty worker with the lowest latency, and and some good flicker and latency.
+And flickering my test quite quite easily on one document, and not not, on the whole, tested yes.
+During the month of August, we also had numbers for the empty models.
+Where?
+Ah, what do we say the rainbow?
+Empty models, uh scores were better than our an hour, I think, yeah, he was Peter.
+Marion mhm okay, you have this.
+Ah, more.
+Actually, Mohammed compared discourse between, I think, it was rainbow and a summer set of workers, and rainbows set up a rainbow workers about better.
+I think it was more just uh uh 30, two, 43 to 43 languages.
+And that were kind of, they had like little scores, an ER.
+Records had better scores, and in, in short, there.
+Okay, basically how?
+What on the remission on the call is divorced to use individual translation workers, you can see if they are performing better.
+So uh if not, then obviously we can uh fall back to uh the rainbow.
+Okay, so I 'll make Omar the host now, because I will go and have my lunch.
+It is pretty late here, and I did not advance.
+Thank you bye-bye and taxonomon and slacking in the weekends, right?
+Yeah, my.
+Okay, Dominic.
+Okay, I am.
+I am just trying to commit it.
+But ah, so okay.
+I have it in the good format now, but I just because I 'm just checking the folders.
+And for some followers, the output is like totally terrible.
+I do not know why is this, but for some foreigners it is okay, and for some, it is terrible.
+Like all the words are some just.
+It may be caused by the speaker.
+Maybe he does not speak clearly for the because, like, it is just uh like most common words in the language, I would say, which are, which are recognized over and over, like half of the world is ever, or yeah, it may happen.
+Maybe you can, if you want to inspect it, then listen to the to the source audio, and you will see when it is right.
+This is yeah, and it.
+It does not matter if if we miss some, some of them, and the will kick and filter them out food, but by herself.
+We can keep them directly, because like for the first files it worked.
+And now I have files with click names.
+And for for this, it is working quite bad.
+So, yeah, it could be this.
+Yeah, I 'm just going to click it once more, and then I will push it.
+Great, eh?
+And it will be good to commit or to save to.
+I say it is probably not the speaker, but it is the files, because often for the files, like when I converted them even to the right format.
+It just told me like ff mpe again told me that that there were wrong time stamps in the file, whatever that, and basically the so the yes.
+So so I, I now see that the transcripts for for these files are do not have the right length.
+So they were processed incorrectly.
+And I 'm not sure how to convert them properly, because F, M baggage is just returned the error for those files.
+Yeah, but it does not support the format, actually.
+Which or format, is it it?
+It is.
+It is actually owed.
+Ah, wait.
+Then it troops.
+I do not know why it did not.
+I will try it once more.
+Okay, yeah, I will, I will.
+Then I really was sexy, okay?
+Or I do not know what was actually the problem.
+Ah, okay, he had.
+Because because for most of the folders that the day did I transcribe later.
+There is this problem that is basically the length is incorrect.
+Okay, so I will change this to succeed?
+And actually, how many?
+How many work workers.
+Can I run in parallel on Cpu?
+Is it like in a run, let us say 100 um on on one machine.
+Or, I do not know, like on anywhere or in to as you can run 100.
+Yeah, speakers, no problem.
+Because like now, I think for my maybe half of the files it would be, you know, like totally wrong, and that would like confuse everyone, and I can 't really find which files.
+It is because of the files, so I would have to open everything.
+Now, other other city.
+And a converting command is called socks.
+S, O, X, I is another commanded.
+It gives you only information.
+I knew my Google of the format.
+Mhm I 'm sorry.
+I accidentally refreshed.
+Okay, I will trade for one file if it works better for this guy called huh.
+But are you still here?
+Yeah, and how much time do you have to work on the German.
+Good morning, or should we go forward with the language model to process the interpretters.
+Like you would like to train a language motto, yes or well.
+Um, ah, I am.
+Ah, ah, continuously.
+Ah, saving.
+Ah, checkpoints so I can already run the eh, sir.
+So if you provide me a language model, then I can only promote you the texts.
+The monoling German text in the in the European domain.
+And so it will be in the main.
+And then I hope there will be a good quality for the recognition.
+Yes, okay.
+And without promptuation also.
+Yes, we do not talking.
+You do not care so far, right?
+Then you can provide me with it.
+I 'm not sure whether I, you get it done by today, but uh no problem tomorrow.
+I think it could be done.
+Yeah, ah, okay, ah, yeah, one more thing.
+So I figured out that actually in the in some of the files there is, you do not just hear the interpreter, but you also hear the person saying something in English in the background.
+So maybe that could also be the problem.
+Speaking of the bronx person, actually.
+Yeah, yeah, Ah, so only only at the beginning or during the whole everywhere.
+That is the thing everywhere.
+Yeah, but so if it does work now, then okay, if it does not work, then I can apply some kind of filter to cut off the this effort with with low volume.
+Maybe it is.
+It is okay or okay.
+I will just try how it works.
+And and so, or we can ask the whether the transcription work helped to spare her time.
+And if she says that, not even when the quality is good, then then we do not need to care much about the rest.
+Okay.
+And we are the focus on Peter 's high quality on on the others.
+Not a Peter may be disguised now.
+Fine.
+We discuss no or the Roger.
+I think it is display.
+Dominic, no, I. I think we are done.
+I will send an email to Peter.
+Okay, thank you.
+And I may disconnect this call soon.
+So feel bye.
+Bye.
+So if I am sharing my supreme, I think, Can you see miserably?
+Yes.
+So actually, this is the formet of dictionary that is used by the answer and the the first one is the word, and the next is the pronunciation of the world and come in this is currently brackets.
+Once I actually do not know why is this your hair.
+But there are the academy brackets around the pronunciation and be calibrated around first and be last for me with W B in their, and that some special mark, or which one or the W, B, yes, this is.
+I do not know.
+It probably will be the requirement of the two kit.
+So it is W, B for all the words.
+Okay, it is the night before starting and ending for me.
+And even if this is not there, I think it is not a big issue for me to append.
+But the problem is, so this is the dictionary, and it is actually in our public format.
+So I think you can find it is on Wikipedia, as well by his alphabet appeared to two, two later.
+Eh?
+Postpone is also available on there.
+And there is a I under.
+They found a package of our language, which , which automatically converts the ah Ip to Alabama the other way.
+One means there is some Ip formats that are not in alphabet.
+Just let that day escape.
+I could not help.
+Okay, but that was not converted by Sweden.
+Hm, this is the email window.
+And so there was very some phenomenon that were not transmitted into the corresponding alphabet for names and uh.
+So I am afraid that when I will be processing.
+This list of graph came to for names to graph him.
+So probably there will be some issues regarding the such phenomenon.
+So if I can share the other package with you if you are familiar with ouro that is very easy to use.
+Various manual is also available for that packet, so you can use that package as well, or in any way, if you would convert these this, I t a into activate for names that could be great for me.
+Is it possible?
+I can take a look at the.
+Well, Um i Think I have a send you.
+Um send your son.
+Link once, About i 'm not sure where it was, Um, was it done.
+It was unscrewing.
+I guess um-hum I found some dictionary mhm mhm uh is if.
+But I think uh cereal to be um a strange a you.
+Mentioned.
+Can you copy the the the letter to chat please.
+And just let me teach.
+Ah, there it is.
+There was another air as well, but by a tree.
+Do not remind her with another.
+Directly say, Send another one.
+Come on well on.
+It seems that uh.
+And there is no oh um-hum.
+Okay, well, um maybe we could replace this for him with some other one, because actually we want to um we want to Ah, produce some appropriate variable pronunciations so actually actually.
+Okay, if we substitute.
+Ah, substituted.
+Ah, type mhm.
+I do not know how to copy this, but um, if she will.
+There is some nice chart in Wikipedia that um shows you the nearest nearest to this one mhm the nearest one are, for example, you did not link these two or our um.
+There is one.
+It is free so we can, just so we can just uh copy.
+We can just substitute each word with this.
+It is funny with two other words with both or or three other versions of that word with using this free?
+There is three figures.
+Can you share the linked of Wikipedia pills?
+Because I think there may be some.
+Ah, what there problems?
+So you think I would be up here, or if you go to the Ah, oh paragraph.
+Then there is some ah or some armed map out for um of how are actually near, and which are more, far apart.
+So where are you talking about this chat?
+Can you open it in your window, because I 'm still seeing your common line.
+Yeah, I think that is wonderful.
+Yeah, yeah, sure what is gone.
+Say, oh, and so I am not.
+I do not know the a pronunciation of any of these.
+So are they actually near when they are spoken, or?
+And I, I guess that they are so mhm.
+Yeah, well, um, but just open them.
+There should be some arm.
+There should be some examples, for example, for the open meat.
+The opened me the first first.
+If if you click on it, then, for example, it is not bad.
+A flight like burnton on the flying crew flying calm animal about it.
+And there is this example.
+And if we go for for for the letter, we do not have in in.
+And there is an example like a not not bird.
+But well or um, nothing.
+How can I think they can I will see it then, or maybe.
+And it is in a rich word in our dictionary.
+It is in where it is.
+I am.
+And which versus did they find this.
+This ah rotated a uh I think it is I, B, m it Is m.
+Oven so So i think the better example is this E in I do not see it there.
+It is uh it is already to have a it is a rush.
+Yes, it is a positive one son, son and M here.
+Well, I guess that is quite near.
+M Ah, what son?
+Maybe I 'm well somehow if you pronounce it and pronounce it incorrectly.
+Well, I 'm sorry, sure I need to go, because I have another main thing.
+And I. I need to prepare myself.
+So uh, please.
+Um, please.
+Um, let us have a call tomorrow, have been very free, free tomorrow.
+I 'm.
+For example, let us say, Where is my calendar?
+I think probably it will be difficult to have called tomorrow.
+I will let you know an email or flight, because tomorrow I am usually off for Friday prayer on Friday for ten to twelve.
+And then we have a test run with you sure that we were discussing.
+I also mhm no so well.
+Just a bright view.
+What do you need from me if you need to for me to?
+Ah, remap.
+Ah, my a dictionary to C, A. Ah, well, I can definitely do mhm.
+So it visit was her need.
+Yes, if if that can be done.
+It would be very great because I can do that, but I 'm as sure I am welcoming toward three to many adaptation models.
+And so if you have time and you are not too busy.
+So it would be great if you can do it.
+Well, okay, I can do that.
+There could be a refugees, converted this list into the cmu for names so that that would beating Ip rather than Ip.
+There will be the phonemes of alphabet.
+So Sir was again list.
+I 'm saying that if you could just change these Ips to the alphabet for names.
+I could be right to the Sierra area with your okay so uh.
+So I, I get in touch with you.
+
+Okay, okay, all right, thank you so much.
+
+May uh Kennedy is at the meeting...

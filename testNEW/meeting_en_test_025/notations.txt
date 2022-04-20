@@ -1,0 +1,32 @@
+- PERSONS
+
+-- participants
+(O) (PERSON1) [PERSON1] ondřej bojar
+(P) (PERSON2) [PERSON2] peter polák
+(R) (PERSON3) [PERSON3] rishu kumar
+(D) (PERSON4) [PERSON4] dominik (kamera přeškrtlá)
+(M) (PERSON5) [PERSON5] matúš žilinec
+(U) (PERSON6) [PERSON6] umar farooq
+(S) (PERSON7) [PERSON7] sangeet
+
+-- spoken about
+[PERSON8] Bohdan
+[PERSON9] Jörg Tiedemann
+[PERSON10] Barry
+[PERSON11] Ibrahim
+[PERSON12] Pepa Jon
+
+- ORGANIZATIONS
+[ORGANIZATION1] KIT
+[ORGANIZATION2] Baidu
+[ORGANIZATION3] Supreme Audit
+[ORGANIZATION4] Khan Academy
+[ORGANIZATION5] Parliament
+[ORGANIZATION6] Europarl
+
+- PROJECTS
+[PROJECT1] ELITR
+[PROJECT2] META FORUM, METAFORUM
+[PROJECT3] MeMAD
+[PROJECT4] Marian
+[PROJECT5] Bergamot
