@@ -1,0 +1,19 @@
+ and ehm, we would like to share it with you [PERSON4] and [PERSON5] can your team.
+Let's just think that uh, we already need it really working in well tested, uh,at the end of June.
+(PERSON4) Okay, yes, so Monday, at nine, or ten or as you wish.
+(PERSON9) Well, Monday at 10, let's see.
+(PERSON1) Yeah, that's where the big question mark so at the moment, that's what I'm not so sure.
+If you want to see right ASR output I'm not sure if  you will have to request the unsegmented text.
+When when ASR decides that given given that (causes) so far, maybe  sentence would be better.
+we should train our empty systems to work on all the individual lines that we are getting from these.
+dependent mission translation that we have tried for for this [PROJECT3] so technically the segments are not too long,  (PERSON1) Sorry, [PERSON4], why does segmentation change, though it it sort of- it has.
+(PERSON2) Um  for one thing it's also possible that if it is (I'm it knew hypothesis, the segmentation as we run output segmentation might be different.
+The other possibility is that maybe if ASR only changes one word for the fact that my  one word.
+actually starts in the middle of or like is it some continuation ehm of of something which already output.
+or someone from [ORGANIZATION1] to validate these locks to to help us create a reliable locks from the ASR workers, and and make sure to try to look up of this thing in the existing code, uh, in the   ticket.
+ I think that [PERSON1] we should try to train the models to be ready to accept like partial sentences,  So me and [PERSON5] will try to get the  this part working, which is like finetuning normal empty models for a bad-   (PERSON4) Wednesday, June 19, yeah.
+and then I would indeed ehm rely on the [ORGANIZATION3]  platform to do to do the pipoting.
+I I can report back to you.
+But I can say that English- German to English is probably our best translations systems   transform model so would get better.
+and German, yes, the German ASR [ORGANIZATION1] German English empty, because then we will be replacing this part was the [PROJECT2] worker that [PERSON1] will be developing, Now, now I have new idea that we can take paralel big paralel text only corpus then we are text to speech on it, (PERSON2) Yeah, so would I on this very most important thing would be text to speech on models one speaker.
+ehm, even say, would be extremely useful for you to see the whole thing in in practice,  So another, [PERSON4] says another  option would be to force the platform to use particular worker for pipeline or for session, (PERSON9) I has just a question regarding your note in presentation platform the [PERSON4] experiments, We have sessions starting, stoping with regular election tranclation so it's four to six times a day,  So [PERSON5] please please remember that next time we we would like to make  of such failure to debug thats.

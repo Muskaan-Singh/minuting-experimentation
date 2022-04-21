@@ -1,0 +1,50 @@
+(PERSON18) I can hear you guys properly, but lower clear, but - (PERSON12) Yeah, [PERSON21] is guess I don't know what <unintelligible> <another-language> (PERSON18) He should be there.
+So I hope that all okay with that been recorded and and actually we would like to release this publicly, but with some delay of like this is a so this is not longer interesting.
+And there is a good point, we will send you a link to google form, where you will fill in, that you agree, what this <unintelligible> to be used and there you can specify the limit,what <unintelligible>would like this-which you require to be, em, to be followed before the data is released.
+And another document, which is now becoming very important,will be this google sheet, with all the things, that that you have done.
+Next week it should be on Thursdayand then until the end of exam period it would be Thursdays and then we will vote all again, what is the best day.
+The purpose of these meetings is for everybody to say,what they are working on, and what they have in mind for the upcoming weeks, and the reason is for me to collect this credits.
+So the point of the call is to make sure,that people know, what others are doing, and they nicely, well like a collaborate, in the sense that no work is done twice.
+And so the - So, the - So right now,I would like everybody to go like one by one and summarize in a minute or 2, what you have been working on this week.
+So after we do this summary of activities,there are being worked on, or finalized, then we can spend the rest of the the half hour for planning, what is the most important next thingand who would like to pick up for.
+So there is the again, university open day, next Wednesday, for which we are doing domain adaptationand then there will be on the 12th of February a dry run of the workshop,that we are going to give for the [ORGANIZATION4] congress.
+In the sense - so, so after [PERSON16]'s tool,the next occasion to test things is the- is this English given presentations of the tools.
+And I also did a voice domain adaptation and <unintelligible> domain adaptation and talk adaptation and speaking of the words.
+And progress more on the[PERSON2] 36 36 empty models and doc translation, and basically like <unintelligible> that [PERSON15] so that the work is not duplicated again, as more on their size.
+And I I asked them to to enable to create such corpora, together with with transcriptions and interpretations and I don't have any - (PERSON12) <unintelligible> response.
+(PERSON12) So what you have described, can very much help that because all the data that you have gathered, would be used to retrain the ASR models.
+So so the the data that [PERSON20] mentioned, these can be used for all the models, that we are training ourselves and which also like talk to others, [ORGANIZATION3] to train their models better.
+And if this is successful, if we see an improvement from the additional sources, then this is something, which we would directly use in the surge afterwards.
+So this is until this  until this until we choose some us- some utility, we do not consider it a requirement, or we are not planning to to run multi-source translation at the event.
+(PERSON3) So [PERSON23] has differently updated me the <unintelligible> the compression, and but I am - I was unable - I didn't find time to deal it with the current- my current pipeline.
+So if that would be easier for you, instead of evaluating it for [PERSON23] to update a review that works for some of the setups [PERSON23] [PERSON23] would check out the crews control, do the set up from his laptop and connect to his laptop, with his laptop connected to wired connection  and evaluating the the ASR quality with compression, or without compression That's another option.
+So what I am going to do next, is that we can take a- any of the Monday seminar revised transcript and we can to take that as a test set, and we can do as uncompressed and check the word error rate, and  we can do a compressed pipeline and again check the word error rate and let's see, how it goes, so here we got some propose.
+(PERSON12) That is not possible for the - No, no, no it is not possible for [PERSON23] to do because he - (PERSON3) Yeah, exactly <unintelligible> yeah.
+So for example, if the compression is not really effecting  the ASR output that that should be a really good thing.
+(PERSON12) So if you don't have any any immediate thing to try, then have a look and tell me, which which topic you would like to work  on.
+So that is that is the immediate help, that that your work will will provide to the to the [ORGANIZATION4] Congress.
+Yes, it's could be caused after start, which and I can have a- <unintelligible> which can I have a meeting with [PERSON14], and we can test everything <unintelligible> so.
+(PERSON11) <laugh> in the la - In this weekend, last week, I worked on data collection to find the data, where is labeled of <unintelligible> 42 languages especially  for monolingual languages.
+I have also searched the parallel data that I ignored the <unintelligible> because most of the data is available <unintelligible> of the other six languages.
+(PERSON12) Yeah, so I think, now it is very important, that you and [PERSON15] will synchronize on the thing tools because both's you and [PERSON15] need to convert all the many file formats, especially PDFs, that are hard to process <unintelligible>.
+And you both have some tools for that and you also, both of you need to convert it to corpus styles.
+And if it's parallel text, then - That's that is not for you [PERSON13], but that would be for [PERSON15] to aline in that <unintelligible> more sentences and so on.
+The way [PERSON15] needs it is is to have it parallelizable on the on the cluster, so that you can process a huge collections of files.
+(PERSON12)Yeah, I don't I don't - So so yes, so simply - (PERSON11) I've been- I have already sent two PDF files - (PERSON12) Uhm.
+So I think we can use different tool like every word is a word <unintelligible> can works PDF <unintelligible>.
+(PERSON20) Well, I understood only a part of thing, but I will get in touch with [PERSON15] and whatever is needed.
+Not in this thing yet, but later, when - So so right now [PERSON5] is mainly working on the IWSLT test set, or test set  and <unintelligible> that we have to released.
+So that's, what I was telling earlier, that [PERSON14] should regularly process the test sets with pipelines and use the evaluation tool by E- [PERSON10].
+And there is- there is also information about- where the - where the actual installation is in the cluster because you have- you have to use custom environment, Python  environment and Pytorch environment to run my models.
+And now, I 'm working on on onlinezation of my ASR because as as you may know, I have problems with with transcribing, the running window, which cuts the words in the middle and then the then the language model does strange things, to to the all words in the whole trans- transcription.
+(PERSON1) <unintelligible> so we are (running) same - We are going to plan and we are going to implement a back translation in the next week.
+Even if it's not feasible, to to deploy it by Wednesday, we need to gather these better models, where the weeks for all the languages.
+On Monday, we'll interest in in like models, that do text translation, we will interested in, what is integrated in our speech processing pipeline.
+It could be [PROJECT1] by [PERSON20], finetuned on the parallel data, that we will create by back translation, or maybe we find other parallel data in the domain of competition linguistics.
+So I think, that on for example for example on Monday, [PERSON14], you could evaluate the existing systems and well, I evaluate, I mean, you run them and have the outputs.
+(PERSON12) We have a source audio, that's the one, that that's [PERSON19] - It's it's - I can say you'd path, but I think you you must have the path.
+There is in the domain adaptation 2020 January 29, [PERSON16] <other_noise> there should be there, there is the audio, and there is the transcript, and [PERSON19] has corrected the transcript manually.
+So I 'm the a - At least, and maybe it is not totally <unintelligible> of you, but it's clearing my head, what we should should try with the - <unintelligible> translation before this Wednesday.
+I would like to use some in-domain data from - Like European data to train the segmenter, like English and Czech segmenter and use [PERSON10]'s evaluation tool to see, how they are doing.
+And if I can get the first amount of data and after that, after the some is more test, I think, that the tool is ready and you can use it.
+Then I I'll use this week maybe to train - To get in touch with [PERSON20] and get European data to train a new segmenter, without like <other_unrecognisable speech="">.

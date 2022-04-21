@@ -1,0 +1,22 @@
+ (PERSON2) Hi, [PERSON4].
+There will be call on Thursday, you probably received the email from [Person7] already .
+(Person1) is here.
+The call is a call we have usually every month with the, uh, other project partners .
+The call will take place at 1 P.M.
+of Thursday .
+The Czech Republic wants you to come in person to enter a proper work contract .
+The way they employed you, uh, is really, like, they had to close both of their eyes .
+They are not going against the law, but they are in a gap of Czech law .
+The sooner, the better, okay.
+I think that you at the moment, you cannot apply simply because the [ORGANIZATION3] is closed .
+Other people who are trying to come here and they really want to come, uh, is from India .
+The call was between [ORGANIZATION4] and Organization4 .
+The call took place last week, but the communication is not completely perfect and, uhm.
+I have no messages from [PERSON5] since last Thursday .
+Proposal2 is the cluster of forty jobs that's are, that are on the cluster, or? Proposal5 is [PROJECT5] Proposal4 is the work of a model to do the evaluation of the cluster .
+Proposal 5 is the next project, Proposal 2 .
+Researchers discuss machine-learned evaluation methods for MT .
+They suggest they might be sensitive to domain shift and, and such, right? They say that even if the method tells the score or the performance is low, it might not be actually true .
+The idea is that we could add as many constraints we want and, and see ho– how many can we add until we lose the meaning completely .
+The metric can be used to guarantee that the paraphrase or the alternative sentence does not stray away from the original meaning too far .
+Psychiatrist: We'll see how much time it will take, depending on the, on the time consumption, we can then shift to, uh, shift to another research direction .

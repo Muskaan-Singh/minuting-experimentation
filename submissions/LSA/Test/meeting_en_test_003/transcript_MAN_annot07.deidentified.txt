@@ -1,0 +1,50 @@
+So the news from me are that, we had session like live workshop dry run at the [LOCATION1] on Wednesday and all the presentations went kind of well for the people who could understand [OTHER4], because that was run in [OTHER4], and people who had to rely on our subtitling were totally lost.
+But we will be watching some, for example [OTHER2] video, that we are kind of curious about the content, but we don't speak [OTHER2].
+So that's, that's one piece of news another bit is that the critically required, and as part of the usability for the users, the critical required the video and subtitles or the slides, and subtitles to be on the same screen.
+So for that reason, um, [PERSON9] created something which at the server side the presenting machine is regularly taking screenshots.
+(PERSON8) Yes, but it's, I don't think it's too bad solution, because it's intended for slides, there is usually no, it's, it's not good for videos obviously, there is no way this would work for videos, but it's good for static slides, and the setup that we have on Monday seminars all the time, and, um.
+And the, on the, on the Monday seminars the static slides they even, they even hide the, the watch, so there is like clock.
+So we have one more person who just came, and that's [PERSON2], he was um, visiting master students so to say, for semester here, and how, he's now going to leave back for [LOCATION1] or, yeah [LOCATION1] <unintelligible>.
+So, [PERSON2] agreed to join us for the surge, depending on his availability he's or his some some paper to finish that, like project to finish, to make into paper, and then also help us in whatever is needed, so that the the surge documents.
+I'll be again inviting people to help, and I was curious, especially about [PERSON6], if he was like successful with his exams, and if he could now work on domain adaptation, so that we could feed in computational linguistics language model for, like [OTHER4] talk on computational linguistics, and if that would be, if we if we could plug this into the into the current setup.
+Again, I'm reminding you of, of the sheet, please enter your achievements, so as soon as you've accomplished something, add to the line there, otherwise we'll forget who did what, and that's too bad for the bonuses.
+<unintelligible> into bigger script, so the processing should now be faster.
+I, I've sent an email to the <unintelligible>, about the, what I found, so if anyone could look into it, and say something, it would be great.
+Then we need to include this word in the language model in all its forms.
+And I would the pronunciation is something that you easily generate, and the replacement word should be some random feminine noun, again, the similar, ideally with similar declaration pattern.
+So, is there any chance that you would have some files ready for the Monday talk, or not at all if not that's not a problem, either, but there is all of the semesters are starting, so every Monday there will be some more technical talk in [OTHER4], mostly in [OTHER4] on <unintelligible>
+(PERSON8) Yeah, so please get in touch with [PERSON7], I dunno where is [PERSON7] today, I forgot to, uh, I haven't seen him in the office.
+Thank you, so I don't think that <unintelligible> ready and used for this Monday, but it will be very good if you synchronize with [PERSON6], and if you provided this to [PERSON6]
+Then if you could search before, search through a huge corpus of the particular language, [LOCATION2] or [OTHER4] for similar sentences and see how much much this corpus expansion can provide us with related other texts, other sentences.
+That you should get in touch with [PERSON6], because [PERSON6] <unintelligible> some language model data related to my talk on Monday, so it would be great, if you to try to put this to Monday <unintelligible>.
+The back end is a server in C++, which is just reads the has gently reads the microphone signal, and then it sends it over web socket to the client, which is just a JavaScript piece of code that can be included in any webpage even on a remote machine.
+So that could make it possible to visualize the sound from the microphone the longer we, we have the volume.
+So if you if you have the the pick, any of their recordings and played at various loudness levels, <unintelligible>
+So maybe if the output could be a little bit more verbose so, that some number, would appear next to the next to the the image as well, so that when [PERSON7] is observing the session, and he notices that something is too quiet, and or too loud, he could mark down the number, so that he doesn't have to take a screenshot and then.
+(PERSON9) Like the many to many machine translation model and I used the cloud [OTHER1] to train it, at first, I just used a data set of 300 million open subtitles from various languages.
+And I also received new data from [ORGANIZATION2], and I'm going to get it training today, and hopefully I will have some results, until until the end of the weekend.
+(PERSON9) Yeah, well, there is one for <unintelligible> actually, that I could use it's called open neural network exchange format.
+(PERSON8) Yeah, so that's great news for paraphrasing, like projects, but I don't think there is any way in which we could benefit from that for [PROJECT2], because
+So we are running [PROJECT1] models, which are trained in a similar way, but still well, [PROJECT1], [PROJECT1] only and not [OTHER3] serving.
+So we we don't have uh, the the connection to the the integration of [OTHER3] models, do we?
+(PERSON8) Yeah, and see if we, so that's a thing for [PERSON7] again, as we are growing, we still have not collect, obtained any single number from our models, in the in as they are in this setup, but we should get to that in in in the two weeks of February at the latest, so within these two weeks.
+(PERSON9) But it is, but it is trained like in [OTHER4] centric way, and and when I evaluated it on [OTHER4], it has much better performance than in the other languages obviously, because it sees [OTHER4] all the time.
+(PERSON8) Yeah, that's the paraphrasing, but for [PROJECT2] purposes, simply the send all the various recordings that we have already transcribed, and we don't have translation for that, so we need to polish the data set, but just for.
+(PERSON8) Yeah, okay, great, that's running when we won't need it.
+(PERSON9) Yeah, so I would just make a model where I would throw away the lower source languages, and I would just use the main ones.
+(PERSON8) Are better than the old [ORGANIZATION2] one, I'm not believe that as well, then this is the good model to do the offline translations of all these large data.
+So please [PERSON1] send the path, [PERSON5] has access to the to the clusters and [PERSON5] can run all the competition.
+So please send the path to all the source files that you have to [PERSON5] and [PERSON5] will apply the models, and we will get the first follow synthetic, very much in domain corpus, across these six main languages, and then redo this also with all the other 30 something languages.
+So that that would ideally happened during the next week, and we'll see how then like what the data look like.
+(PERSON4) Just let you know, I'm just going back next week, I work part time, so that's the reason I just had limited time for this project, and most of my tasks are <unintelligible> translations from [OTHER4] to [OTHER5] to feed anything <unintelligible>.
+(PERSON7) Hi everyone, so I'll just make it quick <unintelligible> how much this week, so I spend most of the time like preparing for the dry run and [ORGANIZATION4] event which was yesterday.
+And we also worked on implementing the segmenter worker on <unintelligible> and I am freezing some issues.
+The, and I'm not able to run the script basically to deploy their worker on the mediator, and the installation was succesful, so this is like few our tasks, which I concerned <unintelligible>.
+But when it isn't ASR <unintelligible> text keeps on coming, the segments are less, very very less.
+(PERSON7) So basically the whole incoming text will to keep on increasing entrance <unintelligible> full context and it will help the segmenter making more segments basically, so.
+(PERSON7) I was reading newspaper, and I came across that they trained <unintelligible> Estonian data set, and they also used some in domain Estonian data and all select auto domain.
+(PERSON7) So they mixed both of them, <unintelligible> train the, so I am probably looking for this contact, maybe [PERSON4] to get me some [LOCATION2] in domain data.
+(PERSON8) So that's a good question for [PERSON4], what data set has the correct transcripts which are as this fluent as the natural speech.
+(PERSON9) I have a quick idea, could we perhaps make just something like, Wikipedia page, or something like that with at least all possible data sets or all possible like you know purposes, so that so that when someone like has a new one, we can always just add it there, so it can be used by everyone else.
+(PERSON9) You wouldn't believe how much work it is to convert it to, to <unintelligible> record.
+So, thank you very much for coming, next I'll email everybody again, at the latest on Wednesday, when are we meeting next week, and there is Doodle <unintelligible>, so please keep that Doodle <unintelligible>, like up to date because the Doodle <unintelligible> applies to regular weekly time, and we will find the date, which time which suits most of you.

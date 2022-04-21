@@ -1,0 +1,50 @@
+(PERSON2) Yeah, it is it is to complete the GPU test and and to know that one version, one new version of [PROJECT3] really, really works.
+(PERSON1) An an overall, does it look reasonable, or are we uh do we have a problem uh with not enough progress in multi-source?
+So that's, ah, the one of the reviewers in in the review also ask whether we are, ah, combining, ah, the ah, the document level aspect with the multilingual aspect.
+And the all the corpora that we are collecting are document level if we can have them like that and they are as multilingual as they are.
+So to say what you are working on at the at this moment and what else you you could start to experiment with the multi-source.
+Ah, and, ah, the one of the biggest thing is that [PERSON10] is leaving, which is listed at the end of the, at the end of the, of the notes for today's call uh.
+Yeah, so I've, have started, but I think I never finished an email to you, because you have reminded [PERSON4] that your, ah, profanity filtering is not yet integrated.
+So the the important message is that, yes, it's very good that you are actively pushing so that your results are integrated and everybody should do so.
+So [PERSON4], when working with [PERSON17] and when, when, ah, like documenting what the set ups are, ah, make sure that it is tested well enough by colleagues such as [PERSON11], or then even [PERSON10] for the language model checks us and and everybody else.
+Ah, ah, ah, like ah, using MPlayer, or whatever simply play them, follow the sound output on your machine and and see how how that works.
+(PERSON4) So, we will discussed exactly <unintelligible> with [PERSON11] <unintelligible>  that we have that and if he couldn't <unintelligible> the local copy on his laptop because <unintelligible>.
+So it was actually for a second, [PERSON2] saw that I think, for a second ah, the ah the incoming, ah, sentences were like flooded with lots of oh, oh, oh, oh, oh.
+So, when you have a call with [PERSON10], then [PERSON10] has already started, ah, preparing for the upcoming Monday seminar that's going to be given by ,ah, Italian guy, a famous one, the author of [PROJECT4], actually.
+So, ah, on Monday we will hear the Italian English and yesterday, ah, we had a chance to hear the Japanese English and the ASR was really struggling with that.
+So, it will be really multi speaker, ah, sentences and, ah, therefore, the robustness to the different accents of these speakers could be also improved.
+But um, I think that the pipeline, um, the training pipeline, um, which is used for training of the <unintelligible> that uses this same technique.
+So that is, ah, that was the, ah, like news and and work that is being put on you, because [PERSON10] will be leaving.
+And another, ah, like a long term, or as well as a short term pile of work has arrived, because of the two sessions that we had.
+(PERSON5) That he got rolled in the pipe and and I kind of had a ah talk, ah, call with him right at the moment, when I was free.
+Now you are getting this errors how to debugg what what section is exactly the hair issue with so first tribe with the ASR of then try with the <unintelligible> itself, try individual ASR <unintelligible> and things like that.
+So maybe if you could remove these scripts which have the similar performance, or only leave that which which is usable and which is kind of okay for the for our life sessions.
+But if you think that when starting the worker, if you limit the parameters, if you limit the number of languages there itself.
+But what I think is that if we could have like multiple word, multiple, multiple replicas of your same workers, and, each emitting, a different subset of languages.
+(PERSON2) If if you talk about learning [PERSON9]'s model then [PERSON9] send us some scripts with absolute paths on their systems, and we just need to replace them with our paths, correctly.
+And so I already have the first models, but now I'm trying to vary the amount of data and the length in the dataset, and to see, like, what is the difference in performance and and length.
+And then when I'm happy with this, then I will get to the second phase, where I will basically translate and and synte- and creating to dig data from the rest of the and the end dataset, and then I will build like the final shortening model.
+And also, yeah, also, this is the problem with the [ORGANIZATION4]s one hundred language models, because they they take like fifty gigabytes themselves.
+(PERSON5) He is an Indian guy and saw the data, it's his name and he mentioned that, uh, he is actually interested to join your group, your team.
+So what essentially my script will be doing is taking an input of taking the index file as an input and it will generate the ASR from whatever model there is mentioned in the script.
+So, after that I'll have a call with [PERSON7] to discuss all the, oh, things that I put in the script, and then I think he can take it up from that.
+Then, without running anything, you should just be able to look at the the stored outputs and the store scores, and it would immediately see where we are standing.
+So, [PERSON4], let me know when you finish it, and we can arrange a meeting, and then I will look at it, and then I will write it into the deliverable.
+So, when there is some session happening, we really need to make sure that we have the important people around the globe, ah, ah, like available.
+Ah, as a fallback solution, if I if I forget to to make sure that we have these people available, or they do not know that they won't be available.
+And I would like to put your names next to those for your, to know that like you are the people who are long term, including this goal and this, ah, ah, this challenge in in your plans.
+So, my impression, ah, from the, ah, domain adaptation that [PERSON10] has been carefully doing for all the sessions, was that it was not really visible in the hybrid ASR.
+And the substitute words are for the language model are are really used, and it's asking the correct anagrams with the substitute words instead of the the new words.
+And when we see a keyword in the domain adapted version then we would then we would like use that sentence from [PROJECT2], which is in general worse, but contents the right terms.
+And and another suggestion is that we really should have our arm fully new ASR and do various experiments on fine tuning and and and all that.
+Be- because, because you have like a such a large, uh, set of of videos that that basically with with different domains and and different speaker and speaker native languages on [ORGANIZATION5].
+(PERSON8) And and like, I had this idea that we could just like, ah, use some tool to the download basically these some kinds of filter and videos from [ORGANIZATION5] and make your training tests, ah, ah, a training set out of them.
+Because I'm afraid that we cannot just aggressively removed these words, because there are many words that actually might harm someone, and and especially these days.
+But maybe we, we could employ um these neural networks that I forget how this this task is called, but it's like based on the movie review -.
+Well, maybe we can use some sentiment analysis to to remove, um, sentences or or some a group of words with a negative sentiment.
+So not exactly similar, but when I was working with the financial dataset that we had created, or in my previous work, so uh we were looking for things uh from, let's say, an investor's point of view, it was since it is related to sentiment analysis.
+So, even if you train a neural network model to a spot some, some of the things that might be disrespectful or um demeaning to someone, or maybe that that shouldn't be there.
+Then you will have a question fire that can classify basically this sentence is like hateful or like, there are, there are like five categories like fake news, hateful and I don't know like what.
+And I think that with in this different setting, the the problem with the subjectivity that [PERSON4] mentioned and I agree it's very important, but it may be less, ah, less severe.
+Ah, I mean, we can just say in the profanity filter part, they can just look out for a hateful comments or or hateful sentence, and we can simply remove it.
+So we will have one more this call next week, and then, ah, it will be already the Christmas Day and then, um, the the New Year's Eve.

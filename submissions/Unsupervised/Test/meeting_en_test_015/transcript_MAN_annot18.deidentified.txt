@@ -1,0 +1,33 @@
+ Um, yeah, cause I don´t know much about it actually but I think we maybe (say) we can just - I, I actually don´t know like we definitely need to cited and said that it´s from that work.
+Yeah, it´s, it´s (nakl) so when is, when is (nakl) it should be OK you say.
+[PERSON14] Um, we still have the picture like the, (like) [PERSON24].
+[PERSON21] Yeah, I, I think it can be some box that you can because to, to like put it some box - Latex just, just for to prevents, the words from overlapping and then, then that´s why it does those stuff.
+[PERSON14] The other some like pdf and I think so I, I (need) to, um...
+This will written by [PERSON24] and I, I have rewritten some, some parts so that it more fits the, the book.
+Then there is this 3.1 methods for interpreting neural networks and I thought [PERSON14] said he would write something.
+[PERSON14] I think this was, yeah, [PERSON6]´s, [PERSON6]´s, this was [PERSON6]´s thing.
+[PERSON20] This is what [PERSON6] moved into my chapture and then I moved, moved it here.
+Now what´s strange the FastText image here seems much more, um, similar to the original Glove image here.
+So if you, if you like cut of the top and bottom, 5 % maybe it could be different.
+[PERSON24] That´s what maybe happening in this Glove image but why isn´t the same thing happening here? Also these figures are not completely the same because the original [PERSON2] model had some, um, I´ll - [PERSON20] That´s (line) only say that, um, that you can find the, um, the probability value for word at depositions it´s...
+Well, if I, if I make the, the subsign smaller it will, it will get fixed probably.
+[PERSON24] Yeah, I think we can improve the figures after it´s been send to the reviewers right? [PERSON14] If only (the font) change and the, the, the picture will be same only the nicer and then I´m sure it´s OK.
+In the - [PERSON24] Well, it will be resible, visible as it is visible now.
+Like it´s almost readable now when it´s a bit map so if, if it was text it would be readable.
+Yeah, but OK, I´ll, I´ll transform this from a bit map into proper text after everything else is done.
+The only thing missing for me is add PCA and ICA which I can basically copy from other texts.
+But, but, um, I think if we have like, like one  reviewer from, from [LOCATION1], it´s OK.
+[PERSON6] Yeah, anyway would we put something different into a book conclusion and into a book summary? [PERSON20] Boo-, book, book summary is, is more like, um, lon-, longer abstract usually.
+[PERSON6] Hm.
+[PERSON14] First you write what are you going to present, then you present it and then you - [PERSON20] And there are no rules, um, it, in the books series that we should have a summary and, and summary in Czech and something like that.
+[PERSON14] So for example [PERSON16] has conclu-, concluding tokens and then summary.
+[PERSON14] And [PERSON16], [PERSON16]´s book is coh-, 158 so it´s almost the same size of the book.
+[PERSON24] Well, it´s hard not to introduce new errors when I, when there is so much errors that I can see if I´m introducing new errors.
+[PERSON6] Yeah, so there are some citations that are not in the Zotero format so they´re deffinitely will bee always missing.
+[PERSON14] Yeah, but this is, this is, yeah, this is in the table.
+[PERSON6] Hm.
+[PERSON14] This is the, the citation (from) the table.
+[PERSON24] So it´s lunch, [PROJECT1] meeting, [PROJECT3] meeting and [ORGANIZATION2] beer.
+[PERSON24] Yeah, it´s 2 p.m.
+so that we can go to lunch before the [PROJECT1] meeting.
+I know [PERSON20] is registered and [PERSON23] is registered and maybe [PERSON11] is registered.

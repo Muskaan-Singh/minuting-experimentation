@@ -1,0 +1,34 @@
+PERSON3: i'm happy to see that it works even without any installation .
+laugh> I don't know whether the picture is frozen or [PERSON2] is frozen.
+(PERSON3) Okay, so we have- uh, we have [ORGANIZATION7] .PERSON20 has received a request from the main organizers to prepare a video for his submission .
+he wants to organize workshop workshops sessions of 1 or each 1 evaluation .
+the deadline was already uh, 3 days ago and and deadline was given by .uh, we have everybody.
+(PERSON10) I can probably unmute the person, but I don't know, whether that would be polite enough .
+so let's try to be quick.
+but there is lot of things that we have to discuss .uh, are we aware of any problems there? do we expect any- anything strange, anything like unforeseen? (PERSON3) We can't estimate it because we don't know all the salaries .if you haven't done so yet, make sure to enter all your dissemination activities remote, or in person, into the continuous reporting table .
+uh, we need especially more input in the scientific dissemination part and the workshop and NLP technologies .the workshop as package is essentially ready, but it wasn't delivered .
+uh, someone also entered the papers, which they published .
+should we report all the papers somewhere and maybe these dise .the sum of our dissemination activities will be this table plus the papers .
+ideally, this open (IRA) pure or whatever is the way to go .PERSON8 has already volunteered to do ASR systems .
+some of our developers will review the report on NLP technologies .
+uh, across the board, I think we are proceeding reasonably well .the new congress date is already uh, known .
+it's from 30th of may to the 3rd of july 2021 .
+the workshop itself will be on the 1st of june .the demo will tentatively take place in in on 1 of the days in the 2nd half of June .
+[PERSON8] proposed a dockerisation.
+we don't really use docker our servers because of these pseudo access needs .in principle, you can run docker containers without root .
+unintelligible> docker plays nicely with the ID approach machines .[PROJECT5] is CPU based, on the other hand the punctuator is GPU based .
+(PERSON3) Yeah, it should be able to run, yes, in case we need it .
+[PERSON16] Yeah, we could give it to [ORGANIZATION5] or to someone else .the demo was postponed because of a power outage .
+uh, we must have a production system and a development system, a complete setup .
+the production system has to be stable without any new segmenters .if it's well integrated, it will be great to to demo it .
+but it also is a big risk uh, for for that set up .
+we have lockdirs, which record the outputs, including time stamps .uh, we'll be regularly testing a new models and new components in the pipeline .
+fingerprinting is quite good to separate versions of the modules .
+we would have frozen fingerprints and research fingerprints ."this is not a uh, not an r- scientific experiment," says john sutter .
+he says we will have a number of demo sessions and freeze the fingerprints for the demo .
+"if we ask for an extension, I will be unintelligible> automatically," he adds .if you want to extend the project, you can ask by mid next week .
+you can also ask by how many months would you like the project to be extended .
+it's hard for me to plan like this much ahead, so 2 or 3 months sounds good .the deadline for the recorded uh, demo is the 17th of June .
+the idea is that maybe [PERSON20] will present with a s- screen sharing demo .
+if you would like to contribute, send the Overleaf link as soon as you start with that .a number of doodle pools is to come uh, for the demo and for the regular dry run sessions .
+we'll have call, so or like urgent calls, but otherwise, I think w- we are doing good.

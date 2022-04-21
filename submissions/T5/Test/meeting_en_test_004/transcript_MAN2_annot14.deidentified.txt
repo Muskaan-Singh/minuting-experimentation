@@ -1,0 +1,45 @@
+we don't have any true German speaker at the moment .
+the worst problem is that [PERSON2] won't be available for this call .
+if you want to see the quality of the subtitles, you can share the screen .the same ASR processing is done two times now, and it will be done three times with the German one .
+the good thing about German ASR is that we don't rely on the German, on the English segmentation worker so that that could run .(PERSON9) We are solving another issue, with- with presentation right now .
+but it would be nice if you wrote the conclusion from this discussion to the doc.i'm sharing my whole screen but the full motion icon has hidden away .
+so I don't know how to, maybe it's not possible to do with the with the screen sharing .we need life monitoring of everything .
+if anything is bad we need to trace one step back and see if it was good and this step back or or not .
+we also need to send one audio for each output language .eh machine translation of [ORGANIZATION1] has some kind of improvement .
+off set is probably the one who will contain the key of this solution .
+if it doesn't change just don't resend it .the empty worker cannot distinguish between January repetition .
+if there is a genuine repetition, your empty worker could save the uh, the graphics card .the alti ee match best solution is that the ASR worker double checks its output and never sends the same string ehm-If-Well I should very different list still .
+so the cashing it actually an an output cash or- well, that was the right wording.if this works in two weeks from now it would be perfect .if we have-M3U8 URL we can put it in the presentation platform .
+but there is- There is no business logic inside it .
+if you want to run this web page ourselves for debugging purposes, then just the video client .if [PERSON1] connects, we should be able to see in subtitles what I am saying .
+if it connects to the EB client, we can see the output in the slack channel .
+(PERSON9) I connected english and german .i'm able to see it in my Chrome browser but not my Edge one .
+but on my Linux desktop it works well .
+i don't have google chrome, so [PERSON12] has it .if it's the Java integration whose not correctly managing the unintelligible> characters, there's still a lot of work .
+but on a positive side, in terms of efficiency it seem to be be able to handle ehm that stream that's coming in without empty worker .
+we should probably test this next week .i'm a little bit worried that there will be no time for improving this .
+we'll have to live with the current segmentation quality for the workshop .
+if you know, you can tell us how to use the streaming from VLC that work for you .if you click play on the bunny stream, it does not start at some time .
+the play should be only play and pause, but no way of jumping in time.
+ehm, URL connected to real-time streaming is provide.if you have any questions on [PERSON2], then he should appear here .
+he's still like in green, but i think we should try to clean this up now .
+we haven't yet tested the multiple output, but should be pretty transparent .the default available languages are unintelligible> displayed in the front page .
+(PERSON7) Yes, there will be the target languages that we are aiming at .
+if at the moment the definition of sources is static, it's not dynamic .if we add dash pub it will be grabbed by the worker for the presentation platform .
+we need the map because it's different institutions who are starting the different workers .
+if someone runs a worker with some incompatible fingerprint, then the path would not be accesible .i'm putting link to this fingerprints map drawing to the google doc.
+try opening this as well.
+(PERSON7) I can see your screen shared, but [PERSON2] in the call, but he was not able to hear us .if you see in the home page there are more languages available now, you can reload it .
+backend also needs to know about them .
+the publication unintelligible> the user browser is the client .there is no way that any Spanish can appear here until [PERSON1] will run a pipeline .
+for this pipeline to be accessible there has to be a worker registered already with it mediator .
+we have just to configure all the require the worker and let them run it .the slides are reduced way too much in the full screen mode of the web browser .
+"i'm not sure if I'm sharing the screen, I'll share my camera instead." "i don't have it here"i think it's usable in the horizontal mode because then you have space for the subtitles .
+for the desktops it would be better to have the subt- the video larger .
+if you like to have a bigger video screen text, I can unintelligible> note and I will ask them .i'm not allowed to share the whole worker logic because actually we have a really complex project .
+we could launch ourselves and the only thing it will be doing would be showing the text in terminal window .
+maybe it could send back the published subtitles so that you can catch the subtitle directly from the client running .the most important thing for now is the map of the fingerprints .
+the goal for Monday was to test more languages in presentation platform .
+PERSON5 and [PERSON2] will be absent from the call .PERSON7: i'm sorry it didn't work today, but actually unintelligible> .
+if there's if some of the notes don't make sense please make it explicit .
+"bye bye"

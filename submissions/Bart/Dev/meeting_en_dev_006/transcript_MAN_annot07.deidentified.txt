@@ -1,0 +1,17 @@
+ The current status is that I have some scripts for converting, data and extracting the most of common words from the data and furthering the words comparing to the dictionary of already known words .
+The scripts are working but they aren't in the pipeline .
+The most expensive part is the four- file convert- conversion so if you make some reasonable policy about the file naming then you can easily create the non-existent files and then re-do the dictionary from scratch that is not too expensive .
+The structure of the <unintelligible> will still evolve,so we need to be flexible with that but we are discussing what is the best way for them to give us all these files and I said that in March, in a month from now, we should hopefully be able to propose to to suggest interphase where they could upload the files and if the some restructuring of the folders we can do it behind the scenes .
+The best type of collaboration that you could start with [PERSON3], the regular data flow .
+The data flow is the transfer of the data, well actually should be all on [ORGANIZATION3] disks so its not reveal transfer the data .
+But you need some communication protocol kind of so that [Person3] knows where to pick it up and how to integrate it and this needs to be .
+[PERSON2] please let us know what you are working on .
+I I'm trying to make the webster kit connection working.
+I'm- I'm sure- that would be threst test for you so it would be good to see you.
+The system is working.
+The call was answered by [PERSON2] who was not present at the time of the call .
+The call ended up being answered by a member of staff from the IT department at the same time as the call-in .
+[PERSON10] shared docker images that was shared by [Person10] Peers: "I'm very much afraid of running the docker on some virtual machine" Peers asked for virtual machine for this and try to set it up .
+Peers need to run a low virtual machine, but this is what we need like permanent use .
+The last segment from the beginning, it can be process as the beginning of the sentence it must be <unintelligible> The time stamps must be used to mark the end of the sentences .
+The last message should be the beginning and the last segment that message .

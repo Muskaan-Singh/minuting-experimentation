@@ -1,0 +1,50 @@
+<laugh> [PERSON7] said that he would join us he has written me an hour ago, he is somewhere in the city centre, he's running in the University and she will have a very quick lunch so.
+On the minute which we were doing the dry run, for the one which we had nine minutes, and we evaluated it for the same meeting, so it gave so horrible results.
+Ah like our our meeting data it gives you most most commonly occurring words which are, like all those, all those words, which we usually say, because our <unintelligible> meetings are not something which are set up, then they are like in an organized fashion.
+That is a problem actually of meeting so uh [PERSON7] said that maybe he can include a newer motivation to share task or some paper maybe.
+So you can include them as the motivation so these are the common occuring words which usually which we usually we extract when we are doing summarization for meeting data.
+So this is something we also noticed very early uh uh that the- these are some random words which are uh the usual word which we speak are occuring into the summarization of so this is the biggest drawback of meeting data which needs to be handled someway.
+(T) Uh, yes the dial dates are like submission deadline is January 15 and the like the <unintelligible> are not uh published yet, I went through, but I went through the <unintelligible> and possibly they will follow the same timeline.
+<unintelligible> after one month, so if you if you say January 15 by February 15 we should know that whether we are accepted in <unintelligible> or not.
+So uh like we have to be totally dependent on the sick dial people for running the special session, because it will be an like <unintelligible> part of the program.
+(O) This is, this is, yeah this is preferable if we make it timewise, so thats thats a cricital problem so if the timing is harsher or not any better than interspeech then it doesnt make sense to go for sick dial because the sick dial itself is earlier.
+So if we if we cannot get the benefit of being integral part being in their proceedings then I would prefer interspeech uh <unintelligible>.
+(T) Yes, for that, so another date for sick dial is like uh the papers that would be submitted in our shared task would be reviewed by the program committee of sick dial and they do not guarantee that whoever our participants are we can like in like choose and invite that who would be presenting because.
+(O) Yeah thats okay, like I would not see that as a big problem, increasing the quality of the shared task paper is fine if there is enough time for the submission.
+So thats the critical thing so so [PERSON27] I've read the document or I've opened it already in the morning but the problem is that I havent found the the paper submission deadline for sick dial and that is critical.
+If the paper submission for sick dial is uh similar to what was our submission for the system outputs, then let lets do sick dial, but if the paper submission deadline for sick dial is earlier if its around the time as the submission deadline for uh for interspeech.
+(T) So uh, I will just post the timeline for previous sick dial so you can understand that how Uh ah submission for a.
+Empty marathons used to have this system or tool papers that were published as a special issue [PROJECT11] that was in the first year when that happened.
+(A) Yes, but Ah, another possibility for sick dial is not it possible that a <unintelligible> dial we attract kind of better participants.
+(A) But actually, when you create this as if somebody from outside, from good, summarizes, say, summarizers, say, besides to take part in our shared task.
+(A) The preparation is easier, your just say that we want to do that and that for interspeech we have precreate the separate action.
+(T) But uh again, the sick dial thing is probably like uh what an honest thing that is probably, ah, it is already established to attract more participants, and that the uh application proposals we already have, so it is easier.
+I agree that the people would spend two weeks working on the submissions at most in some, but they need to have three months of sitting, just like having it on their to do lists.
+And then in the two weeks, they will give it, but they need to have this time of of not doing anything and still knowing about that.
+We we release the data, and then the participants come up with many problems that we can 't see right now.
+The first, the first challenge is released, and then the participants come up with, okay, these are the problems in this data, then they release another version.
+(O) Yeah, it is better if this does not happen in [PROJECT26]  this does not really happen often, but that is a very established task.
+(A) So for me its very very hard work i would just intuitively for less income but if you think the time that later task are more important I totally agree.
+It was only logistics and the the work for like putting the program together was less less of a problem, because people knew what to expect.
+And that, you know, because when we have a problem, we know people from the simulation committee, and we can reach out technically reach out to them.
+(T) So uh the the other thing I'm just bit worried about, like because, um, interspeech is all about speech rights.
+(O) So then we will apply for sick dial, but they also have the option of separate proceedings for sick dial.
+So if someone manages to do it in time for the sick dial deadline, yes they should go through the sick dial submissioned deadline.
+(O) For interspeech we could also split it paper by paper so that some papers would go to the interstate proceedings and some interest.
+If it is okay for them to have some of our papers, given that these papers are submitted by the March deadline.
+So yeah, I think it is okay, so we do not need to ask for a special session in any of well in interspeech.
+If you manage to have your paper ready by the interspeech deadline, send it as an interspeech paper, and you will have it with interspeech.
+(T) Yes so so you want to say, like, if someone does it earlier, so they can send you interspeech.
+So it is then from the outside, it will be just a coincidence that, like in interspeech they are presenting this.
+And in the overview paper for the shared task, we are citing the interspeech paper and not the [PROJECT11] paper in the [PROJECT11] or proceedings.
+(T) Yeah, uh <laugh> I, I think, uh it may make a bit complicated, because uh we won't know uh the result of the interspeech live event until March 15th.
+So, yeah, but then, ah, okay, then never mind if if someone is working on the thing for, ah, for years, ah, then he can do it in in the two weeks until the March deadline.
+And if someone is not working on that, then he will have the deadline for our [PROJECT11] like I. I do not see any big problem there.
+Because, ah, so it is probably bound to a person who is who is a member, a person or an institution.
+(T) Ah, oh, I do not think like uh it is required institution, because once you have the login id and password you can submit.
+So double check with them if a student price would be a student registration for, or would be okay and uh, or whether we should do the uh, the institutional one, and uh also so, is it annual?
+(O) And in that case, the institutional is better, probably because the institutional is, I assume, that the institutional is kind of like for five researchers and two students, or something like that, though.
+(T) So for a full member regular rate is one year, is sixty euros, and for a student member for one year, it is 20 euros (O) Yeah so.
+So it is like, without knowing these numbers, I said, it is like for four researchers and and two students.
+(O) So well I would say out in general ask [PERSON96], [PERSON96] at [ORGANIZATION2] because he is the former head of the department, and also, he knows about all the projects who are here.
+Yeah, very quickly, and prepare the website, and uh like prepared the call for papers on the website, like, Make up with it, and uh do all the stuff.

@@ -1,0 +1,23 @@
+ (PERSON4) Yeah, so [PERSON8] has sent the Overleaf, well one Overleaf link, and also the link to the GitHub prepositary where we have the template is normal directory.
+(PERSON4) So if you can scroll, to where I am, yep, so executive summary.
+(PERSON4) Yeah, so that's a, that's a good question about the [ORGANIZATION1] presentation.
+(PERSON4) Yeah, okay, great, so then if you click on our icons, either mine or or [PERSON7]'s.
+And, in the [ORGANIZATION6] sheet I'll put, the link to the source which is here.
+(PERSON7) Well, I have a  of course i have several internal documents describing, for example, the architecture, the function analyses.
+(PERSON7) Preparing, I will be really happy if overleaf documents start compiling but it's not problem.
+And there is, that's what [PERSON1] said, so EAMT, February 21.
+(PERSON4) On that was discussed on the [PROJECT1] call, so I'm and remote call the standard consortium wide thing.
+(PERSON7) We need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works.
+We would like to  the ELG paper from that and the ELG paper is due next Friday, Feb 21.
+There is Dropbox and there is Git and you click Git, and it will give you Git clone command.
+(PERSON6) You will need to create special password for Overleaf, but then it probably should work.
+And [PERSON6] please follow the structure that [PERSON7] well, have suggested in that Overleaf.
+(PERSON4) Um-hum, well that's bit tech but the PDF got created, didn't it? (PERSON4) I'll modify the make file as long as you don't have any references, I'll simply avoid Bibteching them.
+Yeah, and now it's, now it compiles seamlessly, and I'll do one more thing.
+(PERSON6) Hi [PERSON7], this is [PERSON6], i'm actually [PERSON4]'s colleague from you know back like 13 years, actually remember me and him taking some some lecture.
+(PERSON7) Yep, I I cloned the Git repo, I've just pulled all the last modifications.
+I 'm just looking into what what it should be making Git commit from Git stash, Git pull.
+(PERSON7) Oh, don't worry, I also do not remember my  manager, which one is, but just give me one second.
+(PERSON6) And do you also say, you can say, you can say the B T.
+(PERSON6) I'm just sending in the conference chat, I'm just sending the, the link to the Wikibooks what I've just saw.
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.

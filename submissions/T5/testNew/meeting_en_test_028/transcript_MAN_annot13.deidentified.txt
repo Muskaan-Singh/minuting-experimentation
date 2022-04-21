@@ -1,0 +1,38 @@
+uh, it was very badly recognised and it was also slow .
+can it affect the recognition quality or is it just slow? (PERSON1) Uh, no.
+it is just slow.PERSON1 has applied for access to the full [PROJECT2] archive .
+he says he is not interested in the interviews with the survivors of world war ii and of the holocaust .
+"i think it is better if people who already have that experience do it now," he adds .if you have time in the afternoon for a call, please have a look at the [PROJECT9] environment .
+if we have for example, we consider we should, it should be 200 .
+but the alignment waits for it saves is for number for example 800 .review paper is supposed to be six pages long .
+PERSON3: "for you, this is a lower priority I think.
+you should work on the evaluations first" "if you want to automate this, you have to use a brute force," he says .if you have some long term processing of [ORGANIZATION8] data, start with that .
+uh, whereas we need English, we need unintelligible> study in january .
+(PERSON7) Yeah, thanks.
+and to start a paper on the study .uh, i'm writing a tool that will allow an operator to define the part of the pipeline and how they are connected .
+there should also be some support for a docker .
+if you could put this on the to do list or on enhancement options, that would also be useful .if the quality of our outputs is so bad, there is no point in collecting the feedback at all .
+if you find out some data in the public domain, please add them to the public part of [PROJECT1] test set .
+the next week, uh, you can present the summary of which systems we have at hand .PERSON3 is working on a shortening of english to czech training data .
+uh, it has to be committed to the [PROJECT1] test set evaluations .
+"the blue score, yes, is lower, but just the shorter outflow the lower the bleu score"the end to end [PROJECT4] models are creating implicit language models .
+the problem is with, uh, the big corpora the be the big textural corpus like Czech .
+but the training pipeline is a black box and it is quite complicated .i'm not sure if [PERSON17] will be active when she is on maternity leave .
+i will do it half and half without any further information .
+(PERSON1) I would use the same number, the same amount from the two [PROJECT11]s.uh, the alignment information between set and "gezacht" would bring the early time stamp of the "said" to the late part .
+if the system obeys the standard English grammar, it will cash these words at once .
+"i do not hear you well.
+let me finish."if we were able to illustrate this, uh, this alignment, it would be perhaps even better .
+i would suggest that we do not max it with the proportional value .
+(PERSON6) Yes, exactly, yes."t-shirt" in german is located as at 400, because that is what when this was emitted .
+i think that the current description is like excessively detailed and actually confusing and not correct .
+(PERSON6) I will check this one and the other one.i think it would actually make more sense to really based it on only C .
+but here the formula should arrive at something different, not necessarily two, three, five .
+i'm not sure if [PERSON8] is following.
+(PERSON6)answer back to the characters at the end of the word .
+based only on those time stamps in C .
+some words can be deleted afterwards ."das" is not like perfectly aligned to this, uh, if you look at it proportionately .
+there is nothing in the paper that would allow people to calculate this .
+but all of these calculations are in the formula .i'm adding you to [ORGANIZATION3] and [PERSON7] teams .
+try to integrate profanity filtering yourself .
+if you do it, it would be faster .

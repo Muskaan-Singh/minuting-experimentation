@@ -1,0 +1,55 @@
+ (PERSON3) Hi [PERSON15, can you hear me now? (Person3) Yes, yes, it works.
+(PENENTENTENT) The IWSLT presenter says he's happy to see that it works even without any installation .
+Participants will have to be available for a pre-recorded summary of the results and a panel .
+Participants will be able to podcast at 9 am and 6 pm Seattle time .
+(PERSON2) Workshop session of on that (record) (record).
+But I I guess, that would be to very <unintelligible> with -                (PERSON3) But that was too quick for uh, for the decision-and he had to uh, respond immediately .
+He said he didn't see emails before Monday because of a long weekend .
+The EU gives us 2 months actually to to finalize these numbers .
+The only thing is that we're not turn out to see the numbers from our colleagues, all the salaries .
+The content should be already pretty clear after this dry run with May preview of that .
+The numbers will be a- approximate, but it's to test whether we understand each other .
+The reviewer for the report on NLP technologies is missing .
+Everyone needs to fill (7.4) a Google sheet to fill with data .
+If you participated on trade 1st, or after Covid 19 outbreak on a kind of online <unintelligible> online .
+(PERSON3) The pre-review, which we had uh - the papers only into like into the text .
+(PERSON17) That's (fair).
+What is the expected number of people at IWSLT and?-                (PERSON3) There is a big risk that there will be this manual conversion necessary then on on our side, but we need to check that everything got there .
+There is 2 deliverables to be reviewed by [ORGANIZATION10] and the project management guide .
+The workshop is for people not familiar with NLP .
+The main authors responsible sites know, what is the status of each of these deliverables .
+The deliverables are supposed to be submitted by the end of this week or Monday .
+It seems like since yesterday afternoon we have permanent (power) again, but it looks like we should be back to operation walls again .
+The new Congress date is already known.
+The workshop itself will be on the 1st of June 2021 .
+The best week for the demo would be if around the 15th or 16th of June, essentially .
+(PERSON3) The demo will tentatively take place in in on 1 of the days of the .
+days in the 2nd half of June .
+[PERSON1] proposed a dockerisation .
+In principle, you can run docker containers without root without root .
+The actual docker stuff is running as root .
+And files that the docker writes back to your <unintelligible> system, will be owned by root .
+The Python virtual environment was recreated using the old Python virtual .
+environment .
+The only open point for me is the GPU configuration configuration .
+The punctuator is a virtual machine image that is compatible with dockerization and the like .
+It takes <unintelligible> to run it, it doesn't- it takes no time to run, it's more flexible .
+The other message was that we must avoid updating systems before the demo .
+The bomb and and power outage it [ORGANIZATION5] also put the demo at very big risk .
+"We could have uh, d- destroyed our- the demo ourselves.
+Even without the the power outage" The system is like tested under research conditions only .
+The system would have frozen fingerprints, and for the research, there would be also workers, which are not path parts of the path, of this frozen fingerprint, but which are for testing .
+The plan is to have frozen fingerprints and research fingerprints .
+The idea is to show which systems are the best and which are stable and what is frozen .
+The main message is that we will have a number of demo .
+dry run sessions again and the date for the demo will be chosen .
+An extension for 3 months or so is like an extension for a year .
+The universities I shouldn't I imagine, there's not a problem because universities begin after <unintelligible>.
+But I'm not sure the partners might have a problem, more of a problem with that .
+This is too soon and ask uh, before June 15th .
+The deadline for the recorded uh, demo is alread- it's the 17th of June .
+The idea is that probably [PERSON20] will present slides plus video, as pre-recorded presentation for the [PROJECT3] system paper .
+A number of doodle pools is to come for the project officer, for the demo and for the .
+regular dry run sessions, where we will also sort out the technical .
+technical .
+things, we've learnt from IWSLT submission .

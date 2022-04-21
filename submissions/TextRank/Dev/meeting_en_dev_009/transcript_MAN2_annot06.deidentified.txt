@@ -1,0 +1,50 @@
+So so the point of of these meetings is that everybody very loudly says and enters in the list actually in the in the google sheet, that is more important, the number of items that you have worked on and that you think you deserve some <unintelligible>.
+So that's the that's the point of the meetings.
+So please make sure that your point from the last week already have a row and then when they have the row I can end the I can end that.
+One thing that I want you to say loud is that I've agreed, I was asked by [PERSON13] to give her presentation on [PROJECT1] on the Monday seminar so as from subtitling we are also expecting to describe of what we are doing regular talk there.
+The date I think the date is possible the 17th February so in little bit more than two weeks from now.
+So I need to work on this which is so so this is a good place for better to use English as English models because I think that this english models could be better adapted.
+So the Monday seminar on the 17th happens the week after we have some dry run of a workshop where we are describing various language technologies and that's for the [ORGANIZATION6] congress the part like the (site) activity.
+And then the the important big event that I wanted to talk about is the students firm fair thats something which we have done only last year.
+And it's very noisy environment it's like fair or congress in big hall of many stands and there is little a little side It's not really room, it's just a dedicated area where this competition of the firm presentations is is running.
+And we are also going to (writers), well it will depend what the they will let us or not, last year we were we were showing some of the subtitles and because that was were appearing just once.
+This is one of the to do or wanted items to add some filter and f- populated what words that we don't want to show at all.
+So that's it is top so it's also the questions what to do of these topics then rather we should removes such words or not.
+So as you remember on the the day before yesterday were [PERSON3] giving (advering) talk one [LOCATION4] word which has nothing in relation that was translated as scrotum and so this is exactly the type of word which is bad for high school students.
+And because the from the Ger- [OTHER1] thing of the office I have downloaded 1970 to 1980 pdf files which is extracted which was extracted from the [OTHER2] using texted [OTHER3] so just can work in text format.
+(PERSON7) I don't know what he is using the tools what is the aplication so it would be nice when we would be -
+(PERSON2) So for the English or for both of them these are languages anyway so there the adaptation by [PERSON6] make sense it's good to put this into the collection and start organizing the collection.
+So if the idea is that the compress sound goes always to network and is directly decompress before (begin sent).
+So let it circumstance we had that the that is not actually <unintelligible> that is not supposed to be a prophane what coming up.
+(PERSON2) So I have an idea but I don't know if we have the person for that and the idea is exactly responding to the to the fake that.
+The list will never be complete and it will contain many word which we actually like would like to have an as the output or as the input.
+So somehow there was lighter the [LOCATION4] word was "soupatko" <another language=""> which is a slider actually and for some reason in some of the corpora this must have been in the same sentence as as the error came from.
+So the idea I have in mind is to train empty systems on corpora which are refind to contain only higher frequency words so like safe word corpora or safe vocabulary corpora.
+So this is if we do this type of filtering firstly together a very huge corpus then we need to set up threshold like what was the safe we can work work frequent boundary and then we need to create the corpus which is somehow limited to these words.
+And that is hard, somewhat, but I think that we could do it monolingualy and use back translation to create the other part.
+And the third option is to use this filtering on in the monolingual setting only and use backtranslation to get the other side.
+So that's a like a bigger experiment and I would probably find someone new for that one semestr stars from the students but it's it is an option.
+(PERSON16) So as you may know I finished evaluation framework and it's ready but maybe for some test maybe I should do some a small changes but I think it's ready.
+We (approved) that time base and word base segmentation to find the for example where is the may I want to calculated delay I should estimate that time of each word should be the time expected time for each word.
+So this is the team and now I me and [PERSON8] working on the I and [PERSON8] are working on the paper for (exceptement) and I think that's on.
+So I think that it would still be interesting to run your forced alignment of this data and we you can now use the existing time stamps to break the long recording into shorter ones.
+So I think that I was quite happy with result then during the presentation as like quite a lot of domain specific words were recognized by the model.
+Whenever you think it something big and I think this the improvement [PERSON3] talk it's very good one so definitely deserve to be listed.
+[PERSON1] has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and then decompress before being sent to the ASR.
+So if the if there is something we can lost of of  <unintelligible>  then we don't want to do it but if it's like the same then will write to <unintelligible> because it simply makes the communication more (abased) less likely to be to be effected by network long.
+Because I noticed when I read the paper about Librispeech that the recordings were before in mp3 format and then they were actually converted into flac format and then I had to convert it into WAV format so and the and the common voice is also in mp3.
+Now my systemlooks in the window with a greedy decoding and looks for pauses bef- between words and I have window that must be at least four seconds long and maximum is eight seconds found find the the most probable pause between the words and then I cut the windows there.
+But the results were at least for at least for some [ORGANIZATION2] talks they were really bad because the the corpora on which the transform were trade was trained is for casual speak and and fairy tales and so on.
+So that's actual translation with the with the transformer was quite bad and the transform-hallucinated some words.
+And I I sent an e-mail to [PERSON18] and I haven't received any any comments to to this new segment- to this new windowing from him.
+So do you estimate that than your segmenter could be operational in the two weeks from now for the Monday talk by 17th or even for the dry run sesion of the workshop on the 12th and you can talk.
+And the next problem is that the segmentation should be done on speaker separately because when there is some conversation the windows can overlap to speakers and the problem is then then the transformer translate these sentences into nonsense.
+(PERSON2) The problem is that we don't have speaker diarization on (fly) so we simply do not know when there is a speaker change.
+(PERSON2) So the talks in general are one speaker only but do it also as an for example for the remote calls there conference calls on the interview platform, there each speaker has different chanel so the diarization is there for free and it´s not not mixed.
+(PERSON15) That sould be better and the next problem is that the windows overlaped sentences and this causes some problems too.
+And we need the (byplans) to be wilow cashing so we created an modify version and there was there was one of the early sessions.
+(PERSON10) Yes, so so far I have only worked on the paraphrasing and actually I just w- I just wanted to say that right now I'm just waiting for a virtual machine for the paraphrasing server but otherwise it is done and working.
+I remember that I have asked him to check if the virtual machine set up is is reasonable and something like that and then forward to the IT department.
+I think it should be simply and totaly independent process for now which anybody could run to adition to be sound acqusition pipeline and would that see which of the input chanell is receiving what output.
+(PERSON10) Yeah, so I just try it today and it's just basicly sais that it´s like three hundred times faster for ASR so so so it could I just told it could actually be used to do ASR like on on the spot and it couldn't have to be sent and the delay problem could be eliminated.
+(PERSON10) And they also say it is that it is robust and dust nearly eliminates words keeping <unintelligible> which is also interesting interesting so I can just send it to you if you like.

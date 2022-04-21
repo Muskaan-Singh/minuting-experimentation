@@ -1,0 +1,50 @@
+(PERSON7) So as soon as Zoom waiting to start my system frozes for like 30 seconds.
+I would create the file with time stamps and use [PERSON2]'s replay scripts to to to feed it to AB client and to the presentation workers.
+So what I'm afraid this time the first so so like we have much depl- language tabs like we have English, we have Czech-
+The idea is you usually bypass the Mtray- M3U8 URL putting the frame in the [ORGANIZATION5] server which expose also the SSL certificate.
+And then on the server run FFM peg command which actually streams the video file.
+Actually I haven't yet finished to prepare this kind of pipe but I'm already able to swim an MP4 video file.
+The video box takes in input a public M3U8 URL.
+And I suppose that we are able so to stream and simultaneously provide inputs to AB client.
+We could even as a fallback solution if if like if we are not able to create the public frontend URL.
+Then we could set up an account for you so that there would be a net cut solution, like a horrible one.
+[PERSON6] Anyone with the access to the [ORGANIZATION5] exposed server could run this pipe because you just need the FFM peg installed, video file if you would like-
+But I think the most critical part is to identify the video file and to start performing test of-
+But probably the project officer will focus on the quality of the provided translation.
+Please try to identify the good video file suitable for this kind of demo.
+(PERSON12) Yeah, I put some suggestions for German TED talks in TED-
+(PERSON9) Yeah, so it's I haven't seen those possible ideas TED talks.
+Because it's very stage recording the person speaks much more clearly than the TEDx speaker.
+(PERSON12) I haven't run that through our through our system to see if that makes a big difference.
+And we could simply say that this is due to the fact that we want to show real Youtube videos and we would have to clear copy rights to to re-broadcast them.
+[PERSON6] I can also explain [PERSON7] how to to send let's say a free text to presentation platform through the-
+And immediately the full pipeline will start and this has to be tested so that the delay is like known how long it takes.
+So that the same call to FFM peg can also output the video streaming playlists.
+We don't I'm very very worried about that because I did a bit of research about the copyright infringement dealing with on Youtube.
+(PERSON10) Essentially but I am I am still waiting on my my personal Youtube account it's not able for streaming yet.
+It was, the reason to choose it was mainly because we knew how to present Youtube videos.
+So what we will do is we will we should demo the system transcribing and translating our speech as the meeting goes.
+First of all, it requires a completely different set up, respects to the one we are preparing for the file.
+In the set ups directory are stored all the [ORGANIZATION5]'s scripts used in the various testing we did during the project years.
+Then run FFM peg in order to create the M3U8 playlist which is a standard to for for web streaming videos.
+And also provide on on standard output the samples to be pasted in input to AB client.
+We will be able to both stream the video on a public URL and provide input to AB client.
+But in order to practice we should be able to write the video playlist file which is the M3U8 directly in the public directory.
+(PERSON10) So yea the the aplica- this FFM peg pipeline needs write assess to the publicly exposed directory.
+So I I need couple of minutes to recap our stream text to the presentation platform sorry you guys.
+[PERSON6] Ok, I can explain you one half the part which involves the ehm video streaming.
+So th- so that if I publish a file in this directory this is switchable via web browser.
+[PERSON6] Annually it writes the output in the acati- acati docs stream directory.
+[PERSON6] Ok when I run it, it starts preparing smaller TS files which are the segments of the playlist.
+[PERSON6] In fact if we go back to the ehm expose directory we will see that DTS files start appearing and being visited.
+This is, since I'm running apache on my laptop, i'm able to reach the expose directory through the web browser.
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation-
+For example we can organize still in the share screen put also a VLC for example which plays audio video.
+But in any case we can not fix users internet connection problems, we-
+Try having fix during the afternoon or the set up and technical aspects.
+[PERSON6] In fact in my opinion putting everything on a different machine letting the demo run remotely.
+(PERSON7) So I I'm saying that I just shot an e-mail to [PERSON5] and if he can join us for the meeting then we will be able to fix audax quickly.
+(PERSON12) Ehm I think as long as you have a set up that i can use to test the videos and ok, I'm actually-
+Is it fine for you to have the next test session tomorrow at half past 10?
+(PERSON7) So all those list of videos in the section the finder demo input in the Google document.
+Actually is really straight forward but I drink something wrong in my vocation that haven't yet figured out what exactly.

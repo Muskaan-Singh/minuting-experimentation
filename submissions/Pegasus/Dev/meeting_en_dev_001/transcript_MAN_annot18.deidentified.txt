@@ -1,0 +1,83 @@
+[PERSON19] [PERSON6] unintelligible> the book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The book.
+The[PERSON19] Okay, um, so I m still missing the introduction so it s stil this, um, this, this (bullets) which I plan to rewrite into the text like one to put this text away.
+And I still didn t touch morfology so I still need to rewrite it into sentences.
+But the rest of the book or as rest of my chapture now should be kind of (OKish) so, um, it s ready for comments I would say.[PERSON19] So the different where you say [PERSON13] and al say something, shouldn t we rather say we, we say something?<n> [PERSON19] So the different where you say [PERSON13] and al say something, shouldn t we rather say we, we say something?[PERSON19] Yeah, I think, yeah.
+It, it looks better if we refer to our work in, in the same way as, as the other.<n> [PERSON6] Hm.
+I don t know.
+On the other hand if you refer to your papers as someone else s paper it looks like, um, what do you call it in English, like don t appeal to authority which is not there like...[PERSON19] Hm.
+[PERSON6] The reader has the right to know that - [PERSON19] Hm.
+[PERSON6] You might be biass to - [PERSON9] Hm.
+[PERSON9] Our papers.<n>And by pretending that like or pretending, nice, refering to the paper as someone else s paper you I (disbiass) from the reader.<n>And by pretending that like or pretending, nice, refering to the paper as someone else s paper you I (disbiass) from the reader.Briefly see what is, what is missing there or what, what s not.
+Briefly see what is, what is missing there or what, what s not.<n>Let s go from the beginning to the end of the book and see what is, what is there.
+Briefly see what is, what is missing there or what, what s not.[PERSON19] Okay, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus)<n> [PERSON6] OK, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus)Unsupervised methods are described in PCA and ICA .<n>Unsupervised methods are described in unintelligible> unsupervised .[PERSON6] So...
+Then probing is defined or?<n> [PERSON9] So I haven t, I haven t read that but, but, yeah.
+We should say what we mean by probing and, um, put the history of this theme that probing in the, yeah - The past it was these model, is that use for many, many methods, different methods and...
+[PERSON2] (Also) the ICA tutorial was talking about, about behaviour texting.
+Are we mentioning this too?<n> [PERSON6] Um...
+Not yeat.
+[PERSON19][PERSON6] Well, I have (send) directly into (livelive) or what is also, you can watch it there.
+Hm...<n>And there is also a part about interaction and I m not sure if we want that as a section?<n>And there are examples here and...
+Oh, behavioral analysis.
+And there are examples here and...
+Oh, behavioral analysis.Chelling talks about how to come up with hypotheses that can be later quantitatively tested .<n>The interactive visualisation is like a technic (dot), can speed (dot) exploration but they don t really consider it .<n>The classifires are like a discussion around should the classifires be simple or should they be powerfull and memorization .[PERSON19] Hm.
+[PERSON6] Um...
+Um, this is also unsupervised method, the neural.<n> [PERSON19] Hm.
+[PERSON6] Um, this is also unsupervised method, the neural.<n> [PERSON19] Hm.
+[PERSON6] Um, this is also unsupervised method, the neural.[PERSON9] You didn t train anything but you re constructing, um, you re like - Yeah, like you constructed a supervise data set.<n> [PERSON6] Like there have to be a person who decides if, if - [PERSON19] Hm, hm, hm.Add the other methods to unsupervised methods because defined that only that unintelligible>.[PERSON19] Hm.
+[PERSON6] OK and now I m starting to get your point.
+Hm, hm, hm, hm...
+OK, now I m starting to get your point.<n> [PERSON2] Well, I m asking question who are the people and the answer is these are machine learning people.This chapture is about the general term, concept of interpretation .<n>There are no general consensus on what interpretation means .<n>If there is something specifical for NLP, we should say unintelligible> in NLP unintelligible> usual .[PERSON6] But my chapture is end of story.<n> [PERSON9] I don t know whether we should have the two sections on the book so maybe we can .<n>The only chapture of the third part, the third part is the summary.When it s just called summary, it s not very clear like suddenly this is all unintelligible> summary of the whole book .<n>It would also make sense to part a part after the second chapture, before the third .In the introduction we don't have a summary.
+Maybe it will be better if summary were somewhere there .<n>Also we want the unintelligible> number the things at the beginning in unintelligible> Roman numbers .Comment mainly what is missing .<n>Add something to the last, last, um, last section what is unintelligible>.<n>Check the list of figures maybe we should add some unintelligible>.[PERSON19] I deleted, I deleted all the meetings, um, starting the next year, because - laugh> unintelligible>.<n> [PERSON19] Hm.
+[PERSON19] What we have promised.
+So - [PERSON19] Hm.
+[PERSON19] Only thing is this book so...[PERSON19] Hm.
+[PERSON19] Hm.
+[PERSON19] discussed the problems in, in, in the book so - [PERSON19] Hm.
+[PERSON19] So the 21th I can delete? [PERSON19] 21th, yeah.
+Um...
+I will probably not - I don t know.
+Um...
+I will probably not - I don t know.
+So you all are here? The next - [PERSON6] So.
+[PERSON19] Maybe - [PERSON19] unintelligibleWe ll - [PERSON19] Hm, the meeting after would be OK.
+[PERSON9] I m not here the week after.
+The first week of, of the, so - But I m suppose if, if it s that the - [PERSON19] The book will be finished already.[PERSON19] unintelligible> professor.
+[PERSON6] [PERSON25] unintelligible>.<n>[PERSON6] unintelligible> these are professors but I don't know.
+Let s, let [PERSON2] see.
+laugh> So it s full professor here.[PERSON19] I don t know if there are some people who are unintelligible> - [PERSON19] Do you know them?<n> [PERSON19] I don t know where we go to ask someone which really in, in this are interpretability or maybe we can ask someone else in NLP.
+Cause this book is also unintelligible> working for someone .Someone from [LOCATION3] see like more inter-, like more unintelligible> area of interpretability and [PERSON22] is only unintelligible> NLP and other .<n>Someone from [LOCATION3] see like more inter-, like more unintelligible> area of interpretability and [PERSON22] is only unintelligible> NLP and other .

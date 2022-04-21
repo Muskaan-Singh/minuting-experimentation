@@ -1,0 +1,55 @@
+one uh one transcriber of germany is working on the german subtitle user study .
+one of them wants to do it alone until the tenth of december .
+another wants to continue with the deliverables .uh, it's great that [PERSON5] now has the time .
+it would be great if we could train empty systems so that they do the shortening .
+if you have time, there is no way we could do it for the next week .it could be quite easy to implement the shortening in this in this model .
+the only other possible candidate would be [PERSON12] from uh, the [PROJECT5] project .a lot of effort is to be put into uh preparing for the seminars next week .
+one thing is the Monday seminar.
+Uh that should be done very easily .
+(PERSON6) Uh no, I don't have the webpage for ([PROJECT2]).(PERSON6) I'm a bit afraid that the (mayborl) probably won't be prepared till tomorrow .
+tomorrow I'll be working on the Monday similar model as well .
+uh, without domain adaptation, it would be useful test .some videos are not getting some audios or videos aren't really connected properly into a 16 (cave) format .
+[PERSON3] is compiling some (clusters) unintelligible> (for that).i've been telling people that we want to evaluate on [PROJECT1] test set since august .
+uh every time we run this evaluation, it should be run from scratch .
+before you try, you never know what will be the the the problem ."as soon as you have any numbers.
+please.
+please send them to me," PERSON5 says .
+"i'm also simplifying everything so that, uh, we won't have.
+I think"uh, you will have some numbers to to choose, which of the ASR systems should be used .
+(PERSON6) No, I do not yet know how to run (SLDF)there is a lot of noise in this dictionary .
+you can have different versions of this dictionary by taking only the words that were observed five times .
+but you will have the very ends in pronunciation .the dictionary will have three columns.
+the grapheme as it is output.
+the third column.
+that will be the same again for all of those.
+uh, again, the same graphem form.
+you will run into one more problem that it's not ready for two big custom dictionaries.there are some uh serious errors in the in the ASR output .
+it's possible to enrich the language modal by texts .
+if we want just to infer (obtain) transcripts, then we can use language model .
+there is possibility to use the language model for the rest of the 100 hours .get one number the baselines now and the uh.
+Uh, the improved.
+.
+we can still move Monday to Tuesday .
+([PROJECT2]): Tuesday is already the ([projected] day .uh, the (bottom line) in quality was the ASR quality .
+(rainbow empty models) had better scores than rainbows workers .for some folders, the output is like totally terrible .
+it may be caused by the speaker.
+Maybe he doesn't speak clearly .
+the annotator will ca- ca- filter them out the.
+By by herself .(F F M P G) just returns the error for those files .
+(Person4) Yeah, it's actually od-.
+Ah, wait.
+Then it should.
+I don't know why it didn't.
+(PERSON5) Yeah, I will try it once more.if you provide me with a la- language model, then i can only provide you the texts .
+(PERSON4) Yes, but without punctuation also .
+if it doesn't work, then I can apply some sort of filter to cut off the effort .a package of our language.
+Which automatically converts the (IP) to unintelligible> the other way .
+if you would uh these phonemes in phonemes that would be great for me .
+(PERSON6) I can take a look at the .mhm.
+(PERSON6) laugh> unintelligible> I don't know the uh a pronunciation of any of these vowels .
+if you're typing (in this chat) you'll be able to see a map of the phonemes .there should be some uhm.
+There should be examples .
+if you click on a phoneme, it's in (bat), (burnt) or (other_yawn) there is an example like (not not bird) in our dictionary .if you could just convert these (IPAs) to the alphabet phonemes.
+that would be great .
+(PERSON6) Okay so I will get in touch with you.
+Probably tomorrow .

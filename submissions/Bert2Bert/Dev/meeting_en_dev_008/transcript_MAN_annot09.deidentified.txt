@@ -1,0 +1,79 @@
+do you create a next different link every time ( with ) or have a meeting ( with.
+) with...
+you can find [ [ [.
+] link ] in the.
+organization2 ’ s [ organization2 ] ] membership ( (..
+) will also function the next time we (.
+) have the coffee meeting, so in the same.
+meeting (.
+if you have accepted < ehm ), it is suitable for us.if we look at the document minuting annotation guidelines, we'll send it to the hangnote.
+do we have some chat here? if we're looking at it together, we can send it by hanging notes by hangnotes...
+and you can open it now.
+we've already sent it by chat, but i don't know." it's not going to be ( free ) any more...
+but [ [ organization2 ] meet.
+it is also free for fourty minutes, but [ it ] is actually ] free any more, " i said.
+" we have to pay for it beginning ( till.
+next month or so, " said i'm not sure if that's a good option.we have automatic speech reconstruction transcripts with really bad automatic quality, which i send to the annotator and ask him to correct the data.
+so when you send that, you send him the audio and video file or video file.
+this is the stage one of our university that i can send.if they ask for the original minutes, they look like, but mostly – ( but mostly ) ( person5 ) they're based on ( what ) was created duri - the agenda for the minutes.
+this is what was created by [ person5 ] before the meeting, or sometimes after the meeting.the min - minutes created by annotators.
+they contain real names and real names.
+but on the other hand, they don't contain errors in the content.
+they are also rea ( or ehm ), so they don't have errors.
+they're not the work of the minu - meeting organisers.i put it to the server...
+so we didn't change it yet.
+now it works the same, we din't – we didn ’ t change anything yet.
+i want to say that after the team watch them, we don't want to change it.
+i have to correct it, so what else?the team deleted the team's'team'during a meeting.
+this is an extra action that should be done apart from ( the team )'s ) team.'we agreed that they will keep communicating with you in the same way and that...
+he still sees that it should be maybe changed 'if something goes wrong, then we're absolutely fine with that.
+i really have to upload the data and it takes time.
+we just send them what all the files manually, otherwise, we'd ( gain ) the control o - over annotators.
+this is not the first time we've been able to send the data.it is connected with alignments...
+on the existing system.
+we need to have a measure or a < unintelligible.
+by which we can use the alignment to produce something.
+so, we need the al - i - output of what.
+( person5 ) - output.i'm not sure if i understand what you mean, but i think that at the moment it's not solved.
+i'd rather think that the answer should go from other source...
+to invent the measure or metric for that.
+i don't think that we have answered it yet, but we have the intuition.this is a manual measure for automatic ( minority ) measure.
+if we're not using shared task and measures, we should discuss in more detail with person5.'i don't know, i have no idea.
+so what i am saying is kind of my intuition,'he said.there are many automatic measures for ( summarisation ) in automatic measure.
+but there are some automatic measures, such as'unintelligible'or'unrecognisable'( ehm ) and'ehm'are all automatic measures.
+( person4 ) : ( person5 ) ( ( person 4 ) )...
+( ( individual ) ),.
+( individuals ), and..
+/ /.
+(.
+individuals ).we add another human evaluation score, that was the point of " unintelligible " this is the point, but that's not very subjective, it's like'we i'll write this aspect ', says person5.
+" we've got this five stars for rating, from one to five stars...
+and they put scores of that.if we don't come up with the alignment based on ehm, we will do as the other ( energy ) task.
+if we're not able to come up to the alignment, we'll do as if we ’ re not capable of coming up with ehm.we follow variant b, and this is using the same alignment as for variant b there are still still like some cloud on that.
+we can come up with a new technique that we want to do.
+we are not very clear.
+we need some ( beautiful ) matrix and so on, we should go whatever is available and whatever is ( better ) to us.if we like to put these autoatic measures in the proposal, we move in variant b.
+we obviously go with variant b as our backup.
+if varian a doesn't become clear to us before the proposal submitting...
+it's how we should do the shared task and ‘ ( ehm ) ’as for now i don't prepare any basic samples more.
+as for the data format, this is also a point with [ person4 ] < ehm ’ ( person4 ) ) ( ( person 4 ) ) )...
+( person6 ) ) ; ; ;..
+and..
+;.
+( individual 4 ).
+( ( individuals ) ; ( individual ) ;, and.
+the second ( meta - data ).we need to ( encall ) them, so you have to rename the folder structure.
+but we didn't have time in the morning to discuss some other details.
+so you need to prepare a list with your real full names and annot01, annot03 and that you put in the.
+folders.the data storage from ( sorbow ) to gatehub repository.
+you will have to rename the names in the cluster, all the names.
+this is not the first time you have been asked to push.
+this was a question from person 4 years ago :'don't tell me 'if you're allowed to do so, you'll have to keep the files recognisable.
+this is what i like to do, but i'm not sure if i can make unintelligible.
+if i ’ m allowed to make it so, i like it so.
+it's very complicated for me to anonymise ( person6 )if you're [ person ]5, let's meet today in person...
+it would be very good to have [ person5 ],'i said.
+i also propose some other things but you didn't have time to discuss them, so we nedd to discuss it.the meeting of today's meeting tomorrow is a meeting between the two parties.
+the meeting will take place in the meeting's first meeting of the day.
+if you're already at home, it asks you if something concers you? if you want to discuss the meeting, let me know if it's ok.there are like decission points, decisions points has to take, so yeah, yes, in this case, you're not, you know, wanting is like, yes? ( person5 ) ( person 4 ) ) ( ( person6 ) )...
+( person 5 ) )

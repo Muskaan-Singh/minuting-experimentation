@@ -1,0 +1,74 @@
+ The executive summary of the executive summary is presented to the Q&A audience .
+The study was carried out by a group of researchers at the University of Cambridge University .
+The results were presented to the public in a conference on the language of translation .
+With the long written sentences, it is possible that the spoken language is more ambiguous and therefore the multi-source is more likely to help .
+But we don't have numbers for that, so [PERSON3], I think we need to have a separate call with you and [Person2].
+When could that happen? The call was interrupted by a colleague who had disappeared from the call .
+The colleague said he was 'confused' that the colleague on the call was not [PERSON10] The colleague then said that he could be late for the call and that's probably happening .
+The call went on: "The profanity filtering is not yet integrated" Using MPlayer, or whatever simply play them, follow the sound output on your machine and and see how that works .
+Using X2Go or MPlayer will also test it on the life pipelines again .
+The system was flooded with incoming sentences that were flooded with lots of 'lots of' sentences .
+[PERSON2] saw that I think, for a second ah, the incoming, ah, sentences were like flooded with .
+lots of .
+sentences like .
+oh, oh, and then they disappeared again .
+On Monday we will hear the Italian English and yesterday, ah, we had a chance to hear the Japanese English and the ASR was really struggling with that .
+[PERSON10] has probably started, but he should walk you through that thing that you can do it yourself next time .
+The language model will be better by that, and the robustness to different speakers would be also better .
+The pipeline, um, the training pipeline, used for training of the <unintelligible> uses this same technique .
+The language is were swaped there and some of the languages didn't contain any reasonable output .
+Some language coats instead of the output .
+The problem was creating, ah, errors .
+The language was swaped and some language coats weren't being sent .
+If we want to implement [PERSON14]'s worker, we need to have a separate separate separate descript .
+This is kind of bad.
+This is very bad.
+It's a pity he is not here at the moment.
+He is working on how to make the configuration cleaner .
+Is it possible to pass these parameters to uh to can I assume when you, when you were it on cluster? When we were testing a reef [PERSON5] Is it better to run the multi lingual moral with fewer languages enabled? There are forty languages, so there are forty, like the big size is forty .
+The model wasn't trained with the fine tunings that feel used .
+The other problem is that it was basically trained using tensor to tensor .
+I suggest that all of you are on the devel at [ORGANIZATION1] mailing list .
+The devel is really, I see its old people there.
+We have people like [PERSON22] there, but we don't have you .
+The project manager is working on shortening and extending models .
+He says he is running out of storage quota .
+He will ask for more data .
+The best GPUs are on Troja, and the better they can save something there .
+There is a command to check the quota and it will tell you the the space on all the disk.
+Command DF(PERSON2) Command DF is DF, which is DF minus DF minus a few tils .
+There is a guy here in, uh, in Zabrican.
+He is almost completed done with his masters.
+He mentioned that he is actually interested to join your group, your team.
+He should email that email PHD at [ORGANIZATION1].
+The deadline is very soon.
+To apply for PHD one deadline is the end of the year.
+The code is almost finished with that discussion, and I think I'll be able to wrap it up today itself .
+I have a call at two thirty Prague time with [PERSON11] to discuss some of the specifics of that is around the SLTS capability of downloading files .
+The first lesson arose from the last week sessions.
+We need to know which components we are using and who are the people behind these components .
+The other one is the management thing.
+We really need to make sure that we have the important people around the globe, ah, ah .
+The two to UTC call was crazy.
+We were chasing [Person9] through a [PERSON13] on on [PROJECT5].
+The long term focus is the people who are long term, including this goal and this, ah, this challenge in in your plans .
+I would like to put your names next to those for your, to know that like you are the people .
+The people who need to work on on the non native accent think.
+The domain adaptation is for the [PERSON20] toolkit, right? It's not [PROJECT2], actually, actually .
+The domain adapted ones were capturing the domain related words much better than non domain-adapted ones .
+Proposal: 'We could have two ASRs running at the same time' Proposal is that we could have our arm fully new ASR and do various experiments on fine tuning and and and all that .
+Proposal suggests scraping data from [ORGANIZATION5] and even automatic .
+There was a debate whether African languages will be supported by some of the European project .
+The idea was that, like we were disgusted by the idea of including African languages in our project.
+Even the word disgusting, which is not a bad word on his own, is very risky .
+Maybe we could use some sentiment analysis to remove, um, sentences or some a group of words with a negative sentiment .
+There was actually a competition for this, where people had to make models to detect the tweets or like sentences which were harmful in some ways .
+There are like five categories like fake news, hateful and I don't know what I'm doing .
+The ASR should make a different hypothesis that in your ear there would be this positive filter .
+It will be like a sentence was said but it's not transcribed by ASR .
+Psychiatrist asks elderly students who are already in Prague for the first or second year .
+He asks if they are interested in doing that then, maybe since they will already be in Prague .
+Psychiatrist: "I'll I'll think about that, working on that" Psychiatrist says he will have one more this call next week .
+"Bye, bye.
+(PERSON5) Thank you, bye, by the end of the video .
+"Thank you for your service" "PERSON2" is "by the end"

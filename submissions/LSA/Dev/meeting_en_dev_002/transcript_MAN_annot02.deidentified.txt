@@ -1,0 +1,50 @@
+So each of the speakers will only like have those sizable blob of information, often, these blobs of information, refer to many details like reports, numbers in those reports as like a providing evidence for the claim, and then the claim comes.
+So um, it's it's okay to have that, as a contrast if data sets in the shared task.
+So uh, what what I really would find difficult would be to use [ORGANIZATION2] and invest our money for creating summaries from [ORGANIZATION2].
+Some kind of bullet points which reffered to some parts of the transcript.
+So we have to admit to the participants that this data set is small for the full training.
+It is acceptable for some form of fine tuning, or uh, the like the development set.
+It can be almost the majority of data used for the final testing, that can easily be the case.
+That means that on your full scale, you divide the 100 percent into 15 uh, steps.
+If it is only matter of downloading some of the data and polishing it a little, no manual processing of that.
+So that, it will not be 15 minutes, but uh, you will manually prep- like a automaticlly prepare web page on our [ORGANIZATION1] lab.
+So it it illustrates the fact that for some minutes, just listing who mange, who like contributed discussion is sufficient.
+(PERSON6) I think that more time will take ehm making it the formally in in in a good form that we can.
+So I would to take and show you an exactly hyper, but I would find it and <unintelligible>.
+Second test set would be this [ORGANIZATION2] just downloaded aligned meetings and transcripts.
+(PERSON8) So you mean, uh, these only causing the test, in the frame it is it is just our data and the EU project alright?
+And for [ORGANIZATION2] I don't think that the annotator who would be doing this alignment, could cover substantial number of these meetings.
+So if we have someone, if we ask <unintelligible> [PERSON7] to download and automatically align, the transcripts and the minutes.
+Then yes, the we should probe, provide also the parliamentary sessions uh, the training data.
+It would be better to download it all and align it fully automatically and provided as the training data.
+Can we download that data and will make um, like <unintelligible> then as the test set training to the participants,
+(PERSON1) I do not understand is hooked up the the the the name of progress on on mine action is unambiguous.
+(PERSON1) So we should find someone who who will do it automatically because it doesn't make much sense to to do to manually.
+So this is exactly an exercise for the CS student in in early years of their masters.
+So to to create a downloader of from and something which reconstruct the structure based on matching of strings.
+So should we really take all of them like data and participants made choose divide them themselves.
+And the data set is, it will involve some work indeed, but it should be really done by a CS person by annotators to match the transcripts and the summaries and the minutes.
+And uh, it is exactly the word that has been done by the open academic corpora.
+(PERSON1) Finding and downloading the pairs of transcript and the minutes for all the sessions that are there.
+One of the people who prefers to have other data sets in the share task.
+So my big worry is that the existing minutes, which we agree are not very good are still the best ones possible for the sessions.
+So uh, so, and because of this here, yeah, because of this worry I don't want to invest annotation money into this.
+So I'm I'm happy to invest like programmers money to get the big collection.
+(PERSON6) Problem we decided to take the whole [ORGANIZATION2] corpus and to pack with existing minutes, invest money in alignment and kind of programming an end in that direction and published it as a separate.
+Let will be the [ORGANIZATION2] sessions summaries corpus, and that will be the transcript and the uh, and the minutes to that.
+But it is on very large set of topics that I think that is the the this corpus alone would be very usable resource.
+And all of this we will take a small portion as the test set for our shared task.
+I'm absolutely fine with this, because uh, more data means you get <unintelligible> the importance.
+That in our case would be submissions limited to the training data that we provide for the given a like a track, uh.
+(PERSON1) So we need to find the person who is familiar with Wget, and who can download and prepare the corpus.
+(PERSON1) Yes, exactly, as as as as as a scripting, that web and downloading it in a way that automaticaly alignes it for you, so that you can use the uh, if you if you escape spaces and others, the dangers characters in the in the titles.
+(PERSON6) And, so, it should probably look kind of similar our basic symbols and [ORGANIZATION2] data set.
+The our formalization ends with the fact that we are aligned oriented with dashes in the minutes.
+And he is developing a web brow-, like browser for big corpora.
+He has been on the Czech parliament browser, and he definitely has a great experience with XML for preserving the original data.
+And he now knows how to preserve everything essentially uh, but we don't need that at the point at the moment.
+And test it with just txt output but then we probably move to something which preserves more of the <unintelligible> details.
+So year month day slash the name of the session.
+So you should only reorganize that into the directory structure according to the dates and names of the sessions.
+I'm just working whether this [ORGANIZATION2] corpus should be in [PROJECT1] minuting or whether should be moved one, one directory deeper.
+But this is the one that we released as part of the parl corpora for machine translation, right?

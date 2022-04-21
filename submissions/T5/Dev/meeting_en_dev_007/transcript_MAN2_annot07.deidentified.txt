@@ -1,0 +1,24 @@
+i'm trying to fix the program in Overleaf, because it works kind of on my machine .
+i tried disabling Cleveref which should release lead to some new errors .
+we have to put the [ORGANIZATION3] presentation platform in the documents .
+but we can for now, we can use it as a plain text editor .the deliverable summarizes presentation platforms of live, transcripts .
+it's too bad, that I- One, two, three, four just joined .
+PERSON8 has sent the URL for the overleaf template .the deliverable is going to be publicly available on the [PROJECT1] website .
+it's for public, so this publishing platform deliverable, this text will be public .
+if you are looking, please email all of them and tell them that actually, we are quite late with the preparation .ideally, we should have our full content ready by Wednesday .
+the deadline is very soon.
+I don't think it would be a problem .
+PERSON7 is the main person, and then the reviewer .two pages could be enough, because it's primarily a demonstrator and not the report .
+we will also avoid unintelligible> world functional analysis .
+i will be mostly offline, and during the last week of february .if you clone the document, it will compile, but not with Overleaf .
+you will need to create a special password, but it probably should work .
+i don't know why it's fading here .if you don't have it, send an email to [ORGANIZATION1] already today .
+if they say "we can do it in two months from now," then send them an email .
+(PERSON6) I think that it's because there is no references .make Git at the six one preview makes .
+if people are editing, it will become impossible for you to commit your work .
+"i'm just looking into what it should be making Git commit from Git stash, Git pull"tex live dash is just a Tex Live manager .
+it's the maker of the PDF .
+if you have a package manager, you'll probably have to figure it out .if you have a different package to load instead of it, kill it .
+if it doesn't work, just copy it over right to the document .
+it's a good idea to make a git repost of the paper .thank you very much and hear from you later .
+bye bye (PERSON7)

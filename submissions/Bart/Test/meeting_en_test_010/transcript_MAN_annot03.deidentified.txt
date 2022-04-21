@@ -1,0 +1,43 @@
+ (PERSONm): I hope that everybody's fine with recording this meeting, eh, yes .
+(Personm): I'll try to share my screen, because I was given the presentation options, so probably you see my screen now? I'll.
+I'll (try to do) the poll for the next week as well eh and hopefully, we will find something eh there .
+Speech to speech translation is something that eh [ORGANIZATION1] doesn't want to have in the .
+eh, like they don't .
+want to ship translated audio to the partners parties in the, eh remote conference calls .
+The real use case is still undecided how are we going to ship the translations to the participants, but my baseline eh idea is some web page that gets updated, so that would be speech to text translation .
+The application to provide the subtitle would be [ORGANIZATION1] application, correct? The subtitle is for the remote meetings, but I don't think that this is the case for the live meetings .
+The idea is that that that you, in this project, you are the .
+integrator for all the technologies, and you are also the final .
+application provider for their live use case .
+There will be the main [ORGANIZATION5] congress, in the middle of the project, and then, before that, there could be some dry runs workshops, or there will be some, some, we will make sure that there are some .
+The main congress will take place in the first year .
+The speech research partners want to focus on non-native speech .
+The congress with the plenary sessions is something too to show off, but the workshops are eh, like more practical, I would say .
+The integration work package 7 dissemination helps to promote the project and its results at these events .
+The [ORGANIZATION3] would like [OTHER4].
+The ASR model can vary from three to six month person months for maximum .
+The ASR system is considered the most accurate [OTHER4] speech recognition system, so it's considered most accurate .
+The language is not one of the big languages of [ORGANIZATION7], but it's still one of .
+the official languages .
+So it it's totally acceptable to to have that in.
+The language .
+The number of hours per speaker depends on the ASR system .
+For each re-speaker or interpreter that we want to reliably recognise, we will ask them to read aloud some written text, and record this .
+The main conference is four days long, three full days of dry run, and five for main conference .
+Organisers would have like to get hold of two of them and each of them may be asked to do more, maybe up to five hours per re-speaker .
+Proposal: We should not need any recordings for the baseline acoustic model for [OTHER1].
+Proposal is to collect real re-speaking sessions in order to also be able to model not only the voice, but also the way it is .
+Proposal suggests recording or adapting speech at re-spoken events .
+Each of you once indicated, that on that type of language and the type of a speaker, we'll see how many person months it creates and this number should be accounted for in the in the data work package .
+The conference will have to get all of the audio from the emm and send this audio to all the ASR, we have to identify, whether one of the engines will decide, if remotely or locally in during the [ORGANIZATION5] and <unintelligible> conference .
+The conference was just fine with the equipment that was there .
+If you could, like estimate how much is like one [ORGANIZATION4], ehh for recording one person em, so that we can do the recordings with the re-speakers here .
+And then we will probably purchase eh like two or maybe even more for this (site) The time is running up, so if you could do this before Thursday with some rough numbers, that would probably be good .
+The integration of ASR (essential) from multiple partners into the [ORGANIZATION3]'s platform, and eh that's, so everybody is involved in there, which is expect- to be expected .
+And then, we have automatic minuting, there will be more involvement eh from us and eh from al- from [ORANNIE1].
+And the integration with publishing platform is probably something, which will be mainly [ORANIAN] and almost nothing from others .
+Prototype, like eh I (prepared a few amateurs) <unintelligible> and stuff like that, ended up being a (typical) pdf, and copied .
+The hard question is the timing of the deliverables .
+The call-in-person was interrupted by a member of the group .
+The group was discussing the minuting integration in the middle of the project .
+The call was closed .

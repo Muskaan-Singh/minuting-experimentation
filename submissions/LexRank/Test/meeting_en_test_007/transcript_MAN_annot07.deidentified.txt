@@ -1,0 +1,50 @@
+So.
+(PERSON9) [PERSON15] also propose me another option for the main stage presentation problem in order to present subtitles without the presentation platform in order to <unintelligible> But I have to investigate it little bit, maybe we can find different solution.
+So having this also for the presentation is what we would like.
+I don't know if I need to maybe write dummy ASR worker <unintelligible> test sentences or something like that.
+And I don't know if-[PERSON12], could you could you explain what exactly we would like to have for this type of testing?
+(PERSON14) And it's you.
+(PERSON14) So, so maybe if [PERSON5], does that sound reasonable, so that [PERSON12] would send the audio files to [PERSON1] or to you, and you would do the ASR offline, and you would check the segmentation.
+I think you should send it to [PERSON1], because he's the one working with ASR.
+It will just be our ASR.
+So is this level, is this the one that [PERSON12] mentioned?[PERSON12].
+(PERSON14) Then, [PERSON5], what we need is to have lines of text that resemble the output of the ASR.
+And this is something that we would like to get from the audio recordings that you process, in offline mode, totally outside of of the mediator.
+So I I think we have offline ASR systems that are <unintelligible> and what's running in the mediator.
+So there is a big risk that if we train on the segments from the ASR will get something very different from the on, from in the online mode.
+(PERSON14) But it's sufficient, we don't know it .
+(PERSON12) But that's it.
+Um, so what we are going to try to get <unintelligible> improve this quality of segmentation, to make it more <unintelligible> (PERSON14) Yeah, ok.
+And [PERSON5], please check that the line oriented output is as similar to the segmentation that we are going to receive from the segmentation <unintelligible>And [PERSON1] can in the meantime test the [PROJECT2] worker.
+Because, I would like to know whether this is the problem with the client, I would check it.
+Yes, so I think that's still this line that I've just highlighted in the [ORGANIZATION3] document, where [PERSON12] says," I also need either the [PROJECT2] worker or text client for CTM to TXT, or better both, to get the final hypothesis.
+(PERSON14) Yeah, so is it, is it not available?
+So I ask you to to check it, but since we just agreed that we are going to use your final we don't need it.
+(PERSON12) The segmentation worker shares a lot of the code with MT worker and therefore will probably have the same problem as the text client for the MT worker.
+And there is no immediate plan to to have such client, that would be able to digest CTM, send it and then use the segmentation worker in isolation, right?Is that correct?
+It would be in that.
+And, yeah.
+And this happens with both the old mediator in <unintelligible> in Java, they happen for <unintelligible> as well for the for the ASR worker, right.
+(PERSON12) Ehm, I'm really not sure what exactly we're we're seeing, because like I said, the segmentation worker should remove these.
+(PERSON12) The system is <unintelligible> we actually have to <unintelligible> (PERSON14) Because this this, yeah.
+If there are some other things, than the output of the ASR which will get from you offline, will be different from the output that will get from from this improved pipeline that you maybe using.
+(PERSON10) - to Slack, so if you <unintelligible> need to discuss something online, than it's good <unintelligible>.
+So.
+For you, like the.
+(PERSON14) Yes, so it now it seems that it will be all, yeah sorry, your office is just horrible, I could not work there for, it's really too loud.
+(PERSON14) Yeah, yes.
+And what we need to do now is to make sure that that subtitles in Romanian are based on the machine translation all the target languages at once.
+I I know it's not that <unintelligible> (PERSON14) Yeah, yeah.
+And if the output from one of the re-speaking cabin or the output from the floor is bad, this operator should kill the client that is unavailable, the machine translation will not be connected to that and further and the presentation platform will automatically jump to the other provided translation, right?
+And I don't know if it will be available for June.
+(PERSON14) But I know, but the reason to kill the client is that I 'm not happy with the ASR output that I'm getting from that.
+So I kill the client because I I don't have for now any way of worker around.
+So, I'm.
+And that they matter of which one is shown to the to the audience is just thing in the presentation platform.
+(PERSON12) That you don't, that you wouldn't stop any input.
+(PERSON14) Ok, so there will be someone monitoring the presentation platform, and we would know, by looking at these the lock files on the side that we are that we could like somehow hack together the monitoring in a separate window.
+Yeah, can there be more people monitoring the same presentation platform at the same time, so that one would be checking the Spanish outputs, and one would be checking the Dutch outputs, and one re-checking the German ones, and they would like simultaneously make their decisions.
+(PERSON14) That's, that's for, that's not for the June.
+(PERSON14) Yeah, yeah, but still, you are the integrator so somehow we need to to come up with the solution.
+And they also have <unintelligible>.
+(PERSON14) Ok, yeah, thank you, bye.

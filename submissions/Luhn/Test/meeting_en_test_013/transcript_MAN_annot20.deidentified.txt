@@ -1,0 +1,50 @@
+Um, then, um, I plan to write like official email to [PERSON9] that we want to, that we want to have a book, publish a book and, um -
+(PERSON4) So please, please bear in mind that I will send it or I, I will send you an email notification that I am sending it but please.
+(PERSON4) So I would like you to focus everybody to only on the book b-, because then, then in a, in July I suppose will be many holidays or I donít know.
+I plan to be here at least till the fifteenth for sure because then the, thatís the, the, the, the, the, the Black box deadline.
+One deadline for stopping adding new content, then second deadline for stopping adding comments to others' content and the third deadline for having all the comments at rest or deleted.
+(PERSON4) Um, yeah, we, we can go then through the, through the, through the book and, and, um, everybody can say, what, what, what contents are still needed there.
+So, I donít know how long, um, will take, um, the, the reviews and all the, all the things which I planned for half of ye-, half of year.
+Maybe it can but I, I,I donít like to like postpone it much because anyway if we postpone it we will not write so -
+But with-, without the financing so all the finances must be spend, um, so we have to pay for the, we would have to pay for book, um, like this year.
+So, for the book we shouldn't ask for the extension but for the conferences it would make sense to, to use it for some conferences next year.
+Um, what we have promised, all that papers there's promised we will, we should have at the end of the, the end of this, this year.
+So now maybe we can, we can go, um, um, each of us can say what was done the last week and what, what is plan to do the next, next week.
+(PERSON4) Machine translation and the, like the heat maps were, were very sharp but I know if someone else generates something very similar the heat maps are ñ
+If I donít know what, in what it was but if you set something differently, some parameter of, um, of the neural machine translation training then the heat maps -
+(PERSON4) But I know that there are many other settings that theyíre completely different, different balustrade but not, not balustrades but they are really, um, um, the balustrades are not as, not as visible as in our settings there.
+(PERSON4) So I, I, um, I donít know whether to, um, how to, how to write about it in a, in the text because I know that they are, um, very different.
+(PERSON4) I, I, I, I know that it was one parameter I donít know, I donít know which one but it was like layer something, um, not layer normalization, not was, something similar but, um, yeah.
+We tested this thing of, um, neural machine translation and we tested bad and (beside the, beside) the outcomes or <unintelligible> try more param-, changing the parameters and see different heat maps and ñ
+Yeah, I would like to, um, so I, maybe I will, I will go through my chapter and go, um, say what is needed to be, to be -
+And it should be rewritten because, um, there are some things that are, that should not be there and maybe, yeah, should be, that should be changed.
+Only, I would like to, I would like to add, um, add the figures and I'd like to add some, um, conclusions and some, um, tables about, about proportions on different attentions, um, att-, attentions patterns.
+Right, the contents are there almost but it must be rewritten and I donít know what, um, how much details to give there because I have some tables there but they maybe, maybe they are not needed.
+So and I donít know how much content is still missing for the other chapters but, um, I think for my chapter itís now twenty pages long and I think it will have maybe a bit more but not much.
+Anyway during working on this I, I came to the conclusion that this chapter really, the, the old idea of having a story is not really doable for me because I donít know that much of the history and I would have to spend another half a year reading things.
+So, I think I would concentrate on visualisations of embeddings and comparing visualisations of different embeddings inside that because all the papers thereís always this interesting visualisation but then not, no other paper does the same thing.
+For example, thereís the, there are the (bands) in the Glove, um, Glove vectors and they say that the same structure can, is, that can be seen in, in other similar vectors as well.
+And also, I donít think I will be writing very much about, um, the generative, the new generative language models because like they are based on sub-words and the embeddings are not interesting anymore.
+And I havenít seen any papers concerned with embeddings in these models because itís more interesting to look into the attention heads and things like that.
+So, I think if we are to speak about these models which I donít think we have to because they are so recent then we can just -
+Four point four, thatís m-, mostly copied from elsewhere and I need to go for it once again and then four point five will be just a note so it will disappear.
+And then like lot of the visualisation that I want to do are missing and thatís why I want to talk about the data and what data should I do the visualisations on but I think it will be better to let that discussion to Slack.
+Titles of sections and basically the things that are there mostly should stay there or be made shorter maybe or rewritten a bit but kind of the contents thatís there should be mostly there.
+(PERSON6) Introduction, I have to change the whole thing basically because itís just some left over stuff from the previous introduction which rely it on some stuff that we moved to other chapters, so it doesnít make much sense now.
+Um, so the plan is that it should contain, um, it should be partitioned to, to several subsections mostly the ones that are there already, probably.
+Um, so somewhere I just need to say that OK there are these different models, and some are better than other, and some capture more syntax than other and so on.
+So, I should probably begin with morphology and right now there are some parts moved from other parts of the text so itís not very coherent, um -
+But in general, this is what should be there and, um, there are some more works that are not there yet which I plan to add.
+Um, so, um, yeah, itís a same thing so itís, itís, um, things from different parts of the chapter now moved together to one syntax section and -
+Um, so I plan to add something more and I plan to kind of shorten actually the things that are here, um, and again restructure it.
+Yeah, Iím not really sure about the division here so I have a section which is now called "Semantics", um, and Iím really not absolutely sure which things belong into semantics.
+Yeah, I, Iím, I was thinking whether to really try to say which is semantics or whether to have multiple smaller subsections and just say coreference and -
+So, um, right now itís a, a lot of, um, paragraphs, small paragraphs moved from elsewhere, um, so I should get a bigger picture on that and put it here.
+We want to cover itís somehow, somewhere and I really havenít written anything about it and I donít even know if it should fit into this chapter or if it should be a separate chapter and I donít know what we actually want to write about it.
+So, itís now in a stage where it should be reasonably easy to, to add the missing information there and, and organize it into a readable way and, yeah.
+Um, itís hard to compare like dots between themselves bec-, because, um, like different paper use different, different types of data and think different <unintelligible> and there's like many different things.
+Um, so, yeah, so this is like here everything from recurrent neural networks so is better then more the embeddings which is not thatís, thatís really.
+(PERSON1) Encoders so there are quite not, not that good to, to have the, um, have the, these part speech encoded in them like mostly because, um, the, the task is very simple just to translate from lan-, one language to the same language so it <unintelligible>.
+(PERSON3) If you, um, if you're spending time with that I would, I would suggest, um, generating them as in, in, as PGF so itís, itís basically in, in, Tix and -
+If you have a look in deep learning images slash, um, <unintelligible>, underscore, encoding, um, you can, youíll see how to, how to set up, um, the LaTeX format.
+(PERSON3) So, you then just do input in LaTeX and, and LaTeX would take care about all the forms that will be the same as, as in the rest in the book.

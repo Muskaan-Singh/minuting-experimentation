@@ -1,0 +1,43 @@
+ Because wi- with [PERSON2], I remember that uh [PERSON2] also had uh some microphone issues at times.
+(PERSON4) And and I asked [PERSON5] to do uh the transcripts of- by German ASR f- for the German transcriber.
+It's, uh uh uh it's it's great that, ah, the D- [PERSON4], you have thought of [PERSON5].
+(PERSON1) Uh so if you uh [PERSON5] had the time uh obviously, there is no way we could do it for the next week.
+(PERSON1) And uh af- I've asked [PERSON9] because I've seen uh the uh [PROJECT3] project uh demo.
+And then, when we have the final output f- from from from the entire input sentence we start generating.
+Or or [PERSON10] mentioned in in a call that, uh [PROJECT4] is not ready.
+(PERSON1) Well maybe I I I thought uh uh that that maybe some students of [PERSON11].
+(PERSON1) And uh [PERSON6], you mention it that you don't  have the webpage for ([PROJECT2]).
+Okay, so in the afternoon, for example, in in the Czech afternoon, you are able to to uh to do something.
+(PERSON3) Uh so I got the access to (took his platform, my engage last night).
+So, and [PERSON6] [PERSON6] uh has been working on uh adaptation uh for the two domains.
+It is basically that some videos are not getting some audios or videos are not really connected properly into a 16 (cave) format.
+(PERSON3) But when you pass it to the (A S I) system, the sound system will not work on that.
+Because I need to figure out which one is the one which is not uh getting passes with ASR.
+Remember, I it's it's it's since August that I've been telling that that we want to evaluate on [PROJECT1] test set.
+(PERSON1) And there is uh the (money dogs), and these are important for uh the uh (CL) domain.
+So, [PERSON6], are you taking uh a part in that call, uh, with [PERSON11] as well? So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.
+So [PERSON2] sent this email with the forwards, the uh (Watson IBM) and yeah.
+And then I noted- uh, uh, uh, [PERSON2] produced uh the long uh word list, right? (PERSON1) So you just convert the uh the uh international phonetic alphabet into the phonemes, uh, that uh uh that uh (cmu) knows.
+(PERSON1) So that way uh these random errors, such as the example with this (four Ibm) instead of (Ibm).
+If you remember, if he says this also with zet 20 times in the uh in the talk.
+[PERSON6], you to be in the touch with [PERSON2], maybe continue uh uh on this call, right? I'm finishing training of uh German ASR that may be used for for uh for uh time stamping.
+Uh uh it uh they claimed it has uh more than 600 hours than a but uh uh the training set.
+I would like to stay uh [PERSON6] to stay on the call with [PERSON2], right, and discuss how to use the dictionary.
+(PERSON3) Well, [PERSON7] I'll send you uh a text on Slack later.
+Because, oh, as was mentioned by you on the call call lat- yesterday or (day before) yesterday.
+Are uh are (tools) files, which doesn't get converted into 16 (killer)  format pretty easily.
+(PERSON3) And uh in the Monday seminar one [PERSON6] is going to do more of an adaptation.
+For (IWSLT), then I observed that that there are no big differences in machine translation parts.
+So uh actually, Mohammed compared the scores between, I think, uh it was (rainbow) and there (summer) set of workers.
+Basically how what [PERSON1] mentioned on the call that there was two  individual translation workers, you can see if they are performing better.
+So uh so I, I now see that the the transcripts for for these files are don't have the right length.
+And I'm not sure how to uh how to convert them properly, because (F F M P G) just just returns the error for those files.
+(PERSON5) Because like now, I think for my maybe half of the files it would be, you know, like totally wrong.
+(PERSON5) And that would like confuse everyone, a- a- and and I can't really find whi- which files.
+(PERSON5) Okay, I will just s- I will just try how it works and I will see.
+(PERSON4) And  if she says that not, even when the quality is good, then then we don't need to care much about the rest.
+(PERSON4) And we rather focus on [PERSON2]'s uh high quality on on the others.
+If if you click on it, then, for example, it's in uh (bat).
+Well, uh sorry [PERSON3], I need to uh go, because I have another main thing.
+So so that that (it would be IPA) (there will be the phonemes of alphabet).
+(PERSON6) I'm saying that if you could just change these (IPAs) to the alphabet phonemes.

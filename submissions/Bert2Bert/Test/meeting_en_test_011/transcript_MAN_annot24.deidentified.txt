@@ -1,0 +1,95 @@
+the intensity of the pandemic may rise during the winter.
+" i'm a very good host, you will see, " says person9.
+" we have almost one hundred thousand new cases officially per day.
+it's already rising in czech republic, " said person99.
+uuuh.there are news that many people ale like dying and the family members are not reporting.
+people fear that a healthy person would get < unintelligible ’ if.
+the groom, who suddenly eh was not doing well, died.
+immediately after the day of the marriage the groom died.
+the next day the bride died and - - and the groom - died.if the family member dies, they are already in the in panic.
+so if if they die, they're already in in the panic.
+we spoke about the data set yesterday and probably it would be nice if we spoke to you.
+we have two different meetings, two kinds of meetings and two different different meetings.eh are the names of the common nouns used by eh czech and czech people.
+eh are not very structured, they need kind eh, they are not repeating and not repeating.
+if we use a name entity recognition model, we will get the names for the czech part of msd meetings.the name of meeting and all of the names was given to the czech model recognition model for czech.
+the model was created by person12 in the czech republic.
+it's the same thing eh, but the model extracted from them is a good model for the same model.
+this is what the model extracts from these names is the name.an annotator should - ( person7 ) to remove some of these words.
+if there's no diarization, the name of the speeker is defind here.
+this can't be proper nouns, but in this case we'll have to remove all of them.some of the brackets are just - ( ( person12 ) unrecognized ) but still it is recognized that the speaker is has changed.
+but we don't know what is his name because we can't recognize the voice.
+we have to remai - rename the to - - uh, uh, and - ( person7 ) uh.if you want to do that, we will have to create a map that maps these letters.
+the only thing that could be re - re - eh is [ person ]15 ], so we can correspond o and ob to [ person15 ] within the transcript.
+if we want to change these letters, we can give him a mark.the word didn't eh, wasn't it, wasn ’ t ended.
+so it could be the beginning of somewhere in...
+and then the end.
+( person7 ) told that he will join us.'if he takes it and if he can, he will call him now.
+'there is not possible that any proper noun end with dash.
+it's very possible that the person who eh was attending the meeting is uh, the person that eh is uh eh eh eh a mistake, but definitely it is not excluded.
+" this line five, four, zero, one, this chain, " says person7.eh annonator could think that it was an unfinished word.
+if the word didn't finish, it could be removed from the transcript.
+instead, the word can be removed with dashes.
+this is the case, in this case, it's not the name.eh, uh, [ person3 ] is probably name, eh then [ organization1 ] is already something that we want to replace.
+eh, we can little bit improve the way we're collecting this list so that we also know the surrounding three, four words on each side.the two step manual eh and eh : unintelligible is out now.
+eh : we can be sure that ( person7 ) is not a proper noun, yes...
+and we can just indicate them in the meetings and then the annotators ( person15 ) ).eh when we eh, we will have like hide the id.
+this is eh, uh, that's a safe way to get rid of the name entity.
+eh, eh, the special token that doesn't allow you to reconstruct the name.
+we could also do the same for like, uh and the rnns.annotators should have something like interface.
+they would immediately recognize some of the names as names.
+this is clearly not a name and cannot be named.
+it's clearly a name, not anonymize, and there is no need to anonymity.
+it will also allow you to know what your voice is disrupted.the question mark will come on to them in the first phase of the list.
+they will then decide for the instances of the individual instances.
+the question marks will also be ee anonymized.
+it should be replaced with some other country - in - minutes.
+if you have one country in transcripts, you will have the same question mark.the latest version of the new version for the site is available on the web as well.
+it's the first version for a full - screen version of " unintelligible " ( person15 ) the update for the original version is available to download.
+the update is expected to be released later this year.sunday, tuesday, tuesday and tuesday are the months and that's what we should do later on.
+the months are not important, but the days aren't important, so we should change that.
+this is the time to change that, and we should learn a little bit the way we see it.if you find a table which lists the named entity types, send it to annotators.
+it should be processed through copy paste thing by name tag.
+this list before it goes to the annotator, and it will immediately label it for you.
+it's not a big deal, but it would find them as well.the link that you sent me - ( ( person7 ) uhmhm ) is a source word or is online version.
+it has link to both...
+and..
+it will pre - annotate this list.
+whatever name tag recognizes trust named tag.
+this in the first phase of the process is separate name tag.what is not a named entity that will, uh, be automatically uh, done on all occurrences of a name tag? you would construct a line, which provides the context, so the name tag doesn't mean it is not.
+if we don't know, we need to provide the interface for the annotators, they will be assigned the name tags eh.the easiest way to do this is to process the corpus from top to bottom.
+this would be the number of eh - ( person15 ) or'person15'it would be helpful if we indicate it is not a named entity.
+it would also be helpful for example eh if this marked word for is a.the name of the name is not a named entity.
+it means that it becomes actually a grey thing.
+the annotator should think or mog it out for a name yes or no.
+" it's a not a name...
+that means it becomes really grey.
+"if the name tag makes the error, it goes up to the token level annotation.
+" we are eh obscuring one more word in the minutes, " says the annotator.
+" i have a clear idea what i must do for now, " he says.if to connect you and this person, we would know what is the full name of that person.
+if we use one or a pair of special characters, then we would like to use angle brackets.
+we would suggest using angle brackets to rely on the law with the laugh there.instead of [ person6 ], you would see opening angle bracket named entity, person, id equals and now the hashtag of the so the hidden value that would be used instead of person6, it would be the same id as person6 had in the anonymized version.the hash include should it be something sophisticated, or we just can't reverse the value.
+if we use python hashing it would be reversible.
+if you use mt five sum, that's not reversable, but it's ok to use it.if we lose this, it's not too big of a problem, but that's a misunderstanding.
+if we need anything else, then then please address it.
+if it is wrong, we should not worry too much about this, says the annotator.
+if you need something else, you're welcome.person18 is a speech recognition tool for speech recognition.
+it's like eh, he says, and he's excited to be able to transfer it to person9.
+" he is like he is responding to me now...
+i know that he - - he - is doing the same thing.
+"" we are making good progress with the anonymization of these summaries, " says person2.
+" we will see what people had as as as problems...
+and what to modify and so on, " said person2's co - host." if you don't have anything to do with me, i'm leaving for today, " says person12.
+we take a leave as well as two of us will work as annotators in a sense that we'll read the meetings.
+we have to select some of our meetings...
+and if you speak with [ person12 ] ], then we will read it down.the two annotators will take a total of twenty or four meetings.
+they will be based on the summarizing the numbers.
+one of them will be the annotator, and the rest will imitate the one - day process.
+it's the idea, so we work as both summarizers and two evaluators." i don't understand why should we create minutes, " says person12.
+" i want to ask [ person12 ], so why do the minutes since the minutes are already there? " " this is a really big work...
+that's why we like to create minutes "the question is how annotators already created them.
+" we will annotate and then evaluate...
+a week for one minu - - for one meeting.
+" " they don't have to be twenty, they're not twenty, " says person2.you have to ask [ person15 ] about the timing.
+when does he want this to be finished, you have him close in the office.
+so please eh please discuss it with [ [ person12 ] ], you say...
+and write it down somewhere, because otherwise we would not do that.

@@ -1,0 +1,50 @@
+So I think we primarily need [PERSON13] to collect the text data.
+I mean you can't download it or <unintelligible> (PERSON1) Uh, well-.
+So what it should at least explain to him that there is a clear distinction between the [PROJECT2] Archive, which are the interviews with the survivors of World War II of of the Holocaust.
+Yeah, unfortunately, I'm still horribly struggling with the [ORGANIZATION10], uh, [ORGANIZATION10] demo papers which are due tomorrow.
+Not not too late, because, like, I will be busy the the whole Saturday, and I have to go early to bed on on Friday.
+(PERSON1) So, uh, the mind concern now was the alignment based thing.
+And like after we finish with the general call, if you're still available, if you do not have to rush for your dentist, uh, then we can discuss this.
+Just I will see all of your things, and I will check the code, and we will answer everything in detail in one email to you.
+So the [PROJECT4] quality is very bad for all, uh, remotely handled sessions, and especially if people are wearing face masks.
+And, uh, we pass all our training data through [PROJECT12] and other systems in an automated way so that we get the data distorted, uh, um, in the same way as these platforms distort it, and also that we will use a frequency filter to cut down on the hate, on the like high frequencies.
+And then we would, uh, either ourselves retrain that, or we would also like happily shift, send the data to [ORGANIZATION4] and ask them to train their system, because their system is is online and, uh, fully integrated.
+There there would be some extra overhead, uh, um, for for the restart or whatever, but it but it should work.
+(PERSON1) Yeah, so so [PERSON3], you should work on the evaluations first and fore- So for you, this is a lower priority I think.
+And right now, I'm running the first alignments on on the manually revised the Dev test.
+And then I want to rerun the alignments of source and targets of of the interpreters and do some analysis on them.
+If you have some long term processing of [ORGANIZATION9] that is like where computation time is needed, then start it.
+But otherwise I suggest that you, uh, move or give more priority to the the write up of the experiment with [PERSON14], because he will also be struggling.
+And the evaluation launcher that would run the pipeline through the [PROJECT1] test set, uh, with [PROJECT13].
+That we would know, uh, which of the parts of the pipeline are, performing badly in terms of translation quality.
+And because we will have some non native English speakers in there, so we will need to get some feedback, from the people that are using our subtitles.
+And, uh, um, you and [PERSON9] should prepare very simple instructions that the participants could follow.
+If the organisers say, that it is it is reasonable to ask such a thing, to get feedback from the uh, from the participants.
+Uh, and if our outputs are so bad as they were yesterday, then there is actually no point in collecting the feedback at all.
+(PERSON1) And also, uh, if Vicky, uh, and and [PERSON3] find out some [PROJECT2] data in the public domain, please add them to the public part of [PROJECT1] test set.
+In the last <unintelligible> seminar, uh, the, pipe was, stuck at a point.
+To make some [PERSON15]es in their <unintelligible> editor and to the manual, or a revision of more more conveniently.
+Uh, and he successfully developed a shortening [PROJECT5], um, English to Czech.
+So there is something which makes the output 80 percent of the input length and the bleu score, yes, is lower, but just the shorter outflow the lower the bleu score.
+I'm saying that it has to be committed to the [PROJECT1] test set evaluations, because the bleu scores will be definitely lower.
+And there is that we can create more robust [PROJECT4]  that is that is not for refitting any speaker we can read, because we can um.
+So the, so the, so the, um, implicit language model with which inside the [PROJECT4] can be more robust.
+Um, I, I just , uh, create all the recordings for the all, all sentences in the corpus.
+The the, uh, the job is bit quicker than the training is so-.
+And because we can't store fifty million recordings on the disc-.
+(PERSON1) So- But can you do it like in a rolling buffer on the disks so that you would actually be training over whatever, let's say-.
+And yeah, ah, I I think even in the at the beginning, we decided first to calculate C without any alignment.
+And the second part is the content bearing, and ,uh, would get very likely aligned to this, uh, to the late part of the German verb would get aligned to the English word.
+And unfortunately, if the [PROJECT5] system decides to obey the standard English grammar, it will cash these words.
+My proposal is to, uh, maximize not only with the value from the proportional alignment as you are doing at the moment.
+If we if we are doing the alignment based thing, then we should follow the alignment and this like maxing, uh, uh, of the linear order progress of the maximisation.
+(PERSON1) Yeah, the the evaluation would be different if we were producing a spoken output.
+Based on what's in, uh, section on multiple refs below.
+I think that the current description is like excessively detailed and actually confusing and not correct .
+And it should be just the proportion of the characters in "Oh das ist" And then I don't know whether you do include or do not include design "ein" in the total number of characters from.
+(PERSON1) Based on characters at the end time of ,uh, of the word.
+And based only on those time stamps in C. Just can I ask if, [PERSON8], if you follow, I-.
+For example, the time find the exact some estimation for when that word should appear.
+And after all of this, I will send you an email, because I think I, maybe I might be not available in January to the first of February.
+And also, he is waiting for some feedback from other people for, uh, this censorship or something like that in their pipeline.
+Ah, so, uh, please like get in touch with [PERSON3] and [PERSON7] and try to integrate the profanity filtering yourselves.

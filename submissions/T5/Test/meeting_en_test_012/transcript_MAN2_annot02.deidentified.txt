@@ -1,0 +1,14 @@
+ehm what is my first question is to [PERSON10] what is the proposed development schedule .
+and when there could be some preliminary some prototype implementation that we could test .the only timestamps that we have are the beginnig and end of the sentence .
+we need to know where to start overwriting .
+PERSON7's guess is that the unintelligible> worker should work well .the basic unit that you send to the presentation platform is called a textfield content .
+but then at some point somehow there will be made a decision that let's move on to the next textfield .
+at that point uhm the- this would be like most scrolled up .
+will not be implemented any logic to manage the partial hypoteses and partial translation output.if the starting timestamp is higher than the current the last text field should be moved to the history and and closed .
+if there's any prototype available at a work point would there be any prototype avalaible today?if there is hardware limits, we can also run some from [LOCATION1] .
+sexteen or fifteen worker ASR, who are close connected unintelligible> .the bug is that sometimes the work, one worker can handle several sessions, but then it stocks and it doesn't return any output .
+PERSON6: i don't know what is happening, but when i do know what unintelligible>prophones it was able to handling several sessions .if you click on this on this test that it's different from the simple one only by a by- I change only the default parameters and comment send documentations, and I removed to Windows version of the client .
+for us is fine.
+also Linux based the- (PERSON6) Yeah, yes, and then the text text client.if you have any problems with these calls, please put it in the in the document here .
+we will find a slightly different hour, but we don't always need everybody .
+uh, I'm going to reboot and I'll try to lodge the [ORGANIZATION3] .

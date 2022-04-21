@@ -1,0 +1,47 @@
+if [PERSON4] isn't here, that's too bad .
+but we have [person7] and [persons3] and the rest of you .
+i'm a little worried about the multi-source status for the deliverable .ah, the all the corpora that we are collecting are document level .
+if we can have them like that and they are as multilingual as they are, still it would be useful to replicate .
+some experiments with multi-source text should be done immediately after baseline .i've seen [PERSON17] here and he disappeared at the moment .
+i was confused because he said he could be late for the call and that's probably happening .
+"i'll send a link to the unintelligible> calendar, ah, later," says PERSON2 .profanity filtering is not yet integrated .
+do it yourself integration is important .
+if someone develops a new useful component.
+the full pipeline should be accessible to him reasonably easily.profanity filtering should be employed twice on each path .
+first after the ASR and second after the MT .
+if there are instances of spasm coming in, it should be removed .if you have a call with [PERSON10], then he's already preparing for a seminar .
+on Monday we will hear the Italian English and yesterday, ah, we had a chance to hear the Japanese .
+a lot of people are putting together a new recording with different sentences .the current idea is that he will create new sentences by concatenating words that were spoken in other sentences .
+so, the robustness to the different accents of these speakers could be also improved .
+one problem is the implicit language model .PERSON17 was able to get the rainbow worker running and presented .
+but he was stuck for a while and then it was restarted by [PERSON9] Williams .
+some of the languages didn't contain any reasonable output.
+just some language coats instead of the output .if we want to implement [PERSON14]'s ah army worker, we need to have a separate separate descript .
+it is a pity he is not here at the moment .it's up to us, we can control how many languages we want to see the subtitling platform .
+but if you think that it improves the maybe I don't know, maybe speed, then we should go for that .
+comparatively, [PERSON9]'s rainbow worker were better in speed, but was it better in bless course? (PERSON8) Yeah, but still, basically, yeah, yeah .if we could have multiple workers, each emitting a different subset of languages, that would be a great fall back solution .
+but the main question is, how come that it's slower with more languages? (PERSON8) Yeah, it is a lot slower than for back size eight, for example.i'm using the newest version of [PROJECT3] to train the shortening models .
+i have version one point nine comparates as well .
+[PERSON3] is also a source of information .right now, I am trying to vary the amount of data and the length in the dataset .
+when I'm happy with this, then I will basically translate and synte- and creating to dig data from the rest of the and the end dataset, and then I'll build like the final shortening model .(PERSON1) To apply for PHD one deadline is very soon .
+he also mentioned that he had a discussion with you during our debruity .
+(Person2) And he would like you to participate as well .we haven't had the call last week, unfortunatelly .
+i've reminded everybody to record what you what you saw and also read what other has other have experience .
+we absolutely need the evaluation of all systems, all files .a script will generate an ASR from any index file .
+the outputs and scores have to be stored somewhere .
+a very similar thing happened yesterday .if we know that [PERSON9] is unreachable because he is traveling, that can happen .
+but we need to know what is our fallback solution if that party is not present .
+and then we have the long term focus, including this goal and this challenge in your plans .if you could dig into the toolkit and debunk whether it is getting the worst into that .
+can you confirm that the dictionary is well included in the hybrid ASR?it is impossible to do any domain adaptation for the fully neural ASR .
+we could have an independent keyword spotting, ah, from sound .
+and some merging procedure, which is better in general .
+but we need colleagues for this, and it would be accepted as a paper .ah, we should be aggressive about about any slightly negative words .
+"disgusting" is not a bad word on his own, but it's very risky .
+we can't just aggressively remove these words, because there are many words that actually might harm someone .social media filters tweets and posts that are harmful in some ways .
+there was a cable competition for this, where people had to make models .
+if you download some models from this competition, you will have a question fire .if there's a bad word in your ear, we can remove it .
+if you're a student, you can ask them to stay with the non-native English accent .
+you can also ask the elderly students if they're interested in doing that .if you are short of ideas read the the problems in the Monday tests document .
+if there's any other ideas that I could be fruitful.
+put them here .
+we will have one more this call next week and then the christmas day and the the the new year's Eve .

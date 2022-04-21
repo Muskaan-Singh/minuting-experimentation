@@ -1,0 +1,50 @@
+And that´s it.
+So one of those is Matus Zilinec, for example, eh, so eh I would later ask Matus to eh to to give us a brief summary of what he he has been working on for the past months actually.And what he is is he up to.And eh, there will be a lot of connection with eh, lot of connections with everything what he do.
+Uh, and eh, we are eh, hoping that that will be allowed by you have to use these calls for the meeting summarization eh, eh, so eh, the - Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.
+Eh, and I would like now eh, I would like to ask Matus now to start, because he has been the most eh, eh remote  for a while.
+Yes, I don´t see you <unintelligible>, but - (M) Okay.
+(M) Yes, so - Actually I don´t know what was the last time when I was eh, on this call.
+So one thing that that, I have been working on is, uh, is actually actually trying to collect the data that we can use - The monoli- monolingual data tha- that we can use eh, for for this rainbow models.
+And for this I have actually found - I have I have a - Because like the problem is that that we need the domain specific data and - (O) Mhm.
+So so so - (O) Yeah.
+So I kind of didn´t eh - (O) Yeah.
+So that we can eh, use it to to - So can you - So that we can adapt adapt their data collection, eh, for for some kind of spoken data.
+I  don´t know, just - (O) Yeah.
+(O) Yeah, so that is something that we should,eh, we should consider this like next the possible thing to do.
+So with the evaluation I would like you to em, test the evaluation eh, using ELITR test set and SLTF and in on the call I saw - Now it doesn´t really work for me the Zoom is kind of stuck.
+It used to be Vojtech eh, Srdecny, but eh, he is giving that to - Is that you Umar, is that you?
+(O) You´re not on that.
+So the - Yeah, so the - For everybody, the general idea behind this ELITR test set and SLTEV is that we would like to make it the standard evaluation tool.
+So please, everybody get in touch with Ebrahim directly, and get it s- Like eh, like find a way in which this tool will work for all of you.
+Ah, so that would be like the test case of the evaluation for the purposes of the publication of the SLTEV.
+(O) Yes (E) But you - Okay, but you you want the previous version also, because you said in your you know when we were talking - You said when you were talking you said: It works independently, without any <unintelligible> (O) Yes.
+(O) Yeah, okay.
+(E) Okay, so let me - (O) Yeah, great.
+At the moment I don´t know what I should work on, and eh, who - With whom I should eh, maybe - (O) Yeah, so - (S) Work with So yeah - I I´d be really happy if you just - (On) Yeah.
+Uh, and this is what what Rishu is now also working on.
+(E) Okay, so if it is possible please contact Mohamad and ask him for this call and if you want I can also attend the the call to - (O) Yeah.
+(O) Okay?
+(B) Yeah, but just in case that - (O) Somebody - (B) To have access to the system and cluster so I can do something what I can do there.
+(R) Then we can - (O) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?
+(P) Um, well, I'm working on the chopped data set as already - (O) Yeah.
+Because that is something which we would - If your model eh, evaluates well, using SLTEV on ELITR test set, we would like to have that integrated.
+So eh, eh.
+Then it would be great to eh, like ask someone to help you, for example Rishu, to to help you, with the onlinezation of your model.
+(P) Yes, eh, the question is whether we would want to use just a Jasper as a model.
+(P) Yes, okay.
+And I would like eh, to ask Umar to also work on the eh, on the same data and keep training.
+(M) Can you can you also maybe eh, if you are doing some communication.
+(S) So so I I also have to leave, my lecture is ongoing and I have eh, said my part and I know what I should do next.
+What I´m uh, really eh, working on is eh, like call it there chopped data set and with that I I I´m using regular eh, speech data set.
+I I I got the data from the challenge.
+Is it so?
+(P) Hm, well I should be I should start to work on multi-lingual ASR, but eeh, this this - Because I I´m still at home and I eh, do not have much time to work.
+So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be - I´ll start with the wil- with the multi-lingual ASR.
+I I think I need need to work on whatever he was thinking about so I will just maybe first to <unintelligible> the path of data from <unintelligible>.
+So eeh, what are the tasks we need to do - Well, ehm - There´s these there are the data from the Interspeech challenge and we need to we need to check whether we can use these data.
+Isn´t it so?
+(U) Okay, so so if that was that requirement, then please share the <unintelligible> with me of the <unintelligible> data set.
+We train the set and we test it.
+(U) So I'm leaving a message for you on <unintelligible> (P) Well, if it´s okay for you I I´m not - I rather use mail.
+If it´s okay for you.
+(U) Okay, that´s that´s <unintelligible> I´ll then eh, leave the message for you on mail and whenever you have time <unintelligible> (P) Okay, so I guess I think is evertyhing.

@@ -1,0 +1,73 @@
+the goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, eh.
+this is the goal, eh, but it's not yet clear if the group is looking at the google doc eh.eh, eh, we are eh, the - fe, we will be anonymizing these calls, so we ’ ll be removing names, replacing names with placeholders and replacing placeholders with placeholder and so.
+the consent that you are giving by your participation now is not to publish the data yet.eh, eh, this year's metaforum conference will serve as a test eh, demo event for the elitr project.
+eh, we should be as prepared as we would be for the euroforum congress,'eh, says.
+we should get ready to use this in the future, but it's at least like sympathetic audience.the first thing that i have been working since on this call was the paraphrasing.
+i don't think i've ever been working on so much.
+i'm actually trying to collect the data that we can use for this rainbow model.
+we need to get ready for that, so we ’ ll get ready to start, so eh, i would like to ask matus now to start.i tried eh, actually, to go to core zera.
+i didn't find out any - ( o ) mhm.
+( mhm ) s ) m.
+mhm ( mh ) ( m ) ) ( s )...
+but it's something and that is something and and that's what i'm really interested in.a new algorithm for mining parallel data in one hundred l - languages is available.
+it's an algorithm that could be used to mine parallel data.
+the models are similar to those of google, facebook and twitter.
+but they haven't been released yet, and only i don't know one third of it is english - centric.eh, we need monolingual data as much as possible, eh, that is a long report and lot of work done.
+but eh, on testing data in other low research languages it doesn't work at all.
+eh, however, doesn ’ t work, so we need parallel data for eh, eh says, for example.eh, we have eh, so we should consider this like next the possible thing to do.
+the elitr test set up by vojtech sr, srdecny, sreny, but eh, he is still responsible for eh.
+he is overseeing the development of the sltf, which is moving towards system integration.the elitr test set up by mohamad wanted to attend the call but he had problems with internet so he wrote his report there.
+the name is khan academy for sltev, which is independent from the rest of the group, is independent of the others.
+it's not the first of all, but the name of the next version of the test set is eh, he said.elitr test set contains input texts and references.
+it can use any other input and reference transcripts.
+it is also capable of downloading what eh, files you want to evaluate on from elitr.
+it's also available for eh, the spoken language translation eh, and eh, eh.sa - sangeet is the project to publish the sltev report at eh.
+ebrahim was talking about the project for the first time in january.
+the report is expected to be released at a conference in amsterdam on thursday.
+e -brahim says it will publish the report later this year.we want to fix these bugs using sltev on elitr test set.
+if we ask for the same tool, it should try to connect to the internet and download it.
+if you want both of them, you can use the system to download them.
+this is exactly what we want for the next version.if you're in ufal i'm co - i'll come to university.
+if you have time, you'll have to wait for your feedback.
+this week, you can finalize everything ( o ) you want to do ) you've got eight minutes to finalize it.the most urgent thing to do is getting the evaluation of all the systems.
+so please talk directly to rishu, and help rishu with all what he should work on.
+this is what rishu is now also working on, ehm, eh, and this is how he is lost in.censorship is something that we want to have as a one part of the pipeline after the asr.
+the goal of this censorship tool is to allow to hide the output and then show them again.
+the aim is to get to know the current output and show it again, when the automatic eh is triggered.mohamad, sangeet, rishu and perhaps umar are the two kinds of replaceable persons.
+so if san - sangeet could you hear me? it's good to hear it.
+bohdan has worked on multi - target machine translation for his master thesis.we wanted to eh, abandon the multitarget set up and concentrate as as as you assume multi - source set up.
+so, when i will receive the cluster access, i will check this out...
+so they should happen soon,'i said.'i ’ m sorry bu it ’ s already already processed enough,'said me.in the czech republic, there are more than one gpu.
+the multi - source synthetic corpus is already high quality in german - czech news corpus.
+it's possible to combine it with english - czech, so that it can be used to do this ehr in face - facebook, if that would help.eh, eh, we want to evaluate your model and if it is strictly - ( o ) the question is whether we would want to use just a jasper as a model.
+if we have anyone with the capacity and the best person will be probably rishu, " eh, it would be great to eh.eh, eh, uh, and eh, the simple jasper only wou - on the same data set evaluated ehagainst each other.
+the kaldi set up by bohdi ( o ), is a comparin - compa - comparison in using the exact data.this is a general recommendation that holds for everybody who is trying to uh, put together new things.
+if you're interested, you'll have to leave myself at this moment as well.
+the purpose of this meeting was eh, very packed, and it will get better eh, in the coming weeks.peter and umar are the host of this call.
+they've been together for two years.
+the show is currently on air.
+peter is currently hosting this morning's talk show.
+click here for all the latest from this week's cnn.
+com / impact.
+you'll be at the bottom of the page with the answers.eh, eh, we can we can eh, create wholly new sentences, because eh is eeh, and these words are just spoken by or read.
+eh, however, is not the case of mozilla common voice.
+it's also the case that ehm, when you...
+is actually read data set by eh, several speakers.
+it ’ s actually the case.there are in the mozzila common voice data set there are twenty three percent unit - united states english.
+the main objective is it to train lmnt ( u.
+m.
+mhm ) in english asr.
+it also contains information about age and gender, but some of these attributes do have.eeh, there is a lot of classical english asr...
+but it is generally robust to the more - ( and ) ( eh ) eeh.
+here, we can try to synthetize eh, using the existing words that were not in the original data set.
+we can use these words for example subtitles which are written spoken langu - written eh, written written written spoken.asr was used by envidia asr in his master the - thesis.
+he said it was an example of how he was thinking about the asr.
+he says he needs to work on what he's thinking about so he can't use the data to understand it.the mozzilla common voice is the best option.
+it's possible to use the common voice data set.
+if you recall correctly, please share the data with me on mailonline or if it is ok for you to use it on mail and when you have time to get to work.thanks for your time, bye...
+bye.
+if we don't have anything, you'll get a bye.
+" bye.
+i'm so sorry, " says bye.
+bye, " i love you very much.
+" " i've got to go to sleep "

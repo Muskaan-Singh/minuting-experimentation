@@ -1,0 +1,50 @@
+Like if if randomly you can not attend, no worries, eh, instead of excusing yourself just enter your details in the shared document before the call.
+Then we will use the next year's Metaforum as our main eh, demo event for for the ELITR project.
+And for this I have actually found - I have I have a - Because like the problem is that that we need the domain specific data and - (O) Mhm.
+So, so what I thought is that I would eeh - I would go over some, eh, some more pages, wer- where there are actually some videos, and to download transcripts from there.
+So I only obtained to scrape a small data set like one hundred thousand sentences, which could like be used for testing.
+(O) Uhm hm- (M) But actually, actually, I have discovered that on some, uh, on some of our testing data sets from IWSLT.
+A- and also like like they they are very tricky to run, because you need like for GPUs with sixteen gigabytes of RAM at least.
+And there please get in touch, and really continue and finish the Khan academy corups that was started - (M) Uhm hm.
+Or are we kind of eh, in in a post phase with the ELITR test set.
+And eh, Daniel Suchy who has worked on the ELITR test set will join us only from December.
+(M) And maybe if someone could send me the - <parallel_speach> <sneezing> Actually the status of  of the test set or some links or something.
+Eh, I think the current version of - First of all Mohamad wanted to attend the call but he had problem with Internet so he wrote his report there.
+And as I said you Ondrej, it´s now workig wi - For example, it´s working eh with alignment by - I mean <unintelligible> if they are inside in ELITR test set.
+We can run SLTEV on data and see the result and eh, you know, make the final agreement if you want to do some minor changes.
+So the - Yeah, so the - For everybody, the general idea behind this ELITR test set and SLTEV is that we would like to make it the standard evaluation tool.
+Similarly Sacre Bleu eh, is is like now the standard for WMT evaluation of Blair and other scores.
+So please, everybody get in touch with Ebrahim directly, and get it s- Like eh, like find a way in which this tool will work for all of you.
+And what Ebrahim was talking about that is the plan to publish it finally at eh, at a conference.
+Ah, so that would be like the test case of the evaluation for the purposes of the publication of the SLTEV.
+And also Peter Polak - So you could also evaluate your ASR systems on SLTEV.
+(E) Yes, it´s possible, because it´s set as  ASR, but Ondrej in the current version, because I disabled there you know what´s the name  - Eh, it works off-line.
+Sacre Bleu also works like independently or you can ask it to provide - (E) Okay.
+(E) I prefer next week is very - To- today I I 'm  co- I'm coming to university.
+And about the paper also as you remember I put some fears there and I´m waiting  for your feedback.
+And the most urgent thing to do is getting the evaluation of the of all the systems, of all the components from the eh, mediator, all the connected workers, running through ELITR test set.
+(S) Yes.. Uhm - (O) So please get in touch witch Rishu separately - (S) <paralell_speech> Yeah, okay.
+And the goal of this censorship tool is to allow to immediately hide the outputs and then show them again.
+So there has to be some hidden user interface in which the eh, the operator of the system  checks what are the current outputs.
+And he re-enables those or he can also manually switch it off, when the automatic eh, trigger didn´t fire.
+And um, uh so - I thing that the best eh, sorry because as you see, I'm unable to respond in time.
+So the best thing would be if if Mohamad, Sangeet, Rishu and perhaps Umar as well had a separate technical call on the design of this.
+And and from the management point of view, Sangeet and Rishu should be the two kind of replaceable persons.
+Bohdan has worked on multi-target machine translation for his master thesis.
+I have asked eh - My task were so far to generate synthetic multi-source train set.
+And then we can combine it with with English- Czech, which is already high quality from WMT.
+(R) Then we can - (O) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?
+So l- le- let let´s keep this call running for longer, but let´s finish the the common part.
+(P) Um, well, I'm working on the chopped data set as already - (O) Yeah.
+Because that is something which we would - If your model eh, evaluates well, using SLTEV on ELITR test set, we would like to have that integrated.
+(O) The the ev- the evaluation of the offline runs is, is the deciding thing.
+So that eh, ehm, s- we have this old style cascaded, the new style cascaded possibly eeh, and eh, the the simple Jasper only wou- on the same augmented data set evaluated ehagainst each other.
+(R) You can try some transfer learning on on of double encoder model on small JPus.
+So that it´s pre-trained and it doesn´t eeeh like waste too much time in the in double encoder.
+So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.
+But eh, but for example, uh, there are in the in the Mozzila Common voice data set there are twenty three percent unit- United States English.
+(P) Eeeeh, well, eh, the main objective is to train a robust ASR.
+So because eeh, there is a lots of textual written data sets.
+(P) Um, he was probably thinking the the ASR I created or or ri- I´ll I´ve been using eh during my master the- thesis.
+Mm, and of course, I´ll I´ll have to use the common voice and maybe I´ll check fo another multilingual data set.
+But uh, I guess the the Mozzilla Common voice is the best option as- If I recall correctly, the most papers that work with accented speech eh, were are working with the Common voice data set.

@@ -1,0 +1,36 @@
+ehm, from this Monday we can actually go out even if it is not like the necessity.
+It the meetings of-.
+Up to 10 people are allowed.
+(PERSON13) Yes, but if you are in the city then you have to somehow get to the forest .vote in a Doodle so I can get [PERSON12] some dates .
+we have eh couple of deliverables due in June .i think that we should ask for an extension for this deliver because Congress has not taken place .
+i'm hoping that (everyone) only the universe is contributing three point one .
+[ORGANIZATION4] is also developing their own systems .the best position would be [ORGANIZATION6] because they have coordinated a number of projects .
+(PERSON1) I could say we have to if it's not many words .
+'there must be some project management guide from previous project'the internal reviews should be ready by mid June at the latest .
+that would be the 8th of june .
+Especially things usually slept .if you want test sets, please pick up on that .
+the main responsible for this is [ORGANIZATION6] .
+but unfortunately, the the colleague of mine who is supposed to be responsible is extremely slow .the actual set of documents that you will test against will depend on the set of languages that you want to test against .
+unfortunately, [PERSON10] is not (feeding) them with the prepared automatically paralyzed files .if everything is curated, they all should be curated for the part- particle purpose .
+if it's the speech type of test set, it will be the sound, and the transcript with timestamps .sacrebleu has a way to just yet be a text .
+it could be used to download a test set from a file list .
+the fingerprint would then clearly indicate which version was used .the SLTF is geared towards the evaluation of spoken language translation .
+the primary evaluation will be the translation quality, and the ASR and translation quality regardless of the delaying .
+it also includes delay and latency and and also the well the wasted effort .if you want to save varieties these places is cautios so now, do you? (PERSON6) This is exactly what we did for these for desirability to tasks .
+people still can misinterpret what time stamps should they use .finding and curating is half the price when we pay what we pay to our annotators normally compared to like the professional translation .
+but for now, I prefer to find people who actually speak them, and I preferred them to to find the related data sets .we made some progress in getting translations out of the auditing websites .
+if that is what we are looking for pro tests about is nonspeech segments, that some text insistent .
+but we also want to do it for the well represented languages .feel free to step in and provide feedback on the layout .
+if we do this over the next couple of weeks then it will be very easy to do the deliverable for August .if we are able to make the retranslation stable.
+Then the users will not complain .
+it's entirely possible that the unstable go back a lot with the transition to end-to-end ASR .if there are no updated ASR hypothesis then they MT hypothesis unintelligible> .
+so far the experience from actual lectures is that there is a big improvement .
+(PERSON9) There is no internal SLT.
+(Person6) Okay, end-to-end ASR .the problem with the integration of the ASR and MT will remain .
+there will be a trade off like what and what confidence should I insert the verb and then maybe recovery .the demo should be 14th may 17th the sooner the better .
+there is no way to touch up on these topics before the demo .
+it's important is unintelligible> 17 than 4.if you would like to present to the same thing, we should put the same set up without the (audition??) i think screen sharing is a good one.
+Just takes away one indicate -.what so far in our experiments kills the performance for the final user of the machine translation is the sentence segmentation .
+we have new models now as well .
+(PERSON9) We can do that in next week .we should send an email to the [PERSON4] to truce, his date .
+and in the week from the 11th, the sooner the better .

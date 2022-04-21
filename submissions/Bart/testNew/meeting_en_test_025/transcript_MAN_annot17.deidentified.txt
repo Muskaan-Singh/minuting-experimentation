@@ -1,0 +1,65 @@
+ The call was made to German subti-subtitled user study .
+Transcripts are almost done and transcripts for check are almost finished .
+The first 30 parts of the project have been added, but some files still have weird output, bu- but for most folders, it should be already fine .
+And I asked [PERSON5] to do the transcripts of- by German ASR for the German transcriber .
+There is some natural shortening happening happening, and we would get this-We would uh uh uh put this into the architecture .
+We would just train it s- so that it is stops generating after some time .
+The only other possible candidate would be [PERSON12] from the [PROJECT5] project, who works halfway in Prague and halfway in Brno .
+But that is also very risky and and like distant .
+The call was made to ask if it was too late for [PERSON3] to run the dataset for tomorrow afternoon .
+The group will use two laptops and blackbird to run a Zoom Test .
+They will run two videos at the same time .
+The group is working on adaptation for the two domains .
+Some videos are not getting some audios or videos not connected properly into a 16 (cave) format .
+Some audio files are not properly connected properly .
+Some files are converted to the <unintelligible> format .
+Every time we run this evaluation, every time, there should be a fresh download of [PROJECT1] test set, a fresh conversion and fresh evaluation .
+The sound quality of the recording is a little worse .
+This is a [ORGANIZATION4] <unintelligibile> (IWSLT) 2020 .
+[PERSON11] is going to be extremely busy.
+He is organizing some event tomorrow and over the weekend.
+We must not rely on him.
+He wanted to do it together.
+Because he wanted to organize it together .
+He said: "Today is your last chance to get it running before the weekend" I'm I'm hoping that you will be able to have uh the multiple custom dictionaries in the ASR system .
+[PERSON2] sent this email with the forwards, the uh (Watson IBM) and yeah.
+He first recognized the words in the audio file, then converted into phonemes .
+He then added those pronunciations in my dictionary .
+Pronunciation is based on a domain adaptation model that I develop with my manual uh pronunciations .
+The model is slightly better than these models.
+And the one uh .
+domain adaptation .
+model that .
+I don't think so, or I'm confused.
+The language model will be still needed to be used as a substitute for the language model .
+The dictionary will have three columns with different phoneme variations .
+There will be, again, the same form .
+The actual training set contains only around 300 hours .
+The language model does not contain similar sentences, but spoken by but by different speakers .
+[PERSON7: How much time do you have in the coming days? [Person7] has some presentations to make, and assignments are piling up .
+Person7: "I would r- like to have the ASR numbers ...
+today" The call was answered by an employee from the University of Translating in the Netherlands .
+The call ended up being answered by a worker from the [ORGANIZATION1] and the ASR .
+Mohammed compared the scores between (rainbow) and there (summer) set of workers .
+The scores were better than our len- our test set .
+The output is like totally terrible, but for some folders it's okay, and for some, it is terrible .
+The transcripts for for these files are don't have the right length .
+They were processed incorrectly .
+I'm not sure how to convert them properly, because (F F M P G) just just returns the error for those files .
+The German ASR is a monolingual German text in the in the [ORGANIZATION6] domain .
+The language model will be used to process interpreters .
+The ASR (ASR) is used by the ASR that is used to speak English in the background .
+It's not sure whether I I uh will get it done by today .
+I may disconnect this call soon .
+There was there was very some phonemes that weren't (formatted) into the f- corresponding alphabet for names and .
+names .
+Some IP formats that are not alphabet.
+So I am afraid that when I will be processing this list of .
+graphemes to .
+phonhemes so probably there will be some issues regarding the such phonemees .
+Pronunciation is a pro- variable word for pronunciation .
+I don't know the uh a pronunciation of any of these vowels .
+There should be some examples, for example, uhm.
+The first uh first IPA phoneme is (meat) The call will be difficult to have a call tomorrow .
+The phone call ends with a call to ask if you can convert the IPA to the alphabet phonemes of alphabet .
+The call goes back to the original conversation .

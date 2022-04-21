@@ -1,0 +1,50 @@
+(PERSON3) And uhm <unintelligible> I will send you.
+(PERSON3) And I <unintelligible>  I should be able to get back to all of you uh by the end of the week with the [ORGANIZATION1] data set.
+So how it will this this [PERSON4]- (PERSON3) Yeah, okay.
+Do we <unintelligible> it the end of November, should we started now and be really quick in giving to an <unintelligible>?
+(PERSON3) Immediately but for the for the fast shared task I'm not sure like we have <unintelligible> clear or on the <unintelligible> of using the alignment thing.
+Okay and we also have a manualy evaluation think that is prepared by [PERSON6].
+You know like, yeah.
+I know like we that that <unintelligible> that.
+But it's the <unintelligible>.
+(PERSON5) So actually, why we want to run this [PERSON4] 's tool is that <unintelligible> has actually no real sense run estimating the summariz on the one hand, and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake.
+(PERSON3) Yes, you are okay.
+So [PERSON5] what you do is like want you have the minutes from all of your participants.
+But maybe in this case, if you have a clear understanding what should we prepare before the end of November, tell me what should I do?
+So I what I we do now is maybe from tomorrow on works I will start writing like <unintelligible> I have already the components nearly.
+Then I will be late I can I can see that uhm what other things we (require).
+If you say, that standpoint on my hand it's too like uhm give you the bit give you all the <unintelligible> [ORGANIZATION1] data which should be ready, because the minutes I have downloaded.
+I have to do that.
+What is not clear to me is what we do with the alignment of transcripts and minutes now.
+So I think uhm can uhm because I think [PERSON2] was also working on integrating something into the tool and yeah she knows.
+So I know how to in how to work within the tool, but uhm if uhm I send the link to the inc- to this tol- to my annotors and they have some questions, and they will have some questions, definitely because this is written in Python, and Python mostly has problems when install in that tool.
+So I really need a person who would be uhm by hand, so it would really help me all the time and in in this.
+(PERSON3) Yeah, so one thing that we need to be sure about the tool is like the tool is doing annotators uhm like alignment <unintelligible>.
+But this is another (question) yes, but this is not before that.
+<unintelligible> (PERSON3) Yeah, once we do the alignment, understand.
+And then um we don't know how to use that.
+(PERSON3) So yes, for example, if you see uhm that (Jens) that minutes fix just smaller part of the transcript or uhm then so then they get less as smaller number of kind of in these evaluation.
+This is what we discussed with [PERSON1] once, and I <unintelligible> objection to that because it is not so uhm evident.
+<unintelligible> Yeah, that is that is very much clear, that if we definitely help for the evaluation, because oh yeah what you think in machine translation this alignment tool or alignment metric is uhm like very helps.
+(PERSON3) One we- (PERSON5)Okay, what tangible thing could be that uhm and the result you can 't you you get.
+So uhm so what <unintelligible> [PERSON5], I I I absolutely support you that we should start the this alignment thing with our annotators.
+(PERSON2) <unintelligible> <unintelligible> (PERSON5) Yes, we had a <unintelligible>.
+(PERSON2) <unintelligible> (PERSON5) Well, it is actually okay and and I don't I don't mind it we started one, but <unintelligible> now we have one.
+Yeah I think uhm I can work to I can work on that.
+Uhm so I don't <unintelligible> if [PERSON2] will be comfortable to do that.
+(PERSON3) Yeah, if you if you want to start uhm you can.
+(PERSON5) Are are <unintelligible> I 'm looking forward to started from this from September, because I think we have a lot of data and I 'm so I 'm still (waiting on terms) for creating uhm kind of uhm double summarize for meetings that are already minuted.
+Okay, so, and and annotating [PERSON5] I would one to mention like before <unintelligible> giving the minutes to the annotators we must be sure that which transkripts or minutes <unintelligible> really part of the data set, because some of them- (PERSON5) Yes.
+(PERSON2) So [PERSON5] what exactly do you want as one from us like to start the annotation work, because I think we should do it as soon as possible, because it will it is going to get a lot of time.
+And but especially if we want to know uhm just I don't know where is the data are, how they get to the data.
+Oh just the whole process of annotations so for on your sight is the decision how the annotation looks look <unintelligible> where is the data, do I send the data, we have once started to put all our data to GitHub, but we didn't finish it.
+So how now I 'm <unintelligible> sure what to do with the (data).
+So I <unintelligible> by the end of this week you have will you will have answers to all of this.
+And you <unintelligible> we can also <unintelligible> session with your annotators to show them that how to do it.
+But yes- <unintelligible> First we speak about it but that I will I can org- so this is the topic you ar- you actually promised me last week that we could make this call with annotators but what do we <unintelligible> them?
+(PERSON2) So if you want my help, [PERSON3] you can let me know, if I have- (PERSON3) Yeah, yeah, yeah.
+(PERSON5) Fine it's really it's really <unintelligible> do in but to the <unintelligible> do that.
+(PERSON3) Okay, we put that to the agenda, like I'm like <unintelligible> so many things, so it's the proposal that data for [ORGANIZATION1] and uhm and a tool.
+So I think I think we can have something by the end of the week for all of this.
+[PERSON5], you should you should have it by the end of this week.
+And <unintelligible>.

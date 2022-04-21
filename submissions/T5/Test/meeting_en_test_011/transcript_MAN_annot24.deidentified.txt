@@ -1,0 +1,37 @@
+almost three hundred people got infected in one single event .
+eh, it's terrbile, right? (PERSON9) I'm a very good host, you will see.'i think it should be possible at least for the common nouns, fo the common names that are repeating from English meetings to Czech ones .
+but they are not repeating and not all of them is repeating .
+(PERSON9) And even the family members did not report of authorities and that the did the last rights .the total number of names is two thousand and one or two hundred .
+eh, remove.
+remove, but in this case we will we have no diarizations or division into speakers .couldn't the letters correspond with the names that we are going to replace with real names? if we have brackets and something inside of brackets - (PERSON7) Uhm hm.
+- it's very important, otherwise you can't read the transcript .there is not possible that any proper noun end with dash .
+yes, this is the person who eh was attending the meeting .
+if he takes it, he can join us .if the word didn't finish, it means that it appeals no information .
+remove unintelligible> from the transcript? remove them from our proper nouns .
+ideally this list, which be complemented with the context, can decide better .polak is a named entity named entity that should be replaced .
+all dashes are no word boundaries, so I would not go into, eh this this word type decision.
+Because it is no longer reliable.
+I would go for a word, a token decision for these cases .annotators should be able to recognize some of the names as names .
+there is no need to anonymize, and the third one is it depends or I don't know .
+if we have one country in transcript and another in minutes, it has to be standard .eh, just annotators get the task to mark all proper names .
+we do not exclude any proper names, uh .
+yes, ideally, yes.if you find a table which lists the named entity types, send it to these annotators .
+eh, actually, what named tag already recognizes as geographical entity, let's trust name tag .name tag will pre-annotate this list in the first phase separately .
+what name tag doesn't recognize here, give that to the annotators .
+uh, what is indicated as a named entity that will again be done on all occurrences .
+the easiest way of doing this is to process the corpus from top to bottom .at the word token level it was decided it is not a name .
+if the named entity recognizer make guess it's right, then it becomes actually a grey word .
+that means that MOG will survive in the transcripts and ....the name of the parallel_speech> Mhm.
+(PERSON15) person speaking .
+ideally, we would know what is the full name of that person, because that name can also appear in the transcript .
+"how to anonymize it means A, B, C, D unify all of them," PERSON12 .it's not too common that the uh, well there is also this Chang but that's a misunderstanding actually .
+all these Changs are misunderstandings in the corpus .
+if we label this [PERSON16] as a different person, then we don't have a big problem .[PERSON18] is starting his Phd.
+Which is on speech recognition .
+he should be responsive enough to make a call with you [person9] and tell you what everything is is where and how to how to run it and what to modify and so on .PERSON2 and evaluator will do a test annotation of meetings .
+they will then write down what people had as as problems .
+if you don't have anything to do with me, (PERSON7) I just explained it .eh, so one meeting is one hour long and to read the transcript and to create minutes it's a really big work .
+[PERSON15] said that he spoke with you about this last week.
+and he wanted it done within this week .
+(PERSON12) I don't understand why should we create minutes .i don't understand why should we create minutes again, but at least somehow finish it and write it down somewhere, because otherwise we would not do that .
+i am afraid I have to leave now already .

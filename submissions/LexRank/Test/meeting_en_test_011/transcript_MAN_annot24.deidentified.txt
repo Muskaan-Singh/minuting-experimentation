@@ -1,0 +1,50 @@
+(PERSON12) Hm (PERSON9) It's terrible <unintelligible> (PERSON12) Mhm.
+Eh, so if we identify, if we eh, eh would if we use a name entity recognition model for English meetings, we will get the names for the Czech part of of MSD meetings and for [PROJECT1] meetings.
+So eh, so.
+Okay, so this is what the model extracted, but - (PERSON12) Mhm.
+Yes, okay - Eh, something is that in the meetings as you can see here, eh the name of the speeker is defind here.
+Okay, and I am not sure, should the letters correspond with the names that we are going to replace with real names for example - (PERSON12) Hm, yes.
+(PERSON7) Yeah, if you want to do that, we have to create a map that maps these letters - (PERSON12) <parallel_speech> (PERSON7) to the real names (PERSON12) Yes, yes, it's eh very hard because the transcripts are done by different annotators and the different abbreviations.
+(PERSON7) Yes, if you ask if you <unintelligible> it will be good.
+And something else is that some words you can see that they end with this I don't know what you call it.
+(PERSON7) I have the same oh same idea about the words that end with dash, but I just wanted to make sure that - (PERSON12) Yes.
+(PERSON7) Yes, I can I I I don't think that would happen.
+Eh as you see, there [PERSON16] it's very possible that this [PERSON16] and he is uh, the person who eh was attending the meeting.
+Yes - (PERSON7) Is it [PERSON16] ?
+(PERSON7) Okay, so let us - (PERSON12) And also there are a lot of cases that annotators should not really understand the name.
+(PERSON7) Yes, so we can remove them and then the words that are kind of gray boxes we can we can just indicate them in the meetings and then let the annotators - (PERSON15) Yes.
+So if we do eh, we we could also do the other thing for like, uh, the RNNs.
+So this can this could be - (PERSON12) And eh [PERSON7] doesn't know about our name tag, so he asked about Czech and eh named entity recognition eh.
+So if you have - (PERSON7) <parallel_speech> Yes I saw something - Can you send me the link?
+So the these are - I don't think this this is problematic.
+(PERSON15) Oh, you okay, yes.
+(PERSON15) But you're definitely right that this list, uh, should be first, and you can already [PERSON7] who has just received the link from [PERSON12] as well.
+(PERSON15) I I would just paste it through the web interface <laugh> (PERSON7) Uhm, okay.
+So for now, I will eh I will do that and after that I will eh use named entity recognition for Czech meetings .
+What is not a named entity that will, uh, be labeled in the whole corpus as a not a named entity like, uh, as I said: this word was suspected to be a named entity.But we have decided at the token, uh, at that type level that it is not.So that next time, when we when we do the same thing eh, the this annotation is <unintelligible>So you like without any effort.You get eh, you you don't touch these anymore.
+You are extracting these lines, and while you are doing so you are immediately eh replacing them in the in the corpus with like suspected named entity number fourty three, fourty four, fourty five and and and so on.And this would be the number of li- the the line number in this in this list.So then you would uh, simply know that line fourty four or entity occurrence fourty four was labeled as a not a named entity and you would rip like search for that ID in the data, and you would eh label that like this was suspected to be a named entity.
+(PERSON7) Should we yeah, should we just eh should we indicate it in every meeting as a suspicious word, or - (PERSON15) Yes.
+(PERSON7) Yes, I guess for the names that are um kind of question marks that will that would happen based on the - (PERSON15) So I was assuming that you will be running the named entity recognizer only at this list, not at the full text.
+And it say, it is a not a named entity.
+So the annotator will look at it and the annotator should think or MOG, can that be a name yes or no.
+If the annotator did decide that MOG can not be a name, which I don't agree with, right, eh eh if he decide it cannot be a name, then MOG will survive in the in the transcripts and .... (PERSON12) Uhm hm.
+(PERSON7) And I will do that.
+The name of the  - (PERSON15) <parallel_speech> Mhm.
+I think that the ideal situation is that we would know what is the full name of that person, because that name can also appear in the transcript.
+And with this eh, someone should uh, look at the meeting, and see the list of speakers that are here now with the O, C, N and and so on.
+You would have to guess what the value is that you would have to get the string [PERSON6], in order to be able to come up to uh, to that.
+And I just, I 'm done, I don't have any other questions, if you have anything, this - (PERSON15) Yeah, this is, and I saw these - I saw these partial names like [PERSON16] and [PERSON16]-.
+Yeah, it is noise, yes, but it is not too dangerous.
+So so I guess I know what I should do.
+So uh, is there anything that I should should the comment on or - (PERSON12) Eh, maybe I would like to ask you about [PERSON18].
+I I'm okay with that.
+But he should be responsive enough to make the call with you [PERSON9] and eh, and tell you what everything is is where and how to how to run it and what what to modify and so on.
+(PERSON7) Okay [PERSON12] if you don't have anything to do with me, I just - (PERSON12) Yeah, (PERSON7) I'll  do it as well.
+(PERSON9) So [PERSON12]?
+And then we have to - Two of us will work as annotators in a sense that we'll read the meetings.
+(PERSON2) So yes, so.
+So that's it.
+(PERSON2) It's just that.
+I will I will - (PERSON12) I think you already did it.
+(PERSON12) Yes, so could you could you choose these meetings and send them to you and [PERSON9]?
+So [PERSON15] now gave task - (PERSON9) Yeah (PERSON12) to [PERSON2], so [PERSON2] ... (PERSON9) with [PERSON15] I think like I don't know like creating minutes again or as I don't know if I will find time for that or not, but  - (PERSON9) No no no.

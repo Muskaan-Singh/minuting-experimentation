@@ -1,0 +1,50 @@
+(PERSON4) Yes, we can see you, so here's [PERSON2], [PERSON11] and me.
+(PERSON9) Yeah, so we are here, and this is [PERSON1] and [PERSON12].
+So what we have there, ehm, can you share the screen?
+Is it the [PERSON1].
+So what we have now, on [PERSON1]'s screen, which you can also see, it's shared there.
+(PERSON9) Yeah, German ASR, that's another thing that we could try.
+(PERSON4) Sorry, we don't have machine <unintelligible> system, but we could try test the ASR if you want.
+So I will try to get the batteries, ehm, and you're right that- the good thing about German ASR is that we don't rely on the German, on the English segmentation worker so that that could run as well.
+You can see me and [PERSON1] is also holding the second mike, so that you hear what I 'm saying, and you are seeing the translations with the delay one, two three, so yes,
+(PERSON4) The segmentation is <unintelligible> getting the end of one sentence in the beginning of the next, and we not read it preparefull that, and I think that's something that we need to talk to [ORGANIZATION3] they can fix that and make sure that they're not getting these overlapped to two sentences but that's a tranlastions starts.
+(PERSON9) So I'll try to share it in another way as well as well, but I'm not sure if I'll I'll make it.
+So I don't know how to, maybe it's not possible to do with the with the screen sharing.
+So, the, the list of icons that I was- So the the issue that we are trying to to help you solve now is that when you are following the the screen presented by [PERSON1], [PERSON1] are you still presenting the screen?
+And we, we have [PERSON7] on the call as well, right [PERSON7], can you hear us?
+(PERSON9)Yeah, so I 'm.
+So this is this is like a presentation issue.
+(PERSON9) So.
+(PERSON9) So what can we do?
+What can we do to test it?
+So you can see that in my screen sharing, right.
+(PERSON9) Yes, so can we test this now as well?
+(PERSON9) So you don't have it.
+(PERSON9) [PERSON1] has the workers running and if you are following [PERSON1]'s screen as well, I don't know if [PERSON1]'s screen is there.
+This is.
+(PERSON9) Ok, so from now on if this connects, I should be able to see- so what is it doing.
+(PERSON9) Yes, but but I don't have google Chrome, so [PERSON12] has.
+And we'll.
+(PERSON9) And [PERSON11]?
+It's not to me, it's probably not an issue of some rule based coding, but if it is, then it will be great to to know this.
+We don't have access to the um, maybe you can, yes, if you know, you can tell us how to use the streaming from VLC that work for you.
+If you, if it work for you.
+I think we should we should try to wrap up, so I would like to ask everybody who is still on the call, to go through the the current state of the Google document, and add whatever we have not recorded in the-
+(PERSON9) So I'll share, I'll start, sorry, I'll start sharing my screen so that you can verify if I'm doing it right.
+(PERSON1) We have the- we have admin web so we can we can see which workers are running and which fingerprints are they using.
+(PERSON9) No, no, it's like once we have the idea of what is being connected to what then we know what the inputs and outputs are and it's easy to use it.
+But what I'm saying is that if we don't have the map, and if someone from runs a worker with some incompatible fingerprint so that the worker from [ORGANIZATION5] does not connect to it, then the path would not be accesible.
+(PERSON9) Yeah, so the point is that if there is a worker connected to the mediator, there is no way for us to change it's fingerprints.
+(PERSON7) Actually that for the one who runs the client is is not available this information, and simply provides if <unintelligible> so there is no logic implemented in order to ehm change fingerprints to worker, because worker who be there or not or <unintelligible> will not be available or it's all delegated to who provides the service.
+(PERSON7) No, sorry, I really not be there, but actually it's really important for me to be here in order to check <unintelligible> and provide you technicals.
+And I cannot-
+What is necessary to do this, to to have this worker available in the mediator?
+(PERSON9) Yeah, so please do it with the set of languages that we need for the-
+So the only way you can do is use the same <unintelligible>
+(PERSON9) Yeah, but for the,and you have tried and you have Google Chrome on which of those?
+(PERSON9) Yeah, so this is this is the full screen mode of the web browser, what you're seeing in the webcam from my Pexip, right?
+(PERSON9) So this is my, this is my screen and also I think it's like not really-
+Yesterday we actually we tried for the full screen mode to prepare let's say a kind of overlapping, you know the the <unintelligible>, but we haven't found a solution and it's actually it's it's nothing in problem to, to develop it.
+(PERSON9) Yeah, and when I'm thinking of is, can you, could you, could you share with us the code for the not all, maybe maybe not all of the presentation platform but like the bare bones which has the text thing, like the logic that converse the the words to where is that being displayed?
+So that the same worker would offer two output, one would be so that you can connect it and it doesn't change the the stream and the other one would be the one that we could then directly use as the console client.
+This is this is very good, like I'm not really relieved yet, but-<laughing>

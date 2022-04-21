@@ -1,0 +1,69 @@
+ Researchers from the University of Cambridge, UK, met for a grant to study a novel in the form of a book .
+The book is here and [PERSON2] is there .
+The book was written in the way that I tried to sumarize the knowledge and then add evidence from the papers .
+The rest of the book or as rest of my chapture now should be kind of (OKish) so, um, it´ s ready for comments I would say .
+The multilinguality I basically just copy-pasted the paper we have with [PERSON2].
+I tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper .
+Researchers say it looks better if they refer to their work in, in the same way as, as the other papers .
+They say they can also refer to older papers on same way like more like survey .
+You are biass words your own papers and I think that -.
+You are pretending that like or pretending, nice, refering to the paper as someone else´s paper you I (disbiass) from the reader .
+The ORGANIZAN2 group agreed on saying we and then adding the reference .
+The plan is that well I, I try to fix the missing parts and you can start reading it and commenting it .
+The section about the neural language models should maybe be merged to the previous chapture or deleted if it´s (superfilus) or deleted .
+I don´t know how, if this, this could, could be included somehow or delete it, I´m not sure either .
+The first part, um, is com-, I think it can be viewed as complete and in the -.
+There are some to do things there but I think there are like optional things there .
+Unsupervised methods -.
+They don´t really have to be there but then probing is not finished .
+These are just notes from my theses proposal .
+These are some other notes as well .
+ICA tutorial was talking about behaviour texting .
+The code was created by a group of software developers .
+The code is based on a framework called a 'jigsaw' that looks at the code .
+It is designed to be interactive, clustering and clustering .
+The book is based on unsupervised methods .
+The methods were all like thing the researchers used to use .
+But they don´t really consider it, um, the a...
+interpreting .
+In lot of the papers that I see too they seem to kind of the (steam) that if, if just the linear classifire or linear probe then it´s kind of OK .
+But then I can show you in the <unintelligible> or I -.
+I do - a do -                                                 -  Hm, both of these are from 2020 and I haven´t read, read them yet .
+In case of biass detection you´re constructing a data set yourself and that´s the supervision, right .
+Maybe we should follow [PERSON7] in, in classifying like the probing and our unsupervised methods as structure analysis .
+It is <unintelligible> across of all the ...
+all the, all the chaptures done .
+And clustering with missing (?? slash) is ...
+OK OK .
+Add the other methods to unsupervised methods .
+People in the machine learning community started to be interested in interpretability only, only recently recently .
+People in NLP community are not people doing NLP.
+They have nothing in common with NLP, what to common in linguistics .
+There´s no general consensus on what interpretation means in this chapture .
+This is not discussed in, in the NLP community but in the machine learning community .
+I don´t know whether we should have the two sections on the book so maybe we can - maybe we should - perhaps - change the name of the book .
+The first section should be named background .
+The second part shouldn´t be named stories and why is there this third part? The title of the book is nice, but the title isn´t so I should <unintelligible> the title .
+The first chapture, um, the first real chaptures can be hidden in the embeddings, the embedding of the embedments .
+The book has not have a summary, but it has a glossary and a geographic glossary .
+It doesn´t have summary index index index .
+The ideal comments for me would be what to remove .
+I added some comments in this, in this chapture and, and rewritten some sentences that seemed .
+seemed to be too Czech to me .
+I start within the first parts, added some of the, some, actual these are <unintelligible> for, from paper .
+The project6 meeting will take place on July 21th .
+The report was written in the book .
+The next meeting - the 21th of July would be at 11, right? At least that´s what the calenar says .
+We can't write it home because we have to sit at home and - I have to .
+comment it and, and <unintelligible>.
+Comment it and the next week you are not here this week .
+The book will be finished already, but I would like to have it finished .
+We can move it after lunch if you want .
+We have to, yeah, find the reviewers.
+I don´t know if anyone else has - do you know about anyone who could review it? The email was like come and have a drink in the middle of the work day .
+The email said: 'We should have a short break from working and let´s have wine' The group discussed a possible review of a new book on NLP .
+The group of people who could review the book were invited to meet .
+They asked if they could find someone who could help them .
+The reviewers who tell us that is <unintelligible> writing .
+The reviewer would like to see many, many comments there so that we know, that we - 'YeahYeahYeah, yeah, yeah .
+Read, read the book and write a book .

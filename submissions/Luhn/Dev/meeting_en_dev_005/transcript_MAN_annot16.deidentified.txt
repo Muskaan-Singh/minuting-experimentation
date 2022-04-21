@@ -1,0 +1,50 @@
+(PERSON7) No it it doesn't work for me so I tried to create some fake time stamps and try to emit this like kind of instruction message so my it didn't work for me.
+I would create the file with time stamps and use [PERSON2]'s replay scripts to to to feed it to AB client and to the presentation workers.
+So what I'm afraid this time the first so so like we have much depl- language tabs like we have English, we have Czech-
+So today at the same time we are also having the [ORGANIZATION6] promoting so what do you want to do with that?
+The idea is you usually bypass the Mtray- M3U8 URL putting the frame in the [ORGANIZATION5] server which expose also the SSL certificate.
+Prepare the FFM peg command which streams the video file and both provides the inputs to an AB client client on the server.
+Actually I haven't yet finished to prepare this kind of pipe but I'm already able to swim an MP4 video file.
+[PERSON6] But at this point we can let the video be playable both from a common web browser, VLC, because also VLC take input network streams.
+We could even as a fallback solution if if like if we are not able to create the public frontend URL.
+[PERSON6] Anyone with the access to the [ORGANIZATION5] exposed server could run this pipe because you just need the FFM peg installed, video file if you would like-
+But I think the most critical part is to identify the video file and to start performing test of-
+(PERSON12) I tested I tested a couple of ones but the one, specifically the link but I link one specifically was I think possible to follow.
+So the plan B, that I have with [PERSON7] is that we will use this standard Youtube included Youtube iFrame within the presentation platform.
+The instructions would be like look at the subtitles now, we will do a countdown for you and on the click when you see the word click you need to click the play button on the video.
+And that way we can start the show at the same time on our side where it the recognition will start.
+So that people would select all the languages and then they will see the subtitles telling them scroll back to the starting point, if the if the video has already started yet.
+And we could simply say that this is due to the fact that we want to show real Youtube videos and we would have to clear copy rights to to re-broadcast them.
+And immediately the full pipeline will start and this has to be tested so that the delay is like known how long it takes.
+And if there could be client it's working, I'm now putting it together with the other piece of the pipeline.
+(PERSON10) Essentially but I am I am still waiting on my my personal Youtube account it's not able for streaming yet.
+And there is no way to do it when we want to replay some videos which were already previously uploaded to to Youtube.
+So what we will do is we will we should demo the system transcribing and translating our speech as the meeting goes.
+But others, if we do this if we do the meeting in German, sorry the meeting in English.
+This is just this is just the that [PERSON7] needs to start the machine to follow the sound output whatever is being played.
+I think that probably the project officer also knows that both we online text flow and the presentation platform are developed for face to face conferences.
+(PERSON9) Yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting.
+(PERSON12) Well if I have video that I think would be good but I can test it on our set up.
+In the set ups directory are stored all the [ORGANIZATION5]'s scripts used in the various testing we did during the project years.
+(PERSON7) But I I think that a French one might not work because it uses some worker which do not exist more.
+Then I'm going to search for something for you [PERSON7] in order to pipe text to the presentation platform.
+Then run FFM peg in order to create the M3U8 playlist which is a standard to for for web streaming videos.
+We will be able to both stream the video on a public URL and provide input to AB client.
+But in order to practice we should be able to write the video playlist file which is the M3U8 directly in the public directory.
+It is not strictly required that the machine is the same if somehow the the discs are available on the network on the inside.
+It's just sharing this window so that if I show this part do you see my windows explorer or still the shell?
+These takes an input the file Boris zero one zero one MP4 which is the video file I would like to stream.
+This is, since I'm running apache on my laptop, i'm able to reach the expose directory through the web browser.
+But [ORGANIZATION5] and having the self signed certificates requires that each one who would like to access to the to the signed content needs to accept this certificate.
+So and now like our task is to if we go for plan C our task will be to anyhow transmit this video to to guest, right?
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation-
+For example we can organize still in the share screen put also a VLC for example which plays audio video.
+You will have the problem that you are on the conference call, streaming the audio, streaming the video.
+[PERSON6] I think the the demo running actually remotely will will let us at least let the demo run.
+[PERSON6] Because he <unintelligible> not a plan plan C in any case we need to be able to access to the published to the public server.
+(PERSON7) So I I have sent an e-mail to [PERSON5] if he responds then we can add him for few minutes in this meeting.
+(PERSON7) So I I'm saying that I just shot an e-mail to [PERSON5] and if he can join us for the meeting then we will be able to fix audax quickly.
+(PERSON12) Ehm I think as long as you have a set up that i can use to test the videos and ok, I'm actually-
+[PERSON6] So that at least I should be able to prepare the the call link for the call for for all the participants so that at least we spend this kind of task.
+(PERSON7) And you will for plan B it is so so you will show me how to insert test text into the [ORGANIZATION2] presenter [ORGANIZATION2] presentering.
+i just sent the e-mail and I keep testing my idea and when the idea is more than idea and actually it works, I with you this command.

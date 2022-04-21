@@ -1,0 +1,72 @@
+ (PERSON9) Hello, can you hear me, is it doing anything? (Person4) Yes, we can see you, so here's [PERSON2], [Person11] and me .
+The call is between PERSON1 and PERSON12 .
+German ASR processing is done two times now, and it will be done three times with the German one .
+We have only one English segmenter, and we don't have [PERSON2] to add more .
+The workshop is short of German interpreters .
+The President of the Czech Republic testifies in a computer that translated English into German empty .
+He says he wants to test the translation service for English .
+He then tries translating English to German .
+There is a lot of repetitions and- with- with presentation right now, we are solving another issue .
+We also noticed that I don't know how to share it, and we noticed that .
+I 'm sharing my whole screen but the full motion icon has has hidden away has hidden .
+away from the screen .
+In Pexip screensharing, you see an update only every two seconds .
+The HD button is the thing that will let you see it in live like faster, without this delay .
+It's like continuously updating the the the translations into both German and Czech .
+The first issue that we spotted was that we need life monitoring of everything .
+The idea is that right now on the cable, a connection [PERSON1]'s notebook is sending three English, three audios? The June meeting will be held at the end of June to discuss the problem .
+The ASR worker double checks it's output and never sends the same string ehm- if it is not different from the previous update .
+The empty worker should not have been called and should not be trying to be clever .
+The German segmenter is not working .
+The German ASR was working while ago, and [PERSON1] has one of the workers for himself .
+The Pexip failed to record anything yet .
+The screen is a prototype we are working on functionality- and not the looking field .
+We have English, French, Italian and German .
+We should be able to ship the the screen .
+The video client is a simple client and it it only display what it recieves .
+There is no business logic inside it.
+The source code of the web page is not available .
+The idea is that to simply send to start the client so that the target well signature is this eh, an EU pub, right? The worker is completely transparent, the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the <unintelligible> page .
+The screen sharing tool is being used on a Linux laptop and a Windows laptop .
+Users can see what they say in on [PERSON1]'s lock, but I don't see it in the presentation platform .
+The worker is correctly engaged and he says that it's publishing at Winx but I'm not seeing anything in Winx .
+The code is working on the complete pipe from yesterday .
+It is now working on audio and <unintelligible' segmentation, translation and publication .
+The code will be tested next week .
+Pexip will relieve the workers from the [ORGANIZATION2] load .
+The ASR should run all the machine translation systems with machine translation into all the target languages .
+The presenter asks if he can tell us how to use the streaming from VLC that work for you .
+The presenter says he will have to live with the current segmentation quality for the workshop .
+The M3U8 format is ehm format it's it's ehm list all the currently available chunks and the browser goes, again and again, fetching the .
+browser .
+It sees which part of the time is currently available and downloads those chunks and plays them .
+The application it's dummy, it's simply displays what he recieves .
+The administration interface does not exist, so the slash admin does not exists .
+We have not yet tested the multiple output .
+The default available languages will be Czech, Polish, Hungarian, Hungarian and Czech .
+The default language will be displayed in the front page .
+We need the map because it's different institutions who are starting the different workers and if they misregistered the worker if they use like mismatching fingerprint there is no way to make use of that worker .
+The map is needed for the overall connection, what is connected to what .
+With the with the map, does Google, let's let's actually try with the drawing .
+I'm now putting link to this map to the Google doc .
+German is different, so the English is, English has EUN  it's not like GB, so that's-.
+And we need the the full list of languages that we need to cover.
+We need to add just a minus pub to language-.
+But the German is .
+different, and Italian is different .
+The presentation worker will be run by [ORGANIZATION4].
+The presentation is the work of a mediator that emits the Spanish Spain pub fingerprint that I'll put this fingerprint in our worker configuration .
+Participants will sit in front of a notebook, each one of them and they will see the subtitles and the slides .
+The slides are reduced way too much so the full screen is not sufficiantly .
+The full screen mode of the web browser is what you're seeing in the webcam from my Pexip, right? And that's the view of what the participants at the workshop would see .
+We would like to make use of the space of the screen .
+It seems it works for the cellphone very well that it adapts to the size of the screen, I wonder why does the same code cannot be used on the desktop .
+The problem is to let still the subtitle to be displayed .
+A transparent transparent transparent ehm terminal on green screen would be showing text in terminal window .
+The only thing it will be doing would be .
+be showing the text in .
+terminal window.
+ But I can prepare some kind of snippet and I can share them for sure.
+ I'm asking for this is the clie- the console client presentation platform .
+The goal for Friday was the full audio inputs and all target languages in the presentation platform, right? We also need a break before the main, but actually <unintelligible> let's say everything we have to check on Friday .
+The call will be closed and we start packing things here, we'll talk to you on Monday .

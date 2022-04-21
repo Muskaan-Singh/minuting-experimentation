@@ -1,0 +1,79 @@
+ The left speaker is to the right, the speakers are to the left speaker .
+The sound will go in the other direction .
+Iím not sure it can be fixed maybe - maybe - but it will be strange .
+The book is ready for [PERSON9] so that he can start searching for reviewers or reviewers .
+Heís not yet here, right? The principal investigator of that grant is not yet .
+Hm.
+The book should have a table of contents .
+I would like to at least send him this, this version of the book, maybe only the table of contents or do -.
+Maybe only, maybe in, in chapter 6 we should, we should change some of the sections -.
+The book is really not finished yet.
+I think it should be clear from the, from the sections what, what is there in the, in the book .
+Thereís a (callish) calling deadline which is, which is on July the first .
+We donít have a Google calendar for [PROJECT12], right? We should have it on the, on the Wiki .
+Second week is, uh huh - wait.
+Sixth to twelfth., or thirteenth to nineteenth? I meant, I meant thir13 to nineteenth .
+I donít have any plans yet.
+I plan to be here at least till the fifteenth for sure .
+The first week of July there is no meeting or there will be regular meetings on Tuesdays .
+The next two Tuesdays will be meetings.
+The first, the first week, the second - the first - the second .
+The meeting will take place in June .
+We will have meetings twenty-twenty-three and thirty -.
+And then thirty, and then thirteenth, yeah .
+If it is a three, there is a meeting, there will be meetings .
+We need to finish the writing and the end of June .
+The official deadline for, for the book was the end of June but I think now that itís ñ  we will not make it so, um.
+The first deadline would be stopping adding any contents, new contents .
+The final report can be postponed from December to January .
+The book could definitely say that we were not able to attend conferences because they were cancelled .
+But I donít know whether we can say we cannot, we couldnít write the book.
+But I will ask when it's really critical.
+The next meeting will take place on July thirteenth .
+The book is finished and the deadline is June 30 .
+The paper was trained on the same, same data set as you used .
+It was English to German translation what you work with .
+The first part of, um, of, chapter five must be reviewed, and I still have not finished it .
+I think colors really negative <unintelligible> sometimes sometimes .
+I used like blue on white, u-, u-, you like bright like bright - on black then I see those on black .
+This is [PERSON6]ís [PROJECT5] and [PRO Project5] This is copied in the [Person6] in the <unIntelligible>.
+The book now is one hundred and thirty pages long and I think for my chapter itís now twenty pages long .
+I would like to add, um, add the figures and some conclusions and some tables on different attentions .
+I think I would concentrate on visualisations of embeddings in language models because all the papers thereís always this interesting visualisation but then not, no other paper does the same thing .
+I donít think I will be writing very much about the generative, the new generative language models as they are based on sub-words .
+I think it will be easier to write them on Slack and we will discuss it there because I have to run anyway .
+I think Iíll just mention them and, and wonít really go into it, and I won't really go to it .
+I will look into that and possibly delete some of mine .
+Iím planning to go through at least the first two, um, articles mentioned in the three, zero, one and two and then rewrite it to, yeah, to make sense .
+Aha.
+I have to change the whole thing basically because itís just some left over stuff from the previous introduction which rely it on some stuff that we moved to other chapters, so it doesnít make much sense now, so I plan to change it but generally the introduction should say that, yeah .
+The main thing is the section six point two .
+The plan is that it should contain, um, it should be partitioned to, to several subsections mostly the ones that are there already .
+The title should be rewrittened .
+Iím not really sure about the division here so I have a section which is now called "Semantics", um, and I’m really not absolutely sure which things belong into semantics .
+Itís possible some papers which also look at some semantic stuff .
+Noun gender is probably lexical semantics .
+Iím just saying syntax but there is constituents in syntax, the, the labels, the structure and the structure of the structure .
+So I could split it into multiple smaller sections so I could .
+split it up into multiple small sections .
+Syntax, morphology and semantics are different parts of speech .
+The last thing I really have is the effect of pre-training task .
+I think this should be like maybe two pages, now itís one paragraph .
+We want to put the multilinguality paper that we submitted to - we only know this from [PERSON3] That we want to report on it somewhere .
+The paper is about the hidden states of multilingual [PROJECT2].
+The first chapter is taken from my, from my dissertation .
+I think we just remove the sentence level representations we decide nobody wants it .
+So, please, first organize the, the, sections so that I can, send it to [PERSON9].
+I would like to send it maybe on Thursday, so I should have it ready next week .
+Researchers used language models and machine translation to predict part of speech .
+They compared 4 sets of approaches to that, 4 pairs of settings of settings .
+Language model is better than machine translation, but I, I couldnít like really say it from - the language model had more data for pretraining .
+Machine translation vs.
+(out) encoders and here were machine translation definitely better .
+I also plan now to do some visualisation about transformers .
+Iím not very good at visualisations .
+There are not as many visualisations as there are in the deep learning toolset .
+I would suggest generating them as in, in, as PGF so itís basically in Tix and PFG .
+Psychiatrist: "We should discuss everything like, um, actually, in like during the, during the .
+week so that we update it.
+I will update my scripts into my script"

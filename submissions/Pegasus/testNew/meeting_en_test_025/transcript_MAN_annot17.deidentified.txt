@@ -1,0 +1,26 @@
+(PERSON1) Hi, hello.
+Can you hear me? (PERSON2) Yes.<n> (PERSON1) I don't hear anyone.
+I have to reconnect again.
+Or maybe can someone else, give it a try as well.<n> (PERSON4) Okay, so you want to hear, what did I do? (PERSON1) Yeah, yeah, yeah.
+So the transcripts for check are al- almost done.<n>And uh one uh one transcriber of Germany is working.
+(PERSON1) Mhm.
+(PERSON4) And she wants to do it alone until December the tenth.(PERSON1) Okay.
+(PERSON4) So we can uh get her feedback.
+And and continue with that.<n> (PERSON5) So so uh I have just added the transcripts for the first 30 parts.
+And for the next ten parts, it's still running.<n> (PERSON5) Mhm.
+(PERSON1) Uh so if you uh [PERSON5] had the time uh obviously, there is no way we could do it for the next week.
+But we should really have these systems ready for the upcoming sessions- (PERSON5) Mhm.In this video, we show how to use speech recognition techniques to shorten words .<n>The video was filmed in Edinburgh, Scotland .<n>In the video, we show how to use the speech recognition techniques to shorten words .[PERSON6] should uh just like, click, uhm other_yawn> click on to s- s- s- some buttons .<n>Get the uh uh get the uh, uh vocabulary.
+And get the uh uh get the uh, uh vocabulary.In the afternoon, for example, in the Czech afternoon, you are able to do something .<n>The more tests we do, the better .<n>Without domain adaptation, it would be useful test .Two presentations will be set up at the same time for two concurrent sessions .<n>One will follow the other's video .<n>The pipeline will be probably the very same .Use uh uh two separate uh pipelines.
+Uh but each running actually the same thing.<n>Each of the pipelines uh on Monday for the two different domain adaptations.This video explains the problems of converting file formats .<n>Use the video to help students with reading comprehension and vocabulary .<n>Today's video is part of a series on reading comprehension and vocabulary .We must not rely on [PERSON11] because he is organizing some event tomorrow and over the weekend .<n>As soon as you have any numbers, please send them to me .<n>Just regardless how low or high the numbers are, this just receiving the numbers will be a big relief for me .[PERSON6], are you taking uh a part in that call, uh, with [PERSON11] as well?<n>(PERSON1) Because you should also evaluate.<n>(PERSON1) So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.<n>(PERSON6) And so the performance of dix- (description) was exactly the same with the without adding these pronunciations in their dictionaries.unintelligible> is assumed that unintelligible> should contain our (words)<n>unintelligible> can be used by developing for some model .<n>Take only the words that were observed five times .You need to figure out what words are in the uh in the language model .<n>And the words which are in the language model should be simply copied .<n>And there will be multiple lines with different phoneme variations .<n>And there will be, again, the same grapheme form .Is it possible to enrich the language modal by texts?<n>Is it possible to enrich the language modal by texts?[PERSON7], how much time do you have in the coming days?<n> [PERSON1], how much time do you have in the coming days?<n> [PERSON7], how much time do you have in the coming days?(PERSON7) Well, [PERSON7] I'll send you uh a text on Slack later.
+(PERSON3) Well, [PERSON7] I'll send you uh a text on Slack later.<n> (PERSON4) Why do w- What do you want to compare?<n> (PERSON3) Uh uh actually mostly about uh the error rates uh in machine translation.
+And the (ASR)<n> (PERSON4) Yes.
+I think we have only one option for ASR, don't we? Only one ASR worker, or there are two?Mohammed compared the scores between, I think, uh it was (rainbow) and there (summer) set of workers.
+(And set up a rainbow workers about better.)<n>Basically how what [PERSON1] mentioned on the call that there was two unintelligible> individual translation workers, you can see if they are performing better.If you want to inspect it, then l- listen to the source audio .<n>The annotator will ca- ca- can filter them out .How many worker- workers can I run in parallel on (cpu)?<n>How much time do you have to work on the German ASR?(PERSON2) Well uhm.
+And one more thing.<n>My (ASR) is uh uh lower case.
+Is it okay for you?<n> (PERSON2) Okay.
+And without punctuation also.This is the unintelligible> dictionary.
+And it is is actually in our public format .<n>There is a package of our language which automatically converts the (IP) to unintelligible> the other way .There is some uhm nice chart y- in Wikipedia that um shows you the nearest phonemes.
+It would be the one.<n>There are s- (PERSON6) Are you are you typing (in this chat)?<n>Because I'm still seeing your uh common line.(PERSON6) unintelligible> I don't know the uh a pronunciation of any of these vowels.<n>There should be some examples.
+For example, uhm.
+For the uh open (meat) the first uh first IPA phoneme.
+If if you click on it, then, for example, it's in uh (bat)(PERSON6) I'm as sure I am unintelligible> the main adaptation models.<n> (PERSON6) I'm saying that if you could just change these (IPAs) to the alphabet phonemes.<n> (PERSON6) Okay, so, so.m (PERSON6) Thank you so much.

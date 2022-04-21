@@ -1,0 +1,13 @@
+if you could quickly explain what is your current status of the speaker adaptation data collection interface that you are working on, add in one or two points that mention your name .
+i would like in the coming weeks that you two are in close touch .
+whenever you [PERSON11] have some data in the system then you know where to- like how to share them with [person3] .if you give it the same directory once and then for the second time it will emit the exact same result .
+we expect these directories to grow in time so we just dump them to the- Yes,yes .
+the most expensive part is the four- file convert- conversion .some of the files they will have will be public files which should- maybe they have- there are unintelligible> so it's downloadable from somewhere .
+but there will also be another set of files which are strictly confidential for like the project .
+this is one more feature request on that user interface to separate like layers or gags of permissions for files .i'm trying to make the webster kit connection working .
+i could make it as a live test of .
+twenty five machines watching the sub- the subtitles of what we are .
+saying .i'm working on unintelligible> speech consilation and I now I'm going to train we fix the empty moduls to work on prefixes .
+i think we should finalize this test now is to prepare data for ISWSLT .i'm very much afraid of running the docker on some virtual machine .
+we can't turn too many segmentors from the laptop .
+so we could make it on a Wednesday and we definitely need it for next Monday .if you haven't filled the doodle unintelligible> for regular meetings, please do so .Thank you, bye bye

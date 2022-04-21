@@ -1,0 +1,50 @@
+(PERSON4) Yeah, so [PERSON8] has sent the Overleaf, well one Overleaf link, and also the link to the GitHub prepositary where we have the template is normal directory.
+But the question is whether you can also, whether you are happy to work like without the Overleaf interface with this, i guess it is it should be not a big problem for you.
+(PERSON7) No it's not, ehm, for us the main scoop of this meeting, should be to define a kind of structure of the deliverable documents
+We have to put them also the [ORGANIZATION3] presentation platform, and the [ORGANIZATION1] presentation platform, in the documents.
+I'm trying now to fix the, so that we can directly use the Overleaf, ehm.
+(PERSON4) That would be good if it if it actually worked, uh, so the the reload.
+The only thing that I can do is, and it's the it's, the Overleaf is somehow strange.
+(PERSON4) Yes, so this is this is a sharespace, this is the sharespace that we can use to uh, to discuss the structure.
+(PERSON6) Connect from the laptop, but I already was in this you know application, so I wonder what the problem is, sorry for that.
+Let's simply use it as, like, use it as our deliverable, and then we will, once we get it compiling we will make it again the template.
+You will also get your cursor next to the us, it's on the top AB review, and next to that there is, there is.
+So we can discuss the structure of this deliverable, and you already know the ACL demo paper, so definitely please read that, and I think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+(PERSON7) Well, I just asked the about the possibility to share internals, and it shouldn't be a problem we should.
+But of course, in the scope of the project and descended it's important to explain why why it works.
+(PERSON4) Yeah, so, so that's an important thing, this deliverable is going to be I'm scrolling, well it doesn't say so, but we need to follow, the requirements in the description of work and the D platform updates, the six, is it publishing platform it's called demonstrator.
+So please talk to, it should not be too difficult for [ORGANIZATION1] either, because they need one screenshot, which was already available in some preliminary version for the review, review meeting, if you remember, if you still have the slides.
+So I always email I think [PERSON11] is, [PERSON11] and [PERSON5], that always need too long time to contact the the people who actually know.
+Yeah, we don't have anyone to revi-, yeah, so I'll push you [PERSON7], I'm now looking at the [ORGANIZATION6] sheet, I'll again paste the link so that you can easily get it to the chat window.
+And, in the [ORGANIZATION6] sheet I'll put, the link to the source which is here.
+And I'll tell them, so the, when could you two have it, because you two are, you two are providing most of the content, and the more important content, the [ORGANIZATION1] won't tell any any details anyway.
+(PERSON7) Well, I have a <unintelligible> of course i have several internal documents describing, for example, the architecture, the function analyses.
+And, but I will spend the afternoon putting the info inside, and also on Monday, well actually we are really <unintelligible> to them, deliverables, so don't worry.
+(PERSON4) So that would get us like two days to, so we could reuse that for the for the paper for ELG and [PERSON6] you were not on the not on the call.
+(PERSON4) On that was discussed on the [PROJECT1] call, so I'm and remote call the standard consortium wide thing.
+So [PERSON6] here are the deadlines for the two well user style work shops where we want to reuse reuse the content of the six one.
+So I've just emailed you, I've assigned it to you its its a [ORGANIZATION6] assigment in a [ORGANIZATION6] doc
+Ok, so we should ask [PERSON1] and [PERSON2], and, yeah, I'm emailing colleagues in [ORGANIZATION2], and [ORGANIZATION4] who of them could review the the deliverable.
+So I'm writing the requests for yours, and the is six one.
+I don't think that there is anything that we need to discuss at the moment, because we have the document.
+I should work on that to fix that compilation, but you can work on the plain text content already, and it compiles outside of Overleaf.
+(PERSON4) Yeah, so, but you are looking at the link, so you can click the Menu button which is on the left, at the top left corner.
+You will use your normal Overleaf credentials, so please click it and double check that you can clone it.
+So there it's, there is the menu, there is the menu, top left corner while you are in Overleaf.
+(PERSON7) Well, proceed just important to have em for for each part the same structure at least so that, the functional main functionals <unintelligible>.
+And most importantly, send an email to [ORGANIZATION1] already today, asking them to ideally have it there by Wednesday and if they totally like refuse or whatever if they say "Well, we can do it in two months from now" then please look up your slides from the review, and like briefly sketch a paragraph for them.
+So just use the screenshot, which is in the review slides and a paragraph where you describe, what do you know how it behaves.
+Where I, there is probably a link in the email for for the original of the ACL paper, right?
+And if you want to commit, which is important and to to do properly, and then type of make space CI and have a look at the goal in in the make file, because the commit actually
+(PERSON4) Ok so [PERSON7], if that's all, let's, I'll disconnect, maybe you want to discuss something more with [PERSON6] or not, but I'll disconnect and I'll try quickly debugging that's editing.
+(PERSON7) Yep, I I cloned the Git repo, I've just pulled all the last modifications.
+In order to, I missed the part regarding the, how to commit, how to compile it.
+(PERSON6) I'm just sending in the conference chat, I'm just sending the, the link to the Wikibooks what I've just saw.
+(PERSON6) Because, you know, it's kinda tells you, if you if you have a different package to load instead of it.
+I think the problem we are going to be kick of the from the, the room, because usually, it lasts just one hour.
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.
+I will check the make file for the, the target names.
+(PERSON6) It maybe even, it's actually it's it's working so maybe easier to working online, so maybe it's easier to without, without that.
+So you see those version and the screenshots in a while, I'll just finish it and then I probably work on it like over night or something, but I guess.
+<unintelligible> a note if you think I should modify something, I actually don't feel like I should be the final one to dictate what's in there.
+(PERSON7) I think that, that probably you will write something much better that what I can able to provide to this document, so don't worry.

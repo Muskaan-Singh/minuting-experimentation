@@ -1,0 +1,31 @@
+i see the presentation platform slowly taking its form .
+i hope briefly we can have ehm raw example of its structure and working .
+there is a chance of having the real video mixers .having a text client would be useful also for debugging .
+if anything comes out that is also as a side effect that's also text client, it would be very useful .
+"i haven't tested it yet.
+Probably doesn't work"this week we work together to find better workarounds .
+we also fix something in the mediator in order to better manage second messages .
+don't see any big benefit from fixing the batch processing mode .i think that the segmentation is all prepared for offline ASR is reasonably close to what online ASR produces .
+i would think that [PERSON1] would be constantly running ASR worker .
+for the offline aSR we we won't have a worker.
+it will just be our ASR.we have offline ASR systems that are unintelligible> and what's running in the mediator .
+but we also have very similar offline systems .
+there is a big risk that if we train on the segments from the ASR will get something very different from the on, from in the offline mode .i think our main concern is not the quality of the translation, but the mismatch of the segmentations .
+updating and redoing the segmentation is probably the next thing on our list of priorities .
+the chat is filling up with messages but no ASR worker being available .at some point, they will both be redone, but I can't promise that will be next week .
+the segmentation worker shares a lot of the code with MT worker and therefore will probably have the same problem as the text client for the txt worker .the problem seems to be that after session is completed the client has sent all of it stuff .
+but the worker still believes it's part of a session .
+if you're struggling with testing on by, let us know earlier than next Friday .'it would be nice to have this directly translated at this level of individual worse, almost.
+the delay,' he says .
+'the segmentation worker' is the sort of everything except the actual neural networks part that is doing the work .a lot of workers already has this logic, but it take some time .
+when mediator dies, their worker should survive and reconnect again .
+if there are other things, than the batch unintelligible> sentence, this is irrelevant .the solution is to have a kind of combinatory explosion of all the possible match matching paths .
+the presentation platform would stay would stay alway on .
+but it would pick up the highest ranking one that is available .if the output from one of the re-speaking cabins or the floor is bad, the machine translation will not be connected to that .
+killing the client is useful only to ehm in computational power on servers .
+if there is speaker two again, becomes a good source .the preview of the subtitle will not be available for June .
+but the selection of the stream should be available .
+the final user will be the client of the cl- the subtitle solution .current user are expected to be at June .
+we don't believe 400 can receive the signal our WiFi reasonably well .a company develops its own keyboard for fast transcription .
+a more expert technician will come up with a brilliant solution .
+we should ship our [PROJECT2] models to [PERSON1] and then test the workers .

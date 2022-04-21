@@ -1,0 +1,22 @@
+one of the early sessions is actually being, or it could be transcribed by an annotator .
+if anybody does not speak [OTHER2], we will try to rely on the live generated translations .
+the critical required the video and subtitles or the slides to be on the same screen.PERSON1 is a visiting master student at [ORGANIZATION3] .
+he'll be giving a talk on the Monday seminar on domain adaptation .
+"what you have done?" he asks .other_noise> I've sent an email to the unintelligible>, about what I found .
+if anyone could look into it, and say something, it would be great .
+for simplicity assign all the words all these forms of the same word .unintelligible> is mostly the work, but too difficult to modify for [OTHER4] .
+it will be very good if you synchronize with [PERSON6] other_noise> .
+laugh> If you are searching for the domain, the chances are zero .PERSON4's unintelligible> presentation platform has a back end and front end .
+the back end is a server in C++ that reads the microphone signal .
+it sends it over web socket to the client, which is just a Java script .i'm going to deploy this trained model model today hopefully .
+it looks like the paraphrases are much better than the previous model .
+the problem is that it wasn't trained on [PROJECT1] .the [OTHER4] [LOCATION2] model is on [OTHER3]serving behind the scenes .
+we are running [PROJECT1] models, which are trained in a similar way .
+but we don't have a connection to the integration of [other3] models .
+the best corpus is actually the best file in the unintelligible> file .this week i worked on data collection is basically four five languages .
+almost all the languages have finished, but some unintelligible> remaining .
+we've agreed that the parallel data extraction will be done by [ORGANIZATION2] .PERSON10 helped me integrating buffer in the [LOCATION2] segmenter .
+when it isn't ASR unintelligible> text keeps on coming, the segments are less .
+if you are training on correct text, then there is like a domain mismatch ."doodle unintelligible>" is a wiki page with all the data that we are using or plan to use .
+PERSON11 is on vacation this week, so he'll be the person to organize this .
+(PERSON9) You wouldn't believe how much work it is to convert it to a "terrible" record .

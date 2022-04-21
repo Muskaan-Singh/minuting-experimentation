@@ -1,0 +1,28 @@
+the goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, uh, so that it is fits to most of us .
+if randomly you can not attend a particular week, that's not a problem at all .this Metaforum conference will serve as a test eh, event for us .
+we have asked Metaforum to only allow us to connect to their unintelligible> Zoom .
+if the EUROSAI Congress is not happening, then we will use the next year's Metaforum as our main demo event for for the ELITR project .if you have any other ideas, please send them to eda subert@gmail.com .
+eh is an algorithm for mining parallel data in one hundred l- languages .
+but only one third of it is English-centric .some of our testing data sets from IWSLT are not much better than the best Edinburgh model .
+they are very tricky to run because you need like for GPUs with sixteen gigabytes of RAM at least .
+so what would pro- probably be the most useful is actually the data .the ELITR test set contains the input texts and references and also input sounds and reference transcripts .
+eh, ebrahim, will rejoin us only from December.
+because he is busy with other things .ebrahim and his team are evaluating a broader range of domains than what the S-, eh what the Sacre Bleu has .
+they want to make sure to evaluate them using SLTEV on ELITR test set .
+there will be bugs, and we want to get numbers and repeated measurements so that the number stabilizes .the most urgent thing to do is getting the evaluation of all the systems running through ELITR test set .
+this is what Rishu is now also working on .
+so please talk directly to Rishu and help him with all what he is lost in .the goal of this censorship tool is to allow to immediately hide the outputs and then show them again .
+from the management point of view, Sangeet and Rishu should be the two kind of replaceable persons .
+if it is possible please contact Mohamad and ask him for this call .bohdan has worked on multi-target machine translation for his master thesis .
+he is also partly part-time employed on ELITR to develop multi source eh, models .if your model eh, evaluates well, then we want to have that integrated .
+if we have anyone with the capacity and the best person will be probably Rishu .
+the evaluation of the offline runs is the deciding thing .
+and if you have the data ready, please get in touch with us .the purpose of this call was eh, very greatly fulfilled .
+if you're interested, you can try some transfer learning on on of double encoder model .
+this is a general recommendation that holds for everybody trying to uh, put together new things .eh, we can leverage more non-native dat- native speakers .
+and also we can create wholly new sentences .
+'i'm trying to chop the utterences and recreate new sentences using using the words itself'one percent Irish, one percent Southern African and one percent New Zealand English .
+on the the data set also contains information about age and gender .
+v- ve- very probably there s even better data set that we can use .ehm, we need to check whether we can use the data from the interspeech challenge .
+the most papers that work with accented speech are working with the mozzilla common voice .
+if it's okay for you, I m not - I rather use mail .

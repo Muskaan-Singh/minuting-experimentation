@@ -1,0 +1,50 @@
+So, I'll leave it connected while I'll clean up here in the in the lecture room.
+(PERSON14) But for the audible cell ties submition we do want to run the (byplan) and for the locks for both, before the segmentor and after the segmenter.
+So it's a little small task and <unintelligible> them whether this short time so a we get over the <unintelligible>.
+The more the most important thing is the -
+Cause the 4 files we do not need any more, but the the the most important part are Antrecorp.
+And the longers chunks of supreme audit institutions, so the Austrian, Belgian and all these speeches.
+And, so, I'll just say and so long of chunks it's not important and so consecutive plus w w w what is that (BGP) test.
+You don't know the sources like, as as a participant in the audible SLT task, you know what the sound is, but you must not look a the true transcripts.
+They both know what the problems are and you were on the copy on the e-mails today.
+So that there is some inconsistency of names now, and they are is ([PERSON11], [PERSON8] and [PERSON13] and also [PERSON13], ??)
+And I had to replace them in the released files with the with just language or nation names.
+So the (maping) is on the on the previous slide, in the column C, on the previous sheet in column C it says that [PERSON13] is Belgian, and -
+And as the as the person who is doing the forced alignments who have this called [PERSON11].And actually the sound is now separate.
+But, It's important told to them that we most up to date OST versions are in the in some repositor, which you do not have acces to.
+And so I'll put the paths so clean the code, thats it.
+Yeah, So this is up to date, and then we have test set, and also consecutive.
+So This is the full files, and we have -
+So I'm here putting the path for the files that are in the most recent version and they are these are absolute path.
+And the it's probably I'll have to I think I'll have to do it myself so that is make sense to you.
+So that is for you.And this should be done by [PERSON10] and [PERSON1], but they are not doing that.And also they should list will be Antrecorp is -So, yeah, okay I'll simply -
+So please put the path of the files that you are processing here.
+So at the moment some of the files I would process transcripts and in my <unintelligible>.
+So do I need to create the support director in in a not <unintelligible> and we have about <unintelligible>.
+Only that after we are happy with the forced alignment, and after we have converted since to to the subtitles for the caraoke for preview and the OST format that SLTF evaluates, than we need to have it versioned.
+(PERSON5) I'm also aware of the <unintelligible> and the Antrecorp.
+So I'm copying now the Antrecorp with the texts, which is, which is okay.
+(PERSON5) If you are to change the line inside the cell you can use <unintelligible> enter.
+And then we will have one more one the right outputs output paths.So this is a I'll now orange the cells that you should try to populate.So this is the starting point for today.
+And and then laid I'll also prepared bars or I'll have finally [PERSON10] and [PERSON1] to the path for these files.
+(PERSON14) So I think that I would like to hear from [PERSON9] who is still on the call whether you have started pushing anything into the new repository for [PROJECT2] test set.
+So [PERSON1] please synchronize with [PERSON5] on the on the audible SLT test set and depth set forced alignment files.
+(PERSON14) Yes,so on the third sheet forced alignment inputs.I've just done a the yellow lines, which is a good input for [PERSON5].
+It's the it's the version the one, that's important.
+And he is already for the separation, and he should run the alignments, and produce OST files out of us to OSTP plus ASS files.
+So the OSTP files are what the SLTF should be.And the ASS files are the subtitles for preview.
+(PERSON14) And, I would like what I would like you to do [PERSON1] is to review the part that I have just highlighted.
+And so from B3 to D16, there we need to list the black<unintelligible> versions.So this one the C3 for example, this is already good.So I'll remind this with with green.And this one is unclear.
+(PERSON14) This is what I renamed.So and similar thing has needs to be done for this.And most importantly, the the splits, the splits will be necessary for for this to work.So [PERSON1] your priorities now are the SLT evaluation.
+This is the Portuguese is the perfect thing.This is the full path to the files.The only problem is that this red, I'll make it red now.The the chunked version that does not does has has an ugly name.The path is not the full path.And and there is a risk, which I have talked to talk about to [PERSON10], there is a risk that the all Portuguese OST the concatenative file does not exactly merge the split file, because there there were some small errors, I cut most of about this.So please like, like based on the line 3 prepare all the lines, all the English lines all until 16.
+(PERSON1) Okay, I will do everything because tomorrow I have a lot of times, and they can put for these.And so I'm writing, and everything is fine.
+And so you want to create a case similar to <unintelligible> academy test set we have now <unintelligible> and for here we should you mean   -
+(PERSON14) Okay, yeah, so, thanks, so, please all of you who are here go over the yours your comments and discuss anything.
+So please update your doodle poll and I figure out better time for myself because as I'm disorganised at this point now, because of the extra workload with the remote lecturing.
+We would has to be given it's all timestamps and didn't know what <unintelligible> that I give the one segment and I had -
+So if you see the video and if you have, okay, I think I did not <unintelligible>.
+(PERSON5) No, I I not think <unintelligible> today is the today I'm coming this <unintelligible>.
+And so it's seem that I don't have to do anything with audible SLT, do I?
+And I found I found that the one of the score <unintelligible> parted <unintelligible> was different than I thought so it's not important for for the others.
+(PERSON5) Yeah, so that's the, moment, so these I meant the subtitles for this <unintelligible> test, they are in VDD format or <unintelligible> do that.
+Tell me what exactly the files and what you need and maybe I can create this script for it.

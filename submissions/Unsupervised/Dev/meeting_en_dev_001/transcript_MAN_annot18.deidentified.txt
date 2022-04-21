@@ -1,0 +1,30 @@
+ [PERSON19] Yeah, some for semantics a group  semantic tagging and this kind of semantic (rolebiling) stuff I have noun gender at semantics.
+Um, word knowledge, yeah, I did that, context, I haven´t seen what I´ve written there so I don´t know if it´s ready.
+[PERSON2] Um, I skimmed trough the multilinguality section and I still have the question I, I had in slack.
+Because you said [PERSON13] and al say something, shouldn´t we rather say we, we say something? [PERSON19] Yeah, I think we agree that our work is doing the survey, I know, well, you know.
+[PERSON19] It´s not how the person the same authors as the authors of the book anyway so it is like on some  some  even .
+So imagine it´s like ([PERSON15] and [PERSON10]) and no idea like, OK, some random Chinese names and so - [PERSON19] We´ll probably taking the same position in other case in where, where we write in the book something or? [PERSON19] I can see actually this paper I´m citing it´s [PERSON13], [PERSON27], [PERSON16], so - [PERSON6] Well that if you consider the paper to be like mostly  I think (maybe).
+[PERSON6] Anywhere is a paper that we, you have just in, um, you´re like the - [PERSON6] I mean, I mean language model, neural language models started 15 years before [PROJECT2].
+[PERSON2] Well, I discussed how, um, how neural language model works in, in the previous chapter.
+[PERSON19] I´m refered to it, um, I don´t say much about it, so maybe find anything really special about GPT wri-, written.
+[PERSON6] Yeah, almost 3 hours.
+[PERSON2] You mean, you mean the Java script thing that he, that the guy was showing.
+[PERSON6] Hm, then they mentioned other methods and I don´t remember what other methods did they talk about.
+Let´s, um, ah, I can actually share the second screen and now I can move, well, I can move this, this thing here.
+[PERSON6] Well, so here is like basically say then they are too brought (approaches) structure of, structure of probing and (Chelling) says and  says are the, the behavioral thing.
+Yeah, then [PERSON12] and [PERSON14] mesure the probe complexity and probe quality and compare them.
+Hm, most of these, um, both of these papers are from 2020 and I haven´t read, read them yet.
+[PERSON2] Yeah, actually didn´t get the thing what, what the mutual information that [PERSON7] was talking about.
+Like for example in case of the biass detection you´re constructing a data set yourself and that´s the supervision, right.
+[PERSON6] Maybe we should follow [PERSON7] in, in classifying like the probing and our unsupervised methods as structure analysis.
+[PERSON19] Not, not in general but, but you´re using just kind of observing the behavioral on - Maybe I would let is as it is now and when, when we read it we can, we can comment and then, then we .
+[PERSON6] Yeah, I still don´t really know what you mean so you would have to write it yourself.
+[PERSON2] Well, I´m asking question who are the people and the answer is these are machine learning people.
+[PERSON6] There´s, um, I, at least I don´t know about any discussion that would, um, um, that would, um, approach this specifically from the NLP (ten points) so linguistic - [PERSON19] I agree that probably explicitly say that here we´re talking (most) interpretation of the  in general, not NLP.
+[PERSON19] Like I don´t know like for example the chapture that [PERSON9] has, so do you think into the attentions.
+[PERSON6] Yeah, the second part shouldn´t be named stories and why is there this third part? [PERSON19] When it´s just called summary, it´s not very clear like suddenly this is all  summary of the whole book cause it looks like another chapture in the second part or maybe the, the last chapture.
+[PERSON6] Although, it, it would also make sense to part a part after the second chapture, before the third.
+[PERSON9] Well, this is like the, um, the  for chaptures and these, these .
+[PERSON9] Yeah, but [PERSON19], [PERSON19] this is having all the Tuesdays.
+So, [PERSON19], you are not here this week and the next week you are here? [PERSON9] Yeah, I said that not, not to write to when everything is, everything is written.
+[PERSON2] At the 21th of July would be at 11, right? [PERSON2] Usually (true) professor mean neither the, neither associate professor now, assistant professor.

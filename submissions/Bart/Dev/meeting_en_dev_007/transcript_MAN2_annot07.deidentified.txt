@@ -1,0 +1,34 @@
+ The main scoop of this meeting, should be to define a kind of structure of the deliverable documents .
+The documents should be only on the presentation platform, because they are <unintelligible> publishing platform .
+But actually, I'm not sure about the [ORGANIZATION1] presentation platform .
+The chat window is now open in the chat window .
+The chat page doesn't even compile .
+The ACL demo paper was presented at the first meeting of the ACL group .
+The group discussed the structure of this deliverable .
+The code will be public on the project's website .
+We don't have anyone to revi-, so I'll push you [PERSON7], I'm now looking at the [ORGANIZATION6] sheet, I'll again paste the link so that you can easily get it to the chat window .
+I'll email all of them and say, and please tell them that we are quite late with the preparation .
+The ELG was the one suggested from [ORGANIZATION2].
+The deadline is February 21 .
+The full content should be ready by Wednesday .
+We need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works .
+The ELG paper from that is due next Friday, Feb 21 .
+There is the menu button in Overleaf and there is a sync with Dropbox, Git or whatever .
+You will need to create special password for Overleaf, but then it probably should work .
+An email message was sent to the editor of the ACL demo paper .
+The code was created but there were no references to the original document .
+The email was sent today .
+This is a chat chat with a colleague from a colleague's colleague .
+He was trying to compile a Git commit from Git stash, Git pull and commit .
+He said he missed the part regarding the, how to compile it .
+He then asked if he was in the local copy of the Git repo .
+The man asks if he can install a package manager on his computer .
+He says he doesn't know how to do it, but he's sending a link to the Wikibooks .
+The man says he can't remember which style file he missed .
+The man is trying to find a package to load instead of using the wrong package .
+He is installing the correct command .
+The man says he is working on a paper from the ACL paper .
+He says he will work on it over night or night .
+I think that, that probably you will write something much better that what I can .
+provide to this document, so don't worry.
+(PERSON7) Thank you so much for your work, thank you very much and hear from you later .

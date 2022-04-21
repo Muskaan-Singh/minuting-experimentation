@@ -1,0 +1,50 @@
+So for some reason I have always has to connect a few times uh until Zoom starts sending also the sound to me.
+(PERSON4) And and I asked [PERSON5] to do uh the transcripts of- by German ASR f- for the German transcriber.
+And that would be training uh of uh empty systems so that they do the shortening.
+(PERSON1) Uh so if you uh [PERSON5] had the time uh obviously, there is no way we could do it for the next week.
+All of our models uh basically work with s- with uh with, yeah, sequence to sequence.
+And then, when we have the final output f- from from from the entire input sentence we start generating.
+It could be quite easy to implement the shortening in this in this model as well.
+We would just train it s- so that it is stops- uh generating yeah- after some, some time.
+I would like to hear an update uh uh f- for the sessions uh for next week.
+But I think that [PERSON6] should uh just like, click, uhm <other_yawn> click on to s- s- s- some buttons.
+(PERSON6) And I I am trying to uh gather the data <unintelligible> from those (tasks) that are mentioned in the program.
+Okay, so in the afternoon, for example, in in the Czech afternoon, you are able to to uh to do something.
+And I guess it's not that uh uh you could have a z- Zoom call again uh with the videos uh.
+It is basically that some videos are not getting some audios or videos are not really connected properly into a 16 (cave) format.
+(PERSON3) But when you pass it to the (A S I) system, the sound system will not work on that.
+Because I need to figure out which one is the one which is not uh getting passes with ASR.
+So uh every time, there should be a fresh download of [PROJECT1] test set, a fresh conversion and fresh evaluation.
+Uh but still, if I am keeping track of the files, which uh needs to be manually converted so that I can write write a script.
+Yeah, so this is uh <laugh> an important thing that we should have s- uh uh like c- come across, some months ago.
+Remember, I it's it's it's since August that I've been telling that that we want to evaluate on [PROJECT1] test set.
+Uh so before you do, you cannot say whether it will work or or not.
+And here we are running on the uh in the problems of conversion of the of the file formats.
+So my only uh thinking is of [PERSON5] who was able to simply come by and help immediately.
+So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.
+(PERSON6) Uh I I received your email yesterday with uh the thing I was I mentioned in the <unintelligible> (ASL) system without using (pretest) (for pronunciations) was better than <unintelligible> (multiple pronunciations).
+(PERSON1) So you just convert the uh the uh international phonetic alphabet into the phonemes, uh, that uh uh that uh (cmu) knows.
+So the thing that I asked for is that you would have various versions of this dictionary by taking only the words that were observed five times.
+I have to uh uh  I will have to leave now, because I need to give the kids, the, the, the lunch and so on.
+And I think that this way uh the uh these uh systems should be able to to load it.
+And you will also possibly run into one more problem that it's not ready for two big custom dictionaries.
+I'm finishing training of uh German ASR that may be used for for uh for uh time stamping.
+Uh uh it uh they claimed it has uh more than 600 hours than a but uh uh the training set.
+(PERSON2) But uh if if you have uh transcript, and we want just to do uh just to do uh time stamping.
+I would like to stay uh [PERSON6] to stay on the call with [PERSON2], right, and discuss how to use the dictionary.
+(PERSON1) Because this is the this is the numbers that we want to obtain for the different models.
+Basically how what [PERSON1] mentioned on the call that there was two <unintelligible> individual translation workers, you can see if they are performing better.
+So uh so I, I now see that the the transcripts for for these files are don't have the right length.
+And I'm not sure how to uh how to convert them properly, because (F F M P G) just just returns the error for those files.
+(PERSON5) Because like now, I think for my maybe half of the files it would be, you know, like totally wrong.
+(PERSON5) So I figured out that actually in the fi- in some of the files there is, you don't just hear the interpreter.
+If it doesn't work, then I can apply some kind of filter to cut off the- this effort with with low volume.
+(PERSON4) And <laugh> if she says that not, even when the quality is good, then then we don't need to care much about the rest.
+But there are the curly brackets uh around the pronunciation and be (calibrated) around first and the last for me with (W B) in there.
+And even if uh if this is not there, I think it it's not a big issue for me to (append).
+And so there was there was very some phonemes that weren't (formatted) into the f- corresponding alphabet for names and uh.
+So I p- I am afraid that when I will be processing this list of graphemes to phonemes to graphemes so probably there will be some issues regarding the such phonemes.
+So if I I I can share the other f- package with you if if you are familiar with (arl) that is actually very easy to use.
+With this phoneme with two other words with both or or three other versions of that word with using these (three) phonemes.
+Then there is some uh or some mapping or or some map of uh um <other_yawn> of how which which phonemes are actually near, and which are more far apart.
+I will let you know an email or (flight), because tomorrow I I uh am usually off for Friday prayer on Friday for ten to twelve.

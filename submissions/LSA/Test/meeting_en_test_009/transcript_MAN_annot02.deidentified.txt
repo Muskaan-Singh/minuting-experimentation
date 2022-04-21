@@ -1,0 +1,50 @@
+So, I'll leave it connected while I'll clean up here in the in the lecture room.
+(PERSON5) So he basicly proposed that the ASR and the segmenter they should run separately.
+(PERSON5) So [PERSON15] proposed that he would test the ASR and the segmenter independently, separately.
+(PERSON14) But for the audible cell ties submition we do want to run the (byplan) and for the locks for both, before the segmentor and after the segmenter.
+(PERSON14) This this audible cell ties is preparation nothing that I send you an email yesterday morning I think.
+Yeah, I'm also planning to open lot directed today itself.
+I'm still Wonder Woman to do this calculation of for <unintelligible> Czech transcript.
+And the longers chunks of supreme audit institutions, so the Austrian, Belgian and all these speeches.
+And, so, I'll just say and so long of chunks it's not important and so consecutive plus w w w what is that (BGP) test.
+You don't know the sources like, as as a participant in the audible SLT task, you know what the sound is, but you must not look a the true transcripts.
+(PERSON14) Yeah, exactly, [PERSON5] needs to get all the input files for <unintelligible>, [PERSON10] has prepared those, splitting, so consecutive into smaller chunks and [PERSON1] knows where they are too.
+It's 20 minutes in the row and so consecutive is already broken in smaller chunks manually by [PERSON10].
+go to sheet number 3 forced alignment inputs and go to sell see 5.
+(PERSON14) Yeah, forced alignment inputs.
+(PERSON14)Yeah, so forced alignment inputs and go to see 5.
+And I had to replace them in the released files with the with just language or nation names.
+(PERSON14) Yeah, well well you need, you are sitting into chairs now, as a participant of audible SLT.
+And process the file switch are already called Belgian, Spanish or mainly Polish.
+And as the as the person who is doing the forced alignments who have this called [PERSON11].And actually the sound is now separate.
+But, It's important told to them that we most up to date OST versions are in the in some repositor, which you do not have acces to.
+Yeah, So this is up to date, and then we have test set, and also consecutive.
+(PERSON5) I hope you not to speaking can you please mute your microphone?
+So that is for you.And this should be done by [PERSON10] and [PERSON1], but they are not doing that.And also they should list will be Antrecorp is -So, yeah, okay I'll simply -
+So at the moment some of the files I would process transcripts and in my <unintelligible>.
+Only that after we are happy with the forced alignment, and after we have converted since to to the subtitles for the caraoke for preview and the OST format that SLTF evaluates, than we need to have it versioned.
+It's totaly stupid thing, it's multiline, slash OST -
+(PERSON5) If you are to change the line inside the cell you can use <unintelligible> enter.
+Oh, I see, it's yeah, Antrecorp files with the test are clean all audible cell ties.
+And and then laid I'll also prepared bars or I'll have finally [PERSON10] and [PERSON1] to the path for these files.
+(PERSON14) So I think that I would like to hear from [PERSON9] who is still on the call whether you have started pushing anything into the new repository for [PROJECT2] test set.
+So [PERSON1] please synchronize with [PERSON5] on the on the audible SLT test set and depth set forced alignment files.
+Look at the forced alignment ALI inputs in the SLT data set sheet.
+(PERSON14) Yes,so on the third sheet forced alignment inputs.I've just done a the yellow lines, which is a good input for [PERSON5].
+And so from B3 to D16, there we need to list the black<unintelligible> versions.So this one the C3 for example, this is already good.So I'll remind this with with green.And this one is unclear.
+When You get some outputs from [PERSON5] and clean up of the stable in preparing the files that [PERSON5] will digest.
+So you want somenthing [PERSON5] can run force alignment.
+(PERSON14) The czech is of lower priority, English is important.
+This is the Portuguese is the perfect thing.This is the full path to the files.The only problem is that this red, I'll make it red now.The the chunked version that does not does has has an ugly name.The path is not the full path.And and there is a risk, which I have talked to talk about to [PERSON10], there is a risk that the all Portuguese OST the concatenative file does not exactly merge the split file, because there there were some small errors, I cut most of about this.So please like, like based on the line 3 prepare all the lines, all the English lines all until 16.
+(PERSON1) Okay, I will do everything because tomorrow I have a lot of times, and they can put for these.And so I'm writing, and everything is fine.
+So please update your doodle poll and I figure out better time for myself because as I'm disorganised at this point now, because of the extra workload with the remote lecturing.
+(PERSON5) So so yesterday I was working on this caraoke as timeview and spent on time introdate comes on -.
+We would has to be given it's all timestamps and didn't know what <unintelligible> that I give the one segment and I had -
+Because the forced aligner is actualy doing the what level timestamping.
+And to test that the caraoke you should also have word level timestamping.
+(PERSON5) So yeah, so it automaticly does the word level alignments itselfs.
+Yeah, that is that is our main focus and I completely miss that.
+Yeah he made fields <unintelligible> I can lock time transcript if you -
+So now because I have okay AAS file subtitle forward I can make a Python script
+(PERSON9) Nothing I worked on I test the data for preparing WSLT.
+Okay, so in this case you will create yourself the JSON file, yes?

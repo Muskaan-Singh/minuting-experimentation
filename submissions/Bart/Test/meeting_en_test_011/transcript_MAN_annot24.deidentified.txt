@@ -1,0 +1,60 @@
+ When we will be going to [LOCATION1] to [location1] -.
+(PERSON9) "I just think that you are always the host," says host .
+"I will be the host.
+I'm a very good host, you will see," he says .
+Nearly three hundred people got infected in one single event from there from there .
+(PERSON12) Ooh, yes, yes.
+The model is not very structured .
+The Czech part of of MSD meetings and for [PROJECT1] meetings .
+But we will not get them for ITR meetings.
+(PERSON12) These are only Czech ones and eh and these are very qualitative meetings .
+The total number of names is (wrapped??) this menu two thousand and one or two hundred .
+(PERSON7) Yes, and something else -The total number .
+of names .
+is (wrap??) This menu has two thousand names .
+The name of the speeker is defind here .
+The only thing that could be re- re- possibly kept is [PERSON15], because as you had you own experience everybody here, he is talking about eighty percent of the meeting .
+But maybe not inside the transcript .
+It's very possible that this [PERSON16] and he is uh, the person who eh was attending the meeting.
+It's not excluded.
+And also there are a lot of cases that annotators should not really understand the name.
+And it could be also eh eh eh  a mistake.
+The list should be complemented with the context and then when you have the context, you can decide better .
+We have to prefer recall over precision and manual validation should come from manual validation of that .
+(PERSON15) <parallel_speech>.(PERSON7) <unintelligible> is not a proper noun, yes, so we can remove them and then the words that are kind of gray boxes we can we can indicate them in the meetings and then let the annotators choose if they are need to be removed or .
+annotated .
+Annotations should be assigned to annotators, ideally to one of those who has worked with these transcripts for these meetings .
+They would immediately recognize some of the names as names, and they would also know what what what are not names .
+An annotator would go through with this quickly .
+Annotations should be used to mark all proper names the eh eh treat as proper names, says Person12 .
+Person7 asks about Czech and Czech and named entity recognition .
+Name tags is too fine grained for our purpose, says Person .
+Person7 sent a list of names to annotators, but name tag is fine-grained .
+Pronounced Javascript, catch NLPD, parliament, rainbow, rainbow .
+Named entity recognition will be pre-annotated for Czech meetings .
+The interface for the annotators will be made simple .
+You are extracting these lines, and while you are replacing them in the in the corpus with suspected named entity number fourty three, fourty four and fourty five .
+You would then be the number of li- the the line number in this in this list .
+The annotator would look at it and the annotator should think or MOG, can that be a name yes or no.
+An annotator says well MOG that could be a name in some some some cases .
+But I don't think that is a problem.
+The ideal situation is that we would know what is the full name of that person, because that name can also appear in the transcript .
+We would like to use to rely on one or a pair of special characters.
+When doing the anonymization, I think that you should, uh, preserve the full name like [PERSON6] here on line one .
+It would be something like speaker, speaker, ID equals and then in eh quotes the the anonymized version of [Person15].
+The annotator could only know only at the token level that his [PERSON16] is actually [Person16].
+But well, if we lose this.
+(PERSON15) If we if we label this .
+as a different person, then I don't think there is a big problem, too big of a problem .
+(Person15) So use MT five and cut some, uh, middle letters of of that .
+The proposal was discussed with [PERSON12] and asked him to transfer the tool to [Person9] probably .
+He would be the technical support person who would be doing the the changes .
+And he can also stay in the student dormes, and eh if he'll have more like focus for for his studies in [LOCATION1] then in Slovakia .
+Psychiatrist: 'We have to select some of the meetings.
+We will read the transcripts and we will produce the summaries, the minutes, and then the evaluators will evaluate them like using the procedure the manual procedure.
+(PERSON15) The meeting was supposed to be done within this week, but the minutes were already there, so why do we like again do the minutes since the minutes are already there? 'I don't know how much time do we have for this,' says [PERSON9].
+'I just kind of lost in there task distribution.
+The question is when.
+(PERSON4) has already prepared some evaluation form, we will discuss it and we will eh evaluate them,' says Person4 .
+An annotator mostly needs a week to prepare a transcript and a minu- nad minutes .
+The number of minutes needed depends on the timing of the annotator .

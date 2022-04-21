@@ -1,0 +1,47 @@
+[PERSON14] So the other, the other, um, sections are finished?<n> [PERSON6] Are there not finished but I would say the content is there.<n> [PERSON14] So introduction is to do.
+So it s kind of, yeah, not plannig to add new content, just write this nicely.[PERSON6] So I m not planning to add new content.
+I m just planning to rewrite what s already there, um..
+> [PERSON14] So you didn t understand what, what it is content.
+laugh> [PERSON6] So now we know what, what - laugh> What are you think and you have still 13, 13 hours to - laugh> [PERSON6] OK.
+laugh> [PERSON14] To arrange the chocolate in the, in the box.
+[PERSON6[PERSON6] Hm.
+[PERSON14] We cite, um...
+[PERSON6] Hm.<n>I actually don t know like to rules like, I think it depends on the licence of each of the papers.<n>So I think it unintelligible> - [PERSON20] unintelligible>Use the weekly Newsquiz to test your knowledge of stories you saw on Newsquiz .<n>The Newsquiz tests your knowledge of stories you saw on Newsquiz .[PERSON14] So I group only the (presency) trees, constituency trees - [PERSON6] Hm.
+Hm.<n> [PERSON21] Everything here is for attentions? No, everything here is for attentions?<n> [PERSON14] Um, it is - Yeah, I don t know why all, all my pictures are at the end of the chapture, there is some problem.[PERSON6] Hm.
+into two pictures.<n> [PERSON14] Into two pictures.<n> [PERSON21] GPT and attentions.<n> [PERSON6] Hm.
+into two pictures.[PERSON24] and I, I have rewritten some, some parts so that it more fits the, the book.
+Um, it s (consequency) trees.<n> [PERSON21] Hm.
+[PERSON14] Um, um, yeah, and this is - This I - Yeah.
+I have rewritten a bit the 5.3 but, um, is still, there is still missing the last, last part of this and some discussion o-, on this part so there is still missing something and the end of this sub-, subsection.[PERSON14] I m sure that it would, um, like I m sure that, um, it would benefit from further reading and comments and rewritting and so on.<n>The to do section here can be safely deleted.
+It s just things that can be added but are not essential.<n>Then there is this 3.1 methods for interpreting neural networks and I thought [PERSON14] said he would write something.<n>And as you can see the bands here and the bands here in the FastText s image are similar.[PERSON6] unintelligible> on scale but - [PERSON24] That s what maybe happening in this Glove image but why isn t the same thing happening here?<n> [PERSON21] It s possible for Czech, not for English.
+[PERSON24] Yes.
+But FastText shows the structure and the others don t.One thing is that your figure is quite ugly.
+laugh> [PERSON20] At the other one would, would totally different fonts and .<n>This is the very first image I, I made in tix and the code is really terrible.Also, yeah, hm...
+Hm.
+Hm.
+I think - OK.
+I - This is also ugly.
+laugh> [PERSON20] You are ugly.<n>laugh> [PERSON24] Well, I m but I m not putting my face into the book.
+laugh> Anyway, yeah, we can leave the ugly figures to the end.[PERSON20] Um, and, and the same (wholes) for, for, 4.8 which is a bit map too as, as well.<n> [PERSON24] Yeah, but at least you can replot it so it, so it has the same font as the book.<n> [PERSON14] So that I know that you, you really have it, the chocolate is (reorder) in the box.[PERSON14] So this is the last book, um...
+[PERSON27], Sentiment unintelligible> in Czech.
+So this is written in English at least.<n> [PERSON14] Hm.
+[PERSON14] 160 pages.
+[PERSON6] Hm.
+[PERSON14] 160 pages.In this episode we discuss the difference between a book summary and a conclusion .<n>The book summary is more like, um, lon-, longer abstract usually .<n>The conclusion is more like, like what, what is - [PERSON20] Hm.
+[PERSON14] Book about.
+[PERSON6] But the introduction would be also something like, like what, what is the - [PERSON20] Hm.
+[PERSON14] Book about.
+[PERSON6] The conclusion of the book would also be something like that.[PERSON20] And in German.
+And in French.
+[PERSON24] And then we can have a transformer transform the summary into Hindo.<n> [PERSON14] Hm.
+who s book in the series is the longest?<n> [PERSON20] Or [PERSON27] might be a good candidate.[PERSON14] Well, it s hard not to introduce new errors when I, when there is so much errors that I can see if I m introducing new errors.<n> [PERSON24] Well, it s hard not to introduce new errors when I, when there is so much errors that I can see if I m introducing new errors.<n> [PERSON14] Well, so there are some citations that are not in the Zotero format so they re deffinitely will bee always missing.[PERSON14] 2 p.m.
+[PERSON14] 2 p.m.
+[PERSON20] Suggested something on slack.
+And basically - [PERSON20] And no one apply?<n> [PERSON14] Yeah, I have holiday from Thursday but I think I will do some work even in the holiday.
+So the whole the next week I probably will not do anything.<n> [PERSON20] Um - [PERSON24] I also officialy have holiday next week but I will be working.
+[PERSON20] Just an off topic question.
+Do you plan to watchThere are tutorials on Sunday at 3 p.m., 6 p.m.
+and 9 p.m.<n>There are prerecorded presentations and live QA sessions .<n>For each paper there are two time slots .[PERSON6] I don t know how many people are registered actually.
+I know [PERSON20] is registered and [PERSON23] is registered and maybe [PERSON11] is registered.
+And I don t know if people can watch if they re not registered.
+Or unless they re watching someone - [PERSON14] Share the links.

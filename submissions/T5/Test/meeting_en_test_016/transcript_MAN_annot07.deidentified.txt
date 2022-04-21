@@ -1,0 +1,24 @@
+this call is being recorded because I'm also collecting various meetings .
+we will send you a link to google form, where you will fill in, that you agree, what this unintelligible>would like to be used .a number of people have asked people to download the [ORGANIZATION4] database data .
+this has to be converted to plain text only once .
+the point of the call is to make sure,that no work is done twice .if we have something adapted for unintelligible> this domain, then even better .
+if the people remotely present, can confirm, that they've understood at least something, i can say, what i have been doing since a week .
+the next task is to integrate [PERSON23]'s audio compression on these YouTube videos .my main project, until 6th of March is is't is multi-source spoken language translation research .
+and I bring it for English and German into Czech .
+1.7 terabytes of audios, videos interpreting in 22 languages .[PERSON20]'s main goal until the Feb 6th deadline is to experiment with multiple other_noise> translation .
+if this is successful, if we see an improvement from the additional sources, then this is something, which we would directly use in the surge afterwards .if the compression is not really effecting the ASR quality that that should be a really good thing .
+for calculating the delay, BLEU score and unintelligible>, all of them .the shared task is directly aimed to help [PROJECT2] in the [ORGANIZATION4] Congress .
+the evaluation script of [PERSON10] will be used in this gradual improvement of our systems .this weekend, last week, I worked on data collection to find the data, where is labeled of unintelligible> 42 languages .
+it's like a monolingual.
+we can see monolingual, but other_unrecognisable speech=""> .
+and we need to download all the PDF documents .i've done unintelligible> part cluster overview.
+to integrate it and to create test sets using them .
+i also worked with with people, which do the manual work, or creating transcriptions, translations, or the stuff .[PERSON5] will be supervising and knowing, where the pits are for the old language pairs and translation directions, that we want for the [ORGANIZATION4] Congress .
+and one's this test set is stabilized.
+we would really like to to run the regular evaluation .right now, in the pipeline, we use Czech to English by [PERSON16] .
+we need to know, which one of them is the best .
+on Monday, we'll interest in in models that do text translation .'parallel_talk' could be finetuned on the parallel data, that we will create by back translation, or maybe we will find other parallel data in the domain of competition linguistics .
+on monday, we will decide, whether to d - which one to deploy for for the event .
+(PERSON3) Sure, sure, sure .the next week, I'm not available on Thursday and Friday because - (PERSON3) Sure, sure, sure .
+so whoever is available, we'll meet on Wednesday and we have the the session on on on Wednesday .
+if there are no further questions and no further comments then .

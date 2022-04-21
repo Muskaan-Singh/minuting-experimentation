@@ -1,0 +1,50 @@
+So, what it
+Let's just think that uh, we already need it really working in well tested, uh,at the end of June.
+(PERSON4) Okay, yes, so Monday, at nine, or ten or as you wish.
+So.
+I, yeah I think I know what I need to do.
+yeah, we have [PERSON2].
+One reason is that we don't have the time to to fix the cashing client,
+This is where the segmentation worker has decided to to end the sentence, right?
+If you want to see right ASR output I'm not sure if <unintelligible> you will have to request the unsegmented text.
+(PERSON4) So.
+if you yes,
+So.
+Is it.
+But I think that is what <unintelligible>, yes.
+I have, I have no idea
+Is that is that correct [PERSON2]?
+(PERSON4) Yeah, so I would.
+I think that this is something that [ORGANIZATION1] needs to investigate and and improve the the segmentation worker so that it emits the timestamps
+So the problem is that if we have from these.
+then we we are not uhm,
+So this is this is important for [PERSON1].
+So there is,
+Okay, do we have?
+It is it is working,
+I'm, I'm not sure.
+If you decide that you don't want to do any ASR adaptation to the text,
+We can skip ASR if we don't have it.
+And we can have the ASR from, uh, from German,
+And and we are,
+Uh, and the <unintelligible>
+So.
+Yeah, [PERSON2] is  empty that's on a German to English,
+and then I would indeed ehm rely on the [ORGANIZATION3]  platform to do to do the pipoting.
+I don't think that the the the <unintelligible> that should work,
+(PERSON4) Yeah, from English for ehm <other_yawn>.
+That's the,
+This the German ASR this one.
+and then so on.
+(PERSON2) Yeah, so would I on this very most important thing would be text to speech on models one speaker.
+But I don't think that it would be <unintelligible> data at all.
+(PERSON4) So,
+So this is this is something that you are probably already doing so uhm for this.
+So.
+Okay, so we will let you know uh the next week,
+and so on.
+() I do.
+then [ORGANIZATION1] would know which worker is it.
+this is this is to be-
+So I 'm-
+and then we <unintelligible>.

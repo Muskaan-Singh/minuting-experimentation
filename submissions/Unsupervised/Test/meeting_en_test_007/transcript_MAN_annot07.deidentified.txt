@@ -1,0 +1,82 @@
+ Thanks for joining.
+I've, as I said, I've emailed [PERSON8], if [PERSON8] would be joining as well.
+And also, I don't think there is any way to switch off your webcams in the Alfa view, unless you simply like put a ducktape over ovet them.
+If you actually had a little video presentation, html client that I could test these streaming off slides with.
+And is there also some text only a client or text only version that was simply emit the subtitles to standard output.
+ And there will be probably real video mixer available for the three days or two days of the workshop.
+So if anybody is willing to or curious to to play with this, please come to [LOCATION1].
+(PERSON9) [PERSON15] also propose me another option for the main stage presentation problem in order to present subtitles without the presentation platform in order to   (PERSON14) So that's in general this is good news that you're proceeding well.
+So then the [PROJECT2] worker, [PERSON1], ehm.
+ (PERSON13) So I need to figure out what best way to test .
+I don't know if I need to maybe write dummy ASR worker  test sentences or something like that.
+(PERSON14) And you're the, you're the person the only one who is left.
+Or [PERSON1]? (PERSON10) Okay, so if every sentence on the input and with period, then  other sentences? (PERSON12) Yes, I think that's that's reasonable.
+I think you should send it to [PERSON1], because he's the one working with ASR.
+(PERSON12) I I don't understand.
+For the offline ASR we we won't have a worker.
+It will just be our ASR.
+(PERSON14) Yeah.
+And so so it works.
+And it has, you mentioned some problem of things being stuck somewhere.
+No, that's there's-It works.
+Right, is that- (PERSON13) Sorry, that's I think [PERSON12] mentioned ehm, mentioned the getting stuck ehm.
+Yeah, so as I know the [PROJECT2] part is working.
+(PERSON14) Revised.
+Yeah, ok.
+So so it seems that the machine translation quality is not affected by mismatching segmentation between the training mode and the operation mode.
+ (PERSON13) Yeah, that's it because sorry, [PERSON14].
+I mean, what [PERSON5] is saying is they have have managed to get, or that actually tried with online ASR.
+(PERSON12) We have, we have some our fine tuning we have 15000 minds of lecture that were that were manually translated.
+ (PERSON12) But that's it.
+So getting parallel data is the real problem.
+We can get online ASR, we have 19 different lectures that are using online ASR.
+But- (PERSON14) So I think our main concern is not the quality of the translation, but the mismatch of the segmentations.
+ (PERSON13) That sounds reasonable to me, yeah.
+Um, [PERSON12] is like it.
+Can I access to you client code? (PERSON10) Yes,  to txt is the second to that machine worker.
+(PERSON14) Yeah, so is it, is it not available? Or what what is the problem.
+The current segmentation workers are there, aren't they? (PERSON10) Maybe they are there, but it didn't work with my os- batchmode.
+The text to text client.
+(PERSON9) Of course next week we can perform again test all together in order to check both segmentation worker and other things together.
+(PERSON14) But still, I got, I'm sorry, I'm little bit lost.
+The CTM is the word level output of ASR.
+ (PERSON14) But what we are expecting all are MT clients in- and the workers, including the [PROJECT2] one, expect already the text, so the segmented output, right? (PERSON14) In operation, even for the online mode, at the workshop in June, right? (PERSON14) Yeah, and hopefully [ORGANIZATION5] will find solution.
+Either fix the CTM or maybe ASR workers more reliable.
+So which moves us to the next line.
+And that's [ORGANIZATION5] ASR workers the bug.
+(PERSON14) Aha, so [PERSON6], you're not here for the for second.
+ (PERSON9) Yes, but actually I see that the ASR worker has start producing some text in the chat window.
+(PERSON9) Yes, sure.
+[PERSON1] we will be back next week and we can arrange some kind of, some test together, of course.
+(PERSON12) Ehm, I'm really not sure what exactly we're we're seeing, because like I said, the segmentation worker should remove these.
+ (PERSON9) Of course.
+There is also the [ORGANIZATION1] platform mediator which performs maybe some kind of most processing.
+(PERSON12) - will using our segmentor, than there shouldn't be any any text.
+If I ask [PERSON1] about this.
+I'm lot confused about   (PERSON14) Capitalize, drop, or, yeah.
+And that's it, there is no-So this is all the logic, all the trees that you mentioned.
+ (PERSON12)  reverse engineering, we actually have to look back into it.
+Make sure that we figured out everything again.
+(PERSON12) As far as I know our ASR worker connect, reconnect very quickly, the MT workers do as well, but it take some time.
+ (PERSON13) Yeah.
+Yeah, I need to debug text client.
+Or [PERSON12], I don't know.
+ (PERSON10) Can you-I just realized you don't have access to our github.
+So is your Github account [PERSON1]?So I'll- (PERSON10) - to Slack, so if you  need to discuss something online, than it's good .
+(PERSON9) Well, this is not perform in the presentation platform, because the presentation platform is just um a presentation layer.
+(PERSON9) Yes, exactly.
+The the the actual solution is to have a kind of combinatory explosion of all the possible match matching path.
+I I know it's not that  (PERSON9) Yes, for example, the presentation platform will recieve for example, the German but I told based on English source or and based on for example  or English- (PERSON12) That is fight with the re-speaker one, then you stop showing the the translation that resulted from re-speaker one.
+But re-speaker one would continue to be translated.
+(PERSON9) Actually, kind of, we can only see the the selected one and not all the others.
+This is the preview functionality that will be for June.
+(PERSON9) Ok, is the man who's performing the monitoring is able to access to the ASR log and to the machine translation log, yes.
+Otherwise he can access the only the- (PERSON9) Yes.
+Ehm, is the same logic as an  user may see the English final subtitle or French one, that's it.
+(PERSON14) So it's just a multitude of those.
+Because you are controlling all the different target languages.
+The final users- (PERSON9) Sorry [PERSON14], just a technical question, our integration has ask me to report you, they are pretty care by the fact that 4000 people connects on the same WiFi network.
+(PERSON9) Actually this could be really important point of failure for our solution, we have to be careful about it.
+(PERSON9) Yes, please.
+I hope that also [PERSON15] which is a more expert technician will comes up with a brilliant solution, about this part.
+(PERSON10) [PERSON1], I'm sending you an e-mail right now.

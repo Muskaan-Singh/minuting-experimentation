@@ -1,0 +1,50 @@
+Um, yeah, first I, I, I would like to thank [PERSON6], um, that he submitted the (camera diversion), [PROJECT3].
+Um, then, um, I plan to write like official email to [PERSON9] that we want to, that we want to have a book, publish a book and, um -
+(PERSON4) I think it should be clear from the, from the sections what, what is, what is there in the, in the, the book.
+(PERSON4) So please, please bear in mind that I will send it or I, I will send you an email notification that I am sending it but please.
+(PERSON4) So I would like you to focus everybody to only on the book b-, because then, then in a, in July I suppose will be many holidays or I donít know.
+Because I, I would like to submit the, the paper to [PROJECT11] and the paper we havenít - we sent to ACL.
+So, I, I, I will rewrite the paper to [PROJECT11], to the deadline at the end of June.
+I plan to be here at least till the fifteenth for sure because then the, thatís the, the, the, the, the, the Black box deadline.
+(PERSON4) Um, yeah, we, we can go then through the, through the, through the book and, and, um, everybody can say, what, what, what contents are still needed there.
+(PERSON4) Not because of corona crisis but I, I can ask when I, when I sell the, um, the -
+Um, I can ask, um, to postpone like the, um, um, all the outcomes, all the, the, um, the check of out- our outcomes, um -
+So, I donít know how long, um, will take, um, the, the reviews and all the, all the things which I planned for half of ye-, half of year.
+Maybe it can but I, I,I donít like to like postpone it much because anyway if we postpone it we will not write so -
+But with-, without the financing so all the finances must be spend, um, so we have to pay for the, we would have to pay for book, um, like this year.
+So, for the book we shouldn't ask for the extension but for the conferences it would make sense to, to use it for some conferences next year.
+So now maybe we can, we can go, um, um, each of us can say what was done the last week and what, what is plan to do the next, next week.
+Um, [PERSON1] send me the, um, the visualisations of the [PROJECT2] metrices and types for the [PROJECT2] and I, I also know that if I, if -
+If, if, um, maybe the settings is, um, different, the, the balustrades are very, um, very, how to say it, not sharp.
+(PERSON4) So I, I, um, I donít know whether to, um, how to, how to write about it in a, in the text because I know that they are, um, very different.
+(PERSON4) I, I, I, I know that it was one parameter I donít know, I donít know which one but it was like layer something, um, not layer normalization, not was, something similar but, um, yeah.
+(PERSON1) I think it mostly comes from like concentration of the distribution because in [PROJECT2], [PROJECT2] also something like balustrades so this like straight lines but still the distribution is not so focused -
+So that way I, I spent a lot of time on that chapter and on that section and I still have not finish it.
+Yeah, I would like to, um, so I, maybe I will, I will go through my chapter and go, um, say what is needed to be, to be -
+Then, um, so it, these other things about, about the, the, like attentions, the cross-lingual attention, and the start of attentions.
+Only, I would like to, I would like to add, um, add the figures and I'd like to add some, um, conclusions and some, um, tables about, about proportions on different attentions, um, att-, attentions patterns.
+Right, the contents are there almost but it must be rewritten and I donít know what, um, how much details to give there because I have some tables there but they maybe, maybe they are not needed.
+So and I donít know how much content is still missing for the other chapters but, um, I think for my chapter itís now twenty pages long and I think it will have maybe a bit more but not much.
+Anyway during working on this I, I came to the conclusion that this chapter really, the, the old idea of having a story is not really doable for me because I donít know that much of the history and I would have to spend another half a year reading things.
+For example, thereís the, there are the (bands) in the Glove, um, Glove vectors and they say that the same structure can, is, that can be seen in, in other similar vectors as well.
+And also, I donít think I will be writing very much about, um, the generative, the new generative language models because like they are based on sub-words and the embeddings are not interesting anymore.
+And then like lot of the visualisation that I want to do are missing and thatís why I want to talk about the data and what data should I do the visualisations on but I think it will be better to let that discussion to Slack.
+Um, so, um, so I, Iím restruct-, restructured the section so now what should be definitely readable is like the structure.
+Um, so the plan is that it should contain, um, it should be partitioned to, to several subsections mostly the ones that are there already, probably.
+Um, so, um, yeah, itís a same thing so itís, itís, um, things from different parts of the chapter now moved together to one syntax section and -
+Um, so I plan to add something more and I plan to kind of shorten actually the things that are here, um, and again restructure it.
+Um, so I have some things there which I found, which I believe are semantics, but I would be happy to take some suggestions, like.
+Yeah, well the, the point was that to result the coreference in the Winograd test you really need and actually to understand the meaning of the words kind of -
+But maybe something else for different usage so, um, I havenít read much about that so, um, um, but but I think it belongs -
+I donít know, um, I think it belongs here because I mean like the effect on what the representations capture after that, um...
+And, um, then, yeah, there is some list of papers that I want to cover, and I have not covered yet, um, mostly.
+We want to cover itís somehow, somewhere and I really havenít written anything about it and I donít even know if it should fit into this chapter or if it should be a separate chapter and I donít know what we actually want to write about it.
+(PERSON6) So, um, so I donít know if, if anybody, um, wants to take over this section, I, I would be glad but.
+So, itís now in a stage where it should be reasonably easy to, to add the missing information there and, and organize it into a readable way and, yeah.
+(PERSON4) So, please, first organize the, the, the sections so that I can, I can send it to [PERSON9].
+(PERSON4) Yeah, maybe I can, I can, I can share it, I have it here.
+(PERSON1) Encoders so there are quite not, not that good to, to have the, um, have the, these part speech encoded in them like mostly because, um, the, the task is very simple just to translate from lan-, one language to the same language so it <unintelligible>.
+(PERSON4) I, I <unintelligible> it will be the last thing I will, I will do ab-, I will first have them somehow -
+(PERSON3) And you, you d-, do what I, what I do at the top would, um, after, um, after importing Matplotlib and then you just save it with, with PGF.
+(PERSON3) So, you then just do input in LaTeX and, and LaTeX would take care about all the forms that will be the same as, as in the rest in the book.
+(PERSON4) Um, yeah, we should, we should discuss everything like, um, actually, in like during the, during the week so that we update it.

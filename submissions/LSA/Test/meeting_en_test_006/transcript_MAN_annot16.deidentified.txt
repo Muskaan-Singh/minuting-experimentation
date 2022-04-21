@@ -1,0 +1,50 @@
+(PERSON4): Are there any links to that of the- Ye, for the manual evaluation thing.
+(PERSON5): Ye, I am searching I I did hadn't half of the copy of it.
+(PERSON8): So I actually wanted to talk to [PERSON2] today and he planned to join us.
+(PERSON4): I did with you [PERSON8] for like I have to collect the minutes so- I don't understand this upload thing.
+And how to like find what is actually there in the [ORGANIZATION2] corpus and how we do that link with the web.
+(PERSON4): I just want to know a few things from you regarding that europarl website maybe you can guide me.
+Can you just share the screen- (PERSON8): Ye, if you see the gender.
+It says the name European environmental aconomic accounts (debate).
+And here you can see that this name corresponds to chapter eight year, sixteen.
+I don't know if this website has gotten index of the minutes just like it had for the transcripts.
+We are within the corpus created for machine translation purposes.
+So you want to just see that what they are following like the based or is it some kind of the- So they have shown us a snapshot of the interface which they have done for the annotation tool (PERSON8): But what should I do with that?
+(PERSON5): Okay, so in the fact-based the figure number ehm.
+(PERSON5): Yea, so I wanted to show you that here itself in on page number- (PERSON8): This blue one, yes?
+But in the implementation details they have mentioned the entire thing.
+That where they have this summary and transcript which they have put in the web application.
+And how good is the summary So they have this entire web interface.
+So I just wanted to show you how how what kind of people- What kind of manually valuation people are performing for the summarisation systems.
+And based on the web- There are annotators are asking by scene board the transcript and the summary.
+(PERSON5): So I just wanted to confirm that is the web base good for us or something else is is.
+(PERSON5): Yea, even I wanted to ask the contented would it would it be good for shared task.
+If you just have web base interface for manually evaluation.
+So we build inteface which shows the transcipt and the summarisation.
+So the annotators do not have to compute each and- Because there are so many minutes and the ones which are generated.
+(PERSON5): Yea, because the main purpose to build this manually evaluation.
+So thank you for the prooving details we already <unintelligible> for the testing data.
+I don't unders- We have a very <unintelligible> set of questions here.
+Just building the guidelines and heading forward to annotators.
+(PERSON5): Ye, that's that's that's what [PERSON8] and I discussed that for the drafting of each should be finalized.
+When you start the manual evaluation question there or maybe is that you are suggesting.
+So I was reading the paper how to actually add interface some constant values.
+Which people were considered a lot in their summarization systems.
+So actually multiplying them with the constant value is is thing to be decided.
+Okay so I will send the- (PERSON4): So as I underst- Understand so the coherence with the read ability and all these scores.
+I'd like to add that it would be that it is very hard work to make these evoluations.
+Ye [PERSON5] please also while you put your criterias please also evaluate two minutes- (PERSON5): Hmm, okay (PERSON4): Okay, so that we can have the same set up of what good and bad minute looks like.
+We all can annotate a single minute and then we will see based on [PERSON5]'s criteria.
+Or audience criteria with judgement we all <unintelligible>- (PERSON8): So we all three we will judge not draft the minutes.
+(PERSON5): Yea, so it is it is I think a good idea so we can easily finalize the draft (PERSON4): Yes.
+Yea, I think for the first shared task I would like absolutely keep everything as simple as possible.
+What are the pr- (PERSON5): So some eval and the one was the another paper <unintelligible>.
+So- (PERSON4): So on our paper do you have any figures that how the matrix work.
+(PERSON4): Yea, so I think if we can have like the europarl data with the transcript and the minutes align.
+Then this is not a big difference to make much more data from all the years.
+So I dont know if it makes sense but probably technically it will no- These are already exemples these transcripts.
+So one thing [PERSON8] so you buy alignment so I'm like getting a little bit confused.
+Because I did know we were talking about alignments between the transcript and- (PERSON8): No, no, it's different.
+(PERSON8): Okay, somehow you didn't push us away today so they granted us woth extra time.
+And [PERSON5] and please also send the automatic evaluation that the paper of <unintelligible> want to.
+I will I will link them in five minutes I think just opening the- (PERSON4): Yea, sure, sure, okay.

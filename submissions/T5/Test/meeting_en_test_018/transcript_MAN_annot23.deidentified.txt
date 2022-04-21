@@ -1,0 +1,23 @@
+[PERSON9] is not here, so I'm not sure whether he will be joining us today .
+uh, we can probably s- start with the [PROJECT4] but we don't know if we should talk about it .
+"i think the k- the big paper is not happening, because there is just no data," says PERSON6 .[ORGANIZATION4] deadline is this- this uh, Sunday .
+[PERSON6] will not make it until Sunday, but this might help him a lot .
+(PERSON6) Yeah, we can try this one if- this seems reasonable .we have a data set of very many uh Czech reference translations .
+each of those was equipped with as many references as people could come up with .
+the data set was created semi-automatically .if you're more comfortable with weekly or bi-weekly meetings, you should have separate meeting for detail discussion .
+uh, we might reduce the daily meetings, but that was good point from [PERSON9] that the daily reports or calls should be beneficial in a way .
+we may keep those and just keep them short if necessary .uh, we are essentially waiting for them to tell us the number of unique people .
+we need the constraints, the outside constraints from them .
+if they want this fast, they will have to find translators .
+it will give us an estimate on the total number of sentences .PERSON4: i feel like [ORGANIZATION7]'s- seriously dropped the ball on this project .
+"if you are searching for a helping hand, you will always find it at the end of your shoulder," he says .
+he asks if there is some way to make some, more formal complaint about this .ten people have done this experiment, five times more than what we already have from [ORGANIZATION7] and [PERSON6] .
+uh, many people started to do experiments on GPUs, so it's slowed down a bit .
+"i'm running the back translation, monolingual data," says ta- sat the jobs .the deadline for AC- [ORGANIZATION4] was shifted to, October 7th .
+so there is still some time to like hopefully to finish it .
+uh, we are planning to use this for [PROJECT3] p- submission .uh, we're releasing the pape or publishing the paper for [PROJECT7] .
+but for the demonstration it m- should be focused more on the framework itself .
+we don't need native English speakers, we need somebody who doesn't know any Czech or Estonian .[PERSON10] is leaving for a one-week vacation .
+uh, we've got that covered .
+(PERSON9) Okay, great.
+Thank you .

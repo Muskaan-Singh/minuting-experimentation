@@ -1,0 +1,35 @@
+the easiest way to replay is to create a file with time stamps .
+in all it should appear like get ready and click on the click instruction 3 2 1 click .we're having the [ORGANIZATION6] promoting so what do you want to do with that? (PERSON9) We just click the link I think .
+[PERSON10] is here.
+fine, great .i'm not able to publish on a public server because of.
+I'm just trying to fix the pipe .
+i haven't yet finished to prepare the FFM peg command which streams the video file .the video box takes in input a public M3U8 URL .
+we could stream and simultaneously provide inputs to AB client .
+if you're able to do this then I think this is the best solution .i think the most critical part is to identify the video file and to start performing test of it .
+we will be able to justify in some way lags, not very fast streaming because of course we are all remote .
+but maybe the project officer will focus on the quality of the provided translation .we identified 3 possible days which are Tuesday, Thursday and Friday .
+if we are voting we could downvote Tuesday.
+With the yes no if need be.if [PERSON7] succeeds in injecting instructions to the subtitles to all the languages, it's doable .
+the presentation platform has its own worker so that we can call directly the worker .the plan is to re-broadcast with Youtube broadcasting .
+there is no there is nothing more than a gentleman agreement .
+we could only try and then get banned essentially .essentially but I am still waiting on my personal Youtube account it's not working yet .
+if you disagree, then we can use the tested recording.
+Only.
+(PERSON9) Not really.i will propose project officer only Thursday and Friday .
+[PERSON11] has some experience with the servers that we have .czech republic has a national holiday on friday .
+the 8 of may is nothing .
+be prepared to recover fast is always a good idea .in the cruise control Github repo are stored the [ORGANIZATION5] scripts used to make multiple streamings .
+the scripts are used to run multiple translations simultaneously .
+a french one might not work because it uses some worker which do not exist more .the [ORGANIZATION5]'s web server will be used for the demo .
+we will be able to both stream the video on a public URL and provide input to AB client .
+it is not strictly required that the machine is the same in order to practice .acati docs streamer is a local apache server installed on my laptop .
+if you publish a file in the exposed directory this is switchable via web browser .if we go back to the ehm expose directory we will see that DTS files start appearing and being visited .
+[PERSON6] Exactly.
+since i'm running apache on my laptop, i can reach the expose directory through the web browser .the project officer will see the demo through the screen so that we can present both online text flow and the subtitles of the presentation nice .
+if you play everything on your laptop.
+you will have the problem that you are on the conference call, streaming the audio .
+but in any case we can not fix users internet connection problems .if you're streaming it's like using up your internet connection as well .
+putting everything on a different machine letting the demo run remotely will help a lot .if [PERSON5] responds then we will be able to fix audax instantaneously .
+if he can join us for the meeting then we can add him for few minutes .
+maybe we can directly schedule also a meeting for tomorrow.in order to pipe the text the presentation platform.
+actually is really straight forward but I drink something wrong in my vocation that haven't yet figured out what exactly.

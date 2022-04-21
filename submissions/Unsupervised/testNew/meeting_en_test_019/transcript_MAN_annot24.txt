@@ -1,0 +1,25 @@
+ Then we will run, or we will update that call again and we´ll choose maybe a different slot.
+Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.
+And then once the data is anonymized or pseudonymized so, it´s like full anonymization is actually not possible.
+Then we will use the next year's Metaforum as our main eh, demo event for for the ELITR project.
+Everyone of you will be working somehow to uh, to help with this as you are working that anyway.
+Eh, and I would like now eh, I would like to ask Matus now to start, because he has been the most eh, eh remote  for a while.
+And eh, Daniel Suchy who has worked on the ELITR test set will join us only from December.
+Similarly Sacre Bleu eh, is is like now the standard for WMT evaluation of Blair and other scores.
+And what Ebrahim was talking about that is the plan to publish it finally at eh, at a conference.
+Everybody who are eh, evaluating any systems, please make sure to evaluate them using SLTEV on ELITR test set.
+Rishu is like uh, putting together, and also what eh, eh what Vojtěch Srdecny would be kind of doing.
+And eh, now he eh, is also partly part-time employed on ELITR to develop multi source eh, models.
+(O) Yeah, I´ll I´ll double check eh today, if if if it´s already processed enough.
+Is that kind of eh, of the current summary or are you more working on eh, s- whatever data augmentation for ASR or - If your model eh, evaluates well, using SLTEV on ELITR test set, we would like to have that integrated.
+Then it would be great to eh, like ask someone to help you, for example Rishu, to to help you, with the onlinezation of your model.
+(P) Yes, eh, the question is whether we would want to use just a Jasper as a model.
+(O) So whenever Peter, whenever you have the data ready, please get in touch with Umar.
+So if if we have trained model for English-Czech and German-Czech, then then you can try to copy the parameters one encoder to to the double encoder model.
+(R) Yes then we can experiment with this on small models and small GPUs at first, and then - (P) Uh, well, it´s not the Interspeech challenge, because it it was due twentieth of September.
+But eh, but for example, uh, there are in the in the Mozzila Common voice data set there are twenty three percent unit- United States English.
+Then there´s eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish.
+Or we can we can use for example subtitles which is written spoken langu- written eh, written spoken language data set.
+So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be - (P) Um, he was probably thinking the the ASR I created or or ri- I´ll I´ve been using eh during my master the- thesis.
+Mm, and of course, I´ll I´ll have to use the common voice and maybe I´ll check fo another multilingual data set.
+(U) Okay, so so if that was that requirement, then please share the  with me of the  data set.

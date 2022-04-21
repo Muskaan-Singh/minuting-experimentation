@@ -1,0 +1,50 @@
+So I do not know, if if he will join the call or not.
+So.
+(PERSON12) Yeah, so there is no.
+(PERSON12) Yeah, so so [PERSON13], if you could just.
+Yes, I can, wait for a moment (PERSON12) Yeah, so the thing is that the mediator.
+The thing is that the what I see in the log file from EB client is that these English ASR or English sound is being converted while a a to, one of the target languages.
+Because actually the [ORGANIZATION4] <unintelligible> is not meant to work in <unintelligible> (PERSON12) Um-hum, yeah, okay.
+(PERSON12)Yeah, so I'm afraid that we what we need to you is, because the the the machine translation workers seem working well, right.
+And we have to wait for the segmenter to process it but in this this case <unintelligible> not at once, so it could work.
+(PERSON12) Yeah, okay, so you have, you said [PERSON2] is away.
+So.
+(PERSON1) Okay actually no I still dont know where the workers <unintelligible>.
+So.
+And so.
+So this is this is in the Google document I'm curious what the setup should be so that we stream the uh, the slides.
+So.
+So what is it 168. the <unintelligible>.
+And stream just the one we select and not perform all the possible translation and filter just the output of the presentation platform because otherwise it will be really difficult to understand what is going to happen.
+And for this.
+(PERSON11) Yes, I will be travelling but also in [LOCATION2] is holiday (PERSON12) Oh okay.
+So that I will provide you my support during my travel, of course having the when I will have the <unintelligible>, when I'm not flying, and [PERSON9] will not be there so actually we have two, arrive on Wednesday which if possible everything as much stable as possible.
+And the the this.
+Ah, yes, we can do it is the okay.
+If its not a problem for you.
+(PERSON12) Yeah, you are right, okay.
+This is the.
+And in that case, I still think its beer if the segmentation worker is the one who would be forcefully cutting the sentences, rather than the presentation platform, because then the presentation platform is stuck with like I have shown only something, and I need to show something of the rest the later on.
+And then I do not know what to show like its the, Oh, where is the the segmentation worker from the ASR does have access to the continuous stream, right?
+So I.
+And can we.
+Actually we are <unintelligible>.
+When you will switch to German or to Czech, <unintelligible> tell us because maybe you can see something which is not what you expect.
+(PERSON12) Oh so the the subtitles will not be published at all even if there is no English available, right?
+I would also like to ask everybody to keep debugging this afternoon and and tomorrow so that we have the workers reliable, and, yeah.
+Yeah okay, so sorry if someone is still.
+Too bad, <laugh> and are you <laugh> and are you and [PERSON2] available for Wednesday, Thursday and Friday, like possibly all of the time because right now we have as you were not at the call, but you have observed during the mornin that the critical point now is all the workers, its the combination of the non multiplexing in the mediator, and the unreliability of of the workers that puts extreme like demand on the number of ASR workers that are available, and we need you to swiftly restarting them.
+And to create a webpage that would be accesible for us, its it depends on your setup but in principle you could also run a very small webserver such as Python <unintelligible> or Parallel <unintelligible> that was the thing, and that that has to run on the machine where the workers are, so that like it can kill them and the firewalls must not be in the way, but if we set it up or if you set it up on on high port then you hopefully to get the request from us.
+So.
+This is this is the worker <unintelligible> running on this server right now and the docker so that we can kill.
+(PERSON12) So there is no ASR workers in this list or are they.
+So we we have the system that works okay this way, I would prefer to find <unintelligible> the workers not resetting this so much more, for the [PROJECT1].
+So I think it is the the the the matter of a would be only to recompile this worker with one print.
+And and so on so.
+(PERSON6) <unintelligible>.
+And.
+<parallel_talk> Yeah, so if you see my screen now.
+So are you on that machine the <unintelligible> the on that.
+But anyway, I think still having the session ID in the log would be very useful for you so that you could restart it right away.
+So I'll have to run now, but please prepare, please modify worker so that they show session ID and so that you have a simple script which would be something like restart by session ID.sh and we will send you session ID and yu would only do this, and it would do the right thing, and if you accidentaly run this on the wrong machine, which does not have this sesion ID the worker for the session ID it will tell you: "Well, I do not have that worker, you need to run me on the other other machine."
+<unintelligible> (PERSON12) Yeah, okay.

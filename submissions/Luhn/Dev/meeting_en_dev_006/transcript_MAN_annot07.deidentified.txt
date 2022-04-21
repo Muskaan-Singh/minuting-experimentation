@@ -1,0 +1,50 @@
+So it- it would be great if you could quickly explain what is your current status of the speaker adaptation data collection interface that you are-you are working on and the document the [PROJECT1] surge 2020 organisation and add in one or two points that mention your name and the one that I would like to specifically focus on is the "regular" data flow from you to [PERSON3].
+And what I mean by that is that I would like in the very few coming weeks that you two are in close touch and whenever you [PERSON11] have some data in the system then you know where to- like how to share them with the- with [PERSON3].
+So this is something that is- it is like the final part the final stage of what you are developing.
+But in the end we want to have a benefit from that and the benefit is that it will be included in the particular systems.
+So this is something that I would like to set up soon and test at all the possible occasions.
+So now [PERSON11] if you can describe what is the status you are working on and ehm specific what would be the best way to link your work directly to [PERSON3].
+First of all I would like to apologize because I was busy wit- with exams but tomorrow I have a final exam for this exam perial so I should be more availa- avai- whatever.
+And the current status is that I have some scripts for converting, data and extracting the most of common words from the data and furthering the words comparing to the dictionary of already known words.
+So I know I have to run one script then run second script then run third script so right now my goal is to compress all the scripts to single one so in the end all- in the end it would work like- like this.
+You have a directory with all the documents, downloaded from the web containing the- the relevant domain-specific dat- data and then you just run the script and the <unintelligible> are the most common words from the- from the corpus.
+So this sounds good and it's totally ok that you had your time for the exams, that's- you don't need to apologize for that.
+I'd just like to double check that script the final one which will take the directory and do the all the processing is kind of re-interend.
+Not in the sense that you should be able to run it twice at the same time but- so the correct word is actually idempotent or idempotent (different pronounciation<unintelligible>.
+So that you- if you give it the same directory once and then for the second time it will emit the exact same result and the reason for it is that we expect these directories to grow in time.
+So we want some permanent version of dictionary and then we find further documents related to the speaker so we just dump them to the-
+And we want the process again you convert what has not been converted and merge what is new and- so
+So I think the most expensive part is the four- file convert- conversion so if you make some reasonable policy about the file naming then you can easily simply create the non-existent <unintelligible> files and non-existence segment files and then re-do the dictionary from scratch that is not- usually not too expensive.
+It could be expensive it's a large corpus of files in which case again you would have dictionaries per source and the step that you would repeat would be merging of this- already- like collective agregated dictionaries.
+Yeah so I'm already checking for that you- so your already existing script as our base line for converting edit and a that script contin checking for already converted files so-
+I have another question, and that question is related to the front end, if you have started, probably not yet on, like, reviving what [PERSON7] has implemented the collection of source.
+So the question is, at the beginning of your pipeline there's the user the presenter who is bringing his files and in one of the links I've provided you at the beginning was a link to [PERSON7] who has already implemented very simple web collector web file collector, some simple web page where people can upload-
+Ehm right now I'm not using that I-I just manually put the folders put- put the folders into the <unintelligible> but the -
+The structure of the <unintelligible> will still evolve,so we need to be flexible with that but we are discussing what is the best way for them to give us all these files and I said that in March, in a month from now, we should hopefully be able to propose to to suggest interphase where they could upload the files and if the some restructuring of the folders we can do it behind the scene and then tell them Ok,now the directories are-are updated to your current agenda and please keep uploading the files again.
+So this is- this is something which would be good to have running in March when they could start uploading their documents and there we would also test whatever forments they have and what other problems it this creates.
+So therefore they indicated that some of the files they will have will be public files which should- maybe they have- there are <unintelligible> so it's downloadable from somewhere or they simply know the files will be published and they can give them to us as files and that's ok but there will also be another set of files which are strictly confidential for like the project.
+And one of the view would be green on green ground and that would be all the files which are non-sensitive and the there will be another like layer of that that would be like copy of that uploaded interface and that would have red background that would be used for files which must not leave the the faculty they can't be used.
+So if there is a session going to happen, what I would like to- to be able to is just like dump the files on you and then you would process them your system will process it and you would pass it to [PERSON3] and then I would tell-
+So this- this is the transfer of the data, well actually should be all on [ORGANIZATION3] disks so its not reveal transfer the data.
+But you need some communication protocol kind of so that [PERSON3] knows where to pick it up and how to integrate it and this needs to be <unintelligible>
+And I would like talkable adaptations the automated as much as possible and this adapta- this- this automatization is that I throw files on- on [PERSON11] and he gives everything and the language modul and all that to-
+that I- I use for uploading the data to <unintelligible> or to online text club and that Im using the <unintelligible> for it it kind of tall<unintelligible> and <unintelligible> some packet.
+I don't know whether you have to be there or not thats not important, Wednesday is more important-
+And we could make it as a live test of i dont know if they will have full twenty five machines watching the- watching these the sub- the subtitles of what we are saying.
+So that would- that would be threst test for you so it would be good to see you.
+So, yeah, I will then send it to her maybe early next week she should know, so that we can- we can <unintelligible>
+And this documentation that you are sending to [PERSON9] that is also related to their- to the document that she sent where there were the functional requirement on the presentation platform or not?
+I'm not sure I have the document because I- I know you wrote to me that [PERSON9] will be involved and I don't know if she required <unintelligible> going on.
+So I recieved an e-mail from [PERSON9] yesterday that she's already busy this week and she- we should like schedule call maybe for the next week.
+So please when you are doing this please stop <unintelligible> but then we should probably sold all to [PERSON9] with one call.
+So thank you that was [PERSON2] and there is no one else remotely present so maybe [PERSON4] if you could start <unintelligible> what- what we have here.
+I also fixed the tool <unintelligible> for english segment that capitalizating the first letter for proper nouns but I still need to do this manually for the czech segmenter.
+So that's what I- if it's possible, so if we can have separate account on the docker support in <unintelligible> file
+So the way they handle it<unintelligible> is that they would create virtual machine for us where they'll allow docker.
+That- and show him the docker file that we have and that we need to process this in pipe line actually.
+We could make it on Wednesday and we definitely need it for next Monday because there is a very high risk of- of not having calculate system.
+And apart from focusing in text segmentor like analyzing the first word letter of the proper nouns, I would like to discuss how to increase the f- the recall for that for the stop and periods.
+So one solution which I propose is that <unintelligible> smaller segments I would like to except and it can be once use not to fix.
+I was expecting to see soon it and after here because both of them mentioned in the doodle <unintelligible> that they are available but-
+One thing I want to- so about the search for the <unintelligible> we were contact few days back and also I was not willing to-
+So basically the fix <unintelligible> and the output with phone it was not supported by EB plan so I proposed that we meet it- we meet physically in his office and fix it-

@@ -1,0 +1,50 @@
+(PERSON7) Yeah, so the recognition works (wee), but I'm unable to us the microphone for the call itself.
+(PERSON7) So, <laugh>, thank you <unintelligible> for joining, I actually <ehm> assumed that you will be away
+(PERSON7) So (I'l), stop my camera, share my screen, <ehm>,  <other_noise>
+(PERSON7) so all of your imputs, <ehm>, and all target languages in the presentation platform -
+(PERSON7) So if we are able to <eh> provide the interpretors with the immediate feedback, I believe the quality would be much <ehm> better.
+(PERSON13) I guess it should not, but I don't know about the capacity of the switch, so, yeah, I should check.
+(PERSON7) Yeah, so the idea is to - to have <ehm> notebooks also in the interpreters' (booths), but we can run into physical limits, maybe there is not enough space on their desk and - and so on.
+(PERSON7) What is my little worry is thay we will actually need yet another <ehm> for couple of ASR, the corresponding language <ehm> ASR workers.
+(PERSON7) So this is <ehm>, pl- please discuss this a- if you say it's too complicated let's - let's give up on this.
+(PERSON2) <ehm>, you will have - those service languages displayed also in the main page <parallel_talk> Yeah <\parallel_talk> of presentation platform.
+(PERSON7) So if you have any ideas <ehm> what to ask, simply create a random questions we'll (polish) this.
+(PERSON2) The fun- functionalities and - you know (there're two) <ehm> maybe presentation(al) platform more  comfortable <parallel_talk> Great <\parallel_talk> for the user.
+(PERSON7) So, if I - when I visit [PERSON1] in his offices, I need to show my ID, they record <other_noise> and - and so on.
+(PERSON3) <ehm> I am checking my microphone, because - I don't see my name like <unintelligible> <ehm>, so I thought it was broken and now it's finally working <parallel_talk> We can hear you, we can hear you <\parallel_talk>, okay.
+the - like the biggest thing would be to watch our participants from behind <laugh>.
+(PERSON7) No - no, I don't know, we hear someone typing <em> (very) loud.
+(PERSON7) Yeah, so maybe we have the problem with the input quality, which can happen <ehm> all the time -
+(PERSON7) Yeah, so that's - <ehm> my voice correctly arise, so (not) French, Hungary, Italian, <ehm> Dutch, Polish, Romanian, Spanish -
+(PERSON22) Yes tody I wrote them email to run- ten (two) segmenters, but they didn't replied.
+(PERSON8) <laugh> I don't think it's (logging) anything but, <unintelligible> is looking for the long files.
+(PERSON8) (Okay, I can) - <parallel_talk> What I noticed in the English channel is that <ehm> I still see a lot of <ehm> old English subtitles, some words about microprhone and recognising and reasonable - <\parallel_talk>
+(PERSON2) But actu- (but and) I think that <unintelligible> is that <ehm> there still be  in- incremental transcription problem to be (solved out).
+(PERSON2) A- are you working on - on this problem or - or actually with (this) integration the - (keep) the ASR or -   <other_noise>
+(PERSON8) (Beside) - <ehm> yeah, we (don't) just (aware) <unintelligible> we're talking about this the other day (and we've forgotten), m- partially the same thing <unintelligible> actually ASR.
+and then they <unintelligible> a new start time, when <ehm> it goes on in the press (diction).
+(PERSON8) Yeah, so, <other_noise> ([PERSON4]) - ([PERSON4]) - ([PERSON4]) just said these <unintelligible> loging to check this- <ehm>
+(PERSON8) Am- I - I think the idea is he logs it to - to determine that it really is the algorithm specified to the paper.
+(PERSON8) Yes, (so) he hasn't made any changes, we only noticed the paper yesterday.
+() Only the Romanian is running, but I can't see any output from it.
+(PERSON7) Yeah, I - I don't see any output <ehm> inthe Romanian subtitles either.
+(PERSON22) <ehm> I - I asked the ASR workers, they are running or not or if they are available but - not responding.
+(PERSON7) <unintelligible> who available o (the ASR) workers, ane <parallel_talk> For some reason (anyone here won't be) - <ehm> in the call.
+(PERSON7) [PERSON22] emailed them <ehm> yesterday <ehm> and they did not respond to that email at all <unintelligible> <cough> five minutes ago and <unintelligible> didn's respond either.
+(PERSON22) Now we - I can - or I can't share the screen, I  - <other_yawn> we have there two- two ASR workers from English, which are available.
+(PERSON8) But you're talking <unintelligible> it (didn't occur) - <parallel_talk> Yeah I'm talkin now.
+(PERSON7) How many ASR workers are available and - <parallel_talk> Two are registered as available, but one of them is not working, so I try this scond one.
+<ehm> did we use the <unintelligible> send the audio in the (march fair)?
+(PERSON2) Actually <ehm> [PERSON16] told me that [PERSON20] i- is (off) office at the moment.
+(PERSON7) So, <ehm> please make sure this doesn't hap- again - happen again that we are - like - reaching you and all the possible ways.
+(PERSON5) (Který ty data si myslel [PERSON7]?)
+(PERSON5) oni sou taky v jinym formátu, než potřebujem.
+(PERSON3) Yes, that's correct, because for the- at least for the event it would be nice to have it mandatory, probably with some - at least a simple password.
+(PERSON2) Actually, <ehm> there's a problem in <unintelligible> for storying a used data.
+(PERSON2) And we require <ehm> much more <ehm> deep reasoning about it and this is the reason why in this version of this presentation platform we didn't store any <unintelligible> data.
+(PERSON3) So now we should see French subtitles from English source from one recording from last year -  workshop.
+(PERSON3) Yes, I can't get any output from segmenter but I <unintelligible> get it from ASR.
+(PERSON3) I - I (launched) two instances of ebclient, two identical ones, one was from (NEU-lecture) <unintelligible> hybrid, into NEU text, and it doesn't output anything, and the second one was the same and it -
+(PERSON5) So I am - I right now have ten instances of this running all (off) (putting) hard files I - I don't even know which one you're connected to.
+my - microtest script  wit- with a test case and - and upload it to the (crise) control (repo).
+(PERSON3) Yes, so I'm - I'm - I will write <unintelligible> script as - as for the testing the ASR that it- it starts so many instances of - of the ebclient to send audio to ASR(+) segmenter - <parallel_talk> Yes.

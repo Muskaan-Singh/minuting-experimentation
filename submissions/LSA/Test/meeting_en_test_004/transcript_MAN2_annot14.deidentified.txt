@@ -1,0 +1,50 @@
+This is- this is what you should be seeing now, it's [PERSON1]'s screen that runs the client for connecting together, one ASR worker and then the translation into Czech.
+(PERSON9) Yeah, please test- test German worker and [PERSON1] can at the same time start third window, right?
+Uh, with um, another client getting the same sound input and sending it now through the- through the German empty.
+(PERSON9) Whoever whoever what's a problem, please put it into the Google doc at the end of today's blog, there's the critical observations from the test.
+So you're now looking at [PERSON12]'s notebook and the think is this HD- HD button view full motion presentation.
+And you have to click this view full motion presentation so that the frame rave of Pexip is- is higher and that you will see what exactly is rolling on the ehm on the clients of the ASR.
+And to the HD button is the thing that will let you see it in live like faster, without this delay.
+So if you are following a- If you are seeing my screen this it the preparatory calls Google document.
+So the idea is that right now on the cable, a connection [PERSON1]'s notebook is sending three English, three audios?
+(PERSON7) Haven't you tested the- multipol input stream request?
+But probably you have <unintelligible> the multiple input request functionality sent you an email, I don't remember-
+Right now it's fine, but it's a bit waste the speciality, to have couple minute languages.
+And they told me that probably the eh machine translation of [ORGANIZATION1] has some kind of improvement, and it was the one I was trying to check this morning.
+[PERSON2] shared with me a Python script last night, who manage the eh ASR output, filtering out only final hypothesis.
+We are reasoning about it.I perfectly understand that it's it's not eh eh-It is not comfortable to translate multiple times the same ASR out.
+If you were referring only to this problem of of the repetitive input to machine translation, if not if you were talking also about another issue.
+(PERSON9) So uh, I think it was [ORGANIZATION5] people who said that the empty worker cannot distinguish between January repetition.
+Your empty worker could save the uh, the graphics card, or whatever the CP use, time and could cash it.
+So the the alti ee match best solution is that the ASR worker double checks it's output and never sends the same string ehm-If-Well I should very different list still.
+They will take this outputs, so-Even if a longer sound segment-If longer sound segment happens to lead to the same text hypothesis, this update should not be send to the subsequent empty worker, because it is not real update.
+(PERSON7) There is the - this is a demo of course but when we have the M3U8 URL, we can configure the presentation platform to connect to this streaming and display the provide thing.
+At least the webpage that shows the video and this is the thing that we need to link with the screencast that we are going to to send.
+(PERSON9) So If the idea is that to simply send to start the client so that the target well signature is this eh, an EU pub, right?
+But on a positive side, in term of efficiency it seem to be be able to handle ehm that stream that's coming in without empty worker.
+I'm, I will be on vacation next week a couple of days so I suggest to perform some massive test on Monday, so that I can provide you my support and we can check everything together.
+I can- I can make sure the worker is running, but probably won't be available to-
+So we should come up with the set up that runs the ASR and connects all the machine translation into all the target languages.
+I would just like to ask if you could get in touch directly with [PERSON10] and make sure that they help you with the with segmentation input.
+(PERSON12) All right, the M3U8 format it's it's ehm list all the currently available chunks and the browser goes, again and again, fetching the M3U8 file, right?
+In this case you see the ehm the main page, possible by each one has <unintelligible>  the browser.
+I think we should we should try to wrap up, so I would like to ask everybody who is still on the call, to go through the the current state of the Google document, and add whatever we have not recorded in the-
+It would be great if if this administrator web page would be simply like requested in the URL.
+We have completed the <unintelligible> in order to aset only exact path and through this-
+(PERSON7) Actually that for the one who runs the client is is not available this information, and simply provides if <unintelligible> so there is no logic implemented in order to ehm change fingerprints to worker, because worker who be there or not or <unintelligible> will not be available or it's all delegated to who provides the service.
+And do not edit the existing ones, so [PERSON7] could you please put all the fingerprints of the languages that the presentation platform responds you next to he object that I just created?
+But now I see a blank text field from the anonymo- anonymous alligator and that's filling right in.
+(PERSON7) Ok, I add in a different object the at the moment available fingerprints but please consider that it's an instance running on my local pc.
+So we need CSCZ pub, so [PERSON7] is there any update on the presentation platform necessary to accept more more fingerprints?
+(PERSON7) Yes you can reload the home page, you introduce new languages for example the Czech, the Hungarian, the Polish, [PERSON8].
+So when I'm changing the set of languages and I'll add also the Spanish here, ES, this will affect obviously the buttons available on the front page.
+(PERSON7) In order to have the publication for example for the ehm Spanish language we have just to add it in our worker configuration.
+(PERSON7) You guys of course the browser, maybe it's related to Windows firewall but you are running Linux, we have to check it, ok.
+(PERSON9) Yeah, so this is this is the full screen mode of the web browser, what you're seeing in the webcam from my Pexip, right?
+So, so can you make sure it's for the workshop in two weeks now, it's more important to have it optimized for the desktop rather than for the mobile phone.
+(PERSON12) And it seems it works for the cellphone very well that it adapts to the size of the screen, I wonder why does the same code cannot be used on the desktop.
+(PERSON9) Yeah, the shortest version of this request would be to not limit the with of the slides rectangle on the desktop.
+Yesterday we actually we tried for the full screen mode to prepare let's say a kind of overlapping, you know the the <unintelligible>, but we haven't found a solution and it's actually it's it's nothing in problem to, to develop it.
+(PERSON9) Yeah, and when I'm thinking of is, can you, could you, could you share with us the code for the not all, maybe maybe not all of the presentation platform but like the bare bones which has the text thing, like the logic that converse the the words to where is that being displayed?
+So that the same worker would offer two output, one would be so that you can connect it and it doesn't change the the stream and the other one would be the one that we could then directly use as the console client.
+Yeah, 17 6, and only only <unintelligible> and [PERSON7] expected and the goal for Monday was to test more languages in presentation platform.

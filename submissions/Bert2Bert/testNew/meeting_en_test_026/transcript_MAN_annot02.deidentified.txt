@@ -1,0 +1,126 @@
+" i'm curious, if [ person ]4 is here, we don't have [ person3 ], " says person3.
+" we've [ [ person2 ] ], [ person8 ] and...
+that's too bad, " he says.
+" it's just the baselines "the delivery of the project 3 will take place in fp 16, in the half precision.
+the deliverable...
+is good that you're finally starting,'says person2.
+the delivery is a question of whether you've contributed to the delivery.
+" we don't have much progress with multi - source because we first need the data "we could have done the multi - source research also in the text domain.
+the interpretation corpus was also like of that of person2.
+it was the result of a study by person1, which were covered there wheter like small data only and your monkey only.
+the study was carried out by person2, which are covered by the document.some experiments with multi - source text, ah, in [ organization3 ] ] should be done immediately after - - ah, we should.
+we should test this, but we don't have numbers for that, we'll see.
+we need to have a separate call with [ person1 ], and [ person2 ] ].if you're available for the separate call, it's ok for you to start to experiment with the multi - source.
+" we got the [ person ]10 ], " says person10's chief executive.
+" i'll definitely plan it to the.
+< unintelligible...
+calendar, ah, for you, " he says.we would have a monitor, live monitoring and live monitoring of the tools that, ah, that.
+[ person10 ] should incorporate.
+and [ person4 ] should regularly use...
+and that [ person ] was missing at the moment.
+that's the other one,'he said.we need to have the set up so that you can actually integrate and test yourself.
+if someone develops a new useful component, it will remain on your person's screen.
+this do it yourself integration is important, because otherwise it will be on you's person 4.person11 was tested on the life pipelines.
+it's now the time to debugg it in the pipelines, and then it ’ s used again.
+if this is done, it'll be the most efficient for all of us, says person11.the end to end asr, e2e asr also suffers from spasm issues.
+the new asr is also in the asr language.
+this is because of the spasm detection and and removal.
+it's not the first time this is done, asr can also be used twice.the mt worker can create spasm for good asr.
+he disappeared and then disappeared again again again.
+he's now working on a new project called " project2 " he'll be there as well as the project2 check as well.
+the project will be on the dashboard and the monitor." person10 " is a domain adaptation of project 4, which is set to be given by the author of project4.
+it's the main topic of your call with [ person10 ] on monday.
+if you are curious about the topic, it should be as automated as possible.the recording segmentation is that of person6.
+person6 is now mentioning in in his report.
+the current idea that that better is that he will create new sentences by concatenating words that were spoken in other sentences.
+he will do this across different speakers, and create new, new ones.the asr system has to see the largest possible set of sentences.
+it's already - - one problem is the implicit language model.
+the system is already in use in the u.
+s.
+and australia.
+it will also be used for training of the unintelligible.the covid test was carried out by the organization7.
+the pipeline had to be started by [ person ] who is able to start the pipeline.
+the system needs users, and the more diverse users, the better.
+it will be robust to the different conditions of the user's system.person9 williams, ah, was stuck for while in edinburgh, scotland.
+he didn't know where to look and what to check.
+he was able to get a call from person5, who was not able to use it.'we are much more robusst even to individual persons not being available,'he said.the pipeline is complicated for someone who has seen it for the first time.
+but it would not be a surprise if [ person ] 17 failed, because it was the same pipeline that the pipeline - - and it was not running.
+he says it would be easier to debunk what section is exactly the hair issue with the asr.the address of person14's ah army worker is not yet known.
+he's working on like, ah, how to make the configuration cleaner.
+if we want to implement [ person ]17, we need to have a separate descript.
+this is very bad...
+it's a bad thing that, eh, it.
+'people have multiple scripts that start the um that starts you avanti and workers, which is like a multi - edr and multi - connected relevant.
+here, you can make it so that there is one script, because it's ok for everyone to have the same performance, or just leave that which which is ok.if you have one worker, you can run the multi lingual moral with fewer languages.
+if you limit the number of languages you want to see the subtitling platform.
+" it's a good question on [ person8 ], " says person8.
+" i think we should go for that uh, " he says.rainbow worker was better in speed, but wasn't train trained with fine tunings that feel used.
+instead of speed, there was a big delay like two seconds to translate something.
+but instead of two seconds, there's no point in having it - - it's important to have it.the fall back solution is a lot slower than back size.
+it should be running in parallel, like the big size is forty, for example.
+it's better optimised, so we should have the [ project3 ] models running as a worker on our side.
+we should launch rainbow worker from person9.the devel at organization is set to launch a new version of project3.
+it will use the latest version of the project3 version to train the shortening models.
+it's not the first time anyone has been involved in the project.
+the new version will be available in the u.
+s.
+and europe.if you talk about the project3, send us some scripts with absolute paths on their systems.
+if you send the location of the models, send it to you.
+the subject is uedin rainbow audience, and it's the subject of the project.
+the project is a collaboration between the group of people in the u.
+s.
+and australia.the zimbra will auto - autocomplete the um, ah, the ah.
+the e - mail is a source of information, so use it to help you understand what you are talking about.
+if you have if you ran - random questions, ask around...
+that's that it's it.the organization4's one hundred language models take like fifty gigabytes themselves.
+the only way to avoid an exponential growth is to make the growth modest and moderated.
+the practice is that no one ever cleans up after themselves, so there are reasons to avoid it.if you're using command df, you'll know the space on all the disk.
+there is a command to check the data on all of the disk's disk.
+the command will tell you how much space there is available on troja.
+it's a command that can be added to the document's database.if you're interested in joining your group, you can ask for much more.
+if you want to join your team, you'd like to be involved as well.
+you'll be able to ask for more than 50 gigabytes of data, and that's what you need to do." i'm beyond my capacity, but others may have the capacity and for the general connection with [ project1 ], " he says.
+" we are way beyond planned time, unfortunatelly...
+and that's probably edge and i want still - - we are far - away from planned time "we need the evaluation of all systems, all files, ah, in the test set.
+we need to discuss some of the specifics of that information.
+we also need the to do list of what we learned from the covidio test set system.
+this is a question for [ person4 ]'s test set automated test system.the code is only lated to automating the asr evaluation.
+it's basically to generate asr from whatever model there is mentioned in the script.
+this is the first time a person has been on the call with a person7.
+the code's main purpose is to create asr.if the entry is identical, then it would immediately see where we are standing.
+" it's better to like have it, ah, and create one more entry, " says person7.
+" we're good...
+we know that nothing has the like, " said person7's creator.we need to know which components we are using and who are the people behind them.
+if we know that they won't be available, we should secure that we have the people available.
+we should know what to do and if they don't know that it will happen.
+we must know what is our fallback solution if that party is not present.the non - native accent is very critical.
+it's highlighted in the monday test document.
+this is the first time a person can work on the non native accent think.
+there is a certain like skill, ah, behind that, that needs to be practiced.
+it ’ s also important to collect the names and terminology for that session.we need to know the benefit of that domain - - and we need someone to be like responsible for it.
+we need techniques to put these dictionaries to use in the system.
+this is for the person20 toolkit, which is for person20's digital version of project2.can you confirm that the dictionary is well included in the dictionary? it's asking the correct anagrams with the substitute words instead of the new words.
+the dictionary adapted it with a non domain - adapted model - - and it was able to capture the word more clearly than the new ones.we could have an independent keyword spotting, ah, from sound, and some merging procedure.
+we would like to use that word from the project2, which is used only to spot the keywords.
+we'd like to have two asrs running at the same time, but it's too soon to do so.the most urgent problem is to find out what kind of data we currently use for this, according to an expert.
+" i was just thinking about, like, how, if we could just steal the data from organization5, " says person8.
+" we could probably just steal some kind of filter and videos from [ organization5 ] and make your training tests, ah "there was a debate over whether languages, ah, are the african languages will be supported by some of the european project's european project.
+the project was started in the wake of a debate on the topic of african languages in the u.
+s.
+the group is now working on a new way to address the issue of languages.we should, ah, our profanity filtering should really be aggressive about any slightly negative words.
+if we can't aggressively remove these words, we could use some sentiment analysis to remove words with a negative sentiment.
+" i'm afraid that we cannot just aggressively remove those words, " says one user.a cable competition for this year's " the social network " took a lot of work.
+there were actually some, some rasist and some bad statuses.
+here are some of the things that might be disrespectful or um demeaning to someone, or that shouldn't be there.the problem with the subjectivity is that we don't expect the speakers to use this abusive language, or bad sentiment.
+if we detect something using this, we should train it differently to get the most of that, and that's a different setting.
+we should probably train it better, but it could just be removed.we know that if it seems hateful in gender, it's just bad.
+we can just look out for a hateful comment or hateful sentence, and we can simply remove it.
+the asr should make a different hypothesis.
+that would be the idle behavior of someone who would like to supervise a student.the last item that i had on my list was shortening mt., and that's in [ person8 ].
+i think he should stay with the non native english accent.
+if they are interested in doing that, they could employ them easier because they're, they will be czech citizens.if you're short of ideas, you'll be the first person to make it to prague in january.
+if you spot any other ideas that i could be fruitful, please read the problems in the monday tests document.
+" i'm happy to see that my visa is a < unintelligible.
+"two weeks of of a break from these thursday calls will be on the 7th of january.
+so next week and then in january, on the seventh of january, you will have to meet again and then again.
+you will also be able to get to the new year's eve.

@@ -1,0 +1,50 @@
+And just to be complete we are also going to also talk about the the nominal <unintelligible> of-.
+(PERSON2) Yeah, I got it built on during the <unintelligible> And it came one and half or two months ago actually.
+As the New Year is king of expected of but filled more with assignments, projects <laugh>, these kinds of stuff you know.
+Or the items, that I want, to, bring up, uh, are the two sessions that we have.
+So [PROJECT2] is the Holocaust survivor's session And the [PROJECT3] has been postponed by a month.
+So I am, I'm like I will be quite honest because I'm like slumbered with the homework, the assignments and exams approaching.
+So after a month when I get time I think I can get quickly to the project <unintelligible>.
+So in case you had some extra time I suggest that you talk directly to [PERSON3]-.
+<laugh> Uh, I'm I'm sending a question to [PERSON5] now, so the the second event, the [PROJECT3] will have two parts.
+And that will be interleaved with a real live discussion, which will take place, in the [PROJECT3].
+We need someone to take care of the recording, so the archiver person.
+So I think that that would be probably the easiest, uh, to just put up the tables as HTML.
+Um, to to tell us whether the Weights and Biases, which is a web based solution.
+Some start up company which offers, uh, accounts for academic purposes for free, if that would help us are or not.
+Um, yeah, okay, so Weights and Biases this is not really, uh, recommended by [PERSON9].
+So that means moving the few scripts to, uh, where they belong from [PROJECT1] test set and some automatic runner.
+Or what you could even do, is to have a full, uh, Git check out, uh, directly located in this public HTML or simling from that public HTML.
+So this, this would be useful, especially for people outside of [ORGANIZATION3] such as, [ORGANIZATION4], uhm, we know they have like- The performance was was bad for some of the files and they could directly, uh, browse it on the web.
+I mean, we are reporting the numbers of words, so, the statistics about the transcript percent, right?
+Originally we wanted to get an idea about, uh, the conversion, like the world ratio of two languages for a given transcript.
+So I guess we had a proposed that if there are some lines which are coming from, uh, [PROJECT5] and we want to remove it.
+Or we had to remove the empty lines, uh, due to profanity filtering.
+Uh, this involves also manual preparation of the reference, so, hm, both need manual-, uh, manually created references.
+(PERSON3) So, uh, I think we need to improve our segmenter, the worlds are getting revised fine.
+But, uh, get in touch with [PERSON13] and get some delay scores for some of the files from the [PROJECT1] test set.
+So, segmenter is related tom this a lot, so that's why <unintelligible> it occurred to me that we need that.
+The plan and the goal is, of course, to put this into the regularly produced tables, but now do it just for one file.
+For both of the sessions, [PROJECT2] and [PROJECT3] I do already want to choose the system the the pipeline from some choices, and this has to be based on some numbers.
+We have always used just some of the system and and not really thought about which one, but let's really start making an informed choice.
+But on the other hand, um, benefit of the common voice is that we have additional information about gender and speakers.
+to [PERSON14] and [PERSON15] so to the [ORGANIZATION4] people asking about links to the data, and they still didn't respond.
+Uh, but I think that already this baseline should be geared towards non native speakers.
+So you should, uh, like clean or make yourself familiar with the data on our disks and put it there.
+(PERSON2) Uh, like, in building a non native speech, uh, automated system, for tor some languages, as a part of my, as a part of the masters thesis.
+So then we are with the most up-to-date version of our remote <unintelligible> (PERSON2) Yeah, said the sounds.
+Actually I wanna ask, so, uh, when do you finalise for the replacement for [PERSON7].
+Or if you did, then maybe we could include him as well in the call, so that essentially he will also be training [PROJECT5] systems if he is to replace [PERSON7].
+And this, uh, this week, I implemented or or trained speech language identification.
+I have a model for Czech, German and English which kind of works on YouTube videos in Euro parliament.
+It in works in online mode, with three seconds delay, and I 'm going to integrate it into the mediator and create one s simple start up script to increase control so anyone can use it.
+And then I'm going to analyze the ASI dev <unintelligible> data and then probably [PROJECT7] training or anything else.
+Subtitler study where we are aiming for the end of the month deadline, right?
+And and and class, you can see the silence, Czech, German, English, and then I will let on the others how they want to use it, in, the, pipeline.
+<other_noise> And also to this language ID worker, and then we need to merge these outputs.
+That's the [PROJECT7] tool, which will be preserving these text outputs and also following the time stamps <other_noise>.
+So, we need to figure out, which way, um, uh, is of integrating the language ID is the best for our purposes.
+And later, when [PERSON4] would have a multilingual model of [PROJECT5], uh, that language ID would not even be needed.
+(PERSON3) Um, I mean it kind of does, but it will like <unintelligible> bias the translations.
+So, uh, I mean to interpret - Or they talked about how the computer had learned to try, or to interprete- Or it created one language on it's own.
+(PERSON3) Uh, so, it it was not necessarily a bilingual, it it was a multi lingual model.

@@ -1,0 +1,117 @@
+" we are expecting [ person ]1 today, " says person6.
+" we need to go just now, " he says.
+" it's australian horrible.
+because of covid the officers are like semi open and - -...
+it ’ s hard to me "we found most of the talk talks discussions extremely boring.
+we need for other purposes to test the subtitling, uh, is uh - huh.
+it's ok to send you a link here in this < unintelligible...
+and that's probably it.the problem is ami is also that it is different from the point of view off summaries.
+it would be like a contrast, if summary a non - standard, alternative, alternative summary of the um, for the ami minuting, in minutes would be different to what we are normally collecting.we looked at organization2, together, with [ person2 ] ] and [ person8 ] bla bla.
+" we were a structured in way we kind of expected a little bit of uh, kind of an interesting, " i said.
+" it's not the language itself is not a problem, " said one person.person8 wanted to prepare for today's full training session.
+but even if it is 50 hours, it's too late for the full training.
+it is acceptable for some form of fine tuning, or uh, the like the development set.'this is for a sensible test set,'says person8.test set can be almost the majority of data used for the final testing.
+test set will give away half of the data for whatever purpose of the participants would like to use it.
+it's not a problem, but we should give the week will retain half the data.there were some share task that were only 80 hours of data.
+but none of them were on some speed summarization.
+there were also some share tasks only for a long time.
+so there was no gold standard that.
+okay, so it really depends on the task.
+so you have to have the standards, there's a lot of data 'if only half survives, it would give us 50 hours of english and uh, 30 hours for czech.
+so, we would have to divide the 100 percent into 15 uh, steps...
+and 15 hours of evaluation for english.
+so we will get enough, uh, variance on the on the scale, precise to the to tens of percents.we decided to use [ organization2 ] data from fix year and say that we should not be used in training, for example.
+we can take the corpus from 2006 to 2011, and kind of unintelligible levels of data around, uh, that people who do speech, or like a good at.minutes are on the web, we should search the minutes using the name of the transcript.
+this surely can be automated, but you should not read it.
+if this automation seems possible, you can tell us if this is possible.
+the annotator will now only like twice click like this and click yes.a bachelor would have to give a doctor's yet...
+if data set again.
+" i can only simply simply see the screen.
+i can see your screen sharing, " says person6.
+" you can't see the whole screen, " said person8.
+" it's a nice contrast if data sets again "the transcript includes and i don't know...
+what can you show me as a negotiation, proceeding in accordance.
+with this transcript, we have a transcript of.
+and this is one of our.
+sessions, and these are minutes for the session, and this.
+session is a summary of the session." we want to decide if we do that or not, " says person6.
+" we should say so - - if we were voting i support it as a secondary track " the question is whether to increase the data, not - - and on their financial point of view." it just will take more time for me to search and speak at this < unintelligible.
+indeed, it's just the approval of 3 years, that's not -...
+and that ’ s really kind of - - but that is actually it, " says person6.in the organization2, there were mostly from the [ organization2 ] side, but do it like, or are there other links? we should have a like one shared task assignment or well - known info sets as the 3 test sets without much training data provided to the participants.second test set would be ami and icsi, uh, icsi and ami track.
+for example speech people are familiar with speech people were familiar with.
+this is the first test set of this type of test set, and it's the training data.
+for instance speech people would be able to provide information as the data is the data.if we have someone, we should look at the transcripts and the minutes.
+it would be better to download and align it fully automatically and provided as the training data.
+but there is no training data that they have to like download from the web themselves.
+it's different, but there's some summarization going on.the idea is that no one refuses there is no money they could get from you.
+the idea was created by the organization2.
+com.
+the chapter is searchable for the minutes for a minute of action.
+it's the first chapter of the chapter in the book.there was only one session in that period found in those five years.
+this is the organization2 corpus, we should also use bracket.
+it happens every week, but normally they don't because they're quite long.
+so when you look for something, you find...
+and look for some day.if you're not searching for something, you can find someone who will do it automatically.
+here are some of the country's most open and most open, but is there to date? click here for all the latest from cnn.
+com's " the most open " look.the cs student is on vacation this week.
+he is working on a fix for consensual downloading in the course of his masters.
+he's not sure how much of the meetings we should get out of that training data set.
+if we do it we should do all the training to avoid the evaluation data set, he says.person8 proposes to divide it into 3 parts like short meetings and long meetings.
+if it is very short it's not the meeting, but some of them are comparable to all corpora.
+" we need to take all of them like data and participants made choose divide them, " says person8.we should be included in the share task.
+it should be really done by a cs person by annotators to match the transcripts and the summaries and the minutes.
+but we already saw a minutes they are not variable.
+we need to find out what happened to the group2 member of the group.the idea is to have some people create this summary this work or some of them or the best transcripts in terms of lenghtness and other areas of data.
+but i don't find it any better - - it's my idea, but i'm not sure if that is true." we decided to take the whole [ organization2 ] corpus and pack with existing minutes, " i said.
+" we have looked at more minutes [ person2 ] have enough long before...
+and this is exactly - " i'm happy to invest in the organization2 corpus.the open academic summarization corpora is a massive sum of money.
+it's different from the title and the uh, and the abstract, and abstract.
+this is different than the title, and is deffinitely one of those, and also in a very special way, does not summarize the paper." we should invite people to like cross train, " says person8.
+" i'm absolutely fine with this, " said one of the assignment's co - workers.
+" cross train " will be the test set for our shared task, says one person.
+" we will have a different task set, " another says.we have added 2 more domains to the task.
+we need to find the person who is familiar with wmt, and who can download and prepare the corpus.
+so uh, who is < unintelligible enough in that...? ( person8 ) i'm happy to sign up yet, or?.ask him a for a session where he downloads the speech part.
+it would take a do.
+( person8 ) session...
+and he'll probably know.
+it's just scripting that you can use the name of the, you could use the dates uh, the number.we still don't have the uniformal format of our data neither.
+it should probably look kind of similar our basic symbols and [ organization2 ] data set...
+would do that.
+would also look like a template for the layout of the directories or the files?the formalization ends with the fact that we are aligned aligned with dashes in the minutes.
+" this is already like, uh, the style - -...
+and the people in that area we find, " says one person.
+" i'm just little - - ( person1 ) ( person6 ) ( ( person ) is a full stop and a future ) "the chat chat was created by person6.
+it lets you chat only to the host.
+it's not just a chat chat, but a chat - like browser for big corpora.
+the chat is available on the web and is free to download.
+it is available to download from the itunes store.our corpora don't have a good speaker, but we should stick to the speaker diarization.
+we should also consense our own data, or maybe maybe we have a better speaker.
+we need to learn from ourselves, and we should learn from [ organization2 ] data.
+we must also learn from organization2 data.the format is not a zero and it is a question that should be used for the organization2 sessions.
+the format should be converted to angle brackets instead of square brackets.
+this is not like fully automatic like - - it's really in your head, says person1.the question is how much work will the consense before [ person7 ] has and when will [ person8 ] have time for any such of the job...
+and when it's better data than english.
+the question was asked in czech data but only in english for the moment.the best way would be to start from [ organization2 ]...
+and get the pair of html, or actually, actually, this is not html.
+this is already txt but it's an extra mile from the organization2.
+this isn't html, but it has the speakers.we can ask [ person8 ] to put the entire corpus to the server.
+if we decided to make the whole corpus, not to structure it, it was like manually downloaded from the organization's paper.
+we have it on the server, but it's here...
+and we can easily complement it with the minutes that you can download.the organization2 corpus was created in the third party corpora.
+it's a flat structure...
+but, so we need to really organize it, and the transcripts.
+it would be already a ready for the release of the document, and that's when it comes to it.the next job is to have the corresponding minutes for each of those transcripts.
+it takes a lot of time because they are very, many files then.
+if you need me in another call then let me know in advance in advance...
+you can go back to the name folder.the link to the link is from the from the mt < unintelligible.
+it's already in the cluster, yeah, it ’ s there.
+there is limit in the downscale...
+but they are a kind of slowly downloading.
+it is stacked mt dot, the same folder.the parl corpora for machine translation is align.
+is align align is align is process is rather process rather than process.
+this is the source of the information that can be used for other purposes as well as to process it.
+it was for the machine translation work, which is aligned." we have a < unintelligible " with, which can be heated, but it's not heated now.
+" we will see tomorrow.
+( ( person8 ) will join us tomorrow, " said person8.
+" this is okay, " says person8, who is in the forest.

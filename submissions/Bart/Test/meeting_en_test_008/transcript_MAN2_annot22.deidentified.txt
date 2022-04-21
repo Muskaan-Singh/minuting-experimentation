@@ -1,0 +1,24 @@
+ Person10: "Can you hear us? Can you hear me?" Person1: "I'm sorry, I I can't understand you much because, yeah, this is very, yeah" Person6: "We see you twice now, but only one of you is moving" "We use <unintelligible> one in in in the paper.
+If you really go down and probe you should probably use more than this" There was, this paper called, I give it <unintelligible> to [OTHER1] open sense to me, yellow paper .
+What they do is that they have distinct where they take attention between subject and verb, subjects and verbs and subjects and verb in in sentences .
+We have the tactogrammatical treebanks annotated on [OTHER2] and [OTHER12] as well .
+There are the manner annotations, and these annotations are annotated .
+You can, for example, you can try to probe for the for the means, which are really like more semantic dependence relations like ac- for example actor .
+There is a measure, which measure is (out) the attention matrice is a line with particulations and actually I got this from from other paper .
+The lower layer zero lenght layer was quite good and for for for one subject - the attention looks on the previous on the next token .
+There are almost all possible (balustrades) possible and these if you take the shorter phrases or shorter (balus) there are also almost all all possible balustrade somewhere, or at least according my observations .
+It seems that the different heads do different stuffs .
+There are many, many parametres that may chains and the chains and there is completely different, completely different attention it's an attention ways so, so, yeah.
+I wanted to try ehm extract the graph structures compare how how was like similar syntactic trees or different types of trees we can extract from syntax .
+Two heads or eeh that were trained to be similar to a that attentions in these heads, attention to the syntactic <unintelligible> syntactic (precedence) or syntactic -.
+                                               : syntactic .
+The trees are needed only in training and in in in the  there .
+Researchers were reworking on the manual (hewit) paper .
+They were trying to get the semantic score from the money paper .
+The model is based on multilingual [PROJECT2] than based multiligual [PROject2] and [PROProject4].        wolud better answer in syntactic questions <unintelligible> Proposal: We have it's layers it's to have layers model analyse small layers so small layers are easier to find small layers .
+We use some models (in metro).
+The training model it's just most .
+most, the (excel) knows as best document <unintelligible> basicly .
+There's nothing going on there.
+It seems to be working on picture form .
+The thesis is due to be submitted to the dean of the university in early December .

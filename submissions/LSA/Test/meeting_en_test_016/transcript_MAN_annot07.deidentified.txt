@@ -1,0 +1,50 @@
+(PERSON18) I can hear you guys properly, but lower clear, but - (PERSON12) Yeah, [PERSON21] is guess I don't know what <unintelligible> <another-language> (PERSON18) He should be there.
+So I hope that all okay with that been recorded and and actually we would like to release this publicly, but with some delay of like this is a so this is not longer interesting.
+And there is a good point, we will send you a link to google form, where you will fill in, that you agree, what this <unintelligible> to be used and there you can specify the limit,what <unintelligible>would like this-which you require to be, em, to be followed before the data is released.
+Next week it should be on Thursdayand then until the end of exam period it would be Thursdays and then we will vote all again, what is the best day.
+The purpose of these meetings is for everybody to say,what they are working on, and what they have in mind for the upcoming weeks, and the reason is for me to collect this credits.
+So the point of the call is to make sure,that people know, what others are doing, and they nicely, well like a collaborate, in the sense that no work is done twice.
+So I've asked a number of people for now to download the [ORGANIZATION4] database data.
+So after we do this summary of activities,there are being worked on, or finalized, then we can spend the rest of the the half hour for planning, what is the most important next thingand who would like to pick up for.
+So there is the again, university open day, next Wednesday, for which we are doing domain adaptationand then there will be on the 12th of February a dry run of the workshop,that we are going to give for the [ORGANIZATION4] congress.
+So that is two and half hours of hands on experience with natural language processing tools.
+So t- the important thing is,whether the people remotely present, can confirm, that they've understood at least something.
+The next thing, that I spent last week, like the weekends preparing transcript for the Monday seminar.
+And the next task, which I need to focus on is the Because I observed some terrible <unintelligible> scores onone form, which is the period.
+So I need to focus more on sentence, boundary detection on both English and Czech segmenter.
+Things I need to do, is in-coming days, integrate [PERSON23]'s audio compression on these YouTube videos.
+And progress more on the[PERSON2] 36 36 empty models and doc translation, and basically like <unintelligible> that [PERSON15] so that the work is not duplicated again, as more on their size.
+And I I asked them to to enable to create such corpora, together with with transcriptions and interpretations and I don't have any - (PERSON12) <unintelligible> response.
+My main project, until 6th of March is is't is multi-source spoken language translation research.
+But [PERSON20]'s main goal until the Feb 6th deadline is to experiment with multiple <other_noise> translation.
+So that - We have process multi-source and create English by integrating the many sources.
+So this is until this  until this until we choose some us- some utility, we do not consider it a requirement, or we are not planning to to run multi-source translation at the event.
+(PERSON6) My last part is that I started to do the binding worker for automatic speech recognition and mediator.
+So [PERSON14], can you tell us, h- how - If you manage to test the compression, that hopefully was somehow proposed by [PERSON23].
+(PERSON3) So [PERSON23] has differently updated me the <unintelligible> the compression, and but I am - I was unable - I didn't find time to deal it with the current- my current pipeline.
+Because I was s- I spent like last weekend on preparing for the Monday seminar.
+So if that would be easier for you, instead of evaluating it for [PERSON23] to update a review that works for some of the setups [PERSON23] [PERSON23] would check out the crews control, do the set up from his laptop and connect to his laptop, with his laptop connected to wired connection  and evaluating the the ASR quality with compression, or without compression That's another option.
+So what I am going to do next, is that we can take a- any of the Monday seminar revised transcript and we can to take that as a test set, and we can do as uncompressed and check the word error rate, and  we can do a compressed pipeline and again check the word error rate and let's see, how it goes, so here we got some propose.
+(PERSON7) As of know I'll be ready to interest like  for example, the compression because the bandwidth is, an issue there.
+So for example, if the compression is not really effecting  the ASR output that that should be a really good thing.
+(PERSON12) I meant in the in the document of Monday test, there is a list of wanted things.
+(PERSON4) Okay, so now, I'm working on the framework or for example test set for evaluation of simultaneous translation.
+Where can we have audio file and we want to translate it to s- to the target language.
+I know, into the end yesterday, maybe no one account working on because we had a problem of segmentation.
+So now, in our tool set, I want to report who define delay.
+So this this worrying that [PERSON10] is doing, is generally preparations for the SLT shared task.
+And the shared task, that we are running at IWSLT is directly aimed to help [PROJECT2] in the [ORGANIZATION4] Congress.
+And [PERSON14] to provide [PERSON10] with some output files as transcribed <other_unrecognisable speech=""> And the reference transcripts, so that you can test the tool.
+And I would like regularly to have like measurements of the ASR, end-to-end, quality, delay, and flicker.
+(PERSON4) Okay, it will be - (PERSON12) Yeah, so [PERSON14] is [PERSON14] is in India until end of January, is arriving in early February.
+(PERSON12) Yeah, so I think, now it is very important, that you and [PERSON15] will synchronize on the thing tools because both's you and [PERSON15] need to convert all the many file formats, especially PDFs, that are hard to process <unintelligible>.
+But getting from random file formats to the sentence oriented plain text, is something which both of you have to do.
+The way [PERSON15] needs it is is to have it parallelizable on the on the cluster, so that you can process a huge collections of files.
+(PERSON11) <laugh> Yeah because the most of the tool like G- or for German, <unintelligible> is working fine.
+And beyond that, [PERSON5] will be also supervising and knowing, where the pits are for the old language pairs and translation directions, that we want for the [ORGANIZATION4] Congress.
+So that's, what I was telling earlier, that [PERSON14] should regularly process the test sets with pipelines and use the evaluation tool by E- [PERSON10].
+And now, I 'm working on on onlinezation of my ASR because as as you may know, I have problems with with transcribing, the running window, which cuts the words in the middle and then the then the language model does strange things, to to the all words in the whole trans- transcription.
+(PERSON1) <unintelligible> so we are (running) same - We are going to plan and we are going to implement a back translation in the next week.
+And then we actually need to find tune systems to be deployed by Wednesday.
+Even if it's not feasible, to to deploy it by Wednesday, we need to gather these better models, where the weeks for all the languages.
+() I can reshare this in one day to be f- well, fix the missing characters and improves BLEU by one point.

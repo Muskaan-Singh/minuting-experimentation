@@ -1,0 +1,50 @@
+It is the – it is the (rolling) [ORGANIZATION2] link, we can use it <ehm> like for – for all (of our meetings), so – (PERSON6) Yes, okay, nice.
+(PERSON6) <mmhm> <mmhm> (PERSON5) So, I – I wanted (to note) that – <ehm> so, (I didn't know) <unintelligible> – it was like – (I don't think there is) <unrecognisable_speech> there is the – <ehm> everything I <unintelligible> clean manually corrected transcript as well as <unintelligible>.
+(PERSON5) I – I – I want to know that how do you have <unintelligible>?
+Like, how do the <unrecognisable_speech> (PERSON6) <ehm> Okay.
+(PERSON6) If I <ehm> – if we look at it together and I will just <ehm> detailise some things that you want to know <ehm> – so <ehm>, <ehm> I will send you a link to minutes annotation, so that you can open it now.
+(PERSON6) <ehm> <unintelligible> is right that [ORGANIZATION2] is not working (for) <unintelligible>.
+It's not <unintelligible> actually, okay.
+<ehm> So – (PERSON5) But [ORGANIZATION2] meet is also free for fourty minutes, but I want to <unintelligible> [PERSON6], how like <ehm> [PERSON5] <ehm> like (be have got like the paid for <unintelligible> [ORGANIZATION2]).
+So if they really ask for that, I can – I sometimes send them <ehm> just for – once <unrecognisable_speech> they look like, but mostly – (PERSON5) But <unrecognisable_speech> What is the original minutes?
+(PERSON5) Okay, so I would like to ask you now – So, by this original meetings, what <unintelligible> [PERSON5] and [PERSON2] (has) created, so it is just for (reference of the annotators).
+So <unintelligible> – (PERSON6) This is just for what?
+It's not – so this is also the output.
+(PERSON5) You put it <unintelligible>.
+Ondra – [PERSON5] is very much for that so that we really do that (GateHub) team and they can push and pull the data to the GateHub.
+<ehm> But at the moment I'm not ready to say how it should be organised, because I have to give them <ehm> tasks <ehm> s- I have to say them 'Now you <ehm> write this and that – this meeting' <ehm>, I have to correct it, so I have to look if their transcript and the minutes are <ehm> okay.
+(PERSON6) Yes, but after <unintelligible> – (PERSON4) But I think we – I think we agreed that they will keep communicating with you in the same way and that <unintelligible> will manage (log it up) – (PERSON6) Well, well – (PERSON4) <unintelligible> what you will – (PERSON6) [PERSON4], not really, because afterwards, after that meeting, he said me many times h- that he still s- sees that it should be maybe changed.
+(PERSON6) Probably (we should) – (PERSON4) So, [PERSON6] – (PERSON6) Not exclude this option for the moment, <ehm> but – (PERSON4) Okay, so, [PERSON6], I – yeah I – so – so this is like you <unrecognisable_speech> to upload the minute <unintelligible> correct, so this is actually a (list) work for us.
+(PERSON4) Like if the annotators up- upload the minute themselves, so – (PERSON6) Actually I'm not really fine with that at the moment, because for me – <ehm> I should think it over and I didn't do it yet.
+Because I have to send them what all the files manually, otherwise – so I don't know how to do that.
+Now it's absolutely okay, that we just send them the data.
+(PERSON5) So, <unrecognisable_speech> [PERSON6], so <ehm> – so <ehm> – let – [PERSON4] said in the morning – I also like – to some extent I thought and I – I think I also believe to some extent – so – <ehm> <unintelligible> we have an actually manual evaluation <unintelligible>.
+Okay, so I'm <unintelligible> typing in that – <ehm> in that – (PERSON6) Just form the question.
+I think it's a very good question and <ehm> I don't think that we have answered it yet.
+So this is what – <ehm> if you would ask [PERSON5] this question he would probably say that <ehm> <unintelligible> think about it and <ehm> make o <ehm> or invent the measure or metric for – for that.
+Okay, so, it – I do see th- this coming within October, that I'll be <unintelligible> measure and that is accepted that, okay?
+So the thing is that this is <unintelligible>, right?
+(PERSON6) <ehm> <unintelligible> I don't think about it.
+<ehm> I <parallel_talk> Okay.
+(PERSON4) And then somebody <unintelligible> just <unintelligible> repeated this that – this that – this that, so you <unintelligible>.
+(PERSON4) <mmhm> No, it's not very subjective, it's like – we I – I think – did you read the document that I wrote?
+<typing> <unrecognisable_speech> Okay, so, like – Okay, so the thing is that if we don't come up <ehm> with the alignment based manual evaluation <unintelligible>, we will do as the normally the other (energy) task <unintelligible> <ehm> entries, right?
+That's – yes, okay, why not.
+Yes, so <ehm> – so the thing is that <ehm> my <ehm> <unrecognisable_speech> before November it would be difficult to come up with the alignment (this score), so <ehm> for the (past) shared task that we have (way) to propose <unintelligible> speech, I think we should go whatever is available and whatever is (better) to us.
+<unintelligible> so, I now loose – I know there are many autoatic measures for summarisation so if we like just put those <ehm> in the proposal <ehm> (no one we) question?
+Okay, so, yeah so I think – I think <unintelligible> no – <unintelligible> – [PERSON6] you wanted to discuss something?
+Yeah, it's how we should do the shared task and – (PERSON6) <ehm> <parallel_talk> Yeah, so – <parallel_task> so, <ehm> what I wanted to discuss <ehm> is probably <ehm> the format of the basic sample trial.
+But this is – I think we should read (with) this – that format before [PERSON1] <ehm> appears and discuss it with [PERSON1].
+(PERSON4) So this is – I think this is the <ehm> – so it's almost like I said, but you can – I said to remove the meta-data, you can put them with <ehm> – with a (label) in your <unintelligible> brackets – (PERSON6) Yes, meta-data and dashes, dashes is important.
+(PERSON4) So it's – it's almost the same, so the format is stable <unintelligible> – (PERSON6) Yes, this is – Well, I think I will have to discuss it with you before I begin once more about some details.
+What – <ehm> what – what, like renaming in the structure in the directory or the list, or what do you – (PERSON6) So, now we are <ehm> looki- we are <ehm> kind of <ehm> changing <ehm> the data storage from (Sorbow) to GateHub repository.
+(PERSON6) Somebody – so – and if I – (PERSON4) Yes, so you create the (file) – you create the (file) the document that – internal – that you have access to, or even a notebook let say, a paper notebook, and you have to keep the – the names of this collaborators or annotators, their full names – (PERSON6) Yes, this is clear.
+and you will <unintelligible> record of this list – (PERSON6) Perfect, so this is okay, yes.
+(PERSON6) Yes, so this is – this is what – (PERSON4) <unrecognisable_speech> (PERSON6) This is what I like.
+Because <ehm> I'm not able at the moment, I'm not sure if I can be – if I can make <unintelligible> but I – at the moment it is very complicated for me to anonymise <ehm> all of the files to – so to name general names.
+So it may – it should not be the name of the annotator, but it should be some ID that I can <ehm> dete- that I can determine where to put it.
+(PERSON4) Yes, I told you, annot01 is like – (PERSON6) Yes, yes, in this case it is a <unintelligible>, so nw my task is to rename the files.
+(PERSON4) yes, but before that I also have – I mean, I also propose some other things but you didn't have time to discuss them, so, I'm not sure – (PERSON6) So, let's meet today, [PERSON4], let's meet today in person?
+<unintelligible> to <unintelligible> (more) – (PERSON4) [PERSON5] would be – better to have also [PERSON5], I don't know, when he's available now, or tomorrow, or – so maybe it's better to set up another meeting, like today – like one of the day in the morning?
+So, I think [PERSON5] – (PERSON6) So, just <unintelligible> – okay, okay.
+(PERSON5) Yes, <unintelligible> something like the meeting of today, you were also present <unintelligible> – (PERSON4) Yeah.

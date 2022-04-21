@@ -1,0 +1,50 @@
+So so the point of of these meetings is that everybody very loudly says and enters in the list actually in the in the google sheet, that is more important, the number of items that you have worked on and that you think you deserve some <unintelligible>.
+One thing that I want you to say loud is that I've agreed, I was asked by [PERSON13] to give her presentation on [PROJECT1] on the Monday seminar so as from subtitling we are also expecting to describe of what we are doing regular talk there.
+And the goal of office would be obviously to describe the pipeline say where there problems and to invite more people to join us.
+This is the early session that I'm <unintelligible> of approach we need some domain adaptation again.
+So the Monday seminar on the 17th happens the week after we have some dry run of a workshop where we are describing various language technologies and that's for the [ORGANIZATION6] congress the part like the (site) activity.
+And then the the important big event that I wanted to talk about is the students firm fair thats something which we have done only last year.
+But it was an important event for data collection because students are presenting their their companies and we record them and they transcribe it and they compete in how well their work- their voice was recognized.
+And it's very noisy environment it's like fair or congress in big hall of many stands and there is little a little side It's not really room, it's just a dedicated area where this competition of the firm presentations is is running.
+And we are also going to (writers), well it will depend what the they will let us or not, last year we were we were showing some of the subtitles and because that was were appearing just once.
+But because there is four hundred high school students, they are able to take pictures of that and they were then sharing that across networks they were laughing at at other teams.
+So that's the 18th and till 20th March and for that we would highly benefit from having some profanity filtering.
+So as you remember on the the day before yesterday were [PERSON3] giving (advering) talk one [LOCATION4] word which has nothing in relation that was translated as scrotum and so this is exactly the type of word which is bad for high school students.
+We may know the names of the companies at least and maybe some description live up what is their core bussiness or topic of business.
+So and we need I need clean all the data because some duplicate sentences and some other garbage values.
+So if the idea is that the compress sound goes always to network and is directly decompress before (begin sent).
+The list will never be complete and it will contain many word which we actually like would like to have an as the output or as the input.
+So the idea is here the bad word was created by an error in the translation system.
+So somehow there was lighter the [LOCATION4] word was "soupatko" <another language=""> which is a slider actually and for some reason in some of the corpora this must have been in the same sentence as as the error came from.
+So it just made up a follow low frequency pattern which was unreliable.
+So this is if we do this type of filtering firstly together a very huge corpus then we need to set up threshold like what was the safe we can work work frequent boundary and then we need to create the corpus which is somehow limited to these words.
+And that is hard, somewhat, but I think that we could do it monolingualy and use back translation to create the other part.
+And the third option is to use this filtering on in the monolingual setting only and use backtranslation to get the other side.
+So this is like a large topic and it's totaly unlagged to refiltering on the (fly).
+So the tool that does this filtering should actually be regularly checking this has appearance some list.
+Well in the TOK on Tuesday [PERSON3] didn't say "soupatko" again so the scrotum did not reappear.
+So that's a like a bigger experiment and I would probably find someone new for that one semestr stars from the students but it's it is an option.
+(PERSON2) So the remember that we have the recorded from MI Corporas where your forced alignment totaly fails.
+So I think that it would still be interesting to run your forced alignment of this data and we you can now use the existing time stamps to break the long recording into shorter ones.
+We have correct English transcript much large of volume and we have limited file only in [LOCATION4].
+So I have mainly concentrated on the adaptation of czech ASR for [PERSON3] talk that took place yesterday.
+So I've experimented with various technics and especially like domain adaptation of a language model and then acoustic fine tuning on [PERSON3] talk.
+So I think that I was quite happy with result then during the presentation as like quite a lot of domain specific words were recognized by the model.
+Yes, right now I'm working on a next version of the czech ASR system that should be trained on even more data.
+Whenever you think it something big and I think this the improvement [PERSON3] talk it's very good one so definitely deserve to be listed.
+[PERSON1] has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and then decompress before being sent to the ASR.
+I belive could evaluated yourself as well supportly or if your assistance will be already included and delivered stable output which is the problem that we still have.
+It's there is a problem with ASR system because some words get cut in the middle.
+I also trained the transformer converting the phonings into graphians and I tested to the settings.
+But the results were at least for at least for some [ORGANIZATION2] talks they were really bad because the the corpora on which the transform were trade was trained is for casual speak and and fairy tales and so on.
+So that's actual translation with the with the transformer was quite bad and the transform-hallucinated some words.
+And I I sent an e-mail to [PERSON18] and I haven't received any any comments to to this new segment- to this new windowing from him.
+(PERSON15) No, I had some temporary folder for this hot updates but I need some feedback from [PERSON18] of how this works with his segmenter.
+And I will have some more recording from the from yesterday so we can use use this non-native English for some find uniquals our models.
+[PERSON14] has already worked on the project last june when he was helping us to put all the (byplan) together and -
+And we need the (byplans) to be wilow cashing so we created an modify version and there was there was one of the early sessions.
+I remember that I have asked him to check if the virtual machine set up is is reasonable and something like that and then forward to the IT department.
+If you don't get any response from [PERSON18] even after the weekend then please make sure to to like treasure ask for that yourself without waiting.
+I think it should be simply and totaly independent process for now which anybody could run to adition to be sound acqusition pipeline and would that see which of the input chanell is receiving what output.
+(PERSON10) Yeah, so I just try it today and it's just basicly sais that it´s like three hundred times faster for ASR so so so it could I just told it could actually be used to do ASR like on on the spot and it couldn't have to be sent and the delay problem could be eliminated.
+And a colleague of mine ask me wheter you are from [LOCATION5] or not and I don't remember.

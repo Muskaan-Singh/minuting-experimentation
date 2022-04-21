@@ -1,0 +1,29 @@
+ (PERSON6) Hi everyone.
+(Person2) Hi [PERSON7].
+The first part of the interview is to talk about the big paper .
+The second part is to discuss the number of participants in the experiment .
+So far I- I- just organize the- the sections in bullet points, but- so far, I don't have any results so far .
+[PERSON9] is joining us, right now and uh with [Person7], I'm not sure.
+The [ORGANIZATION4] deadline is this- this uh, Sunday .
+The data set that has multip-multi-reference translations per one sentence is a data set of very many Czech reference translations .
+Each of those was equipped with as many references as people could come up with.
+The data was created semi-automatically.
+The system outputs were manually post-edited and then someone else, a secondary annotator, confirmed whether they are good translation .
+The task shoulds definitely, have- uh like a separate, designated meeting for for for these detail- detailed discussion, right? The task will have weekly or bi-weekly meetings .
+The daily reports or calls should be also beneficial in a way, that you're more socialized with the rest of the team .
+The call ends with a quick update on the experiment with [ORGANIZATION6].
+The budget available is lower than we were hoping for, but now they will come up with some number of translators to do the post-editing, and the price, and this will give us an estimate .
+The experiment is taking way too long and it's being suspended too long .
+The issue is that we don't have any native English speakers on our faculty .
+The university is waiting for the, uhm [ORGANIZATION7] to actually do their part of the work .
+The problem is that [PERSON5] is taking care of this and he will be leaving the project .
+Maybe it would be good idea to ask who is taking over, an- and and start bothering the other person with- with this .
+The advertisement for the [PROJECT4] is- is new, or not? The AC- [ORGANIZATION4] deadline uh, was shifted to, October 7th I guess .
+I'll write an e-mail to [PERSON10] right now and hopefully something will happen .
+There is a system demonstration (tract) in [ORGANIZATION4].
+The web page for the call for demos was empty, and is still empty .
+The deadline for the demo submission has not yet been set .
+Proposal4 is looking for native English speakers in the UK .
+The project is looking to hire new employees for [PROJECT4].
+The group discussed everything they needed so we can end it here right, for today .
+The group then decided to decide what to do next .

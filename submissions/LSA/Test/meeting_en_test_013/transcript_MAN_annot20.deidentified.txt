@@ -1,0 +1,50 @@
+(PERSON7) It will be strange because the person will be walking across the street and the sound will go in the other direction.
+I haven't told you, I would like to arrange meeting, um, for the (start) project.
+(PERSON4) So I would like you to focus everybody to only on the book b-, because then, then in a, in July I suppose will be many holidays or I donít know.
+I plan to be here at least till the fifteenth for sure because then the, thatís the, the, the, the, the, the Black box deadline.
+(PERSON3) Well, it, it, it doesnít, does not depend entirely on me but I think the results is that, that we have now wonít lead into something publishable in two weeks.
+So, I suggest, um, we finish the writing and the end of the June.
+(PERSON3) I think we need to s-, or, or wh-, what, whatís actually the d-d-dead-, deadline for?
+The official deadline for, for the book was the end of June but I think now that itís ñ
+(PERSON6) It makes sense to maybe like for the book we donít need to shift it really.
+Um, June thirty - stop adding new contents and...
+Donít need to be as sharp as, as, um, of neural setting.
+If I donít know what, in what it was but if you set something differently, some parameter of, um, of the neural machine translation training then the heat maps -
+(PERSON3) <unintelligible> because I think that, that, that was like an exact replication of the "Attention is all you need" paper.
+We tested this thing of, um, neural machine translation and we tested bad and (beside the, beside) the outcomes or <unintelligible> try more param-, changing the parameters and see different heat maps and ñ
+(PERSON3) Well, you can just add a footnote commenting that, that, it, it might be an artifact of [PROJECT9] because, because one <unintelligible> the heat maps look slightly different.
+Right, the contents are there almost but it must be rewritten and I donít know what, um, how much details to give there because I have some tables there but they maybe, maybe they are not needed.
+Anyway during working on this I, I came to the conclusion that this chapter really, the, the old idea of having a story is not really doable for me because I donít know that much of the history and I would have to spend another half a year reading things.
+And I havenít seen any papers concerned with embeddings in these models because itís more interesting to look into the attention heads and things like that.
+They came up while we were writing the book and, yeah, we can just ignore them, or you could put them in one your chapters possibly.
+Thatís the overview of where my chapter is going, and I have a few questions about data, but I think it will be easier to ñ
+(PERSON7) And include whatís mentioned in three, zero, two and then rewrite it to, yeah, to make sense.
+Titles of sections and basically the things that are there mostly should stay there or be made shorter maybe or rewritten a bit but kind of the contents thatís there should be mostly there.
+(PERSON6) Introduction, I have to change the whole thing basically because itís just some left over stuff from the previous introduction which rely it on some stuff that we moved to other chapters, so it doesnít make much sense now.
+We have these hidden states and these contextual embeddings and theyíre kind of the same thing.
+Um, so this should be kind of the main contents of the chapter should be this, this section.
+Um, so somewhere I just need to say that OK there are these different models, and some are better than other, and some capture more syntax than other and so on.
+So, um, but the contents - itís generally what should be there just written more nicely.
+Yeah, I think I'm missing still some of the key, um, papers that find syntax in there.
+Um, so I have some things there which I found, which I believe are semantics, but I would be happy to take some suggestions, like.
+And itís possible that Iím still missing some papers which also look at some semantic stuff.
+Winogradís schemas are probably pragmatics or maybe event what linguists call discourse.
+Yeah, well the, the point was that to result the coreference in the Winograd test you really need and actually to understand the meaning of the words kind of -
+Yeah, I, Iím, I was thinking whether to really try to say which is semantics or whether to have multiple smaller subsections and just say coreference and -
+(PERSON4) I, I have a discussion with [PERSON1] whether part of speech (tags) are syntax or morphology.
+Again dependencies whether it's the structure or the labels or just distances in the trees so I could split it into multiple smaller sections.
+(PERSON6) So I now have some (break senses) and I forgot whatís the paperís (drew).
+And thatís all for the, the, um, the abstractions that people look for, kind of.
+Yeah, um, so I think this should be like maybe two pages, now itís one paragraph.
+So um, yeah, so I think whenever you have something that fits into something here, feel free to put it there -
+So, we only know this from [PERSON3] that we want to put the, um, the multilinguality paper that we submitted to -
+But I think we donít want to copy all the, the paper what, with plenty of technical details.
+(PERSON6) And like the related work from the paper is actually what we kind of want to put here anyway cause -
+And I guess, yeah, thatís it, so I think we just remove the sentence level representations we decide nobody (wants) it.
+So, itís now in a stage where it should be reasonably easy to, to add the missing information there and, and organize it into a readable way and, yeah.
+(PERSON1) So using (mostly frozen) network and then probing it to find some syntactic information.
+(PERSON4) (Yeah, no time for pictures), but I donít know whether I can that, (turn) it in, in Overleaf.
+So, so in one pair there is probing of RNN hidden state versus static for embeddings so it could be the, um, it could be Glove or, or Word2vec.
+(PERSON1) Um, so like the main idea of this is that each dot corresponds to, to one pair of results from one paper.
+(PERSON1) Encoders so there are quite not, not that good to, to have the, um, have the, these part speech encoded in them like mostly because, um, the, the task is very simple just to translate from lan-, one language to the same language so it <unintelligible>.
+Ninety something percent personned lab and, but but, not really encode the part of speech.

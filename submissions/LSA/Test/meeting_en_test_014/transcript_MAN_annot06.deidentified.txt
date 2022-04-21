@@ -1,0 +1,50 @@
+So that we are not <unintelligible> recording user data which is retty sensitive information.
+We'll create new the credential for simple end users Just and provide me something which sounds reasonable for you.
+(PERSON11)Well when I prepared the Admin User, they asked me to include the act sign, actually, I do not know mm.
+How difficult is it in the platform in the mediator,to, to like follow the path and avoid duplicating work.
+() actual infrastructure which will help us in managing with kind of ASR output multiplexing, at the moment unfortunately, it has to be done at client level.
+(PERSON11) <unintelligible> take note and find better solution in the protocol after these events.
+Quickly share the screen where you had the the the launch of ten workers at the same time like underneath of each other.
+And then another line, which says the same English sound, converted to another machine translation output and so on.
+Because in my opinion the mediator should, should somehow find an economic solution, also in the ASR route of the path, but is actually that it is not being a specially 90 here, and here.
+<unintelligible> in order to use the if possible common route and dispatch that to the different branches, but the is something we have to reason carefully.
+(PERSON12)Yeah, so I'm afraid that we what we need to you is, because the the the machine translation workers seem working well, right.
+So what i will try is to well, again, keep pinging [ORGANIZATION2] for a for getting this running, and for like providing so many workers that the bugs wont be that severe for the whole system, but does anyone have any idea.
+(PERSON12) So is there anyone who would be available for implementing the C code the EB client, modified to do the multiplexing internally.
+My question is so that we can make little platform running locally within sol Wired Network.
+For instance, I am I am in the middle of pushing that the the very same file in some additional instructions on on cruise control.
+So that we take uh, just an access point, the router or actually a switch, and we connect the two machines to that thing with wires.
+The the [ORGANIZATION4] presentation platform web page, and URL should be something local like RMTP Cologne//192.168 and so on so.
+You are using the in your tests, you are using the real [ORGANIZATION4] presentation platform, and the subtitles are coming from the the Internet while the stream is only copied locally.
+(PERSON12) Yes, now but it is essentially the same thing that I've put in the a sample pr- sub streaming some time ago, right?
+And regarding the presentation platform, except for the logging parts, the release also implementing the feature, which will allows us to have select these source stream.
+<laugh> So actually the functionality is working but we strongly suggest to, select our preffered path at the beggining.
+And stream just the one we select and not perform all the possible translation and filter just the output of the presentation platform because otherwise it will be really difficult to understand what is going to happen.
+And if as far as we understood of course maybe I'm wrong, there will be three person speaking English the one in the round table, and th<unintelligible> with corrects.
+It will be impossible at the moment to descriminate which English is coming from which microphone at present platform level.
+So we the strongly suggest to choose the the preferred the English stream at the beginning.
+That we would want to have the English subtitles presented from the main round table, and the translations to go from the respeakers.
+We are going to check <unintelligible> each path and i think that they already manage the directs ASR output for English, Czech and.
+So X1 till X4 should work, [ORGANIZATION4] will add them this afternoon, critical things to fix today + tommorow as test streaming of slides and debug ASR workers and or create multiplexing and I'll call it client, because its actually a client for the mediator.
+The experience was very annoying, because it was like two different text messages interchanging, or a select appearing one after another in loop on in the subtitles field.
+So that, for example, the output ASR could be an updated hypothesis that your presentation platform would be popping into two parts and showing them one after another.
+(PERSON11) Lets say the worker who manage the publication on presentation platforms perform <unintelligible> of organisation based on configurable parameters.
+Lets say sentences but partial hypothesis output has to be managed before the subtitle arrives to the publication worker.
+(PERSON11) Ah, okay, the um, (PERSON12) I'm afraid that if if there is like a logic implemented in two separate the components.
+So these two lines would be redrawn of by the presentation platform, because the ASR shipped an updated hypothesis.
+But even if the ability to hypothesis scroll debate, then I would not lose as much context.
+Should be delierig well again, we dont know where the logic should, but the segmentation worker should send the whole sentece- well, should send segments, which start at the beginning of the sentence and they should gradually become longer and longer as more ASR output is ready.
+And in that case, I still think its beer if the segmentation worker is the one who would be forcefully cutting the sentences, rather than the presentation platform, because then the presentation platform is stuck with like I have shown only something, and I need to show something of the rest the later on.
+And then I do not know what to show like its the, Oh, where is the the segmentation worker from the ASR does have access to the continuous stream, right?
+Here, everyone please open the Google Document and fill your availability for tomorrow.
+And I think this could be simply relic and outdated information in the admin interface.
+(PERSON12) The interface is simply slow so only only when you run something for longer period of time then the numbers would be correct.
+(PERSON11) We are going to configure te presenation platform, English as the top priority source language since we are running test with English, but please if you change the test, tell us so that we can put German as top priority and so on, because otherwise we'll not be published i- on the front end the subtitle.
+(PERSON11) Well, there is some kind of, fallback mechanism but its still pretty match manual, lets check things together.
+(PERSON12) Okay, yeah, so thanks a lot and we'll be in touch well during the afternoon and also tomorrow during the times that you have inicated, possibly making another pexip call but its not planned far now yet.
+Too bad, <laugh> and are you <laugh> and are you and [PERSON2] available for Wednesday, Thursday and Friday, like possibly all of the time because right now we have as you were not at the call, but you have observed during the mornin that the critical point now is all the workers, its the combination of the non multiplexing in the mediator, and the unreliability of of the workers that puts extreme like demand on the number of ASR workers that are available, and we need you to swiftly restarting them.
+(PERSON12) Yeah, soI've asked [PERSON2] in the slack today, maybe you can not see the message, but my idea was that maybe you could setup very simple CGI script or PHP script or whatever, so that we could ping fixed URL and tell it the session ID of a worker, ASR worker which is not functioning.
+I dont how I can make some kind of website available for you over the internet I dont know map our workers to session IDs, <unintelligible> the workers know about the session ID, I guess they do but it might have this.
+And to create a webpage that would be accesible for us, its it depends on your setup but in principle you could also run a very small webserver such as Python <unintelligible> or Parallel <unintelligible> that was the thing, and that that has to run on the machine where the workers are, so that like it can kill them and the firewalls must not be in the way, but if we set it up or if you set it up on on high port then you hopefully to get the request from us.
+(PERSON12) Well, I understand it is difficult to uh, to debug it, like to fix the workers so that they dont get stuck.
+We have this program also, regularly its starting and stopping sessions, several times a day.

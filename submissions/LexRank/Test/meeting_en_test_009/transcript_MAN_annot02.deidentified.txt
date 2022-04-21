@@ -1,0 +1,50 @@
+(PERSON14) Yeah, you're, you're alone.
+There is [PERSON1] and [PERSON9] is not writing.
+It is not just <unintelligible>.
+So so you do not.
+(PERSON14) So yeah, so this is -
+Just so that I know that you are you in.
+So that there is some inconsistency of names now, and they are is ([PERSON11], [PERSON8] and [PERSON13] and also [PERSON13], ??)
+(PERSON5) So it's the -.
+Yeah, So this is up to date, and then we have test set, and also consecutive.
+So This is the full files, and we have -
+So this is -
+And the it's probably I'll have to I think I'll have to do it myself so that is make sense to you.
+So that is for you.And this should be done by [PERSON10] and [PERSON1], but they are not doing that.And also they should list will be Antrecorp is -So, yeah, okay I'll simply -
+And you should start Antrecorp, yes, you should start with Antrecorp because you already working on <unintelligible> academy, right?
+(PERSON14) So.
+So please put the path of the files that you are processing here.
+So do I need to create the support director in in a not <unintelligible> and we have about <unintelligible>.
+Only that after we are happy with the forced alignment, and after we have converted since to to the subtitles for the caraoke for preview and the OST format that SLTF evaluates, than we need to have it versioned.
+I <unintelligible> that.
+(PERSON5) I'm also aware of the <unintelligible> and the Antrecorp.
+So here is the -
+So this is Antrecorp.
+Yeah, so.
+Oh, I see, it's yeah, Antrecorp files with the test are clean all audible cell ties.
+So here is now the Antrecorp depth and test.
+So this is -
+Yeah, so it is just 2 files.
+And then we will have one more one the right outputs output paths.So this is a I'll now orange the cells that you should try to populate.So this is the starting point for today.
+And and then laid I'll also prepared bars or I'll have finally [PERSON10] and [PERSON1] to the path for these files.
+Yes, [PERSON1], so since when are you are you here?
+Yeah, so, I'll have to leave already but it's important please ask [PERSON1] to -
+So -
+(PERSON14) So I think that I would like to hear from [PERSON9] who is still on the call whether you have started pushing anything into the new repository for [PROJECT2] test set.
+(PERSON14) Yes,so on the third sheet forced alignment inputs.I've just done a the yellow lines, which is a good input for [PERSON5].
+It's the it's the version the one, that's important.
+(PERSON14) And, I would like what I would like you to do [PERSON1] is to review the part that I have just highlighted.
+And so from B3 to D16, there we need to list the black<unintelligible> versions.So this one the C3 for example, this is already good.So I'll remind this with with green.And this one is unclear.
+(PERSON1) Okay so about <unintelligible> academy I <unintelligible> we have it now?
+This is the Portuguese is the perfect thing.This is the full path to the files.The only problem is that this red, I'll make it red now.The the chunked version that does not does has has an ugly name.The path is not the full path.And and there is a risk, which I have talked to talk about to [PERSON10], there is a risk that the all Portuguese OST the concatenative file does not exactly merge the split file, because there there were some small errors, I cut most of about this.So please like, like based on the line 3 prepare all the lines, all the English lines all until 16.
+(PERSON14) Okay, if I have not done that myself then do it tomorrow, okay, yep.
+And so you want to create a case similar to <unintelligible> academy test set we have now <unintelligible> and for here we should you mean   -
+It's okay.
+(PERSON14) Okay, yeah, so, thanks, so, please all of you who are here go over the yours your comments and discuss anything.
+We would has to be given it's all timestamps and didn't know what <unintelligible> that I give the one segment and I had -
+So if you see the video and if you have, okay, I think I did not <unintelligible>.
+And -
+And, okay, so exactly what, so you need JSON file, yes?
+(PERSON5) Yeah, so that's the, moment, so these I meant the subtitles for this <unintelligible> test, they are in VDD format or <unintelligible> do that.
+But you can check if you need a script you can tell me about it after okay in two hours.
+(PERSON5) Okay, yeah yeah, see you, bye.

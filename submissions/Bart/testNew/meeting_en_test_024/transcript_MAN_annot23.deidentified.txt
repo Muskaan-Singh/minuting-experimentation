@@ -1,0 +1,42 @@
+ (PERSON1) Hi- hello.
+I haven't heard from what- wha- was his name, [PERSON5] uh- yet .
+I'm not sure if [Person5] will be joining, but I would like, consider of, uh moving to New Delhi for the visa and stuffs, so- yeah- yeah, yeah .
+He's already in Iran, but then you are moving to Canada, or- or- a month or two .
+Professor [PERSON1], I think- I think um, yeah- uh, uh, let me talk to you regarding this sometime (really) <unintelligible>.
+Professor: "Do not think that the matter has been solved by uh- by uh, by you still, getting the- the money" We are short of a person, who would do the thing that I was hoping that [PERSON4] would do .
+That's the preparation of the files for annotators and then, the insertion of the annotations into the data set, and then the final removal of the original content so that we have only the placeholders there and no longer the- the named entities .
+The XML has to be absolutely clear, in the information, whether someone has looked at this or not, whether it has been processed at the type level, at the token level, or perhaps we will have some other levels as well, as we browse through the data .
+The type level annotators will bold whatever is a named entity and they would, uh italicise what is not, and would then re-insert the annotation into, nice uh, XML .
+The annotators would not be supposed to modify it, but just, by accident, they could- they could debug it .
+People would highlight with a light yellow,  and with shiny yellow, items that, uh are uh, unclear at the type level .
+The annotators would report, uh, unexpected problems with the, uh with the light yellow areas, and they would always like- select by double clicking the words and, um, and bold face .
+It's possible for the annotator to open the HTML in Word, in Microsoft Word, or whatever, in LibreOffice .
+The programmer (skull) if you cannot do it yourself,  would be to extract the, uh, uh- uh, the indicators, this is essentially indicators, and put them into the clean XML format .
+Peers would have to show sentences with the- with those- (words), or the whole text, and some (words) in it .
+Peers should be able to skip quickly through the instances of that .
+Individual sentences would not be sufficient, because sometimes they are very short, and we don't want to filter all of that as it is .
+Another option is to go for Google Docs,  if- if that would, uh- - open access to the documents .
+The light yellow highlight is for words that are, maybe (form) in the form .
+The bright yellow is for the undecided ones, for the maybe ones, that's the, bright yellow, and, I think that they should just occasionally look at the green and red ones .
+The editor would be doing the bold facing, and italicisation, and, uh, they would be checking, and now, should it be red? The editor should be validating that this is a name .
+The editor will then say, well, this is actually not a name, and they would i- italicise it .
+Proposal for the Scientific Committee will be submitted to the committee .
+Proposal was discussed in an email to ask the committee members for their views on the project .
+[PERSON8] is not on this call .
+[Person8] says that she would be adding some more names to the- to this sheet, to the prospective, uh Scientific Committee .
+"We have just separated the- the (calls) for participation with the submission, so we are not in the big hurry" Proposal for [PROJECT2] proposal is submitted to two places currently, that proposed (file) Proposal is being submitted to be hosted in some conference .
+Proposal will be submitted by February (mid-February) If you are busy sometimes, I can step in, and do the problematic parts .
+The proposal is due to be sent to [PERSON1] on Monday .
+He wants to have the sample data uploaded to the website as soon as possible .
+If we have the codes, that won't be the matter of the matter .
+I'm still not, very, uh confident towards flying now, because you know that, there is a new variant and uh, it has the potential to (disload) all the .
+It's snowing so beautifully, wow.
+It's really beautifully snowing, outside.
+I'm really sad about that, but I had to stay here.
+There is a (margin) of error, for all of them, but it has the ability, to stop the spread .
+The vaccines are working and definitely, like no vaccine is 100 percent correct, right? The vaccine is more than 90 percent accurate .
+The call for participation starts with [PROJECT1] and <unintelligible> twenty-twenty-one-tenthsomethings .
+The committee will have to submit a submission portal requirements .
+Peacke: 'I really want to get all this, proposal submission stuffs done by, January tenth, maybe, so that we can like, again, focus back to our, research part' 'I'm really, really personal, I'm good at personal things and then, very bad at organisational and kind of group things' The call was made to [PERSON8] to say that she had not heard back from him .
+He said he thought she might be joining because she knows, she's getting the- our emails maybe, I'm not sure .
+He also said he was having another call at half past one tomorrow .

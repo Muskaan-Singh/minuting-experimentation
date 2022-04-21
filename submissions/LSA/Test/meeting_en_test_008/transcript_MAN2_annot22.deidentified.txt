@@ -1,0 +1,50 @@
+[PERSON10] <another-language> Můžeme přidat ten mikrofon nebo - ?
+<another-language> Já to mám normálně při ovládání.
+[PERSON10] <another-language> A myslíš, že [PERSON1] ví, kam má zavolat?
+[PERSON3]  And was the manning paper people transports and you seen to do barely well and -
+[PERSON3] Yeah, and another <unintelligible> we did, we we was barely admitted what we did but but in a paper.
+What they do attention and and compution scores would interesting in the sense that in their <unintelligible> 60 internet use emm try to use sentences and test on harder, weirder like constructions to see introduction like emm for like still means that would <unintelligible> some basic characteristic.
+And, I think we used to be interesting and with if <unintelligible> would be attention is in product placed -
+And they check how much it makes a difference if there is some simply intervening and now I'm fraze.
+Now it through doing [OTHER9]s but kind of stuff might also be <unintelligible> because they use like it's a confusion score the PSI too.
+[PERSON3] No, I mean like automatic dependencies and the stuff I don't know of the freement.
+You can, for example, you can try to probe for the for the for means, which are really like more semantic dependence relations like ac- for example actor.
+[PERSON3] I mean <unintelligible> like prepare to better practise just do that.
+What I did eh was looking in to a transformer attention matrices because previously and computive for for ee sentence from your call.
+And We've to look what are the patterns of the eeh what difference actually our results from (though) measure <unintelligible> for [PERSON2] proposed one from different photo eh like one observation was that (for the), let's say easier <unintelligible> find the determiners or multifiers.
+[PERSON7] On the on the zero on the first layer the there are the attention looks on the previous on the next token so that's that's the determiners on the other.
+But then it was quite good but say like the subject finding sub- object there's few one like one head that was specialized eeh looking for that particulation, let's say.
+Ehm and it's also one head that's very very surprised look that (penny sour) for (relations) done for determiner is the multifiers it's subjects or objects and looks in the last layer.
+I think in mostly, yeah, it's said like for the first layer is like many just low close positional in some cases which some variations like <unintelligible> very focused <unintelligible> in the principe like bounce.
+[PERSON5] So I thought those attention has the particular different parts for syntactic corelations.
+And for those the determiners modifiers those heads look like justs looking up the neighborhood but context the words just shift that one of it's one to way to find determiners and something <unintelligible> some clients is in that eeh variations that's look plus one, minus one, just with any fix pattern.
+And the the higher layer  for components depend subjects was what was it was (balustrade) layer which have this rows was looking in to different eh eh chunks.
+But it's shouldn't be any head look an cannot find, by any specific corelation, what we are looking, so it's it's says like -
+[PERSON5] It's constructure which some heads correlates that some heads has connection that's correlate with relation in different laytions in syntactic tree but it also had like this different types relations adverb.
+Actually I only focuse on those heads that's for instance was quite good at finding subjects  eem the verb.
+Yeah, it seems they do different stuffs so it makes sense to try to seek which head those what try to hide them supportly, I guess.
+We start good quite long to to generate something like (balustrade).
+So I only want to say that there are many, many things that made many, many parametres that may chains and the chains and there is completely different, completely different attention it's an attention ways so, so, yeah.
+Because one head stamps finds the subject for verb.
+[PERSON5] It's gonna work <unintelligible> for free paper.
+[PERSON5] Actually, I wanted to try ehm extract the graph structures compare how how was like similar syntactic trees or or different types of trees we can (extract) from syntax.
+The syntax relations can improve eehm, eeh, machine translations for instance.
+[PERSON10] There is, yeah, there is the papers where they took syntactic trees so from from syntactic parser and use that to form the the input of machine translation systems so you would just use and put using graph (conclusion).
+And they reported some improvements over using charts (RNM) which <unintelligible>.
+So the idea was that we could try to replicate this and to compare it with <unintelligible> the extract from the attentions.
+[PERSON7] Yeah, okay, and we should also, [PERSON3], [PERSON3] send me the paper where they they they had two two heads which are trained differently.
+With the objective function to to to be as similar as possible to the to the (dependency) trees if I if I (redisconnect) it.
+And by this training they also, they also report better better results improvement in they in they target these two heads like gold syntax.
+They added that two heads must be similar to the gold trees.
+[PERSON3], [PERSON3], I will I will send you the links to the tactogrammatic when you can when you can download the treebank and the other link you need and other other anything you need to start experimenting, and, yeah.
+So, if you have anything else, yeah, we can quit this call and and see you in next 14 days and I will be in contact with [PERSON3], too.
+[PERSON3] And right prophans cause I think this gonna be trying to get more reliable.
+[PERSON10] Cause cause I know you read the paper as well I don't think need to talk about this one.
+And, so, okay, guess, yeah, with the milestone part we basicly using what we did for award book papers appear something we use.
+[PERSON10] There is this this thing, okay, so now we're analysing is one of those retrained and test iniciate may be -
+It's a evaluate makes more sense to to analyse [PROJECT2] or maybe, I don't know.
+[PERSON3] When attention bit more seem like nowhere compare and we have multilingual [PROJECT2] than based multiligual [PROJECT2] and [PROJECT4].
+[PROJECT4] wolud better answer in syntactic questions <unintelligible> and recognize more than I have.
+But that seem to like in multilingual context into record most detected function.
+[PERSON3] The yellow paper was like the some reason the small [PROJECT2] model mention predict somenthing.
+[PERSON5] What I look in to small, right, what we have, or I have (the player) capture most any syntax crash.

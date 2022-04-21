@@ -1,0 +1,50 @@
+And now after this Christmas holiday, during the holidays I didn't address him but now I see that he is not going to finish it because he stopped.
+(PERSON1) Annotator stopped, okay, yeah, so, uh, so if you, see, if it is an online document- If you see that the annotator has stopped-.
+And, then, um, uh, get in touch with [PERSON5] and double check that he would be able, uh, to do the processing, uh,  also at the token level.
+And, uh, we need to do the second round for many of the words, uh, the annotators- You and the annotator should have indicated, that it depends on the context.
+(PERSON1) We can actually put it to the to the master plan, uh for the- Um, um first shared task on automated minuting.
+Timeline, so we could put it into the shared task components, or we could put it to your agenda, whatever you like better.
+(PERSON3) So, uh, [PERSON2]- the ma- The agenda is in the master document so if you can check the Coffee Meetings.
+This is in full documents if, uh, that particular instance is an NE is not ,uh,  an NE, and then insert token level annotations again into the same xml [PROJECT2] documents.
+Uh, the documents will, um, contain information like, uh, this word was once, uh, was suspected to be an NE, but at the the words type, uh, annotation it was, uh, marked, uh, as a regular word.
+So this is not complete, but it illustrates that we want to have the, uh, uh, the finest possible detail about the annotation process.
+But it has to, uh, be this this copy of that is, is, like, just an automatic what uh, what, happens, if if you make a copy, uh, okay.
+That's- Like the word copy is good but this copy od is just automatic what, uh, what that happens if you make a copy.
+(PERSON1) Okay, well, so the idea, uh, is, uh, at the end we need to have the full collection of all our documents with all named entities replaced by place holders.
+So the process of the named entity removal has to be very clean, and we have to know at what stage of this process we are.
+The hard part are the entities which, uh, uh, like are normal names or project names or words, which can be names and may not be names at times.
+Um, uh, so that's why I suggested to proceed at the two levels, first at the word type level, and then at the word token level.
+But some words like Jan or some clear names like it would be totally a waste of time to to do them a token by token, so we can do these words all at once.
+(PERSON1) That's  not a problem like, uh, you have, uh, what you are doing is, is, the, manual, decisions, that's the value.
+In most cases in in ninety nine percent of cases these tokens, the particular things that you have in the list, they will appear in the list for everyone, whoever does it.
+Well, actually there need not be a replacement, but like the, like, the actual actual removal of the original text, uh, from the documents.
+Here was a project name and don't make it explicit, whether it was the same project or a different project.
+So there there will be a lot of gaps in this type of output, but I think it's for the sake of time.
+Uh, for the sake of time, we can probably afford to, uh, drop, uh, order to to ignore ignore tracing of these chains for projects.
+For for speakers like, uh, as, uh, utterance labels, uh, bu- f- and persons- I think that- Persons, uh- Well, I do not- Um but we should not ignore it for speakers, ah, in both, uh, cases.
+If the annotators already  de-identified, they didn't know who is who so the labels can be A, B, C and so on.
+(PERSON1) We might afford tracing, uh, other people who are only mentioned, uh, in the, uh, in the ext and uh, not, uh, taking part in the meeting.
+Jane is not not a speaker in this meeting, and someone refers to Jane at the top of the meeting, and someone else refers to Jane at the end of the meetings.
+And I'm happy to do errors in the second part, but I would be very unhappy to do errors in the first part.
+Um, so please get in touch with him and extract from him the information if if he can do this for us.
+If if if I locked myself for that week, it would be a few via macros, and I would be just hitting F one, F two, F one, F two, F one, F two.
+And we will then check if the procedure that we are already running is in line with that or if anything else needs to be included in the procedure.
+(PERSON2) So it means that we should kind of forget everything that we did before and do again from the ze-, from zero.
+So I would now, with [PERSON7], I would focus on the second form which is the consent to publish the data.
+If- Uh, so with um kind of preli-, openly said, if we really need all these samples for people we are sure about, like you and me, [PERSON3] and so on.
+And with the consent form sent to Jane or Mary we will say: "Based on our records you were a participant of this and this meeting.
+I will leave it up to you what do you find, uh, like the the balance between your labour and and their labour.
+(PERSON3) Yeah, so once we have, once we have the meeting IDs and these are the partcipants so like, uh, we can easily find to which ID belongs which participant.
+(PERSON3) Yes, so I think uh what you are suggesting [PERSON1] is like  instead of the master sheet, we could- We keep one master sheet, but we keep well from the masters.
+So that we can put it online as to the prospective participants of the task at the beginning of February.
+(PERSON1) End end of February would be a good date for the participants, for the meeting participants, to uh, to get their consents, right?
+So if we are able to have the data for them by mid February, then I would agree with you.
+I think that we will have the data at the end of February, and they should then do the consent.
+(PERSON1) Well I would suggest [PERSON3] that you put this list down and you would just put to be determined or in preparation.
+Does the document with the C, F, P. Could we use the same document for, uh, editing the text of that, uh, email?
+Make several copies, uh, uh, individualized in in various ways, and I will contact some, and you will contact some and [PERSON2] will contact the Russian ones.
+This can be done later but at the same time do you have any key note speaker in mind for this summarization?
+<laugh> (PERSON2) <laugh> (PERSON1) So, obviously we have to ask the old dinosaur well, not dinosaur, but the experienced people from the 2006, or what was that instance, the the AMI corpus?
+(PERSON1) And I'm happy to ask them also with the, uh, with  request of being on the committee, we should ask these two questions for these three persons.
+And then, uh, I would ask Ian <unintelligible> if he would either himself be, uh, like agree or have someone else to to suggest.
+And and you can at at the same time you can actually word it in Russian because I can validate whether you are saying good things or bad things.

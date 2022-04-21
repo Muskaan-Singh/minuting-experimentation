@@ -1,0 +1,50 @@
+Um, yeah, should I say I, I haven´t read our book for the last week and this morning I couldn´t, I couldn´t read it so I, I have no, um, I don´t know how it is, in what shape it is now.
+Or maybe everyone of you can say what, what, what was done and what is still missing and what we read and...
+[PERSON19] OK, um, so I´m still missing the introduction so it´s stil this, um, this, this (bullets) which I plan to rewrite into the text like one to put this text away.
+But the rest of the book or as rest of my chapture now should be kind of (OKish) so, um, it´ s ready for comments I would say.
+Now for syntax, um, I split it into constituency syntax, dependancy syntax, some other things that I go (up on) syntax and I (phase) writed in the way that I tried to sumarize the knowledge and then add evidence from the papers.
+Um, I took coreference at the separate thing because I see the something beetween syntax and semantics and for semantics, um, for some difference is missing.
+[PERSON19] Um, and there is, um, the comparison of individual architecture so it <unintelligible> now somehow and I think [PERSON9] had <unintelligible> that [PERSON21] has a survey re-, related to this.
+So not, not the whole paper but kind of the introduction and related work and I tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper so, um, oh, and [PERSON2] added the centroids, um, you did there.
+And, yeah, and I wrote a conclusion, um, to that´s high level view so, so I, it should be mostly in a good shape.
+[PERSON2] Um, should say that, that, that it should be our, our general awork so we can if you want to pretend that it´s like, um, that we present our original work in a context of, of other work then we should explicitely -
+[PERSON19] It´s not how the person the same authors as the authors of the book anyway so it is like on some <unintelligible> some <unintelligible> even <unintelligible>.
+[PERSON9] Yeah, the thing is that if you refer to your papers in the different way then the other papers, the, the whole book looks like more, um, more like, um, that you present your work in context of the other.
+On the other hand if you refer to your papers as someone else´s paper it looks like, um, what do you call it in English, like don´t appeal to authority which is not there like...
+[PERSON2] And the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+Like I have other cases where I think that would be authors that doesn´t show anything and, or show something else and I say this in the book so, hm.
+[PERSON2] But the difference is that, that you say, um, this is what the paper says and, and this is what we think and -
+[PERSON2] And, and here you say, this is what the other papers say and this is what [PERSON13] and al say and, and, and it gives a feeling of like, a feeling for the authority of the, of another paper.
+How would you say this cause you cannot really say we when you think we and [PERSON16] but not all of us cause maybe [PERSON6] and [PERSON9] don´t think so because they´re not authors of the paper?
+Yeah, um, so, um, so I just but, but briefly over it because I think anyway the plan is that well I, I try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now.
+If we like there, there is more potential interesting things that we could write about if we read them carefully and so on but, um, they don´t really have to be there but then probing is not finished, unsupervised methods -
+That the ACL tutorial, um, mention these methods only for, um, only for visualisation and, and it´s probably not comment you to use them quantitatively.
+It´s defined but I don´t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah -
+For, for instant for gender biass it´s, it´s, it´s, um, the doctor came into the room and mask said that and, and, and you want to test what´s the probability of he and she being the (word) it.
+Or <unintelligible> Goldberg, um, um, um, probe [PROJECT1] for some syntax ability using, using this like, like designing the set of comp-, of syntactically complicated sentences and, and was looking what´s the probability of the, of the correct, cor-, syntactic correctly words.
+[PERSON6] Yeah, the point is that you read the model as a (blank ones) only <unintelligible>, usually you can (struct) some interesting thing <unintelligible> that you something about a bit of the model.
+[PERSON2] We don´t refer to that but we can still say in this, in this, in this chapture that, that there is another way of testing the models and, and we are not interested in these methods.
+And I think like the, the women who, women who talks about the behavioral analysis takes like, um, an hour and half from them and she says, what she says can be summed up in like 15 minutes but..
+Let´s, um, ah, I can actually share the second screen and now I can move, well, I can move this, this thing here.
+[PERSON6] Well, so here is like basically say then they are too brought (approaches) structure of, structure of probing and (Chelling) says and <unintelligible> says are the, the behavioral thing.
+I think we have a different approach with the accent on unsupervised methods that, that we consider real methods and not just, um, some -
+I think most of the, um, [PERSON7]´s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization.
+[PERSON19] In lot of the papers that I see too they seem to kind of the (steam) that if, if just the linear classifire or linear probe then it´s kind of OK.
+So here we should mention the behavioral analysis (we can), we should probably explicitely mention that our classification is some what uncommon when the accent un-, unsupervised methods.
+Because half of the, half we are chapture and almost whole of my chapture is unsupervised and the [PERSON19]´s <unintelligible> is -
+[PERSON19] I know some people train, train a model to do machine translation and they say, yeah, it´s morfology translation to the most of the behavioral, tested on the task for which it was trained kind of.
+Yeah, I probably have some, um, some things like that and think that I interpret but I didn´t know the, yeah, maybe I should comment.
+Maybe I would let is as it is now and when, when we read it we can, we can comment and then, then we <unintelligible>.
+The worst case for me if, is, if I write it but yeah, I think th-, this is something that, that, that should be mentioned that, um, um -
+That these concepts come from, um, general machine learning community and even in the general machine learning community this is, this is li-, like, like the mainstream.
+Or in the rest of the comment that, that these are not NLP people but these are machine learning people.
+I´m in, in this, this chapture is about interpretation of neural networks and specifically this first part is about the general term, concept of interpretation and there, there´s like -
+[PERSON6] There´s, um, I, at least I don´t know about any discussion that would, um, um, that would, um, approach this specifically from the NLP (ten points) so linguistic -
+[PERSON6] Listed several methods and that´s, the point of this chapture it that, yeah, unless you like list methods, um, there´s no, there´s no general consensus on what interpretation means.
+[PERSON2] Yes, and this is not discussed in, in the NLP community but in the machine learning community and, and this is what I think we should mention.
+But I don´t think that it´s important to mention who the people are but if you think that it´s important then, um, <unintelligible> means mention it.
+[PERSON19] When it´s just called summary, it´s not very clear like suddenly this is all <unintelligible> summary of the whole book cause it looks like another chapture in the second part or maybe the, the last chapture.
+Yeah, what is missing in my part is rewrite or add, add something to the last, last, um, last section what is <unintelligible>.
+[PERSON9] So I, if you, if we (thinkg) and, or we <unintelligible> figures well and read it the whole book and comment everything.
+[PERSON9] I don´t know where we go to ask someone which really in, in this are interpretability or maybe we can ask someone else in NLP.
+People who know about it will see what is missing but we will, we don´t know about this who will see more like -

@@ -1,0 +1,25 @@
+ (PERSON2) Well, we have to pick which paper, uh, probably one paper I guess.
+Okay, I have to saw that because I've got maybe 2 dozen or more emails on that topic.
+(PERSON3) Yeah, which I've failed to doing time because I had other things as well.
+and we'll see uh, what what comes out and we'll let you know maybe already now.
+at our institutions, we normally can provide the final numbers at the earliest like 2 weeks or 3 weeks we cannot have the official numbers from our part earlier then in mid July, or towards the end of July.
+(PERSON12) Hi [PERSON3],  um, um, I'm in here from [ORGANIZATION10].
+(PERSON3) Either, yes, either you, or I thought that it could even be [ORGANIZATION10].
+(PERSON19) We- I mean, we have- [ORGANIZATION7] had fill in our papers and think of .
+(PERSON3) Yeah, for for this spread sheet, [PERSON7] has put the paper is here (PERSON19) I'd to conv- I converted Bibtech into spreadsheet ago, somebody in the office type it in.
+and we'll let you know in a week or 2 uh, in what format we need your papers.
+then uh, the choices validate from uh, the uh, 2nd half of June would make sense.
+Uh, we are able if I'm not mistaken, to run some of the [ORGANIZATION7] MT systems.
+Uh, so and they have like virtual machines uh, which then are okay for uh, running docker.
+because I know, that [PERSON14] had something which could be very uh, very promising for the ASR, right? So you've mentioned uh, the that your submission to IWSLT, or paper uh, paper to IWSLT.
+(PERSON17) Uh, right now right now that's text (based), still that's right now on- only for the for the MT side.
+Um, and uh, I would uh, like to have this this ladder climbing approach finally starting.
+Um, um, I'm actually reducing it to the plan of having frozen fingerprints and research fingerprints.
+Uh, now, since uh, a new date for the demo will be uh, found out.
+(PERSON19) And by now, all of us are kind of- I have to, I've forgot, (PERSON2) But but it  of 1 1 thing uh, 1 year extension, I probably don't see the purpose .
+(PERSON3) Yeah, so that's a question mainly for [ORGANIZATION10] and [ORGANIZATION11].
+or would it h- would it be bad for you to to ask for 2 or 3 months uh, of extension.
+Uh, okay, then uh, we should have a discussion, a technical call on the IWSLT um, uh, results.
+Uh, I'm not sure if [PERSON20] has uh, of the final results paper, which will be published at IWSLT, obviously.
+And then, I uh, I've already talked at the beginning with [PERSON2] about IWS- uh, IWSLT  remote presentation.
+Uh, [PERSON20], uh, are you planning to or do already have an Overleaf for the slides, or not yet? then I think, everybody should now be uh, pretty busy with uh, write up of the deliverables.

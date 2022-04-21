@@ -1,0 +1,20 @@
+ The first meeting of the European Council of Ministers has been called to discuss the negotation .
+The second meeting was held at the same time as the first meeting .
+The first session was led by [PERSON2] who planned to join but he was not there .
+Peers at a meeting meeting from 2011 for example.
+(PERSON4): So can you just show me that? (Person4): Ye, Ye, Peers.
+Peers: Can you just share the screen? (Peers) Researchers showed a snapshot of the interface which they have done for the annotation tool for annotators .
+The paper has not shown the interface of the tool .
+Human annotators are asking by scene board the transcript and the summary .
+The human annotators do answer the questions by the web application .
+Analyser proposed that we have the transcript and the reference in the interface .
+We build inteface which shows the transcipt and the summarisation .
+The annotators do not have to compute each and- because there are so many minutes and the ones which are generated.
+The annotator cannot do it manually each each equation .
+(PERSON4): Ye, interface is fine.
+But before the interface we need to be sure about that, before we have the rating scale that we have- The rating scale is.
+(Person4) The drafting from our link is very much boring.
+The drafting of each should be finalized .
+(PERSON5): Can you choose some two minutes which are easier to evaluate based on measures? (Person5) "We all can annotate a single minute and then we will see based on [PERSON 5]'s criteria" (PENENTENT) "So we all three we will judge not draft the minutes" The meeting minutes and minutes are already available and the minutes are also available and if they are automatically extractable it may have sense to extract all meetings that are available .
+The meeting is supposed to have minutes for each transcript .
+The minutes are found within a folder and the ASR and the minute, right .

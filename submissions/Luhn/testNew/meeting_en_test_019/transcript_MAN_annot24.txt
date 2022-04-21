@@ -1,0 +1,50 @@
+Eh, so I can not share the the the Google doc eh, eh - But - Well, I hope that everybody's looking at the Google doc.
+And thanks to all who joined, um, so to explain to especially Umar and Rishu who didn´t - And maybe Peter, eh, who didn´t have the experience with these calls last eh s- summer.
+The goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, uh, so that it is fits to most of us.
+So one of those is Matus Zilinec, for example, eh, so eh I would later ask Matus to eh to to give us a brief summary of what he he has been working on for the past months actually.And what he is is he up to.And eh, there will be a lot of connection with eh, lot of connections with everything what he do.
+Uh, and eh, we are eh, hoping that that will be allowed by you have to use these calls for the meeting summarization eh, eh, so eh, the - Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.
+And and the uh, the the warning that I have to say before we go into the individual ehm, individual report is that eh, there is the Metaforum conference.
+Eh, and this year we have eh, asked Metaforum to only allow us to connect to their - I think it would be Zoom eh, oh, eh <unintelligible> Zoom to only connect and show the the subtitle somewhere on the side, quite silently without much publicity.
+Eh, and I would like now eh, I would like to ask Matus now to start, because he has been the most eh, eh remote  for a while.
+So one thing that that, I have been working on is, uh, is actually actually trying to collect the data that we can use - The monoli- monolingual data tha- that we can use eh, for for this rainbow models.
+And for this I have actually found - I have I have a - Because like the problem is that that we need the domain specific data and - (O) Mhm.
+(M) I have - So, I have been thinking that that well - Eh, so so so at first, I tried eh, actually filtering eh, so- some some other data sets that already exists.
+So, so what I thought is that I would eeh - I would go over some, eh, some more pages, wer- where there are actually some videos, and to download transcripts from there.
+(M) So I I have been looking at this, and they they have also released - Basically they haven´t released the data yet, I think, but they have also released the the trained models.
+So that we can eh, use it to to - So can you - So that we can adapt adapt their data collection, eh, for for some kind of spoken data.
+So with the evaluation I would like you to em, test the evaluation eh, using ELITR test set and SLTF and in on the call I saw - Now it doesn´t really work for me the Zoom is kind of stuck.
+Eh, I think the current version of - First of all Mohamad wanted to attend the call but he had problem with Internet so he wrote his report there.
+And as I said you Ondrej, it´s now workig wi - For example, it´s working eh with alignment by - I mean <unintelligible> if they are inside in ELITR test set.
+(E) And we created one eh, index, new index, if you see, I put the name of the next inside the call, inside the, you know, Google doc.
+So the - Yeah, so the - For everybody, the general idea behind this ELITR test set and SLTEV is that we would like to make it the standard evaluation tool.
+Eh th- so eh, well look up that GIT hub repository and eh, SLTEV eh is the tool, which uses eh - It can use any other inputs and references eh, but it is also directly capable capable downloading what eh, files you want to evaluate on from ELITR test set.
+So everybody who is evaluating something and that is Matus with the Facebook models Matus with eh, your previous eh, multilingual models, um, uh.
+So Sangeet can help with that eh, to - So Rishu and Sangeet to evaluate all the workers that are in the ELITR pipeline.
+So please, everybody get in touch with Ebrahim directly, and get it s- Like eh, like find a way in which this tool will work for all of you.
+But if any of your, uh, evaluations would uh, would be like more interesting than we could switch to this other use case, so that´s - In any case this is a a big request from me.
+(O) Yes (E) But you - Okay, but you you want the previous version also, because you said in your you know when we were talking - You said when you were talking you said: It works independently, without any <unintelligible> (O) Yes.
+At the moment I don´t know what I should work on, and eh, who - With whom I should eh, maybe - (O) Yeah, so - (S) Work with So yeah - I I´d be really happy if you just - (On) Yeah.
+And the most urgent thing to do is getting the evaluation of the of all the systems, of all the components from the eh, mediator, all the connected workers, running through ELITR test set.
+(O) So please talk - You you don´t have to - So eh, that´s like this these conflicts with like regular lectures eh, eh, let´s eh - Your lecture has a p- has a priority higher priority than this call.
+(E) Okay, so if it is possible please contact Mohamad and ask him for this call and if you want I can also attend the the call to - (O) Yeah.
+(B) Yeah, but just in case that - (O) Somebody - (B) To have access to the system and cluster so I can do something what I can do there.
+(R) Then we can - (O) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?
+And also we can take a look in the  - And I can also send you eh how how they do this eh data collection in Face- Facebook, if  that would help.
+Is that kind of eh, of the current summary or are you more working on eh, s- whatever data augmentation for ASR or - So maybe Peter?
+Because that is something which we would - If your model eh, evaluates well, using SLTEV on ELITR test set, we would like to have that integrated.
+Then it would be great to eh, like ask someone to help you, for example Rishu, to to help you, with the onlinezation of your model.
+So please keep that in mind eh, that we want to evaluate your model and if it looks good, then we want to have that integrated.
+So if if we have trained model for English-Czech and German-Czech, then then you can try to copy the parameters one encoder to to the double encoder model.
+Always try it with small models and small data, and only once it works technically and does something very useful or on on this very small data set.
+Can you maybe just g- send the copy to me so that I know what models you are working on since I'm working on similarly on some multi-targeted models.
+(S) So so I I also have to leave, my lecture is ongoing and I have eh, said my part and I know what I should do next.
+What I´m uh, really eh, working on is eh, like call it there chopped data set and with that I I I´m using regular eh, speech data set.
+So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.
+So it has eeh - From my point of view it has eeh, few few at- eh, few few eh <cough> Eeh, few things that can improve the eh, improve the the robustness of the ASR.
+(P) Hm, well I should be I should start to work on multi-lingual ASR, but eeh, this this - Because I I´m still at home and I eh, do not have much time to work.
+So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be - I´ll start with the wil- with the multi-lingual ASR.
+And - (U) I would just confused that what he is actually waiting from - He was something mentioning about the comparing the performance of your system with something <unintelligible> So was he talking about the this multi- accented ASR or was he talking of multi-lingual ASR?
+I I think I need need to work on whatever he was thinking about so I will just maybe first to <unintelligible> the path of data from <unintelligible>.
+So eeh, what are the tasks we need to do - Well, ehm - There´s these there are the data from the Interspeech challenge and we need to we need to check whether we can use these data.
+But uh, I guess the the Mozzilla Common voice is the best option as- If I recall correctly, the most papers that work with accented speech eh, were are working with the Common voice data set.
+(U) Okay, that´s that´s <unintelligible> I´ll then eh, leave the message for you on mail and whenever you have time <unintelligible> (P) Okay, so I guess I think is evertyhing.

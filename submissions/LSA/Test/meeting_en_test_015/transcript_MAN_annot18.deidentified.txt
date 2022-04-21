@@ -1,0 +1,50 @@
+So today is the deadline for, um, stop adding new content into the book.
+So it´s kind of, yeah, not plannig to add new content, just write this nicely.
+So I guess the paper that cited there the [PERSON17] <unintelligible> for the multilinguality this is what we´ll kind of appear there and yeah.
+So I opened the paper in Inkscape and I degroup it and I saved just the image into the file and <unintelligible> png.
+Yeah, I actually don´t know like to rules like, I think it depends on the licence of each of the papers.
+[PERSON20] Um, if it´s from ACL antology it´s, it´s creative comments.
+[PERSON24] OK, so then it´s creative comments atribution 4.0 international licence.
+I, I plan to generate the picture from, from tabels which are in the, in the, in the papers so, so it looks better.
+I don´t think there are more papers about grammatical error correction or event fractuality.
+I didn´t want to put through it just other but then it´s true that I don´t know where to prove it like these are syntax but, but the the other ones like gender of nouns -
+[PERSON21] Like it´s hard <unintelligible> but some parts are probing but in transformers.
+Well the problem is that, that, that (lighting) doesn´t want to, um, do the words through, through Overlap.
+Latex just, just for to prevents, the words from overlapping and then, then that´s why it does those stuff.
+[PERSON20] So if I want to read something I should start, um, what section?
+Yeah, the, the pictures will be, will be changed within so the-, they, they should be nicer but, um...
+This will written by [PERSON24] and I, I have rewritten some, some parts so that it more fits the, the book.
+I have rewritten a bit the 5.3 but, um, is still, there is still missing the last, last part of this and some discussion o-, on this part so there is still missing something and the end of this sub-, subsection.
+So this is more or less written but yeah, some parts still need to be rewritten and, and the pictures may-, must be done better.
+Then there is this 3.1 methods for interpreting neural networks and I thought [PERSON14] said he would write something.
+I, I promised that I will, I will, I would, I will move fast of my introduction of my chapture to here as well because these, these are, these two texts are very, very similar.
+Yeah, I finally managed to train FastText embeddings.
+[PERSON20] But, but my point is that if you, if you would try to like shift the mean of the Glove colour scale you might end up with the same image as, as they, as they had.
+[PERSON6] So, so basic <unintelligible> numbers should be normalized a bit.
+[PERSON24] Because the, the scale is automatically adjusted to, to show the whole range.
+I thought maybe some of the embeddings do have some extremes so if you include these extremess then most of it will be squashed.
+Also these figures are not completely the same because the original [PERSON2] model had some, um, I´ll -
+[PERSON24] They are some connections directly between embeddings and the soft max layer.
+Well, if I, if I make the, the subsign smaller it will, it will get fixed probably.
+[PERSON24] Yeah, I think we can improve the figures after it´s been send to the reviewers right?
+I think I maybe able to find the source and generate a tix file.
+So I´m sure I can generate a tix file for this big cloud.
+I will have to rewrite the cropping thing because that´s done on the bit map.
+Yeah, but OK, I´ll, I´ll transform this from a bit map into proper text after everything else is done.
+[PERSON20] And, and half of giga byte disk space.
+When you finish your part made the lines in the, in the [PROJECT3] schůzky document, um, green.
+The only thing missing for me is add PCA and ICA which I can basically copy from other texts.
+Or whet it´s written somehow we should all of us, we should read it all of book and comment it what is missing where and yeah, where are the problems and other things.
+For example [PERSON16] the word of tokens (text and trees), the reviewers are [PERSON10], [PERSON22].
+[PERSON20] I was also thinking about the preface don´t we need like a real introduction that, that all the books have?
+And do we have, um, conclusion or sum-, summary of our book?
+Yeah, summary in English must be in every Czech book.
+[PERSON6] Yeah, they are undefined references not (reply) defined labels.
+[PERSON6] Yeah, so there are some citations that are not in the Zotero format so they´re deffinitely will bee always missing.
+I, I´m not registered for ACL anyway and I didn´t understand much like how it´s really works and I didn´t have time to investigate it so I´m just waiting so if somebody else like prepares it for me and says me, sit here and watch this and -
+[PERSON20] There are, there are prerecorded presentations and a-, after there are broadcasted, there are live QA sessions.
+So, so the presentations will be broadcasted like prerecorded and then the QA will be live.
+If you want to prevent like situations one, one, no one someone´s internet connection <unintelligible> presentation or something like that.
+So perhaps all videos who are registered will get [ORGANIZATION1] link and will, will be able to ask questions and, and maybe the others can watch it as well, I don´t know.
+[PERSON6] I think it should work (badly) if you´re here and somebody else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true.
+It definitely at least depends on what other people want to watch.

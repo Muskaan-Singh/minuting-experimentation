@@ -1,0 +1,50 @@
+(PERSON9) So this is what I would do.
+(PERSON9) Yeah so it should it should it should not be that difficult.
+So today at the same time we are also having the [ORGANIZATION6] promoting so what do you want to do with that?
+(PERSON9) Yes, please e-mail [PERSON9] and yeah, and we'll see.
+(PERSON7) Yeah, it's it's.
+So that we will not share a screen, because we cannot like broadcast.
+So actually on the [ORGANIZATION5] server we are able to expose an HTTPS URL, ok.
+[PERSON6] Ok, I I will have some idea.
+[PERSON6] I I don't know if you have time to now I I can demo -
+(PERSON9) Yes so this this last bit is something which we well we have not really done that.
+Yeah, so so this this is the best solution.
+But it was ok.
+So the the channels that we have or the videos that we have recommended was this [ORGANIZATION3].
+With the yes no if need be.
+(PERSON9) Ok, that's, yeah.
+So.
+(PERSON10) So.
+Well [PERSON4] is and [PERSON12] is for German.
+But others, if we do this if we do the meeting in German, sorry the meeting in English.
+This is just this is just the that [PERSON7] needs to start the machine to follow the sound output whatever is being played.
+But so so plan A is crossed, like we don't want to go for it.
+(PERSON9) And [PERSON4] and [PERSON12] should select the video and test the the performance.
+So.
+(PERSON9) Yeah, we have also the 8 of, the 8 of May.
+(PERSON9) Yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting.
+Ok yeah I'll just leave the meeting.
+And it should be running for for the rest of you.
+I don't know if it's interesting for you, or otherwise, sorry.
+(PERSON12) Well if I have video that I think would be good but I can test it on our set up.
+We have a mediator too, we can I can test it on that presentation platform, but.
+And and see the output of that system, that would be good.
+Yes we have it.
+And you should just like do dash the name of the file and yeah.
+But in order to practice we should be able to write the video playlist file which is the M3U8 directly in the public directory.
+Ok, now you should see my shell.
+And.
+(PERSON7) Ok ok, so can you play this video?
+[PERSON6] And this is the the video streaming.
+I'm going to search for the for the text input for presentation platform for you.
+Or we can put the video in the presentation platform which actually has the the box.
+But well I think it will be interesting to check it.
+And in the afternoon I will not be available because I'm in another meeting.
+(PERSON7) So.
+(PERSON7) So I I'm saying that I just shot an e-mail to [PERSON5] and if he can join us for the meeting then we will be able to fix audax quickly.
+(PERSON12) Ehm I think as long as you have a set up that i can use to test the videos and ok, I'm actually-
+If you need us well you will you will know where you will find us tomorrow, ok?
+(PERSON7) And you will for plan B it is so so you will show me how to insert test text into the [ORGANIZATION2] presenter [ORGANIZATION2] presentering.
+[PERSON6] Is it fine for you to have, [PERSON10].
+So [PERSON10].
+(PERSON7) Ok, then I think if we have no more to discuss anything.

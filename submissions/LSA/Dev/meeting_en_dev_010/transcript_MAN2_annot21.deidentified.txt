@@ -1,0 +1,50 @@
+(PERSON2) No, I haven't done any steps and decisions, I thought sort of you'd ask with doing it- (PERSON3) Yeah.
+(PERSON3) Oh, that is strange because independently, [PERSON20] has received a request from the main organizers to prepare a video for his- Well, the [PROJECT3] submission and- (PERSON2) Okay, then- Yeah, that's 2, so we- There was a selection process, which ones to select for- (PERSON3) Okay.
+(PERSON2) For the for the decisions of- So for what I've understand understood from [PERSON22], it's <unintelligible> wanted to know and 24 was everything sort of.
+So have I and - <laugh> (PERSON2) And so [PERSON22]s latest proposal was- So over your paper will be exactly um, podcast.
+So we ask for the financial tables with the deadline of May uh, for like a testing purposes.
+And uh, we will review those, that we have received and please, be ready to to have the final versions of these, which includes June um, spendings um, in mid July, or late July.
+So expect that at the boundary of July and August, there would be some paper with necessary on your side and especially in your respective financial departments.
+But everything- The content should be already pretty clear after this dry run with uh, with the May preview of that.
+The only thing is um, that we're not turn out to see the numbers from our colleagues, all the salaries.
+So then the most important, uh, stuff to deal with is the large- pretty large set of deliverables.
+The reviewer on spoken language translation, which is overseen by [ORGANIZATION7] is also missing.
+So uh, if you haven't done so yet, please, make sure to enter all your dissemination activities remote, or in person, which obviously was limited, into the continuous reporting table.
+Um, especially what we were we need especially more input is in the scientific dissemination part and the workshop and NLP technologies.
+So about the- about the workshop, uh, I suggest, that we actually say, that more details are in this separate deliverable, the 7.2.
+(PERSON8) So only if you went- if you were attending a conference, I think, we have put it here, but otherwise if we just were, well, if there was a paper we- (PERSON19) I I understood, that some kind of semi-automated system for getting papers and the EU units open (IRA) or something like that.
+So the uh, I remember, that someone told me that if we simply put the papers into our Biblio, which is our bibliographical system, then it will get there somehow.
+So for regular paper submissions, which have a conference presentation, I would not put them into this table.
+So we'll we'll check the open air uh, thing and we'll check how the the uses that um- It's possible, I remember that in the past projects, such as in <unintelligible>, you've asked us for Bibtech entries uh, of the papers.
+(PERSON19) I'd to conv- I converted Bibtech into spreadsheet ago, somebody in the office type it in.
+So [PERSON21], please make sure that we we do it, that we examine like what has to be done, and we'll let you know in a week or 2 uh, in what format we need your papers.
+Uh, so the Bibtech for me seems natural, but there is a big risk, that there will be this manual conversion necessary then on on our side.
+So maybe, if we figure out the official format better, then uh, we can ask you for the appropriate format right away, or possibly, if your universities have uh, a system, which already handles these papers, then it may get to open - I don't really know what open air is.
+So uh, th- there is chance, that it goes there automatically from big research institution, such as universities.
+Remember, that we agreed to have them, essentially by the end of uh, this week or on Monday.
+And there will negotiate with with the respective reviewer to to- We will buy some extra time for from them.
+So that so that everybody is aware that uh, it's not just the main author, but obviously all the participating sites, who have to contribute.
+I'm still waiting for the all-clear report and  with a all uh, service have come up successfully again, some of the uh, file service, we are still doing file system checks, but it looks like we should be back to operation walls.
+And let's give them the- Uh, I'm pushing this earlier as because like we are getting quite far into June, since there would be again some delay, 1 day until they decide, what they what they they would prefer.
+(PERSON19) I I mean, we we and all <unintelligible> and other projects some worker and we deliver MT system dockerized.
+We don't <unintelligible> exists were dockerizing systems, but we kind of know how to do it um- (PERSON3) Um-hum.
+And I I don't know because registers we've a run servers, but I'm I'm really surprised, that your IT system are just like no docker.
+(PERSON16) Because actually, I I have to ask before, but <laugh> our virtual machine, you know, with the- (PERSON3) With the GPU, yeah.
+And the other very important message, that I've learnt was that we must avoid updating the systems before the demo.
+And the production system has to be stable without any new segmenters, any new updates for a long period of time.
+Um, and again,  as <laugh> that's also very compatible with things like <unintelligible> with dockerization and- (PERSON3) Yeah.
+But you know, it it t- takes <unintelligible> to run it, it doesn't- (PERSON3) Yep.
+Uh, to to put it in our terms, or to put it in our setting, uh, is the main message, that I would like to ask all the partners to avoid doing any updates to their workers shortly before the demo.
+And aside from the the bomb and and power outage it [ORGANIZATION5], this also put the demo at very big risk.
+(PERSON17) But German to English 1st <unintelligible> is translation is more interesting directly.
+Uh, so this is exactly a candidate for a thing, which if it work an if it was well integrated, it will be great to to demo it.
+We have lockdirs, which record the outputs, including time stamps.
+Which uh, will cover further language pairs and and set-ups than the IWSLT shared task.
+This ladder climbing needs that we'll be regularly testing a new models and new components in the pipeline and putting all the results into one single table and that will tell us, what is our current best technology for this particular set-up.
+Uh, and if we if we say that: „Yes, we have chosen the system, the particle configuration, which works best on this <unintelligible> demo."
+This is not, the not, the not a proper evaluation, this is what is the best performance that we can deliver, uh, a kind of test.
+(PERSON19) And by now, all of us are kind of- I have to, I've forgot, all of us are resembling our sort of in term figures.
+But I also mentioned this other thing, which isn't really Covid related, but- (PERSON3) Yeah.
+(PERSON2) But but it <unintelligible> of 1 1 thing uh, 1 year extension, I probably don't see the purpose <other_speech_unrecognizable>.
+It's hard for me to plan like this much uh, ahead, so 2 or 3 months sounds good to me and that's that's it.
+Yeah, so that's that's probably what what will be the final result, that we will ask for 2 or 3 months extension of the uh, of the project.

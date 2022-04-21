@@ -1,0 +1,50 @@
+(PERSON1) Yeah, so uh so I'll try to reconnect uh I'll uh yeah.
+It's, uh uh uh it's it's great that, ah, the D- [PERSON4], you have thought of [PERSON5].
+(PERSON1) Uh so if you uh [PERSON5] had the time uh obviously, there is no way we could do it for the next week.
+(PERSON1) And uh af- I've asked [PERSON9] because I've seen uh the uh [PROJECT3] project uh demo.
+(PERSON1) Well maybe I I I thought uh uh that that maybe some students of [PERSON11].
+Uh, but uh, s- so that, uh, uh.
+So I don't want to uh uh like uh defocus him too too much.
+I would like to hear an update uh uh f- for the sessions uh for next week.
+And get the uh uh get the uh, uh vocabulary.
+(PERSON6) And uh I I just saw the uh program for ([PROJECT2]).
+Okay, so in the afternoon, for example, in in the Czech afternoon, you are able to to uh to do something.
+And I guess it's not that uh uh you could have a z- Zoom call again uh with the videos uh.
+We have the the links, uh uh uh somewhere else maybe.
+So like uh Zoom Test for uh two uh youtube uh videos at the same time.
+So, and [PERSON6] [PERSON6] uh has been working on uh adaptation uh for the two domains.
+Uh and then uh Friday uh um test uh time for two concurrent sessions.
+So uh if [PERSON7] can uh uh do that.
+Uh but still, if I am keeping track of the files, which uh needs to be manually converted so that I can write write a script.
+Yeah, so this is uh <laugh> an important thing that we should have s- uh uh like c- come across, some months ago.
+So for example, the call that I had uh that uh was someone was interviewing me.
+And here we are running on the uh in the problems of conversion of the of the file formats.
+(PERSON1) And there is uh the (money dogs), and these are important for uh the uh (CL) domain.
+And uh so I know that [PERSON6] is working on the [PROJECT1] test for the two domains.
+And uh uh uh uh I'm very curious.
+So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.
+So uh uh whatever you see uh b- by shown by [PERSON11] will be also useful for you.
+(PERSON6) Uh I I received your email yesterday with uh the thing I was I mentioned in the <unintelligible> (ASL) system without using (pretest) (for pronunciations) was better than <unintelligible> (multiple pronunciations).
+And so uh uh it the (ESL) decoded it as I think (for IBM).
+And then I noted- uh, uh, uh, [PERSON2] produced uh the long uh word list, right?
+(PERSON1) So you just convert the uh the uh international phonetic alphabet into the phonemes, uh, that uh uh that uh (cmu) knows.
+I have to uh uh  I will have to leave now, because I need to give the kids, the, the, the lunch and so on.
+And I think that this way uh the uh these uh systems should be able to to load it.
+Uh, so that it works with the uh with the generated dictionary.
+I'm finishing training of uh German ASR that may be used for for uh for uh time stamping.
+Uh uh it uh they claimed it has uh more than 600 hours than a but uh uh the training set.
+The uh the uh uh actual training set uh contains only around 300 hours.
+Uh, used to observe uh her more steep conversions, and uh now it uh um.
+I uhm take uh some uh samples uh f- of uh during the training.
+(PERSON2) But uh if if you have uh transcript, and we want just to do uh just to do uh time stamping.
+Uh and then uh [PERSON3] needs to prepare to have the double uh system running.
+Uh and uh m- uh uh and improved numbers uh on Monday.
+So the uh the uh (CL) decision uh really has to p- happen on Monday.
+For the (saw) and uh s- uh uh for both the different tasks.
+So uh actually, Mohammed compared the scores between, I think, uh it was (rainbow) and there (summer) set of workers.
+Uh if not, then obviously we can uh fall back to uh the (rainbow).
+(PERSON5) And basically the uh so the uh yes.
+So uh so I, I now see that the the transcripts for for these files are don't have the right length.
+(PERSON2) Uh uh I guess that they are so mhm.
+But I'm uh uh I'm as sure I am <unintelligible> the main adaptation models.
+Uh [PERSON5] can I uh just end the uh meeting?

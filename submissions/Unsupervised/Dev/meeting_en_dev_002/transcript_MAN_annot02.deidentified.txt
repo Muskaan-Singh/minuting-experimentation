@@ -1,0 +1,40 @@
+ (PERSON6) Yes, he has just written an email asked for the address now are we and I have answered him.
+I think that more importantly, we should definitely have the uh, have AMI and ICSI data in there.
+(PERSON6) Well, the problem is AMI is also that it is very different from the point of view off summaries.
+If at least the meeting runs as we expected it, to round, then we can do our own minuting.
+So it would be like a contrast, if summary a non-standard, an alternative summary of the um, for the AMI meeting.
+And I don't know [PERSON2], [PERSON2] and [PERSON8] and [PERSON4] bla bla.
+(PERSON6) And now [PERSON8] came and said that it's really seems to be very, very few, and he had, and he he made a summary of what is used for share tasks.
+(PERSON8) So [PERSON1], I, yeah, so, I must say that I went to almost thing to share tasks.
+But if if only half survives, which will give us 50 hours of English and uh 30 hours for Czech then dividing this half and half, It's 15 meetings of the like if your score would be just one word scroll like a good or bad.
+(PERSON1) Cannot, you have to do this in alignment between the session and the minutes manually? Um, uh, and uh, if you get all the name identities right then probably you -.
+(PERSON1) So the the way I see it now is that we should have a like one shared task assignment or well, maybe you have the A and B or.
+And then uh, we are also uh, like extending the coverage for the [ORGANIZATION2] sessions.
+Can we download that data and will make um, like  then as the test set training to the participants,  (PERSON1) Well, the idea is that no one refuse there is no money they could get from you.
+Yeah, we have some chapter ID some document from the [ORGANIZATION2] corpus with the name of the chapter.
+Uh, because the previous example, that have shown the title was like voting on the previous session minutes.
+by the producer of you, uh, and then you do that, and then compile that in the OHDS the various corporate, but you're right.
+(PERSON1) Finding and downloading the pairs of transcript and the minutes for all the sessions that are there.
+They kind of summarize, and then and then and discussion, and they are as summarize, and maybe as well in another way, but not in in a bad way.
+(PERSON1) Yeah, yeah, yeah, you were speak for the benefit for [PERSON2], not like -.
+(PERSON1) So the way and WMT would WMT is that we had uh, uh like constraints single language submissions.
+And then when we looked at that, we realized that we do not have any structure and there for example.
+(PERSON6) And, so, it should probably look kind of similar our basic symbols and [ORGANIZATION2] data set.
+(PERSON6) Transcript begin somewhere transcript ends and summary begin summary ends so.
+(PERSON6) Yes, but should be for example at the end of this should be appointed the end of the challenge.
+[PERSON6], have you seen the TEITOK presentation by [PERSON5] or or what is his name.
+He has been on the Czech parliament browser, and he definitely has a great experience with XML for preserving the original data.
+And he now knows how to preserve everything essentially uh, but we don't need that at the point at the moment.
+(PERSON6) Format is not a zero and it is a question that should be kind of explicit.
+(PERSON6) Well, it's really in your head.I don't have I don't have any idea.
+(PERSON6) And I think also that [PERSON2] understanding of it and yours understanding of it are also different, because one for example to begin the transcript and end the transcript.
+And then me and [PERSON8] will start the processing the conversion, and then [PERSON8] would finish that.
+And test it with just txt output but then we probably move to something which preserves more of the  details.
+(PERSON1) So the key thing is that you will get the pair of HTML, or actually, this is not HTML.
+And then you would do that you would populate this there to structure with HTML of the minutes that you can download.
+I'm just working whether this [ORGANIZATION2] corpus should be in [PROJECT1] minuting or whether should be moved one, one directory deeper.
+And uh, then will to discuss what in what way do we need to like rename it or whatever.
+(PERSON6) Probably, well, now we decided that [PERSON8] will work with the data.
+And, then, after after we have prepared it from from google ask somebody to correct it or some -.
+(PERSON8) So, [PERSON2] can you, can you share that how did you download this sticker data from the from the [ORGANIZATION2] web.
+(PERSON6) We have a  with, which can be heated, but it's not heated now.
