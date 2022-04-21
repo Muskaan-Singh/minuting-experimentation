@@ -1,0 +1,28 @@
+ (PERSON4) Yeah I was I was ready to type PIN PIN but I wasn't actually prompted for.
+The idea is you usually bypass the Mtray- M3U8 URL putting the frame in the [ORGANIZATION5] server which expose also the SSL certificate.
+So I'm I'm serving like regular files and I don't know how to how to stream.
+Actually I haven't yet finished to prepare this kind of pipe but I'm already able to swim an MP4 video file.
+Then we could set up an account for you so that there would be a net cut solution, like a horrible one.
+While [PERSON7] and [PERSON10] and [PERSON6] will focus on the on the technical aspect.
+So the plan B, that I have with [PERSON7] is that we will use this standard Youtube included Youtube iFrame within the presentation platform.
+And if there could be client it's working, I'm now putting it together with the other piece of the pipeline.
+(PERSON9) Well, I think it's very good to explain how badly it it like handles non-native speech.
+And one thing that I also wanted to talk [PERSON7] is that we really need to test restarts.
+(PERSON9) Yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting.
+Well [PERSON4] and [PERSON12], we are going to work on the technical set up.
+Then I'm going to search for something for you [PERSON7] in order to pipe text to the presentation platform.
+Is it possible for us to look in on the HTTPS web server, the [ORGANIZATION5] the [ORGANIZATION5]'s one? (PERSON7) Yeah I think so, but I will be using basically 2 machines during the demo.
+1 machine to run the set up and the other machine I think to inter- to talk with VS.
+Then run FFM peg in order to create the M3U8 playlist which is a standard to for for web streaming videos.
+We will be able to both stream the video on a public URL and provide input to AB client.
+(PERSON7) So could you demonstrate how the plan C which you're doing on your localhost right now? [PERSON6] Ok, I can explain you one half the part which involves the ehm video streaming.
+[PERSON6] And the second part is the one who's working on [PERSON10] in this moment.
+These takes an input the file Boris zero one zero one MP4 which is the video file I would like to stream.
+(PERSON7) Aha ok so it's like kind of frame window which is being updated every second or every few seconds.
+[PERSON6] I can put it also in VLC, for example in VLC you can open the network stream.
+For example we can organize still in the share screen put also a VLC for example which plays audio video.
+[PERSON6] If I, because, for example, if I'm joining the the conference call.
+[PERSON6] Yea.
+unfortunately I have still just I have just half an hour and then I have to leave unfortunately.
+(PERSON7) I think [PERSON3] [PERSON3] is responsible responsible for so, we actually need to book Zoom meeting slot.
+[PERSON6] Because it's really really something stupid that I'm not getting exactly what it is.

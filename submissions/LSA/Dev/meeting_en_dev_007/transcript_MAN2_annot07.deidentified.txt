@@ -1,0 +1,50 @@
+(PERSON4) So I'll try to figure out what's wrong here, because it's, it works kind of on my machine.
+I tried disabling Cleveref which should release lead to some new errors.
+But the question is whether you can also, whether you are happy to work like without the Overleaf interface with this, i guess it is it should be not a big problem for you.
+(PERSON7) No it's not, ehm, for us the main scoop of this meeting, should be to define a kind of structure of the deliverable documents
+So [PERSON8] wha- wh- what the heck, which file has [PERSON8] chosen as the as the source.
+(PERSON4) That would be good if it if it actually worked, uh, so the the reload.
+so the deliverable sumarizes presentation platforms of live, transcript.
+<unintelligible> paragraph platform, and remember to re-use the text already written in this.
+(PERSON4) Yeah, okay, great, so then if you click on our icons, either mine or or [PERSON7]'s.
+So we can discuss the structure of this deliverable, and you already know the ACL demo paper, so definitely please read that, and I think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+(PERSON7) Well, I just asked the about the possibility to share internals, and it shouldn't be a problem we should.
+But of course, in the scope of the project and descended it's important to explain why why it works.
+(PERSON4) Yeah, so, so that's an important thing, this deliverable is going to be I'm scrolling, well it doesn't say so, but we need to follow, the requirements in the description of work and the D platform updates, the six, is it publishing platform it's called demonstrator.
+Web based publishing platform be developed, so if you are looking I'll copy that.
+So I always email I think [PERSON11] is, [PERSON11] and [PERSON5], that always need too long time to contact the the people who actually know.
+(PERSON4) Yeah, please email all of them and say, and please tell them that actually, we are quite late with the preparation.
+Because it has to be internally reviewed and normally we give ourselves two weeks, which is today.
+(PERSON7) Well, I have a <unintelligible> of course i have several internal documents describing, for example, the architecture, the function analyses.
+(PERSON7) Preparing, I will be really happy if overleaf documents start compiling but it's not problem.
+And, but I will spend the afternoon putting the info inside, and also on Monday, well actually we are really <unintelligible> to them, deliverables, so don't worry.
+(PERSON7) Yes, we are working, trying to figure something goes for these kinds of publication, and we will ask your feedback next week for sure.
+So I think that the ideally, we should have our full content ready by Wednesday.
+Ok, so we should ask [PERSON1] and [PERSON2], and, yeah, I'm emailing colleagues in [ORGANIZATION2], and [ORGANIZATION4] who of them could review the the deliverable.
+(PERSON7) We will also avoid <unintelligible> world functional analysis because, you know, it is really verbous.
+(PERSON7) We need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works.
+Pictures are fine, also to prove that it's, it's something that exist and it's not only written on documentation.
+You will use your normal Overleaf credentials, so please click it and double check that you can clone it.
+(PERSON6) You will need to create special password for Overleaf, but then it probably should work.
+I think that a couple of pages could be fulfilled easily, with those information.
+And most importantly, send an email to [ORGANIZATION1] already today, asking them to ideally have it there by Wednesday and if they totally like refuse or whatever if they say "Well, we can do it in two months from now" then please look up your slides from the review, and like briefly sketch a paragraph for them.
+So just use the screenshot, which is in the review slides and a paragraph where you describe, what do you know how it behaves.
+So your platform is is describe to some extenting in the demo paper.
+(PERSON4) Um-hum, well that's bit tech but the PDF got created, didn't it?
+So the ACL demo paper is now linked also from that Overleaf document.
+(PERSON4) I'll modify the make file as long as you don't have any references, I'll simply avoid Bibteching them.
+And if you want to commit, which is important and to to do properly, and then type of make space CI and have a look at the goal in in the make file, because the commit actually
+first involve some pull push dents with Overleaf Git.
+So if people are editing, it will become impossible for you to commit your work, because pull and push, they will always have some change.
+(PERSON7) Yep, I I cloned the Git repo, I've just pulled all the last modifications.
+In order to, I missed the part regarding the, how to commit, how to compile it.
+(PERSON7) Actually I do not right, <unintelligible> directly on my workstation, but it should be installed hopefully.
+It worries about the fact that last page .style, doesn't take <unintelligible>.
+(PERSON7) Oh, don't worry, I also do not remember my <unintelligible> manager, which one is, but just give me one second.
+But the package names are called the tex live dash.
+(PERSON6) So if you say the YAM install tex live dash last page or something.
+Okay, there is section of presentation techniques in the paper they wrote for ACL.
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.
+So you see those version and the screenshots in a while, I'll just finish it and then I probably work on it like over night or something, but I guess.
+<unintelligible> a note if you think I should modify something, I actually don't feel like I should be the final one to dictate what's in there.
+(PERSON7) I think that, that probably you will write something much better that what I can able to provide to this document, so don't worry.

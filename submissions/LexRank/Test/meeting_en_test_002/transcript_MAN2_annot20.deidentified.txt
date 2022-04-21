@@ -1,0 +1,50 @@
+(PERSON9) Oh, uh, uh, we're waiting for someone, maybe, uh, that is going to join us, but I'm not sure.
+(PERSON4) And maybe I have, I have one from [PERSON7] here, but no, it's about the, the GitHub.
+(PERSON9) So, no, it might, it, it might be about 1 P.M. [LOCATION2] time, I'm not sure, what it is called.
+It's not [LOCATION2] time, right, it's, it's, it's, uh, different –
+(PERSON9) So, okay, so, that's that.
+I'm, uh, yeah.
+And also, uh, [PERSON6]asked me, uh, to tell you [PERSON4] that you s– you should think about the possibility that –
+We w– we would really like you to come visit us at least for, I don't know, for some limited time.
+So, uh, they really take it as a, uh, temporary solution what they have now, uh, for you.
+Uh, and, uh, the length of your duration, uh, I would prefer you to stay here but I know you, that you, uh, initially indicated that you would like to stay, uh, remote, if possible.
+(PERSON6) Yeah okay so –
+(PERSON6) Yeah, so, the letter is <unintelligible>.
+Uh, and, uh, uh, yeah.
+I, I think that you at the moment, you cannot apply simply because the [ORGANIZATION3] is closed.
+I know this for the Indian [ORGANIZATION3] because we have other people who are trying to come here and they really want to come, uh, is from India and they cannot.
+So, uh, I'm, I, I'm, I fear that the same situation is for [LOCATION2].
+Okay, I will, I'll keep checking and as soon as I can, I, I go.
+(PERSON9) Okay, so, so, I think that's care of the –
+So, now for the progress, uh, okay.
+The thing that the communication is not completely perfect and, uh.
+(PERSON2) Like it i– like it is fine, but, uh, yeah, uhm.
+And now, uh, the state is that, uh, [PERSON5] is preparing the leaflets, he would be handing out to, to participants and that's it.
+(PERSON9) Okay, so, so, next, uh, let's go to [PROJECT2].
+That's it.
+Like uh –
+(PERSON2) Yeah, we have to like in this week, I have to, uh, discuss things with [PERSON8], what should we do next.
+Okay, so, the, the –
+Oh yeah, we already discussed right that you're, you're, you're s– still catching up with the state of the art.
+So, the thing is that it might be useful, but I'm not completely sure whether we would like or how w–
+But, yeah, I, I'm thinking that, that it might be implemented into the pipeline somehow, but – I– in my case, also, I, I, I, don't know, don't know exactly how we can add it or include it right now.
+(PERSON9) And it, it seems that it ma– might be useful that the, the approach they, they take there in in the paper, so, so, definitely good thing to keep that in mind.
+The, the problem is that if, uh, the decoder generates a sentence that is, uh, has the same meaning, but different words, maybe we have a problem trying to use just (blue), right?
+(PERSON9) Hm, so, yeah.
+I think if we, if we sort of maybe take the pretrain model and, and fine–tune it during training it might be actually useful for, for this kind of distinguishing.
+It's, uh, because of that, uh, like case of paraphrases, that bo–, <unintelligible> is in fact measuring the similarity, not the diversity, or?
+(PERSON9) No, so, I, I can –
+(PERSON2) Yeah, yeah, hm.
+(PERSON2) Hm, okay, okay.
+(PERSON9) Yeah, yeah, I, I think, I think that we can focus on this.
+(PERSON4) Yeah, I, I don't know it was, uh, addition idea that I think that we can work on for now until we have new ideas.
+(PERSON9) Yeah, this is –  this definitely sounds interesting, because again, I think that the papers that do focus on the constraint decoding, they, they really don't evaluate it from this perspective, right?
+Uh, yeah, so, that's, that's a good start.
+(PERSON9) Ye– well we can, we can, uh, yeah.
+Let's pu– put it this way, like, if you, if you don't have a–anything to discuss, we can leave it at –
+Like leave it b– let it, be it for this week.
+Ye–, uh, well but then I think like this, this might be a good, good approach to the, to the task.
+We'll, We'll see, we will see how much time it will take, depending on the, on the, on the time consumption, we can then, uh, shift to, uh, additional or another, another research direction.
+So, we can, uh –
+But yeah, we can, we can wrap it up, and I guess see you, see you next week, right?
+(PERSON9) Okay, so, yeah.

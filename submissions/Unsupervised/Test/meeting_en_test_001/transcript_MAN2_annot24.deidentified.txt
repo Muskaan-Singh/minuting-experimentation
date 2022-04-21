@@ -1,0 +1,27 @@
+ So, ehm, from this Monday we can actually go out even if it's not like the necessity.
+(PERSON5) Yes, but if you are in the city then you have to somehow get to the forest, so -.
+I've link there in the in that Google sheet we have for tricking our like deliverables or stuff -.
+So I think that the the two point one, the initial ASR systems [ORGANIZATION6] is not providing in ASR system.
+(PERSON6) And for this D7 2 do I understand correctly, [PERSON5], please correct me.
+So I think that that that (little) should be like cross reviewed between [ORGANIZATION8] and us.
+(PERSON5) Okay, anyway, I'll write something and someone then will review it.
+(PERSON1) So this is the WMT 20 [PROJECT1] test you are talking about, or? (PERSON1) So wa- was the August the August just the (low) deliverable of the year 2 test set, is that right? And if it's the machine translation test set then it's the standard (poll) think, ideally documents.
+So that we we would really have like there could be a file list cord called year 2 SLT test set.
+(PERSON1) Yeah, and I, I have observed that Max apps test sets really quickly to sacrebleu.
+So the the file list, and uh, that there should be only 3 at most 3 file lists that are interesting for the general public.
+(PERSON6) So I think that for the for the general public there should be just at most 3 file lists.
+Eh, so so the so the the one people misinterpret it then someone's results can be like shifted in bad ways.
+Then everybody's like each party is affected in a different way, and that's bad for the for the evaluation.
+Then indeed, we will ask the people to find these text monolingually and translated maybe back to Czech.
+Then and if we test with these test sets then it will be very easy to do the deliverable for August.
+Yeah, okay, so so maybe maybe [ORGANIZATION2] has already experience with defending their approach to the users.
+Um, I mean we only tested this simulator ASR which talking this morning about trying to get more testing the ASR.
+So little bit respect on this, I'm not an ASR person so probably [PERSON2] could  more about this.
+(PERSON1) Okay, so if the ASR wait to the end of the sentence before sending his hypothesis.
+(PERSON9) We will have our new generation of eh models previously based  transformers finally in direct translator.
+[PERSON9], you were saying that with the in the end-to-end SLT which includes transform models now in the new generation.
+(PERSON6) Maybe, maybe, so actually it won't be better if you could even create the Doodle Poll with time slots already for [PERSON4].
+(PERSON16) I think it's better if we (post) the final this proposal informaly as a Doodle and then ask [PERSON4].
+(PERSON13) I, think that probably we if you would like to present to the same thing we should then everything right now put the same set up without the (audition??).
+So maybe if the primer language would be German, because [ORGANIZATION2] has good models for this.
+Then early next week, we should sent an email to the [PERSON4] to truce, his date.

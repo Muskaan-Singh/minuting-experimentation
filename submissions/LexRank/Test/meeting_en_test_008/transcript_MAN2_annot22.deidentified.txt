@@ -1,0 +1,50 @@
+[PERSON7] Okay, so, yeah, So [PERSON3], [PERSON3] is there as well or not?
+[PERSON7] I'm sorry, I I I can't  understand you much because, yeah, this -
+[PERSON3] And so, what is it I look at the my papers and the -
+I I I read them, it, and yeah -
+And you you should you can try to probe on [PROJECT2], or [OTHER5] or these of GPT tool, or I do not know -
+And -
+[PERSON3] We use <unintelligible> one in in the paper.
+[PERSON3] Okay, so, we used the [ORGANIZATION2] in that paper.
+[PERSON7] Yeah, you you you [ORGANIZATION2], yeah, yeah and -
+Okay, but, that you can use the [ORGANIZATION2] and you can use SL the the word the read the context word and manning.
+[PERSON3] Yeah, and another <unintelligible> we did, we we was barely admitted what we did but but in a paper.
+Okay so, okay so, you you can start with I don't know, if you can start with [PROJECT2].
+[PERSON7] And and maybe, yeah, you you can focus on [OTHER9] or or I dunno.
+[PERSON3] No, I mean like automatic dependencies and the stuff I don't know of the freement.
+[PERSON7] Okay, so you can start with something like this.
+I I think and you can you can see what what result it it you you have.
+So it will be managed to to you to know what we need will do here and so that you can contribute or I don't know.
+[PERSON7] Okay, so maybe we can shift to to proceed to [PERSON6].
+And We've to look what are the patterns of the eeh what difference actually our results from (though) measure <unintelligible> for [PERSON2] proposed one from different photo eh like one observation was that (for the), let's say easier <unintelligible> find the determiners or multifiers.
+What's this items and like I think it's I think it's the the relations eeh let's say that can be drive from attention matrice some of correlate with (syntactic tree).
+What what we need in our paper because we just use all of the heads.
+So, yeah.
+But if I we we get it and we have (balustrades) as well.
+So the idea was that we could try to replicate this and to compare it with <unintelligible> the extract from the attentions.
+[PERSON7] Yeah, okay, and we should also, [PERSON3], [PERSON3] send me the paper where they they they had two two heads which are trained differently.
+With the objective function to to to be as similar as possible to the to the (dependency) trees if I if I (redisconnect) it.
+So you can you can try to read it and yeah -
+So, if you have anything else, yeah, we can quit this call and and see you in next 14 days and I will be in contact with [PERSON3], too.
+So, yeah.
+So, actually, I think, yeah, we we -
+Okay, so, so what what you that there are you working on, [PERSON3], cause it seems you two are basicly working on similar stuff  -
+[PERSON3] Yeah, it seems like that.
+[PERSON5] And this is more <unintelligible> to to uhm uhm.
+Uhm, yeah, I know.
+[PERSON3] Yeah, we have to <unintelligible>.
+[PERSON10] It's a - <laugh>
+And, so, okay, guess, yeah, with the milestone part we basicly using what we did for award book papers appear something we use.
+<unintelligible>
+Yeah, is it interesting that.
+So, so, you and I and someone else can be language model so [PROJECT2] language model or you can be a model payed person possibly task and then he could think okay, so, for doing machine translation it be into syntax or maybe it's useless the syntax.
+Right, yeah, what I thinking it's okay, should be really continue analysing the transformers that we have or should we <unintelligible> someone <unintelligible>.
+Which is the <unintelligible>.
+And that's like <unintelligible>.
+[PERSON10] And so so do you know the the large [PROJECT2] if it's just large data or it's <unintelligible> model?
+[PERSON10] Yeah, so model layer do we have.
+Yeah, we tried this with the transformers we think <unintelligible> models and <unintelligible>.
+As are assumption okay, something like syntax <unintelligible> we have it's layers it's to have layers model analyse small layers so easier to find <unintelligible> that <unintelligible>.
+[PERSON10] That's all, the training model it's just most train some <unintelligible> and the stuff like that.
+You you you know -
+[PERSON6] Well, you should have it, you know.

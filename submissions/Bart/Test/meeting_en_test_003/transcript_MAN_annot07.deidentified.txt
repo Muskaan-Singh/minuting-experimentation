@@ -1,0 +1,25 @@
+ The technology is now only working technically for the users of [OTHER4] People who had to rely on subtitling were totally lost .
+The head of the particle division of the [ORGANIZATION4] was at first very angry like not, not allowed to, to everybody, but I was talking to him for more than five minutes .
+[PERSON9] created something which at the server side the presenting machine is regularly taking screenshots .
+If the screenshots change, then it will, it will send it as an updated picture to the browser, so the client will be, simply displaying the most recent picture .
+The language model is supposed to include a word in the language model in all its forms .
+The replacement word should be some random feminine noun, again, with similar declaration pattern .
+Every Monday there will be some more technical talk in [OTHER4] on <unintelligible> Topics .
+The speaker will use the files that we like find for the speaker, and as soon as we have some domain adaptation data, we can plug them in .
+Voj: "I worked on on three different things this week, how was it called, real time audio visualization tool on the old realization tool" "I implemented I implemented a back end and the front end.
+The back end is a server in C++, which is just reads the C++ and reads the microphone signal, and then it sends it over web socket to a client, which can be included in any webpage even on a remote machine .
+The last problem is that I'm not sure how to stand those thresholds, and I wrote into email to [PERSON7] that I could do in in like three ways either I could just like a random value that I think is correct The ASR is a machine translation tool that can be used to analyse language and audio quality .
+It is being used to test how loud it is at certain loudness levels .
+There is one for <unintelligible> that I could use it's called open neural network exchange format .
+But I don't think it's possible to export it as.
+I'm not sure if they support it, but it could be worth a try .
+There is probably not a high chance that the architecture [PROJECT1] is precisely the same .
+The best corpus is actually the the best file in the <unintelligible> file which you have also translated into [OTHER4], and [OTHER2], [OTHER5], and other languages .
+This week i worked on data collection, is basically four five languages .
+Almost all the languages have finished, but some are still being translated .
+The languages can be used, and we will get the first follow synthetic, very much in domain corpus, across these six main languages, and then redo this also with all the other 30 something languages .
+The script was able to deploy their worker on the mediator, and the installation was succesful, so this is like few our tasks, which I concerned <unintelligible>.
+[PERSON10] helped me integrating buffer in the [LOCATION2] segmenter .
+The data ambassador is [PERSON11], who is on vacation this week .
+He proposes some Wiki page of all the data that we are using, or we plan to use .
+The data will be used only for [PROJECT2] only .

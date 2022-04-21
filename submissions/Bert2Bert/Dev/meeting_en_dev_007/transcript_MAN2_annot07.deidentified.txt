@@ -1,0 +1,58 @@
+overleaf has sent overleaf overleaf.
+it's about to fix the overleaf program in overleaf, says person7.
+com.
+" it also doesn't compile for you ( person7 ) exactly what is wrong here, " said person7's founder.the organization1 presentation platform is open to all platforms.
+it's not connected to the platform, so we can use it as a plain text editor.
+" the only thing that i can do is, and it ’ s the overleaf, " says person8.
+the platform is free to download, but not for free.the overleaf has some serious troubles.
+it doesn't even type, but it's probably not working for him.
+he's been in this you know application, so if you check your email, you'll have to re - use the text already written in this.we can, what we can do, share...
+and we can share.
+we can discuss the structure of this deliverable, deliverable.
+it's important to describe the internals in some way, but also to describe what is behind the scenes.
+if you click on our icons, please read that, so please read the comment." demonstrator " will be available on the project1 website.
+it's for public, so in the scope of the project, it should not be too difficult for [ organization1 ] either, because they need one screenshot, which was already available in some preliminary version for review, review meeting.cnn's kat kinsman is looking into the organization's reporting platform.
+kinsman : " we are quite late with the preparation...
+and we probably don't have anyone to revi - - " she says she's checking in the continuous reporting platform, which has to be internally reviewed.the organization1 will provide the most of the content, and the more important content, to them, deliverables, so on monday afternoon.
+" i will be really happy if overleaf documents start compiling but it's not problem, " says person7, who will spend the afternoon.the deadline is, we have just a week to, and that's the delivery of the elg we should submit.
+" we should have our full content ready by wednesday, " said one of the group members.
+" i think that the ideally, unintelligible " deadline is " optional at least, the deliverable instead of " laugh "the six - page document is available to reuse to the end of next week.
+it's likely feasible for [ person ]7, because it doesn't have to be like for, documentation.
+if you're already having some of the documentation ready, it should definitely.the elg paper is due next friday, feb 21.
+it will be available on ebay next week.
+it's also expected to be available in the fall, february 21 and july 31.
+it was created by person4, and is expected to cost $ 1.
+2.you can work on the plain text content already, and it compiles outside of overleaf.
+the cloning does work for you or not, or you have not tried.
+if you want someone to clone it, try cloning yourself and double check that you can clone it.
+click the menu button which is on the left, at the top right corner.if you clone it and there is even a make file.
+you just type make and it will compile.
+so, please try if it really works for you or not, you can clone it.
+you will need to create special password for each part of the deliverable.
+you'll have to create your credentials and password.send an email to [ organization1 ] already today, asking them to ideally have it there by wednesday.
+if you like to write it right away, that would be even better.
+send it to the organization1, which is in the review slides and a paragraph where you describe what it behaves.the acl demo paper is now linked to another overleaf document.
+it's now linked from that overleaf.
+the document compiles seamlessly, and will compile seamlessly.
+the demo paper has been linked to overleaf documents for more than a year.if people are editing, it will become impossible for you to commit your work.
+you have to for actual push dents with overleaf git.
+if you want to discuss the to me the [ person6 ], it works for you, say you.
+you can discuss it with person6 or not, and push it on later.i've just pulled all the last modifications to the git repo.
+i'm just looking into what it should be making git commit from git stash, git pull.
+that's fine...
+it's ok.
+i probably put it the wrong thing.
+i just wanted to install them, okay nice.tlmgr is a pvs maker.
+it's like, you don't have it, but just give me one second.
+you'll probably have to figure out how to find it, say you.
+if you type it, you can't find it.
+you can use it by yourself.yam installs the tex live dash last page or something.
+it's updating all the above.
+you need to kill it if you have a different package to load instead of it.
+click here for all the latest you need you to see.
+click through the conference chat to find out what you need.the piece of presentation techniques are in the paper they wrote for acl.
+" it's quite, convinient i mean this overleaf, " said person7.
+" i'm so stupid.
+i am still the wrong package, that why it doesn't, " he said.i can do it.
+i will check the make file for the, the target names, and the screenshots in a while.
+i'll put in some more details, and when it's like over night or something, but i guess that probably you will write something much better that what i can provide to this document.

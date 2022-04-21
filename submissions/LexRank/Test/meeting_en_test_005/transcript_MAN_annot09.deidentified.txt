@@ -1,0 +1,50 @@
+(PERSON7) and this should be the grapf, but we don't have - <ehm> we don't have the graph.
+(PERSON2) <unintelligible>   <ehm> <other_noise>
+(PERSON2) You <unintelligible>
+(PERSON7) I - <ehm>, I - , yeah I <unintelligible>, yeah
+(PERSON7) Yeah, <unintelligible> <parallel_talk> <unintelligible> <\parallel_talk>
+(PERSON9) <ehm> but, we need <ehm> the setup to - <ehm> to be there.
+(PERSON7) <ehm> and- but if we - if we succeed with the physical setup, <ehm> then - <ehm> my idea is that <ehm> in the <unintelligible> languages we would also have these <ehm> specific for <ehm> languages or <ehm> fake language labels,    which would correspond to the <ehm> ASR <ehm> of the individual <ehm> (booths) <ehm> - like <ehm> (ride away).
+(PERSON7) So this is <ehm> like an idea and I would like (that) [PERSON22] and - and <ehm> [PERSON2] or - <unintelligible> to discuss how to do this <ehm>, so that the <ehm> network load is - is not duplicated again.
+(PERSON7) Yeah, and <ehm> the last thing I wanted to mention is this <ehm> video, that we would like to record from - <ehm> from that, as you know the - the video form <ehm> the <unintelligible> was quite successful at least for u- for ourself, I think.
+(PERSON7) <ehm>, but <ehm>, anyway, I told the person <ehm> that <ehm> we would like, even if ([ORGANIZATION2]) does not (hello) him to - to go to the premises, that we would still like to do it well outside of the building, or <ehm> at [ORGANIZATION5], or wherever.
+(PERSON7) So, <other_yawn> this is - this is the [ORGANIZATION4] document <ehm> which <ehm> would be then the content of the video.
+(PERSON2) Okay, <ehm> please let us also know <ehm> if it's possible to record (the) something inside the - the building, because <ehm> maybe <ehm> we - we can (have) been providing recording by ourselves, at least some - <ehm> some (scene) of the situation and of the (booth) and <unintelligible> and so on.
+(PERSON7) Yeah yeah, so <parallel_talk> <ehm> <unintelligible> video <\parallel_talk> what - what I - what I <ehm> also have is a - is a - like a regular camera, big one, that <ehm> I use <ehm> at the - <ehm> at the <unintelligible>, <ehm> so, <ehm> I also - well- t- try to - <ehm> get some material as a background, possible background <ehm> images.
+(PERSON7) Okay, so <parallel_talk> Okay <\parallel_talk> (PERSON12) <unintelligible> is not working <unintelligible>, is it?
+<parallel_talk> <ehm> <\parallel_talk>
+(PERSON3) <ehm> I am checking my microphone, because - I don't see my name like <unintelligible> <ehm>, so I thought it was broken and now it's finally working <parallel_talk> We can hear you, we can hear you <\parallel_talk>, okay.
+(PERSON7) So we can make <ehm>, maybe <ehm>, like <ehm> <other_unrecognisable speech> (PERSON12) Yeah, and you will (probably meet)- also someone (disclosure) (for)- from the journalists, because <unintelligible> he will be there, he will hear stuff.
+(PERSON7) Can you email [PERSON18], that <ehm> we need to have - because <ehm> what the journalist- <ehm> we cannot simply say <ehm> that he followed <ehm> the <ehm> like code of conduct of interpreters.
+(PERSON7) Okay, <ehm> s- yeah, so well - I thing it's - <ehm> it's something that we all <ehm> can sign that we are not going to leak anything and that will be very <ehm> careful about the data and - all that, but  - obviously, (yeah) you- you have to decide.
+(PERSON7) So I have the - full set of subtitles <other_noise>, but I don't have - <ehm> I see only some messy German <ehm> and some <parallel_talk> Yes <\parallel_talk> completely broken <ehm> English, so <parallel_talk> We still have only two English segmenters so we can run at most two languages at once.
+(PERSON7) Yeah, so for now I suggest that <ehm> we all keep <ehm> connected to this call and <ehm> we'll do the (debugging) an- at various places and <other_noise> if you are not (debugging) at - anything at any point, then - <ehm> well - just keep working on whatever you have to do -
+another thing that we <ehm> still have not started (debugging) is the - <ehm> is the video - broadcastings, so we should make yoursel(f this) opportunity and see - <ehm> yeah - if I can - <ehm>
+(PERSON15) Yes, <ehm> it's [PROJECT1].<unintelligible>.com
+(PERSON15) It is not?
+<ehm> <other_noise>
+<ehm>
+<parallel_talk> <ehm> <\parallel_talk>
+(PERSON8) <ehm>
+(PERSON7) But if you are looking at the subtitles at [PROJECT1].<unintelligible>.com, <ehm> then <ehm> the English should be (live) what- <ehm> from what I - <ehm> what I'm saying.
+(PERSON7) So, <ehm> there should be <ehm> little or no <ehm> delay between my words and what and what appears in the English - <ehm> and - <ehm> as for now - I - d - like at this point I see the English stuck and no <ehm> words of mine.
+<ehm> <other_noise>
+<ehm>
+(PERSON7) <ehm>
+(PERSON22) So, here you can see that we are <unintelligible>
+(PERSON7) <ehm> I don't see them, I see only the old - <ehm> <unintelligible> <parallel_talk> Yes <\parallel_talk> okay, <ehm> <parallel_talk> Yes, it's running.
+(PERSON14) <ehm> <unintelligible>, <parallel_talk> Yeah.
+(PERSON7) So, <ehm> this is just to let you know <ehm>, you can still hear me - <ehm> that I'm now also joining the other call.
+(PERSON8) Okay, yeah that - that's - that should be okay.
+<ehm>
+(PERSON7) So you're not on the call, are you?
+<parallel_talk> And, <ehm>- <\parallel_talk>
+(PERSON3) Well, <ehm> this is probably not the perfectc- time <ehm>, but <ehm> I'd like to (raise) the point of (incriprion), that it would be nice to have - <ehm> on the - on the presentation interface <ehm> to have the HTTPS mandatory at least.
+<\parallel_talk> to (the)-
+(PERSON2) And they <ehm> (pulled) me that actually it's - <ehm> it's easy to do things we already (reason) about it and <other_noise> it's available for the <unintelligible> <laugh>, okay?
+(PERSON2) Yes, so we - we do what - what we can.
+(PERSON3) I - I'm - I'm going to -
+(PERSON3) Then you can see and - and - and try it if it's - if it's okay.
+<\parallel_talk> is it <unintelligible>
+(PERSON3) So we -
+(PERSON2) <ehm> if we - if you are available we can do it <ehm> now, but if you prefer to <unintelligible> (descripting) the - <unintelligible> control record we can do it also later - <parallel_talk> Yes.

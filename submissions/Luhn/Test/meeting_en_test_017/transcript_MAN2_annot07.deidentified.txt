@@ -1,0 +1,50 @@
+Let's just think that uh, we already need it really working in well tested, uh,at the end of June.
+So I think that the first prototype should be ideally ready, uh, on the 7th of June, like the first very first shot with with box and all of that.
+(PERSON1) Yeah, that's where the big question mark so at the moment, that's what I'm not so sure.
+because what we do not want to do is to rely on the cashing client.
+One reason is that we don't have the time to to fix the cashing client,
+So what we really want to have is ehm to translation of incomplete sentences for the user experience.
+If you want to see right ASR output I'm not sure if <unintelligible> you will have to request the unsegmented text.
+When when ASR decides that given given that (causes) so far, maybe <unintelligible> sentence would be better.
+It would mean that he would suddenly see the same timestamp that you already saw before.
+But still the ASR worker decides to fix word before this end of the sentence is that possible?
+we should train our empty systems to work on all the individual lines that we are getting from these.
+I 'm not train with these system myself I think we're in the process of doing them,
+and this is this is the output that we get that we got at the last conference,
+And then suddenly we see such eee such a message like wanted to do more later on.
+and we just need to make sure that the the transform model handle that well.
+(PERSON2) Um <unintelligible> for one thing it's also possible that if it is (I'm it knew hypothesis, the segmentation as we run output segmentation might be different.
+The other possibility is that maybe if ASR only changes one word for the fact that my <unintelligible> one word.
+and I think that's that's a problem that has to be solve very soon is that (the herd) zero.
+I think that this is something that [ORGANIZATION1] needs to investigate and and improve the the segmentation worker so that it emits the timestamps
+actually starts in the middle of or like is it some continuation ehm of of something which already output.
+or someone from [ORGANIZATION1] to validate these locks to to help us create a reliable locks from the ASR workers,
+and then the final experience of the the user experience the of translation would not be good,
+because the statistics of on the internet will translate only the later part of of sentence.
+And this could be also done actually at the level of of this source words strinks.
+and the risk of false information for for the most part I think the empty worker does do these things
+but every everything from the moment it's <unintelligible> your network and after it get back from your network
+and and make sure to try to look up of this thing in the existing code, uh, in the <unintelligible>  ticket.
+I think that [PERSON1] we should try to train the models to be ready to accept like partial sentences,
+So me and [PERSON5] will try to get the  this part working, which is like finetuning normal empty models for a bad-
+But as a fall back we should have a models that are ready for for such input.
+Option two is to train MT or fine tune send level models to gracefully handle badly segmented input.
+we have one thing it's a lot of effort <unintelligible> language models and it's also possible that models system don't need adaptation any more.
+If you decide that you don't want to do any ASR adaptation to the text,
+If you decide that you would like it from us at the level of individual presentations,
+we will have to discuss the technical details like where to put the files and all that we're surely collecting the files.
+And will try to do fine tuning of the machine translation models based on <unintelligible> that that we can get based on the mono- monolingual include files.
+There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+(PERSON5) I don't think so just- there will be another <unintelligible> I changed <unintelligible> the whole structure and we will continue deployment there.
+that this empty system works and emits outputs in such way that the the subsequent English to something,
+But I can say that English- German to English is probably our best translations systems <unintelligible>  transform model so would get better.
+Now, now I have new idea that we can take paralel big paralel text only corpus then we are text to speech on it,
+(PERSON2) Yeah, so would I on this very most important thing would be text to speech on models one speaker.
+What I like though is the first one to train on real ASR from <unintelligible> docks.
+So this is this is something that you are probably already doing so uhm for this.
+And then we can use this segmentation with uh the paralel data to change the paralel data,
+whether we were able to uh, to proceed to to process that docks with [ORGANIZATION1] with the existing workers or whether we failed,
+ehm, even say, would be extremely useful for you to see the whole thing in in practice,
+and the workers should themselves or the the the party, who is providing the workers should should be able to test individual workers.
+And in that case, it may be very useful to have this to have this option.
+(PERSON2) Interesting is also is the the usual problem that the the person <unintelligible>  the worker is not free dubt <unintelligible> as mark is busy in which case you couldn't even start new session,

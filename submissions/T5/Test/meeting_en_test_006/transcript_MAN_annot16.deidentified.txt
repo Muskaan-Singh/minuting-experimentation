@@ -1,0 +1,18 @@
+"i'm starting the web that how to like find what is actually there in the [ORGANIZATION2] corpus" for each transcript in europarl you can find the minutes .
+[PERSON5] prepaired some crieteria so the guidelines for the evaluation .if you follow the link you can also open the search for minutes .
+the name could be from the data, europarl data .
+but i didn't find it, but yes .ehm is the figure number two.
+They have given this for user ratings .
+this is just a web application which they have mentioned the entire thing .
+if you could just scroll down a little [PERSON8], yea .annotators are asking by scene board the transcript and the summary .
+based on the web interface, they give cautions to the annotator .
+that awaited score can be calculated automatically .
+so building an interface would be a good thing ."i'm absolutely okay with the interface.
+but before the interface we need to be sure about that." "I'm reading the paper how to actually add interface some constant values.
+In that equation.if you give to ten annotators.
+Definitely they are also gonna have judge .
+PERSON8: i think it is a good idea so we can easily finalize the draft ."for the first shared task I would like absolutely keep everything as simple as possible" "i did implement all of the existing to matrix.
+But not something new," says PERSON5 .
+"if we are able to align minutes and transcripts automatically what? "transcripts are already available and the minutes are also available .
+so if you extract all the meetings that are available, then the data set is even more .
+but you buy alignment you mean that within a folder for one meeting .

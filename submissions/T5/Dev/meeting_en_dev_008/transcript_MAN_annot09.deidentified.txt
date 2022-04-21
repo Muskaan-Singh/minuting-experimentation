@@ -1,0 +1,21 @@
+ehm> is right that [ORGANIZATION2] is not working (for) unintelligible> .
+(PERSON6) Okay, so let's wait (before) [PERSON3] or – a- and [Person4] are connecting .[ORGANIZATION2] meet is also free for fourty minutes .
+but if you want to unintelligible> [PERSON6], you have to pay for it beginning (till) next month or so .ehm> – this is what [PERSON5] created duri- the agenda for the minutes .
+if they really ask for that, i can – sometimes send them just for – once unrecognisable_speech> they look like, but mostly – (PERSON5)PERSON5 proposes that annotators send the data via (GateHub) .
+'now you ehm> write this and that – this meeting' - 's- i have to provide – provide them with the audio and video file, and this is an extra action that should be done apart from (GeteHub), because it deleted the – the team.if something goes wrong unrecognisable_speech>, otherwise we're absolutely fine with that .
+if the annotators up- upload the minute themselves, so – (PERSON6) I have to send them what all the files manually, otherwise – it takes time .
+so if needed we would (gain) ehm> kind of build it on the .
+existing system .ehm> unintelligible> based on some .
+experiment- experiments with other data, that it would help .
+if we have to submit the proposal within the first week of .
+November, we'll probably have to invent the measure or metric for – for that .
+do you think that we should include what, evaluation measure?ehm> I have never had any experiments with shared task and measures and so on .
+'they are very high unintelligible>' - PERSON6 .
+(PERSON6) There are many automatic measures for (summarisation)most of the research evaluat- human evaluation in nature language (generation) is done that way .
+if we don't come up with the alignment based manual evaluation measure, we will do as the normally the other (energy) task unrecognisable_speech> .if we are not (believed here) about the alignment unintelligible>, (no one we yuestion) then we move in variant B .
+if variant A is very clear to us, (its) concensus is accepted by all of us, we obviously go with variant B.in the summary you can keep the bullets, but only with (dashes) ehm> – with a (label) in your unintelligible> brackets .
+(PERSON6) We are kind of centralizing it and we're making server as one of (mocking) versions of GateHub repository, so who is doig all of that?in the GateHub it has to appear as anonymous, as annot- annot01 .
+(PERSON6) I have to change all the names, so it means, that for each annotator .
+i have to keep the names – this final names of the files recognisable.(PERSON6) I'm really worried about this team that he's proposing .
+so, i unintelligible> disagree with [PERSON5] about several things .
+i'll write him and you now and – (Person4) Yes, try to – we try to catch him as soon as possible .:

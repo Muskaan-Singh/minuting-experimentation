@@ -1,0 +1,30 @@
+ The goal of office would be obviously to describe the pipeline say where there there problems and to invite more people to join us .
+The point of of these meetings is that everybody very loudly says and enters in the list .
+The number of items that you have worked on and that you think you deserve some <unintelligible>.
+There is two upcoming events which have the same type of domain adaptation as we will need for the 17th of February .
+The students firm fair is something which we have done only last year .
+It's a big challenge for equaliate.
+This is one of the to do or wanted items to add some filter and f- populated what words that we don't want to show at all .
+This is something that we have a months or more for.
+The filtering of the profanity would be would be <unintelligible> The list will never be complete and it will contain many word which we actually like would like to have an as the output or as the input .
+So far there were mostly in English or all the languages, that's a mix of languages .
+There was lighter the [LOCATION4] word was "soupatko" which is a slider actually and for some reason in some of the corpora this must have been in the same sentence as as as the error came from .
+The bad thing - the bad thing is that I haven't heard from <unintelligible> I finished evaluation framework and it's ready but for some test maybe I should do some a small changes but I think it's .
+But for for for the evaluation we have now something that we can do ...
+we will actually sometime sometime .
+We have correct English transcript much large of volume and we have limited file only in [LOCATION4].
+We have only one recordings translated into [location4] and [OTHER1].
+We won't have do we have English is are we have -   referior- English transcript .
+We don't have that, but we can discuss about it later .
+The ASR has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and then decompress before being sent to the ASR .
+The question is what effect does this have on the quality of the quality .
+The transform-hallucinated some words .
+The problem is that we don't have speaker diarization on (fly) so we simply do not know when there is a speaker change .
+The windows overlaped sentences and this causes some problems too .
+[PERSON14] has already worked on the project last june when he was helping us to put all the (byplan) together .
+He can participate only remotedly and there for also whatever he does has to be like self contain as little interaction with others as as possible .
+There's any paper from [ORGANIZATION3] from december on ASR and it is called FastSpeech .
+It's very similar to Audacity recording chanells except it is not recording .
+I just told it could actually be used to do ASR like on on the spot .
+Thank you much for your kind words .
+Thank you for your support .

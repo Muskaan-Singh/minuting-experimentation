@@ -1,0 +1,50 @@
+You are preparing the link into the- (PERSON5): Ye, Ye, Ye No, no, I'm just aligning that link of the web interface, which is already there one in the corrector- (PERSON8): So [PERSON4] we have discussed with [PERSON5] your negotation.
+(PERSON5): Ye, I am searching I I did hadn't half of the copy of it.
+(PERSON4): I did with you [PERSON8] for like I have to collect the minutes so- I don't understand this upload thing.
+(PERSON4): Ye, ye, so, the thing is like I'm starting the I'm starting the web that how to croll those minutes.
+And how to like find what is actually there in the [ORGANIZATION2] corpus and how we do that link with the web.
+(PERSON4): Okay, so from the source like from the transcripts that we have.
+Can you just share the screen- (PERSON8): Ye, if you see the gender.
+This is the link to the from 9. from 9.
+(PERSON8): Ye, so if I follow the link I may open this search for minutes, here's minutes, and here's a search.
+And the name could be from if you go to the data, europarl data.
+(PERSON4): So it might be in the other range, so the [ORGANIZATION2] script is from 9 to 14 I guess.
+I don't know if this website has gotten index of the minutes just like it had for the transcripts.
+Because the indexes here, these ones correspond to the court was not the whole [ORGANIZATION2].
+So you want to just see that what they are following like the based or is it some kind of the- So they have shown us a snapshot of the interface which they have done for the annotation tool (PERSON8): But what should I do with that?
+After the in the after the references you can find that.
+The interface we haven't shown it- (PERSON8): Okay (PERSON5): It is the based our it is not by base.
+They have just it is not shown the transcript and the summarisation.
+(PERSON5): So I'm this is the interface which can be seen in web application.
+But they have the for the ratings they have this web application.
+(PERSON5): So I and if you see to like after the references can you just go after the references?
+So I told you that what i reviewed from the various papers regarding the evaluation.
+So I just wanted to show you how how what kind of people- What kind of manually valuation people are performing for the summarisation systems.
+And based on the web- There are annotators are asking by scene board the transcript and the summary.
+(PERSON5): So I just wanted to confirm that is the web base good for us or something else is is.
+I think you just come up with what you consider to be the best.
+(PERSON5): So, what I proposed is that we have the transcript and the reference in the interface.
+So we build inteface which shows the transcipt and the summarisation.
+So the annotators do not have to compute each and- Because there are so many minutes and the ones which are generated.
+(PERSON4): So I just want to understand that supposed we have the interface.
+And we will have the questions for while which the annotators would.
+So do you want to do it for all the data.
+So thank you for the prooving details we already <unintelligible> for the testing data.
+(PERSON5): Ye, that's that's that's what [PERSON8] and I discussed that for the drafting of each should be finalized.
+Okay so I will send the- (PERSON4): So as I underst- Understand so the coherence with the read ability and all these scores.
+Ye [PERSON5] please also while you put your criterias please also evaluate two minutes- (PERSON5): Hmm, okay (PERSON4): Okay, so that we can have the same set up of what good and bad minute looks like.
+(PERSON8): So you want two different- (PERSON5): Yea two small small minutes so that I can evaluate based on the measures.
+(PERSON5): Yea, so it is it is I think a good idea so we can easily finalize the draft (PERSON4): Yes.
+(PERSON4): So [PERSON8] I would like to ask like for currently then we are not going ahead with the alignment thing, right?
+What are the pr- (PERSON5): So some eval and the one was the another paper <unintelligible>.
+So I implemented the all the beginning of the paper.
+(PERSON4): Yea, no, I thought the matrix that you that you did.
+I'm doing it with our data and not the AMI and the ICSA corpora.
+(PERSON5): So I think you also might have done the papers I think.
+(PERSON4): Yea, so I think if we can have like the europarl data with the transcript and the minutes align.
+And the minutes are also available and if they are- Even automatically extractable it may have sense to extract all the meetings that are available.
+So you mean the europarl- Okay, okay so you mean that- (PERSON8): So not just this 6 years but all the years.
+You have the ASR and the minute, right.
+(PERSON8): Yes, so to find for each meeting- (PERSON4): Okay, because for- (PERSON8): Each transcript finds its minutes this is the- (PERSON4): The minutes, yes.
+(PERSON4): So yea, so let's not be (PERSON8): Ye, ye it seems bigger but I meant just finding minutes for each transcript.
+And [PERSON5] and please also send the automatic evaluation that the paper of <unintelligible> want to.

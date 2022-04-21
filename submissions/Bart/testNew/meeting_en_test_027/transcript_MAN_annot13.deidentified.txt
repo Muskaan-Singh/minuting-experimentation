@@ -1,0 +1,37 @@
+ [PERSON1: "I wasted my holidays by being ill, uh, but that was something from stomach, so not not Covid" "I got it built on during the <unintelligible> and it came one and half or two months ago actually," says Person1 .
+Person4: "You have nice machines there.
+But I need to figure out my sound settings first" Proposal3 will be online, pre-recorded and live, with a real live discussion, in February .
+Proposal2 will be recorded, but we need a back-up person to take care of the recording, so the archiver person can't lose that session again .
+The project has been moved to the 26th of February .
+Weights and Biases is not really, uh, recommended by [PERSON9].
+The tables could be auto generated, and that would grow .
+The simple HTML is probably the way to go.
+The results would be immediately accessible through the web .
+Proposal to remove empty lines from [PROJECT5] due to profanity filtering .
+English to a German or English to Czech or vies versa, so that, ultimately we get, uh,    enough .
+The first question was to ask [PERSON1] to revise the [PROJECT8] domain and create such a dictionary by looking at   the outputs and what is missing in the outputs .
+The second question was the rare words evaluation for [PRO10] and then from [PRO2] we are also likely   to get some dictionary .
+Peers need to get some delay scores for some of the files from the [PROJECT1]   test set .
+The correct one is not working.
+Peers are happy with the way of delay is being calculated .
+Peers will talk about this at the latest next Wednesday with partners .
+The presentation of that is also important, and we need to do it way before the   ipientdeadline is approaching .
+We need to be more likely with, uh, like, time allocation for this, and and hopefully it   will be less stressful .
+The common voice alone would be too small for comparison purposes, but it would not be good as a    system for deployment .
+It might be better to use some, uh, more frequently used the dataset, for  example, [ORGANIZATION9], or maybe [ORGNATION10].
+Person1: I was also thinking I would like to get in touch to work with [PERSON4] on [PROJECT4] Person4: I'm also thinking to do some non native speech, uh-.
+(PERSON1) Yah, okay, okay.
+Person2: "I'm two part of the of the video, or from the beginning" The call with, [PERSON7], should continue right after this call.
+Because that would be great because I 'm more fan of the of the, you know,  <unintelligible> models .
+The call will be probably on Monday or    Tuesday .
+The [PROJECT7] tool will be preserving these text outputs and also following the   time stamps <other_noise>.
+The tool which we do not have yet is the tool which will preserve these text output and also follow the time stamps .
+The language ID is the recognized text if it is the correct language .
+We need to figure out, which way, um, uh, is of integrating the language ID  is the best for our purposes .
+We should have multi lingual [PROJECT10] models and [PROProject5] models .
+The machine was translating Spanish to something which only it  knows and no one else .
+Initially it was from the initial language to English and then to another language .
+But now they have another tool, which is essentially from one language to another .
+It doesn't involve getting English in between .
+The ladder climbing is the most urgent thing now, says the head of the programme .
+Heavily criticised for not being able to use the language ID in their document .

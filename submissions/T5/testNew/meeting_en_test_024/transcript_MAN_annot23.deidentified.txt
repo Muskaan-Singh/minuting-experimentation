@@ -1,0 +1,35 @@
+(PERSON1) Yeah, that's when he was in Prague so it's a real photo .
+(Person2) Yeah, I can't (this whole month), but it may be limited to weekends or something like that .
+uh, technically, we are safe for the first few months of the year, but then the way in which we are paying you, the substitute way, has probably legal limits .if we wanted to pay you for the full year, the limits which amount to half a year, would not be sufficient .
+uh, it has- it has been- the problem has been postponed, but there is a limit on, how far we can push this .uh, we are really short of a person, who would do the insertion of the annotations .
+if it's not possible to do this over the weekends, it can easily fail as well .
+some of these um, words are not named entities in any of the contexts, some are named entities .it is okay to know that, this word is possibly a named entity and no person has looked at it yet .
+what is not allowed, is to have uncertainty about the status of the process .
+uh, anything simple, that will work for us, as well as for them, is the way to go .uh, if people already are looking at the documents, they could notice there are errors in that type level annotation .
+they would not be supposed to modify it, but just, by accident, could debug it .
+so, you would apply this list to all the documents that includes the transcripts as well as the minutes .annotators can't edit HTML files without uh, opening them in an editor .
+they should open the HTML in Word, in Microsoft Word, or in LibreOffice .
+it should be fairly easy to extract that information back .
+if you can find someone else, i will do that, maybe slower, but, in case no one is available .uh, the XML markup should be absolutely clear about the, stages of the processing .
+if we modify this text, the comment has now moved with the copy pasting, and that's bad .
+the annotation itself can be undecided, that is okay .uh, individual sentences does not- are not sufficient, because sometimes they are very short .
+we don't want to filter all of that as it is, so if it's not so complicated, I would vote for showing more .if you are used for uploading documents, perhaps that is the easiest option .
+uh, we can also keep track, we- when they are submitting, and it gets submitted to a specific folder, so it's easier .uh, we need to do a test document to see if it's reflected in XML markup .
+if not, we can't extract the information from the document .
+we'll have to go for the Scientific Committee, so we need the web page .if you- made any changes on the GitHub, will they automatically appear on- in the web? (PERSON1) Yes, it should happen once the webpage is ready, and that should be unintelligible> I think .
+uh, we have just separated the (calls) for participation with the submission .if you have time, please, fill that, it's for scholarship .
+I've seen your request, uh, the regular email, but the link is buried somewhere in my inbox .
+we are in the process of submitting the, [PROJECT2] proposal .if we want to make 100 hours, let's count, 200, I don't know .
+uh, we are on a very, strict timeline, so we have to send a proposal .
+so, if you have the codes, that won't be the matter of a one file or two files .(PERSON4) I think we are almost done with the proposal .
+uh, yes, it's snowing so beautifully, wow .
+(Person2) Yeah laugh> .if we wait for half a year, uh, no one will die after the vaccines will be there .
+once the vaccine, mass immunization program starts, it will obviously slow the spread .
+it's not (foolproof) that no one is going to die, but definitely the rate will be much, much lesser .(PERSON2) We have to submit a [PROJECT2] proposal .
+we have to be careful, like we can't laugh>, like unintelligible> .
+if it's done by today, we submit it today .'i'm really, really bad at organising things,' says mhm .
+'it's a lot of work, but it's really rewarding,' he says .
+but he's also a good communicator .uh, oh, it's absolutely okay.
+we can even skip tomorrow, and, keep on working, and maybe we can meet unintelligible> .
+(PERSON3) Yeah, yeah, sure sure sure, definitely, yeah.
+(Person2) Okay, see you, bye-bye .

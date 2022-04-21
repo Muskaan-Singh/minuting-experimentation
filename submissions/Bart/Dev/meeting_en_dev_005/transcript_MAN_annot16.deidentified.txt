@@ -1,0 +1,56 @@
+ Muted and I see [PERSON7] before others join the plan B.
+I would not expect [Person13] at this session.
+The easiest way is to replay a lockfile.
+I tried to create some fake time stamps and try to emit this like kind of instruction message so I- The first path of the Zoom US link we are using is [ORGANIZATION1] I think that's [PERSON1] The first we user don't worry, but does it? The idea is you usually bypass the Mtray- M3U8 URL putting the frame in the [ORGANIZATION5] server which expose also the SSL certificate .
+Then upload the video file we would like to demo on the .
+ORGANIZation5 server .
+Then on the server run FFM peg command which streams the .
+video file .
+The video box takes in input a public M3U8 URL .
+It takes an inputs path .
+But it it actually it takes an input path .
+If they actually were FFM pegs rights expands and expose the directory .
+I'm really curious about the set up that you do on your localhost .
+I'm not sure if we are allowed to stream both video, audio, AB clients .
+I think the most critical part is to identify the video file and to start performing test of- a-cascade translation on cascade .
+The German segmentation is not as good as the English one, but it was ok .
+The project officer maybe considers it too easy .
+The Austrian German could cause problems for recognition .
+The plan B, that I have with [PERSON7] is that we will use this standard Youtube included Youtube iFrame within the presentation platform .
+Instead it will only show the the video, the pre-recorded one that we want to subtitle .
+And the subtitles will show instructions and on the click when you see the word click you need to click the play button on the video .
+If [PERSON7] succeeds in injecting these instructions to the subtitles to all the languages, people would see the subtitles telling them scroll back to the starting point .
+The idea is that there would be first the instructions, then these injection would stop release the worker .
+The plan A is to re-broadcast with Youtube broadcasting .
+The plan C is to use the same call to FFM peg to output the video streaming playlists .
+There is no practical way to be sure about this .
+The system transcribes and translates our speech as the meeting goes .
+The project officer and the project officer are non-native speakers .
+The sound was coming from [PERSON7]'s output .
+The service architecture was feeding the service architecture with the sound .
+The sound did not pass through Youtube or other videos .
+Plan A is crossed, plan B is something that [Person6] will quickly help set up .
+Plan C is what the team will focus on .
+The Czech Republic does not have a national holiday on Friday, right? The project officer agrees with Thursday, tomorrow tomorrow afternoon .
+In the cruise control Gitrepo are stored the [ORGANIZATION5] scripts used to make multiple streamings .
+In the set ups directory are stored all the scripts used in the various testing we did during the project years .
+The scripts to run multiple translations simultaneously for [PERSON12] do you want to share the script? The idea is to log in on the [ORGANIZATION5]'s web server to test everything directly in the final machine .
+The FFM peg pipeline needs to write assess to the publicly exposed directory .
+The presentation platform has a presentation platform .
+The presenter asks to demonstrate the plan C plan C which you're currently having .
+The plan C is supposed to be working on a localhost .
+In the windows folder, this is a local apache server installed on my laptop .
+The streamer is the exposed directory in the acati- acati docs stream directory .
+It takes an input file Boris zero one zero one MP4 which is the video file I would like to stream .
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation .
+The presentation should be publically available available to the host persons of the meeting .
+The presentation platform and online text flows are meant to work in locally and in face to face conferences .
+They are not meant for work for live streaming .
+We will see which is the most performing solution .
+Plan C seemed like it's like overloading the system too much .
+Plan B is the most easiest, putting everything on a different machine letting the demo run remotely .
+The e-mail was sent to the head of the organisation to test Zoom video .
+The head of staff said he would not be available to test the videos .
+He then said that the next test session should take place at half past 10 .
+The source language for the meeting will be English, right? And some other language? For the meeting yes.
+For the video file it would be German at least .

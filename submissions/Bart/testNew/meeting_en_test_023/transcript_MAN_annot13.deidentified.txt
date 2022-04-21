@@ -1,0 +1,61 @@
+ The call ends with a call from a group of two people .
+The call is made to say that they are just two people, with only one other member of the group .
+The pair say they have been in communication for two days .
+Annotation was done at the type level, like word types .
+We need to do the second round for many of the words, uh, the annotators should have indicated, that it depends on the context .
+The process is documented to the finest level.
+(PERSON1) The documents will contain information like, uh, this word was once suspected to be an NE, but at the the words type, uh ., annotation it was marked, as a regular word.
+It was then, um, marked as an E at token level, right? At the end we need to have the full collection of all our documents with all named entities replaced by place holders .
+The process of the named entity removal has to be very clean, and we have to know at what stage of this process we are .
+The system operator was supposed to be the system operator, but he was away from work .
+He had to connect it to work, so he could not connect the system to work .
+There could be some small mismatches when there is, uh, like toke- pancreatian marks, but uh, otherwise in vario-.
+The annotators don't know the correct spelling, and there are a lot of typos .
+The last stage is, uh, the actual deno-.
+The identity of NEs, um, preservation and now well-referencing of chains, including the identity of speakers .
+The main worry is that some true named entity will leak into the data .
+The data set for the purposes of summarization will suffer much if we if we .
+we-.
+annotators already  de-identified, they didn't know who is who so the labels can be A, B, C and so on .
+(PERSON2) Mhm.
+We need to put this outline on a time frame .
+(Person1) Please get in touch with [PERSON5] and check if this is what was discussed with him .
+The de-identification guidelines are equally important is the de-identified guidelines .
+If not, we have to do this ourselves .
+Psychiatrist: 'I told her yesterday that she should start.
+(PERSON1) She has time and she will have to make the time for that' 'She has to decide what should be actually anonymised' 'I would be very happy if we don't anonymise it,' he says .
+The data set needs to be free of personal data, the key word indeed is the personal data .
+[PERSON7] needs to tell us what exactly is persons data.
+(PERSON2) The first constant form created, which agrees with, uh, kind of working with our data, was created .
+The first one is the one where people like, give us the permission to work with the data .
+The second one is we are getting the .
+permission to publish the data in the the de-identified form .
+This is new compared to the beginning of the project.
+But not any worse time pressure than a month ago .
+The first form will be on the content to process the data and deidentify it with the forcing goal of publication .
+The second form will ask people to have the permission to publish the data in the anonymous form .
+The easiest way to skip is to prepare the data set fully de-identified already .
+This is a pre-release of the corpus, clean, uh, removed the named entities .
+And they would be also avail-, allowed to to browse any of that data .
+But even if we don't do this, let's just collect it from the meeting minutes .
+The meeting manager suggests personalised emails .
+He suggests that instead of the master sheet, we could extract the name of participants from each of the minutes .
+The manager suggests that people should be asked for bug reports .
+Researchers should have a sample document, uh, one meeting or two meetings at most, at the end of January .
+They will have remarks, they will have, they would have the remarks column with colour and based on that, we will refine it .
+The work type level annotation will be finished in two days .
+The exact timing depends on who is doing that .
+It takes two hours or something .
+Psychiatrist: 'I am kind of unsure of if we should invite all of these people to the Scientific Committee' Professor: 'Because more or half of them are master's students' The proposal is submitted to the [ORGANIZATION6]Sheet .
+The proposal must be submitted by January 7th or 8th or 9th .
+From [ORGANIZATION10] I don't expect anyone to be in any good position for, uh, serving on this .
+For example.
+I will propose that at least if we can have 15 people, fifteen people, that would be great.
+ In a Scientific Committee.
+For example, I will delete the lines, or like cancel  them like strike them out .
+The plan is like we should be sending this proposal to [ORGANIZATION7].
+The proposal should be sent to [organization7] and [PERSON7] January 15th .
+The proposal is expected to be sent by January 10th.
+The proposal will be sent from [organisation] to three Russians .
+(PERSON1) I have privilege because they have points  for cooperating with foreigners and I'm not a foreigner enough .
+The Russian diplomat says he has privilege because he is not a 'foreigner enough' He says it's really a financial question .

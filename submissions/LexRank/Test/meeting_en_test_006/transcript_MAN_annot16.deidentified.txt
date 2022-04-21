@@ -1,0 +1,50 @@
+You are preparing the link into the- (PERSON5): Ye, Ye, Ye No, no, I'm just aligning that link of the web interface, which is already there one in the corrector- (PERSON8): So [PERSON4] we have discussed with [PERSON5] your negotation.
+Are there any links that we can see or what?
+(PERSON5): Ye I will, I'm just finding it.
+(PERSON4): I did with you [PERSON8] for like I have to collect the minutes so- I don't understand this upload thing.
+And how to like find what is actually there in the [ORGANIZATION2] corpus and how we do that link with the web.
+So.
+(PERSON8): Yes, so for each transcript in europarl you can find the minutes.
+(PERSON4): Ye (PERSON8): Can you see it?
+And here we are so on the web we are within [ORGANIZATION2] website.
+(PERSON4): So chapter that is 16 is also like 16.
+(PERSON8): What is that?
+(PERSON5):Ye this is some paper, they have shown the interface.
+So you want to just see that what they are following like the based or is it some kind of the- So they have shown us a snapshot of the interface which they have done for the annotation tool (PERSON8): But what should I do with that?
+(PERSON5): Okay, so in the fact-based the figure number ehm.
+The interface we haven't shown it- (PERSON8): Okay (PERSON5): It is the based our it is not by base.
+But the other paper they it is it is ehm.
+(PERSON5): Yea, so I wanted to show you that here itself in on page number- (PERSON8): This blue one, yes?
+They have just it is not shown the transcript and the summarisation.
+That where they have this summary and transcript which they have put in the web application.
+(PERSON5): So I'm this is the interface which can be seen in web application.
+And how good is the summary So they have this entire web interface.
+(PERSON5): So I just wanted to confirm that is the web base good for us or something else is is.
+So you have some papers, you have confirmed fact-based.
+(PERSON5): So, what I proposed is that we have the transcript and the reference in the interface.
+And we will have the questions for while which the annotators would.
+So do you want to do it for all the data.
+So that is that that is really like depending on a writer.
+So that we can see and we can agree that.
+Can we do that?
+(PERSON5): Ye, ye, we can do that.
+And you can just see to that.
+I don't think that would be a good thing but.
+(PERSON4): That is that is.
+So, once we haven't have that.
+We are okay with the interface.
+(PERSON5): Ye, that's that's that's what [PERSON8] and I discussed that for the drafting of each should be finalized.
+And then you will all please have a look on that.
+I'd like to add that it would be that it is very hard work to make these evoluations.
+Ye [PERSON5] please also while you put your criterias please also evaluate two minutes- (PERSON5): Hmm, okay (PERSON4): Okay, so that we can have the same set up of what good and bad minute looks like.
+(PERSON5): Yea, so it is it is I think a good idea so we can easily finalize the draft (PERSON4): Yes.
+(PERSON4): So [PERSON8] I would like to ask like for currently then we are not going ahead with the alignment thing, right?
+Yea, I I do not have any progress with the new thing.
+(PERSON4): Okay, so can we just <unintelligible> about that.
+(PERSON4): Yea, no, I thought the matrix that you that you did.
+(PERSON5): Okay, so I maybe link the papers which I implemented.
+(PERSON4): Yea, okay.
+(PERSON5): Yea, so I did try with our data.
+(PERSON4): Yea, so I think if we can have like the europarl data with the transcript and the minutes align.
+(PERSON4): So yea, so let's not be (PERSON8): Ye, ye it seems bigger but I meant just finding minutes for each transcript.
+I will I will link them in five minutes I think just opening the- (PERSON4): Yea, sure, sure, okay.

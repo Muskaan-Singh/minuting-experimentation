@@ -1,0 +1,50 @@
+Eh, so I can not share the the the Google doc eh, eh - But - Well, I hope that everybody's looking at the Google doc.
+And thanks to all who joined, um, so to explain to especially Umar and Rishu who didn´t - And maybe Peter, eh, who didn´t have the experience with these calls last eh s- summer.
+The goal is to synchronize the group, and the date and time eh, the so the day and time of the week is chosen, uh, so that it is fits to most of us.
+Eh, and we if we see that the uh, the the participation is is eh, falling down, because people´s schedules changed.
+So one of those is Matus Zilinec, for example, eh, so eh I would later ask Matus to eh to to give us a brief summary of what he he has been working on for the past months actually.And what he is is he up to.And eh, there will be a lot of connection with eh, lot of connections with everything what he do.
+Uh, and eh, we are eh, hoping that that will be allowed by you have to use these calls for the meeting summarization eh, eh, so eh, the - Fe- if you agree now, like please keep participating in the call, and the consent that you are giving by your participation now is not to publish the data yet.
+And and the uh, the the warning that I have to say before we go into the individual ehm, individual report is that eh, there is the Metaforum conference.
+Eh, and this year we have eh, asked Metaforum to only allow us to connect to their - I think it would be Zoom eh, oh, eh <unintelligible> Zoom to only connect and show the the subtitle somewhere on the side, quite silently without much publicity.
+Eh, and I would like now eh, I would like to ask Matus now to start, because he has been the most eh, eh remote  for a while.
+So one thing that that, I have been working on is, uh, is actually actually trying to collect the data that we can use - The monoli- monolingual data tha- that we can use eh, for for this rainbow models.
+And for this I have actually found - I have I have a - Because like the problem is that that we need the domain specific data and - (O) Mhm.
+(M) I have - So, I have been thinking that that well - Eh, so so so at first, I tried eh, actually filtering eh, so- some some other data sets that already exists.
+So, so what I thought is that I would eeh - I would go over some, eh, some more pages, wer- where there are actually some videos, and to download transcripts from there.
+(M) So I I have been looking at this, and they they have also released - Basically they haven´t released the data yet, I think, but they have also released the the trained models.
+So that we can eh, use it to to - So can you - So that we can adapt adapt their data collection, eh, for for some kind of spoken data.
+So the evaluation - So I would like to highlight the the high level thing, eh - So we need monolingual data for eh, domain adaptation.
+So with the evaluation I would like you to em, test the evaluation eh, using ELITR test set and SLTF and in on the call I saw - Now it doesn´t really work for me the Zoom is kind of stuck.
+(E) And we created one eh, index, new index, if you see, I put the name of the next inside the call, inside the, you know, Google doc.
+So the - Yeah, so the - For everybody, the general idea behind this ELITR test set and SLTEV is that we would like to make it the standard evaluation tool.
+Eh th- so eh, well look up that GIT hub repository and eh, SLTEV eh is the tool, which uses eh - It can use any other inputs and references eh, but it is also directly capable capable downloading what eh, files you want to evaluate on from ELITR test set.
+So Sangeet can help with that eh, to - So Rishu and Sangeet to evaluate all the workers that are in the ELITR pipeline.
+Ah, so that would be like the test case of the evaluation for the purposes of the publication of the SLTEV.
+We want to fix these bugs and we want to eh, get numbers and repeated measurements so that the number stabilize, and we and we trust that.
+(O) Yes (E) But you - Okay, but you you want the previous version also, because you said in your you know when we were talking - You said when you were talking you said: It works independently, without any <unintelligible> (O) Yes.
+(O) Eh, so I think it should be the same tool, and it should try to connect to the Internet and download it.
+At the moment I don´t know what I should work on, and eh, who - With whom I should eh, maybe - (O) Yeah, so - (S) Work with So yeah - I I´d be really happy if you just - (On) Yeah.
+And the most urgent thing to do is getting the evaluation of the of all the systems, of all the components from the eh, mediator, all the connected workers, running through ELITR test set.
+(O) So please talk - You you don´t have to - So eh, that´s like this these conflicts with like regular lectures eh, eh, let´s eh - Your lecture has a p- has a priority higher priority than this call.
+But eh, eh, the censorship component is something which we want to have as a one part of the pipeline after the ASR.
+So there has to be some hidden user interface in which the eh, the operator of the system  checks what are the current outputs.
+(E) Okay, so if it is possible please contact Mohamad and ask him for this call and if you want I can also attend the the call to - (O) Yeah.
+(B) Yeah, but just in case that - (O) Somebody - (B) To have access to the system and cluster so I can do something what I can do there.
+(R) Then we can - (O) So so the models have to be of comparable quality, so that the uh, the multi-source has a chance to be useful, right?
+And also we can take a look in the  - And I can also send you eh how how they do this eh data collection in Face- Facebook, if  that would help.
+(O) The the ev- the evaluation of the offline runs is, is the deciding thing.
+And I would like eh, to ask Umar to also work on the eh, on the same data and keep training.
+So that eh, ehm, s- we have this old style cascaded, the new style cascaded possibly eeh, and eh, the the simple Jasper only wou- on the same augmented data set evaluated ehagainst each other.
+(S) So so I I also have to leave, my lecture is ongoing and I have eh, said my part and I know what I should do next.
+What I´m uh, really eh, working on is eh, like call it there chopped data set and with that I I I´m using regular eh, speech data set.
+So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.
+So it has eeh - From my point of view it has eeh, few few at- eh, few few eh <cough> Eeh, few things that can improve the eh, improve the the robustness of the ASR.
+And it is that eh, eh, we can we can eh leverage more eh, non-native dat- non-native speakers, as we can reuse more frequently the words eh, spoken by non-natives.
+So I I understand that but I couldn´t understand the main <unintelligible> the main objective is it to train LMNT <unintelligible> in English ASR?
+(P) Hm, well I should be I should start to work on multi-lingual ASR, but eeh, this this - Because I I´m still at home and I eh, do not have much time to work.
+So I´m this this eh, what I´m really doing now and eh, probably next week I´ll be in Prague and I´ll start to work more more hard and maybe then I´ll I´ll be - I´ll start with the wil- with the multi-lingual ASR.
+And - (U) I would just confused that what he is actually waiting from - He was something mentioning about the comparing the performance of your system with something <unintelligible> So was he talking about the this multi- accented ASR or was he talking of multi-lingual ASR?
+And I eh, trained my own transfomer model that would translate the phonemes into graphemes and add eh, pun- punctuation and eh, also to recover some errors.
+So eeh, what are the tasks we need to do - Well, ehm - There´s these there are the data from the Interspeech challenge and we need to we need to check whether we can use these data.
+But uh, I guess the the Mozzilla Common voice is the best option as- If I recall correctly, the most papers that work with accented speech eh, were are working with the Common voice data set.
+(U) Okay, that´s that´s <unintelligible> I´ll then eh, leave the message for you on mail and whenever you have time <unintelligible> (P) Okay, so I guess I think is evertyhing.

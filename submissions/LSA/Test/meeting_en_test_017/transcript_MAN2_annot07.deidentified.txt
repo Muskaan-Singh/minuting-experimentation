@@ -1,0 +1,50 @@
+So I think that the first prototype should be ideally ready, uh, on the 7th of June, like the first very first shot with with box and all of that.
+So, are you when is your earliest date for uh, for technical call, eeeeh,
+(PERSON1) Yeah, that's where the big question mark so at the moment, that's what I'm not so sure.
+One reason is that we don't have the time to to fix the cashing client,
+But the main reason is the cashing client makes the latency too big for the final users.
+So what we really want to have is ehm to translation of incomplete sentences for the user experience.
+If you want to see right ASR output I'm not sure if <unintelligible> you will have to request the unsegmented text.
+But still the ASR worker decides to fix word before this end of the sentence is that possible?
+But the ASR signals is explicitly, but come a time when the when the sentences markets final
+if you run pipeline and if we look at the outputs of segmentation workers,
+we should train our empty systems to work on all the individual lines that we are getting from these.
+(PERSON5) The (algoritm) what the system will be judged by the final translation,
+dependent mission translation that we have tried for for this [PROJECT3] so technically the segments are not too long,
+And and find tune on these strange- strangely segmented inputs.
+I think that this is something that [ORGANIZATION1] needs to investigate and and improve the the segmentation worker so that it emits the timestamps
+actually starts in the middle of or like is it some continuation ehm of of something which already output.
+So we really don't wanna be translating again and complainig about <unintelligible> time.
+we do not know the the timestamps for the individual parts like here internet full stop.
+And the cashing worker took too much time to actually close the sentences.
+and the risk of false information for for the most part I think the empty worker does do these things
+and and make sure to try to look up of this thing in the existing code, uh, in the <unintelligible>  ticket.
+I think that [PERSON1] we should try to train the models to be ready to accept like partial sentences,
+So me and [PERSON5] will try to get the  this part working, which is like finetuning normal empty models for a bad-
+Option two is to train MT or fine tune send level models to gracefully handle badly segmented input.
+Are you ready for us to send the plain text files and add work granularity.
+If you decide that you don't want to do any ASR adaptation to the text,
+(PERSON1) Fine tuning I guess we don't need too much time, probably-
+the secondary, like the fall back input could be from German to English,
+that this empty system works and emits outputs in such way that the the subsequent English to something,
+But I can say that English- German to English is probably our best translations systems <unintelligible>  transform model so would get better.
+(PERSON4) And English to anything machine translation and the presentation platform at the end.
+Test the fine tuning from start document on <unintelligible> real.
+so I tried to fine tunder original model on on on sub sentence window of size three to fifty words
+and we try and on the output from ASR with- with errors against the original targets.
+(PERSON2) Yeah, so would I on this very most important thing would be text to speech on models one speaker.
+(PERSON7) But it will do the same errors on name entities and rire works as usual speaker at least.
+Looked to one of the the top as SLT systems in last year 's <unintelligible>,
+What I like though is the first one to train on real ASR from <unintelligible> docks.
+yeah making our paralel data for training of empty similar to the uh segmentation
+and this would be the uh, the data for fine tuning the empty systems.
+whether we were able to uh, to proceed to to process that docks with [ORGANIZATION1] with the existing workers or whether we failed,
+So we know from experience that [ORGANIZATION1] is running age ASR workers for English,
+[ORGANIZATION3]  platform is based on uhm having distributed services allowed you would join.
+So another, [PERSON4] says another  option would be to force the platform to use particular worker for pipeline or for session,
+use quick test session as they side of AG [ORGANIZATION1] for each of their workers
+we have to define what suitable <unintelligible> for each kind of service
+work around for that ourselves for our quick test at random times of the day.
+We have sessions starting, stoping with regular election tranclation so it's four to six times a day,
+(PERSON2) Interesting is also is the the usual problem that the the person <unintelligible>  the worker is not free dubt <unintelligible> as mark is busy in which case you couldn't even start new session,
+So [PERSON5] please please remember that next time we we would like to make <unintelligible> of such failure to debug thats.

@@ -1,0 +1,50 @@
+<laugh> [PERSON7] said that he would join us he has written me an hour ago, he is somewhere in the city centre, he's running in the University and she will have a very quick lunch so.
+<laugh> So so, but [PERSON29] has today written to us that this he has some TDID based on summarize.
+So he has written some TDID based on keyword extractor his own program, so to check.
+(M) Yeah, actually it is because a meeting data, it gives you the most, the maximum probability words.
+Ah like our our meeting data it gives you most most commonly occurring words which are, like all those, all those words, which we usually say, because our <unintelligible> meetings are not something which are set up, then they are like in an organized fashion.
+Yeah we can remove that but anyway still, it gives sentences which are not relevant, like.
+That is a problem actually of meeting so uh [PERSON7] said that maybe he can include a newer motivation to share task or some paper maybe.
+So this is something we also noticed very early uh uh that the- these are some random words which are uh the usual word which we speak are occuring into the summarization of so this is the biggest drawback of meeting data which needs to be handled someway.
+(T) Uh, yes the dial dates are like submission deadline is January 15 and the like the <unintelligible> are not uh published yet, I went through, but I went through the <unintelligible> and possibly they will follow the same timeline.
+You know like big dial special session is just like interspeech <unintelligible>.
+So uh like we have to be totally dependent on the sick dial people for running the special session, because it will be an like <unintelligible> part of the program.
+(O) This is, this is, yeah this is preferable if we make it timewise, so thats thats a cricital problem so if the timing is harsher or not any better than interspeech then it doesnt make sense to go for sick dial because the sick dial itself is earlier.
+So if we if we cannot get the benefit of being integral part being in their proceedings then I would prefer interspeech uh <unintelligible>.
+(T) Yes, for that, so another date for sick dial is like uh the papers that would be submitted in our shared task would be reviewed by the program committee of sick dial and they do not guarantee that whoever our participants are we can like in like choose and invite that who would be presenting because.
+(O) Yeah thats okay, like I would not see that as a big problem, increasing the quality of the shared task paper is fine if there is enough time for the submission.
+So thats the critical thing so so [PERSON27] I've read the document or I've opened it already in the morning but the problem is that I havent found the the paper submission deadline for sick dial and that is critical.
+Scientific commission large enough to handle paper reviews.
+Empty marathons used to have this system or tool papers that were published as a special issue [PROJECT11] that was in the first year when that happened.
+And so probably it is not such a problem, and their application process is definitely easier and Ah.
+(A) The preparation is easier, your just say that we want to do that and that for interspeech we have precreate the separate action.
+(O) But what I 'm worried is that the timing of sick dial is equally bad as the interspeech special session.
+(T) I uh I, I personally would proposed that we should have at least four months buffer time.
+(T) Like four months time, where we done a dead thing at the deadlines we are able to choose.
+I agree that the people would spend two weeks working on the submissions at most in some, but they need to have three months of sitting, just like having it on their to do lists.
+And then in the two weeks, they will give it, but they need to have this time of of not doing anything and still knowing about that.
+We we release the data, and then the participants come up with many problems that we can 't see right now.
+It is a rare thing that the test sets are updated, and also the training data.
+Yeah, this is coming as interspeech the official one, the special track set up.
+(O) Yeah, so [PERSON27] of the extra work for the invited speakers that the workshop.
+(A) So for me its very very hard work i would just intuitively for less income but if you think the time that later task are more important I totally agree.
+But actually at anti marathon its the I know the people so that is the difference.
+So at anti marathon, I just like asked around, and actually I myself created the structure of what I would like to hear.
+Half or two thirds of the structure were known from the previous years, because there is this summer school aspect.
+It was only logistics and the the work for like putting the program together was less less of a problem, because people knew what to expect.
+(T) So uh the the other thing I'm just bit worried about, like because, um, interspeech is all about speech rights.
+But if we want to create our separate proceedings, afraid to do.
+Some of our submission papers would come later for the [PROJECT11] proceedings, and the authors would be free to choose.
+Like, it is only a bonus that the paper has some shared task result appearing in the satellite event.
+So yeah, I think it is okay, so we do not need to ask for a special session in any of well in interspeech.
+And this is the live event they are listed as a participant in the shared tasks.
+(T) Ah, oh, I do not think like uh it is required institution, because once you have the login id and password you can submit.
+(T) So for a full member regular rate is one year, is sixty euros, and for a student member for one year, it is 20 euros (O) Yeah so.
+<laugh> So the best thing is to ask, also [PERSON96], ah, so this entitles people to attend in their speech as well.
+(O) Yeah, so I, such as that, you email [PERSON96] and ask him, what is preferred for the department.
+(O) So well I would say out in general ask [PERSON96], [PERSON96] at [ORGANIZATION2] because he is the former head of the department, and also, he knows about all the projects who are here.
+So he would have an estimate like how many people could possibly be interested in taking part in interspeech.
+Or that means that the registration for <unintelligible> is also probably sufficient for sick dial application.
+And he would have an estimate like how many people potentially could take part in their speech.
+Yeah, very quickly, and prepare the website, and uh like prepared the call for papers on the website, like, Make up with it, and uh do all the stuff.
+Ask for preffered type of membership give numbers to all estimate how much we will save waste by institutional one and [PERSON247] at [ORGANIZATION2].

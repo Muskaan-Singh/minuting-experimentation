@@ -1,0 +1,50 @@
+Um, yeah, should I say I, I haven´t read our book for the last week and this morning I couldn´t, I couldn´t read it so I, I have no, um, I don´t know how it is, in what shape it is now.
+[PERSON6] OK, the book is here and [PERSON2] is there.
+Yeah, maybe is the, is the cabel from the <unintelligible> long enough?
+Um, I don´t know if maybe it is a (negotiation) in <unintelligible> there´s semantics but I <unintelligible>.
+So not, not the whole paper but kind of the introduction and related work and I tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper so, um, oh, and [PERSON2] added the centroids, um, you did there.
+[PERSON19] Yeah, I think so.
+[PERSON9] Yeah, I, I think, yeah.
+[PERSON9] Yeah, the thing is that if you refer to your papers in the different way then the other papers, the, the whole book looks like more, um, more like, um, that you present your work in context of the other.
+[PERSON2] And the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+Like I have other cases where I think that would be authors that doesn´t show anything and, or show something else and I say this in the book so, hm.
+[PERSON2] But the difference is that, that you say, um, this is what the paper says and, and this is what we think and -
+[PERSON2] And, and here you say, this is what the other papers say and this is what [PERSON13] and al say and, and, and it gives a feeling of like, a feeling for the authority of the, of another paper.
+Yeah, um, so, um, so I just but, but briefly over it because I think anyway the plan is that well I, I try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now.
+Yeah, maybe someone should, should maybe comment here what is <unintelligible>, what is not there.
+[PERSON9] Yeah, I, I also refer to it.
+If we like there, there is more potential interesting things that we could write about if we read them carefully and so on but, um, they don´t really have to be there but then probing is not finished, unsupervised methods -
+[PERSON9] So I haven´t, I haven´t read that but, but, yeah.
+It´s defined but I don´t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah -
+[PERSON2] We don´t refer to that but we can still say in this, in this, in this chapture that, that there is another way of testing the models and, and we are not interested in these methods.
+And the (?
+[PERSON9] Which I don´t know from the, from the, the, um, the -
+This the <unintelligible> what is it?
+Yeah, but here you can see that like, um, hm, hm, and this is like, yes, like that.
+Let´s, um, ah, I can actually share the second screen and now I can move, well, I can move this, this thing here.
+[PERSON6] Yeah, but then I can show you in the <unintelligible> or I -
+[PERSON9] Yeah, this is [PERSON19] <unintelligible>.
+The <unintelligible>.
+Well, yeah, I think that this maybe some <unintelligible>.
+[PERSON9] Yeah, I think it´s something <unintelligible> different if I <unintelligible> to this thing.
+[PERSON9] Yeah, we can the <unintelligible>.
+Yeah, I probably have some, um, some things like that and think that I interpret but I didn´t know the, yeah, maybe I should comment.
+So maybe we should like, hm...
+[PERSON19] Yeah, so I <unintelligible> and what this is and -
+Yeah, it is -
+[PERSON9] So maybe I, I, yeah.
+The worst case for me if, is, if I write it but yeah, I think th-, this is something that, that, that should be mentioned that, um, um -
+Aha, in the <unintelligible>, yeah, in the other comment.
+[PERSON6] Yeah, I still don´t really know what you mean so you would have to write it yourself.
+[PERSON2] Hm, I think so.
+[PERSON2] Yes, and this is not discussed in, in the NLP community but in the machine learning community and, and this is what I think we should mention.
+[PERSON9] Yeah, the, the, um, OK.
+[PERSON9] Yeah, but we cannot call it summary and (have) it´s OK.
+Yeah, the -
+[PERSON9] Yeah, the <unintelligible> the book is, yeah.
+[PERSON19] Um, it can be just here, yeah.
+So this is, yeah.
+[PERSON19] Um, so we could maybe <unintelligible> but we don´t want to, right?
+[PERSON19] So I can <unintelligible> -
+[PERSON9] Yeah, I, I <unintelligible> the review.
+[PERSON9] Like <unintelligible> but, um, yeah, but [PROJECT4] like some <unintelligible> are the <unintelligible>.

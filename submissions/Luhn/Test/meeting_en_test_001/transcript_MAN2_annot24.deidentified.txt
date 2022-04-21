@@ -1,0 +1,50 @@
+(PERSON5) Well, the rules changed here and since this Monday we can't go out even if it is not like the most necessary groceries or stuff like this, and -.
+(PERSON1) So, who is gonna review three point one, cause I'm hoping that (everyone) only the universe is contributing three point one.
+So the previous milestones of talk to [PERSON4] in the e-mail that you seen that of the milestones claiming that we have all the complete set up for [ORGANIZATION7] Congress, which technically we have.
+So please pick up on that, and hopefully will not be like too confused from the layout of the of that test set and also that you would not disagree too much with the ambition that I have there.
+So if the if you want test sets are not part of this yet and I think they should be.
+And the layout for for those who are not following these details these the layout of the test sets is that -.
+But the actual set of documents that you will test against will depend on the set of languages that you want to test.
+Uh, so that they would review them, because he is very slow, and he is also not soliciting new links from them.
+And ideally, there would be automatic checks so that the everybody could check out this repository and run these checks.
+Uh, you you for those who like a clever (fine graph) so that you list all the files, and check that you have all the languages that you want.
+And that should be stored there as a fixed file list, so then in order to evaluate with the test set you would say I'm for the evaluation I use this particular version of my model, whatever, and I use this commit ID of [PROJECT1] test set with this file list.
+(PERSON1) That, that and some some as a true, um, but sacrebleu has a way to just yet be a text.
+(PERSON6) So that would be a nice extension of sacrebleu, so that we could like add like FLAC to sacrebleu [PROJECT1] test set and then the the file list name uh, and it would do automatical downloaded and it would put the commit ID the current commit ID into the fingerprint.
+So the the file list, and uh, that there should be only 3 at most 3 file lists that are interesting for the general public.
+So for the evaluation it's for the tool, we're still working on the SLTF, which is a private repository and you can see it, but it will be public wants finally finalize it.
+And it's this is geared towards the evaluation of spoken language translation, and it has kind of a mode, where it doesn't need a translation.
+And in our case, we actually all we said that the primary evaluation will be the translation quality, and the ASR and translation quality regardless the delaying.
+But I can imagine then in the next year, we would maybe even try running the model, so that this is a this is hard to run the models.
+And yahoo it's not a problem and <unintelligible>, I would prefer just send the sour- eh the lock file we have to do, because with the something in translation task and probably the SLT and I was not able do that.
+So this is all is risky with the lock files, because people still can misinterpret what time stamps should they use.
+So we try to be very clear about like this is the time when the the award was starting to be authored.
+Eh, so so the so the the one people misinterpret it then someone's results can be like shifted in bad ways.
+So these measures will be always on the reliable, the only way to to do the comparison really fairly is to run the models or a serve the model.
+The the extra thing that I wanted to mention is that the forced alignment, which finds the words in the in the sound is not reliable for us either.
+And the the the only thing that the one can say to this is the this at least affects everybody the same way.
+So so the so [ORGANIZATION6] people please review the [PROJECT1] test set, as I set it up and please contribute to it in any possible way.
+You remember that some at the several months ago of of I suggested that you can ask your students and and [PERSON3] said that well we cannot expect volunteers eeh possibly paid volunteers or non-paid volunteers that that makes some different, but not to it to to just do slavery task on the data.
+Uh, the current people, those that we have have just like signed up work agreements, the short term contracts with uh, our four languages, which are not well represented there, so far.
+But we also want to do it for the well represented languages, because we should we should cover them as well.
+(PERSON6) Yes, with this is that the finishes, the set of feel free to step in, and whatever you can do for [PERSON10] that will help us then the next person when [PERSON10] is still not like woken up is [PERSON7] who is now finishing the overview of the audible SLT test set.
+And he will be moving to to to these like supervision and managing the the annotators for the [PROJECT1] test set if if [PERSON10] doesn't start really.
+Then and if we test with these test sets then it will be very easy to do the deliverable for August.
+So would it be possible that that [ORGANIZATION4] would would like manage and make sure that this demo is delivered?
+So they've they've reminded us off BBC guidelines and standards for subtitling, which we are aware off, but they are not reflected in our systems in in any way.
+So so in a sense this is not the first time I hear that the users are always afraid of what [ORGANIZATION2] is working on for for the past years.
+Um, I mean we only tested this simulator ASR which talking this morning about trying to get more testing the ASR.
+I think that in the long term I would like this to be evaluated on humans towards the end of the project we we we would really have like user study that would be great to to see which, and I think there will be people of different groups.
+German to English say, you don't know the verb is <unintelligible> in the sentence predictor wrongly, or you could just wait, but maybe that's bad to.
+So this is, I think the the problem with the integration of the ASR and MT will remain even once the uh, the new generation of the ASR models is is there.
+And there will be the question for the users whether they preferred to wait for the German verb, or guess and put there some English verb.
+So there there would be a trade off like what and what confidence should I insert the verb and then maybe recovery.
+Cause they just have strategies for doing this, the massive strategies where they serve formulate the the speech and serve wheter the <unintelligible> is open, but I don't know the computation like.
+It's like, the ASR so bad that that the prediction is like totally off, and so far it doesn't work at all, but but we are trying this guessing.
+And that's a question whether we will be able to do it well enough and half a good enough confidence eh explicitely in the models to make the decision, whether we should follow this guess or not.
+(PERSON6) Maybe, maybe, so actually it won't be better if you could even create the Doodle Poll with time slots already for [PERSON4].
+(PERSON13) I, think that probably we if you would like to present to the same thing we should then everything right now put the same set up without the (audition??
+And not really doing subtitling at the moment, we are doing transcription and translation, which is not subtitling by some kind of summarization.
+So what the, yeah, what was the challenge on the French watching session that we didn't understand the source language.
+(PERSON1) Is it just cause sent me I mean because fundamentally sentiments segmentation is really hard, because people just you're trying compose compose something that is not really there cause I'm not speaking in sentences.
+So maybe maybe [PERSON9] he could propose some German talks that are uh, on this and we we should test the whole set up via English into all the languages.

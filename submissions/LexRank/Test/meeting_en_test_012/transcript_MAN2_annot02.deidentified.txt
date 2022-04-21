@@ -1,0 +1,50 @@
+There is nothing that I would know about that we need to discuss uh, like in in in a very big detail,ehm.
+So if we have [PERSON10] on the call.
+So [PERSON10] are you on the call?
+And we also,do we have [PERSON11] Here are not yet.
+(PERSON11) Yeah, I'm here,I'm here with <unintelligible>
+So this Python based <unintelligible> which would I do preproccessing and he can handly many, yeah, not so well the logic, where need to be dealing with partial sentences, but -
+(PERSON11) Okay, yes and also the <unintelligible> empty worker ehm.
+So.
+And and that's it.
+One thing that I would still like to know [PERSON11], is the handling of timestamps.
+and the the limitation with this approach is that we can handle only like one single timestamp at the beginning and would be the end of the segment.
+So the only timestamps that we have are the beginnig and end of the sentence or <unintelligible>.
+So, the -.
+It will be a replacing the content of the of the textfield with with the new messages.
+so in other words yes part of the message that the presentation of platform is receiving is an indicator, whether this is an update.
+That' -
+I think we need to discuss this again a <laugh> fresh call.
+But we will let you know if if we see something like that.
+I know it's realy uhm <laugh> close to our deadline, but this is the only information I have that <unintelligible>.
+(PERSON10) Probably the development team <unintelligible> have something close to be fine advertial to use as prototype, but we can have some working maybe for <unintelligible>.
+(PERSON7) Yeah, okay.
+[PERSON1], would you ehm would you have any idea, if if this is easy to do of interest and useful.
+And and so on?
+It will we have the platform.
+I will have the <unintelligible> and whether we can start I think it maybe ok.
+And (it be) can view some no <unintelligible> voice and <unintelligible> somewhere I think it is okay we also <unintelligible> other things.
+(PERSON7) Yeah, okay.
+so, yeah, some <unintelligible> we stand when we need more worker I think we have to stop limit number workers.
+like we have the.
+So in in the long-term, it would be useful to have this image spread out for the various reasons that you mentioned, for the uh workshop itself we should be good.
+So I think that we we should be fine relying on, but that's please talk to [PERSON3], what he thinks, because in some early stage we discuss that for just for a backup purposes.
+Yes, [PERSON2], was that you?
+I didn't attend the yesterday meeting, but the bug that I mentioning is that sometimes the work, one worker can handle several sessions, but then it's, but then it stocks and it doesn't return any output.
+So.
+I will <unintelligible> us, but yesterday so yeah I don't know what is happening there, because we <unintelligible> when I do know what <unintelligible>prophones it was able to handling several sessions.
+And that <unintelligible> I think it in one sentence it ehm it yeah output <unintelligible> and  I can't <unintelligible>  fancy <unintelligible> call but it <unintelligible> it was in call,
+I think I--
+this is a <unintelligible> I think I had to <unintelligible> information and then <unintelligible> maybe I can hopefully I can see the one simply wrong come from-
+If there is anything we can do in order to help you the publing the problem, we stand us careful <unintelligible> the mediator <unintelligible> to test just your worker for some-
+Yeah, so this is from [PERSON6].
+So so is it okay for everyone?
+(PERSON6) Yes, it's it's it's also.
+It's the same as in the sample and it didn't for for me this week.
+So.
+So.
+(PERSON6) Yeah, okay.
+So I will,
+(PERSON7) Yeah, okay.
+You can try launching it in the meantime yourself, if it works for you, if you are all Windows already.
+And uh if you don't connect to [ORGANIZATION3].

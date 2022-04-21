@@ -1,0 +1,50 @@
+(PERSON3) Uh, yeah can you, can you drop [PERSON1] your message over the phone that we are already online.
+Uh, that means that we will lose a pe-, the person to prepare the data.
+And for these context dependent, uh,- (PERSON2) Uh-, I don't understand at all what you are talking about.
+(PERSON3) So, uh, [PERSON2]- the ma- The agenda is in the master document so if you can check the Coffee Meetings.
+(PERSON2) So five- <unintelligible> (PERSON1) 0 eight- So I thought, I know that I have discussed this with [PERSON5].
+And dependant then, mhm, um, insert type level annotations into xml mark-up of the documents.
+Annotate at word token candidates in context of the sentence, or perhaps in, um, each occurrence.
+This word was suspected, an NE marked as unclear at type level.
+(PERSON2) He, he asked me to make a copy of his document not to delete the lists so so-.
+You should find out the notes on this, uh, that we will stick to the name tech hierarchy.
+So that is the standard distinction from lexicographers work types and-.
+(PERSON2) Maybe I don't understand this entire world type level.
+To do like the bulk processing of the documents and the insertion of the annotations into the Xml and things like that.
+Actually, I do not really need to finish the annotation, because this is some procession that's-.
+Yeah, so this is, the the typos in named entities are mainly because the people do, the annotators not knowing the correct spelling.
+I think that [PERSON5] did not use name tag because he needed to collect this list quicker.
+He used name tag so there is, uh, quite a big chance that if Martin creates this list, it would be shorter.
+I don't think that the program included all the words beginning from c[PROJECT4]tal.
+(PERSON1) And what is an unresolved problem as the identity of NEs, um, preservation and now well-.
+Uh, we do want to hide the original name of the person.
+So there there will be a lot of gaps in this type of output, but I think it's for the sake of time.
+I don't think that the data set for the purposes of summarization will suffer much if we if we-.
+So actually, our main worry is that some true named entity will leak into the data.
+And in that case, that probably falls on [PERSON3] for the programmer parts, I'm I'm afraid.
+So that means that you may need to offload some of your , uh, the what- modelling ideas or to [PERSON4].
+Uh, but it has to be a skilled person in in this, ah, like text processing.
+(PERSON2) Leave English, German, Czech and don't mix it up.
+And then, the other thing that [PERSON2] needs to discuss with [PERSON7], uh, is the consent forms.
+The first constant form created, which agrees with, uh, kind of working with our data.
+Uh, to have the permission to publish the data in the anonymous form.
+And the first one will be on the content to process the data and deidentify it with the forcing goal of publication.
+If- Uh, so with um kind of preli-, openly said, if we really need all these samples for people we are sure about, like you and me, [PERSON3] and so on.
+And the easiest way I see to skip is to prepare the data set fully de-identified already.
+So as soon as we have the corpus, clean, uh, removed the named entities.
+And with the consent form sent to Jane or Mary we will say: "Based on our records you were a participant of this and this meeting.
+(PERSON3) I think we can-, Uh, what we can do is, like we create a master sheet.
+And when we, uh, know that people will be again opening these files, every gaze to that It's crowd- It's like, it's crowd sourcing essentially.
+Every gaze into the data set gives us an opportunity to spot other things that should have been anonymised.
+We will see, maybe there will be no more, uh, outstanding pieces of information that need to be deleted, but maybe they will.
+So that we can put it online as to the prospective participants of the task at the beginning of February.
+(PERSON1) So please put this de-identification procedure and this check with the consents on the time scale.
+And there is like, uh, a little bit of time soul to handle any issues.
+(PERSON3) So we write the data de-identification from the participants by February end.
+But I think that [PERSON2] will be finished with the work type level annotation, uh, well, in two days.
+This should happen, uh, by the end of by the mid of February at the latest.
+So, uh, like like, like the people we know, they will quickly give us consent, right?
+From [ORGANIZATION10] I don't expect anyone to be in any good position for, uh, serving on this.
+This can be done later but at the same time do you have any key note speaker in mind for this summarization?
+Uh, so I think we should try those people as the key note speakers.
+(PERSON3) We can delay these <unintelligible> So let's start writing the emails, uh, two prospective people here.

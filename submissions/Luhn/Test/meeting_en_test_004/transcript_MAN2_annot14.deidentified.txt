@@ -1,0 +1,50 @@
+This is- this is what you should be seeing now, it's [PERSON1]'s screen that runs the client for connecting together, one ASR worker and then the translation into Czech.
+One of the command is running only the ASR worker and the other command the lower window is running both, the ASR worker and the machine translation into Czech.
+So the German signal will be available only like for 20 minutes, and then 20 minute break and 20 minutes again, because it will be only one person attending the the last 20 minutes, and they they have to take break.
+But anyway, we should be ready for for that, because the German from the ASR will be much better and German speakers will be much happier to see uh, the the human interpretation, but we should be testing everything.
+So I will try to get the batteries, ehm, and you're right that- the good thing about German ASR is that we don't rely on the German, on the English segmentation worker so that that could run as well.
+You can see me and [PERSON1] is also holding the second mike, so that you hear what I 'm saying, and you are seeing the translations with the delay one, two three, so yes,
+(PERSON4) The segmentation is <unintelligible> getting the end of one sentence in the beginning of the next, and we not read it preparefull that, and I think that's something that we need to talk to [ORGANIZATION3] they can fix that and make sure that they're not getting these overlapped to two sentences but that's a tranlastions starts.
+And you have to click this view full motion presentation so that the frame rave of Pexip is- is higher and that you will see what exactly is rolling on the ehm on the clients of the ASR.
+So, the, the list of icons that I was- So the the issue that we are trying to to help you solve now is that when you are following the the screen presented by [PERSON1], [PERSON1] are you still presenting the screen?
+So when you are when you are following that screen, you will see only update of whole page, like every one or two seconds and that's different, that's very different from what we are seeing.
+(PERSON7) It could- It could work also asking, for example, for multiple eh translations that's giving the input audio file, and they want, for example the germ-German audio file and that want in to receive the English translation and the French translation.
+And they told me that probably the eh machine translation of [ORGANIZATION1] has some kind of improvement, and it was the one I was trying to check this morning.
+It works on-<unintelligible> beginning and not on offset and so <unintelligible> also get confused, but we are reason about this topic and we'll update you, of course, or if you discover something, please update me.
+(PERSON7) No, no, it should be the same issue, but I also, I'm a little bit confused the on this topic, than probably I haven't explain it very well.
+They will take this outputs, so-Even if a longer sound segment-If longer sound segment happens to lead to the same text hypothesis, this update should not be send to the subsequent empty worker, because it is not real update.
+And and [PERSON1]'s notebook not recording anything yet, but the beringer we have, the sound in the sound card, but we do not have the sound in the system, and it's stopped by itself, or have you been changing any of the sound settings?
+(PERSON7) There is the - this is a demo of course but when we have the M3U8 URL, we can configure the presentation platform to connect to this streaming and display the provide thing.
+Can we get access to that, or maybe if you do not want to share the whole thing, then just the video client, so that we can test the video client.
+(PERSON7) Yes, exactly.Actually, the the <unintelligible> worker is completely transparent, the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the <unintelligible>
+But also with characters in coding and we are debugging where the problems is originated, there are strange characters coming out from the ASR or if it's the Java integration whose not correctly managing the <unintelligible>.
+I'm, I will be on vacation next week a couple of days so I suggest to perform some massive test on Monday, so that I can provide you my support and we can check everything together.
+Ok, so I think that the [ORGANIZATION5] people can can leave now, thank you very much for for your time today and thanks [PERSON2] especially for for putting this worker together.
+I would just like to ask if you could get in touch directly with [PERSON10] and make sure that they help you with the with segmentation input.
+We don't have access to the um, maybe you can, yes, if you know, you can tell us how to use the streaming from VLC that work for you.
+I think we should we should try to wrap up, so I would like to ask everybody who is still on the call, to go through the the current state of the Google document, and add whatever we have not recorded in the-
+Do we think it should be the final end users who would be like choosing which English they want to see, or should it be us selecting the best English for them?
+(PERSON9) So, so is there a URL so that I would just type slash admin or something like that to force it to go to the admin screen?
+So we need to know what [PERSON1] should ask for we need to know what the worker should be- should register themself as, and then what should be displayed.
+So it's it's now like poppin- pokin- poppin- popping up one by one, we we've learn that if we add dash pub it will be grabbed by the worker for the presentation platform.
+(PERSON9) We need the map because it's different institutions who are starting the different workers and if they misregistered the worker if they use like mismatching fingerprint there is no way to make use of that worker.
+(PERSON7) In order to have the list of all workers the list of input and output it's pretty, pretty much what we need, more important it-
+(PERSON9) No, no, it's like once we have the idea of what is being connected to what then we know what the inputs and outputs are and it's easy to use it.
+(PERSON7) And you run the for example the EB client, I know it's pretty much an old tool, but when you run it one of the first thing it displays is exactly the path selected.
+But what I'm saying is that if we don't have the map, and if someone from runs a worker with some incompatible fingerprint so that the worker from [ORGANIZATION5] does not connect to it, then the path would not be accesible.
+(PERSON7) Actually that for the one who runs the client is is not available this information, and simply provides if <unintelligible> so there is no logic implemented in order to ehm change fingerprints to worker, because worker who be there or not or <unintelligible> will not be available or it's all delegated to who provides the service.
+And do not edit the existing ones, so [PERSON7] could you please put all the fingerprints of the languages that the presentation platform responds you next to he object that I just created?
+So I think that [PERSON1] launches EB client and tells EB client, here is some audio with this fingerprint it German audio, and I want the target fingerprint find me a path for that and my desired target fingerprint is Italian, Italian pub text.
+And the the EB client connects to the mediator and the mediator find the path and the path will include the worker which digest Italian text and produces Italian pub.
+And for this pipeline to to be access if all the path to be accessible there has to be the worker registered already with it mediator that emits the Spanish Spain pub fingerprint that I'll put this fingerprint.
+But this this problem with Windows has confused me, because al- me you, me too I usually work on Linux and it works pretty well in my situation, maybe it's something related also to as your firewall we have to check it.
+So, so can you make sure it's for the workshop in two weeks now, it's more important to have it optimized for the desktop rather than for the mobile phone.
+(PERSON12) And it seems it works for the cellphone very well that it adapts to the size of the screen, I wonder why does the same code cannot be used on the desktop.
+Yesterday we actually we tried for the full screen mode to prepare let's say a kind of overlapping, you know the the <unintelligible>, but we haven't found a solution and it's actually it's it's nothing in problem to, to develop it.
+(PERSON9) Yeah, and when I'm thinking of is, can you, could you, could you share with us the code for the not all, maybe maybe not all of the presentation platform but like the bare bones which has the text thing, like the logic that converse the the words to where is that being displayed?
+(PERSON9) Or maybe, maybe it's if it's easy I don't know how easy is it in the code, but if you could register the worker when you're starting the worker that feeds the presentation platform.
+If it could register itself twice, once by pro- offering the dash pub thing, and that would be only copying thing exactly, and the other one would be like dash pub presented or whatever and that would be <unintelligible> thing.
+So that the same worker would offer two output, one would be so that you can connect it and it doesn't change the the stream and the other one would be the one that we could then directly use as the console client.
+And we need everybody, so I'll ask everyone on the call today at 1 to contribute to this map and everybody needs to check that their workers are like signing themself with the right, with the right fingerprints.
+(PERSON7) Well, since I will not be available for part of the week, maybe we can try to <unintelligible> let's say everything we have to check on Friday.
+And try to clean up the Google document this one, on the prepare to the calls if I misunderstood something or if if there's if some of the notes don't make sense please make it explicit so that we,yeah.

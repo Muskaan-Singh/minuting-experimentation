@@ -1,0 +1,50 @@
+So for some reason I have always has to connect a few times uh until Zoom starts sending also the sound to me.
+But for some folders, for some reason, the audio format is wrong.
+And that's uh because their target side is uh- are the subtitles which are created for the hearing impaired.
+And then, when we have the final output f- from from from the entire input sentence we start generating.
+And then basically with every new token that they gather they they generate the new-
+So basically, it's much faster because you just generate one word at at a time.
+Yeah yes, s- so basically we would just uh call it like to-
+We would just train it s- so that it is stops- uh generating yeah- after some, some time.
+Because uh I I was just looking at the [PROJECT4] source code some time ago.
+(PERSON6) And I I am trying to uh gather the data <unintelligible> from those (tasks) that are mentioned in the program.
+(PERSON6) I I I'm a bit afraid that the (mayborl) probably will not be prepared till tomorrow.
+Because uh tomorrow I'll be working on the Monday similar model as well.
+Each of the pipelines uh on Monday for the two different domain adaptations.
+It should be part of uh the automatic evaluation of [PROJECT1] test set right.
+But there are some audio files uh where it, it gets converted to the <unintelligibile> format.
+Because once I have the (WAB) file, I probably won't need to do convert.
+Remember, I it's it's it's since August that I've been telling that that we want to evaluate on [PROJECT1] test set.
+Zoom never worked as badly for me as it as it was <laugh> today for the recording.
+And here we are running on the uh in the problems of conversion of the of the file formats.
+So my only uh thinking is of [PERSON5] who was able to simply come by and help immediately.
+And ah, so I think there are some things to discuss about the (multiple) dictionaries.
+(PERSON6) Uh I I received your email yesterday with uh the thing I was I mentioned in the <unintelligible> (ASL) system without using (pretest) (for pronunciations) was better than <unintelligible> (multiple pronunciations).
+So [PERSON2] sent this email with the forwards, the uh (Watson IBM) and yeah.
+(PERSON6) And so the performance of dix- (description) was exactly the same with the without uh adding these pronunciations in their dictionaries.
+So the thing that I asked for is that you would have various versions of this dictionary by taking only the words that were observed five times.
+But uh please stay on this call and figure out jointly how to use that dictionary.
+You need to figure out what words are in the uh in the language model.
+And the words which are in the language model should be simply copied.
+And you will also possibly run into one more problem that it's not ready for two big custom dictionaries.
+And you need to put these two (knowledgeist) <laugh> pieces of knowledge together.
+Or actually the same sentences, but spoken by but by uh different speakers.
+Or or I mean, forced alignment for (defen) test set.
+So I would r- like to have the ASR numbers uh t- today.
+Are uh are (tools) files, which doesn't get converted into 16 (killer) <unintelligible> format pretty easily.
+For (IWSLT), then I observed that that there are no big differences in machine translation parts.
+(PERSON7) During the month of August uh, we also had numbers for the empty models.
+The (rainbow empty models), uh scores were better than our len- our I think yeah.
+Basically how what [PERSON1] mentioned on the call that there was two <unintelligible> individual translation workers, you can see if they are performing better.
+If you want to inspect it, then l- listen to the to the source audio.
+So uh so I, I now see that the the transcripts for for these files are don't have the right length.
+And I'm not sure how to uh how to convert them properly, because (F F M P G) just just returns the error for those files.
+And actually, how how many how many worker- workers can I run in parallel on (cpu)?
+Or should we go forward with the language model fo- to process the the interpreters?
+(PERSON5) So I figured out that actually in the fi- in some of the files there is, you don't just hear the interpreter.
+If it doesn't work, then I can apply some kind of filter to cut off the- this effort with with low volume.
+(PERSON4) And <laugh> if she says that not, even when the quality is good, then then we don't need to care much about the rest.
+And so there was there was very some phonemes that weren't (formatted) into the f- corresponding alphabet for names and uh.
+So if I I I can share the other f- package with you if if you are familiar with (arl) that is actually very easy to use.
+There is some uhm nice chart y- in Wikipedia that um shows you the nearest phonemes.
+(PERSON6) Ca- can you share the linked of Wikipedia page?

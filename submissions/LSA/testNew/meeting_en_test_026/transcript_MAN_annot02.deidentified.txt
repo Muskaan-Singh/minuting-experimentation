@@ -1,0 +1,50 @@
+(PERSON3) So basically, I'm a bit, I get stuck with those experiments, because I had notable problems with how to run it at all with explayable mistakes.
+(PERSON3) And uh currently I'm I started running those experiments that [PERSON2] told me a while ago.
+(PERSON1) And then it was the the experiment by [PERSON16], which are covered there wheter like small data only and your monkey only.
+So, I I really think that some experiments with multi-source text, ah, in [ORGANIZATION3] should be done immediately after -.
+Ah, so, so that we would like double check the the exact plans and and look under your finger.
+So, uh, [PERSON10] himself will finish the language model checking of ASR outputs.
+Yeah, so I've, have started, but I think I never finished an email to you, because you have reminded [PERSON4] that your, ah, profanity filtering is not yet integrated.
+So the the important message is that, yes, it's very good that you are actively pushing so that your results are integrated and everybody should do so.
+But I think we <unintelligible> get on to bad he can simply download the files on the oval machines.
+(PERSON1) Yeah, but the MT worker can create its own spasm for good ASR.
+Ah, so the ASR system has to see the largest possible set of sentences.
+And, ah, we are going to create new sentences by from text only language model by adding the the sound part to that.
+So they were training on on disruptive inputs, and that also greatly improved the robusteness of of the system.
+So, so, we still are totally relying on one person who is able to start the pipeline, and that is a bad situation.
+To, ah, like make sure that the whole set up is understandable and regularly tested by others in the team.
+So [PERSON5], you were during that time you're in some different lecture or, ah, because at some point I suddenly saw that like [PERSON17] stopped trying, maybe.
+Or have you seen the common addresses file to include [PERSON14]'s ah army worker.
+[PERSON1] asks [PERSON17], [PERSON5] and [PERSON4] to have a call and provide the first specification of requirements, uh, for a pipeline set ups.
+So maybe if you could remove these scripts which have the similar performance, or only leave that which which is usable and which is kind of okay for the for our life sessions.
+But, yeah, so maybe I could add some parameters, for example, to limit the number of languages.
+(PERSON1) Is, is it better to run the multi lingual moral with fewer languages enabled?
+Ah, as the fall back solution, we should have the [PROJECT3] models running as a worker on our side.
+But this is so like low level issues, that it's worth having this discussion in the devel at [ORGANIZATION1] mailing list.
+And then when I'm happy with this, then I will get to the second phase, where I will basically translate and and synte- and creating to dig data from the rest of the and the end dataset, and then I will build like the final shortening model.
+And also, yeah, also, this is the problem with the [ORGANIZATION4]s one hundred language models, because they they take like fifty gigabytes themselves.
+(PERSON5) He is an Indian guy and saw the data, it's his name and he mentioned that, uh, he is actually interested to join your group, your team.
+(PERSON4) Eh, but, I was raised like very late in the night around nine, nine thirty Indian time.
+So I have a call at two thirty Prague time with [PERSON11] to discuss some of the specifics of that is around the SLTS capability of downloading files.
+And I'm trying to make it as as well as possible, so that we don't need to hardcore the ASR in the script.
+So, after that I'll have a call with [PERSON7] to discuss all the, oh, things that I put in the script, and then I think he can take it up from that.
+Ah, as a fallback solution, if I if I forget to to make sure that we have these people available, or they do not know that they won't be available.
+And this manual creation should be supported with automatic tools as much as possible.
+If you find anyone else who would be ready to help with the immediate domain adaptation the data crunching please, ah, say so.
+(PERSON1) So the, for example, in [PROJECT1] test set there is this Monday talk of mine.
+So this is like kind of backward looking, making sure that the old approach works the the new data well.
+At the moment it is absolutely impossible to do any domain adaptation for the fully neural ASR.
+And when we see a keyword in the domain adapted version then we would then we would like use that sentence from [PROJECT2], which is in general worse, but contents the right terms.
+And and another suggestion is that we really should have our arm fully new ASR and do various experiments on fine tuning and and and all that.
+And the answer from the project, ah, coordinator was that, well, we were discussing this a lot.
+And the translation was that, like we were disgusted by the idea of including African languages in our project.
+But maybe we, we could employ um these neural networks that I forget how this this task is called, but it's like based on the movie review -.
+So not exactly similar, but when I was working with the financial dataset that we had created, or in my previous work, so uh we were looking for things uh from, let's say, an investor's point of view, it was since it is related to sentiment analysis.
+So, even if you train a neural network model to a spot some, some of the things that might be disrespectful or um demeaning to someone, or maybe that that shouldn't be there.
+I'm the the the social media like [ORGANIZATION4] or or or um or [ORGANIZATION8] etcetera they, they actually use such things to filter the the posts.
+There was actually a cable competition for this, where people had to make models to detect the tweets or like sentences which were harmful in some ways.
+And I think that with in this different setting, the the problem with the subjectivity that [PERSON4] mentioned and I agree it's very important, but it may be less, ah, less severe.
+It's not irritated actually transcribed, we will have it in our logs, but it won't be displayed on the subtitling platforms.
+So for that task of, ah, can I ask the elderly students who are already in Prague for the first or second year.
+And also, if you are short of ideas read the the problems in the Monday tests document.
+So we will have one more this call next week, and then, ah, it will be already the Christmas Day and then, um, the the New Year's Eve.

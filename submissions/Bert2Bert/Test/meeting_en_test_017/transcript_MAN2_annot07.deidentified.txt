@@ -1,0 +1,86 @@
+we have refined the function of presentation platform and ehm, ehm says.
+we are still planning the development of the presentation platform.
+the platform is expected to be released by the end of the year.
+it's not yet known if there will be a prototype or a prototype in the next week.the first prototype should be ready, uh, on the 7th of june.
+it's exactly what we want to do, but i want it to be ready for the next week.
+i'm not able to tell if it ’ s feasible, so i'll make sure it is feasible." i can have a prototype soon like within a couple of weeks, " says person1.
+" i'm very optimistic, " said person1's creator.
+" it's very optimistic...
+i'll start coding next week, " he said.
+the prototype is expected to be released in may.we are continuing translation of our sentence level transformer for these incomplete sentences.
+one reason is that we don't have the time to fix the cashing client, or it's reliable and all that is reliable.
+we need to try a few more times and do we have to try one more.the asr does not close sentences at all.
+if you want to see right asr output you will have to request the unsegmented text.
+this is where the segmentation worker has decided to end the sentence, so how do we expect to receive for the mt part?asr can change it's mind.
+it would mean that he would suddenly see the same timestamp that you already saw before.
+but with the same timetamp there would be new token.
+if this happens, it will correct it, and emit him new hypoteses within intermediate work changes.if we run the segmentation worker, we should train our empty systems to work on all the individual lines that we are getting from these.
+the final translation was by having incomplete sentences, which i'm probably not going to be useful translations.
+" i think we're in the process of doing them, but my intuition would be don't put too much emphasis the language works, " said person5.this is the output of the secon - english segmentatiton worker.
+it's still extending the sentences...
+and is it legible on.
+( person5 ) i can see it.
+( ( person 4 ) ),'can you see it? 'the project3 project is to train normal sentence models, those that you already training.
+the project is intended to train the mt systems, those you already train.
+it's not far from the work of project3's creator, who is currently working on the project.the segmentation worker is not emitting timestamps, but it doesn't emit them.
+if it is ( person2 ) it's not really crazy, but that's a problem that has to be solved very soon.
+the segment will air on cnn at 8 p.
+m.
+et on sunday at 8pm.this saw statistics on the internet, actually starts in the middle of or like is it some continuation ehm of something which already output.
+we don't know the timestamps for the individual parts like here internet full stop.
+we have some sample data...
+but there will be quite quite on tricky coordination between the components.the baseline would be to have models that translate this.
+if it's damaging the tail of the sentence which was previously translated better.
+the statistics of on the internet will translate only the later part of sentence.
+it would be better for the user experience the of translating this.this is to preserve the good part, as it was translated already.
+we could uh, this cleverness could be part of the empty worker ( person2 ) i don't want to < unintelligible...
+but we want to skip this from the imput.if you and [ [ person1 ] could like to meet person1, then we would have to postpone it.
+if we would like to post it, then let me know where the relevant code is, or if he has to like created that from scratch for some reasons, he can directly use that code.the new project2's empty worker is available in the new " project2 " factory.
+it's designed to train the models to be ready to accept like partial sentences.
+the project is available also in the organization7, which is available only in the u.
+s.
+and canada.option two is to train mt or fine tune senders to gracefully handle badly segmented input.
+this will make a fall back solution for < unintelligible...
+if it damages tails of previously translated sentences, we can't hear you,'said the company.if [ person5 ] is able to connect better later on, then we can learn more details.
+we can have plain text files with relevant well slide - from the slides from related documents, or we can lump all of those together for the day, or for the whole today workshop, we can add work granularity.we are not using such a mechanism anymore.
+it's possible that models system don't need adaptation any more.
+if you decide to do any asr people think system is is the domin indepedant enough that that will be sufficient to be sufficient for the texting of the text, that's fine.czech asr is working on the mono - monolingual include files.
+the project runs in english and is run in english.
+it is currently the work - workshop or training for call the running, or not.
+the workshop runs in the czech republic and the workshop is run by the czech government.there will be one or two english respeakers to choose the one which works better.
+the german would be double delayed ehhh, but still thanks to this double digestion it can be better.
+we can skip asr if we don't have it, but this is to give you the whole picture.we are already using that report, but it's not critical.
+we're already using the report, and we already have the install and test scripts.
+we are doing the test manually not automatically...
+but it is much safer, yeah.
+we should do this on a daily basis,'we say.we need the mt domain dependent data for mt fine tuning.
+this is something that well has a long pipeline, but we'll get there, and hopefully will have it um - hum.
+i'll work back from this date, but it's quite early, so i'm going to work back.we would need the german asr asr, or one of those from the rich speakers, to do the pipoting.
+so, if we select the german to english empty system, we would use the organization3 platform to do it.
+we would also need the english to multivoting, and the english is probably our best translation system.we see german asr, german to english empty system and english to anything machine translation.
+the pivoting is that you connect these two empty systems to whatever via english.
+if this works, we can test this, and let us know again next week, if this work works, then send it to the end.person2 test : " what is your idea? " ( person2 ) : " we were discussing this ehm, what are we talking about? " " i just tested by starting one about english workers and pivoting over english worker...
+" " it was in the at the level of partial sentences? "asr can run asr with errors against the original targets.
+but for it we need to get to the final hypoteses from asr.'i would be somewhat skeptical about asr from t - from text to speech...
+and what texts should we use? 'the empty system will do the same errors on name entities and rire works as usual.
+but it will do same mistakes on names and names.
+it's not sure exactly how effective it was but it was the first one to train on real asr from the bottom of the system.this is like a realistic test, where we have the audio, and we can observe real segmentation as we get it from the segmentation worker.
+we can use this segmentation with uh the paralel data to change the url data, so that it would be the uh, the data for fine tuning the empty systems.this is just to do the planning, but it would be useful, but we could do it, ehm, even if someone from the project was here.
+the last person we had here were [ person3 ]...
+but [ project1 ] is known project.organization1 is running age asr workers for english, and four of them don't emit any output.
+" we want to build this pipeline, but it's not possible, " says person99.
+the worker claims it is working, but not delivering the output.if they don't work as the party themselves expect, they would kill it on their side.
+if the test fails, then the party itself would know which worker is it.
+if it fails, the workers would kill the worker, and the party will kill it if it doesn't.person4 says it's possible to force the platform to use specific worker for pipeline or session.
+if they don't pass their test, the platform would kill them if they did not pass the test.
+" we have to define what suitable < unintelligible...
+for each worker "if we can work it - - we can do something about that...
+and then we can get him on slack.
+if we don't work it, we'll be more prepared for monday's monday afternoon test.
+" it's not a bad idea, " says person 4 - year - old.the usual problem is that the person is not free dubt ( person2 ) the worker is still all work after a week of not trying to start new session.
+" we're simply not receiving any output from the worker, " says person2.
+" i think there's a < unintelligible mechanism, wifi something.
+"the general ( project5 ) call was created by person5's project 5 minutes ago.
+the general project5 call is 5 minutes long, but there's too many things to discuss.
+" thank you very much for your time, " says person5.
+do you know a hero? nominations are open for 2013 cnn heroes.

@@ -1,0 +1,45 @@
+PERSON1 was about to join because he told me that he wants to be in the meeting .
+he is writing a lot of emails today.
+also, I have also got around three or four .
+(PERSON1) Yeah, yeah.
+I'm writing you a mail .if you see that the annotator has stopped or [PERSON5] has stopped, i've unintelligible> to him and it's an online document so I see that he just didn't finish it .
+i will open the agenda now and will send you the link so we can write it down .
+we can actually put it to the to the first shared task on automated minuting .this is not complete, but it illustrates that we want to have the finest possible detail about the annotation process .
+uh, this word was once suspected to be an NE, but at the word type annotation it was marked clearly as a regular word .
+the process is documented to the finest level, but we must be sure about the fact, whether someone has processed this or not .the process of the named entity removal has to be very clean .
+the hard part are the entities which can be names and may not be names at times .
+a word type is the word as it appears in the dictionary .professor unintelligible> mentioned that the word type annot, or word type level annotation, is in one of the early seminars .
+if [PERSON5] is not available, that will be like seriously in need off .
+(PERSON2) uh, there are a lot of typos .eighty percent of NEs are not named entities .
+if name tags were used, the list would have been shorter .
+open problems will also be this closed lists .we can ignore the identity or tracing of the identity of projects .
+but we should not ignore it for speakers and for persons referred to .
+if someone refers to Jane at the top of the meeting, it will be the same being .if the labels are A, B, C, that is what you said, we don't never mind .
+our lower or less important worry is whether we preserve the identities .
+if you could de-identify this, then it would be done with clever text editors .PERSON2 is working on de-identification from the beginning of January .
+she needs to read the regulations, but it will take her some time .
+we can always do mock named entities, but we can't anonymise it .the key word indeed is the personal data .
+all person's data must be removed .
+absolutely removed, the data set needs to be free of personal data.the first consent form is the one that we are using .
+the second one is we are getting the permission to publish the data .
+ideally every person would have all the meetings that he was taking part in .the easiest way to skip this is to prepare the data set fully de-identified already .
+a simple directory with documents which people could browse could be a good idea .
+the first form will be on the content to process the data and de-identify it .the best effort is to collect the names of participants from meeting minutes .
+if you know that the meeting participants information could be improved, corrected by someone .
+you can create a master sheet and then extract the name of participants .
+it's kind of a mail merge operation .we should have a sample document, uh, one meeting or two meetings at most, ideally, at the end of January .
+a trial data is 16 March but training data first April .
+(PERSON3) Ideally, we would have the full thing at end of March .i think it's doable for us in two months to have almost finished the de-identification .
+we have to have the data ready for them to browse by mid-february .
+this should happen by the end of mid february at the latest .PERSON3 has created a lot of different things during the christmas holidays .
+he is unsure if we should invite all of these people to the Scientific Committee .
+but if they are participating, they could also be the potential reviewer .do we have to have the list for the application? (PERSON3) Yes, yes, yes.
+I would propose that we submit the proposal within the January seventh or eight .
+PERSON2: "you have to be more insistent on getting information from me"we have to submit the proposal because a scientific committee is not fixed .
+if we can have fifteen people, that would be great .
+(PERSON1) Put them, or put all of them there, and I will delete the lines, or like cancel them like strike them out .i think we should try those people as key note speakers .
+i would ask if he would either agree or have someone else to to suggest .
+(PERSON1) Not today.
+I will also I will come to [ORGANIZATION3] at Thursday .if they get an email from [PERSON2] Nedoluzhko, it's too Russian, okay? (PERSON2) Yeah, I can validate Russian, but I can't read it in English .
+"bye, bye.
+Bye bye."

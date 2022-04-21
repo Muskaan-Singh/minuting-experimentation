@@ -1,0 +1,50 @@
+And word senses this is already there, um, <unintelligible> seems a bit polishing.
+Um, word knowledge, yeah, I did that, context, I haven´t seen what I´ve written there so I don´t know if it´s ready.
+So not, not the whole paper but kind of the introduction and related work and I tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper so, um, oh, and [PERSON2] added the centroids, um, you did there.
+And, yeah, and I wrote a conclusion, um, to that´s high level view so, so I, it should be mostly in a good shape.
+[PERSON2] Um, I skimmed trough the multilinguality section and I still have the question I, I had in slack.
+Like people publish survey books and I don´t know if they fit the definition but I don´t see problem there.
+Like in I, I feel that in some (herious) like I don´t know historical research is (open) the only thing you do you.
+[PERSON9] <unintelligible> so made for, for this type of grant of they reffer to their own paper.
+It´s like, the usual reason is that you have to prepare the manuscript for a (doubleblind) review but that´s not the case here.
+[PERSON9] Yeah, the thing is that if you refer to your papers in the different way then the other papers, the, the whole book looks like more, um, more like, um, that you present your work in context of the other.
+I still think that you should like present them like your papers but, um, as, it´s something that <unintelligible> community.
+[PERSON2] And the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+Which sounds really weird if li-, if we like pretain this is the objective des-, description from distance how, how it is.
+[PERSON19] We´ll probably taking the same position in other case in where, where we write in the book something or?
+Yeah, um, so, um, so I just but, but briefly over it because I think anyway the plan is that well I, I try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now.
+Yeah, I mean, um, notable neural models.
+[PERSON2] Well, I discussed how, um, how neural language model works in, in the previous chapter.
+[PERSON6] OK, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it´s (superfilus).
+[PERSON19] I´m refered to it, um, I don´t say much about it, so maybe find anything really special about GPT wri-, written.
+[PERSON6] The first part, um, is com-, I think it can be viewed as complete and in the -
+If we like there, there is more potential interesting things that we could write about if we read them carefully and so on but, um, they don´t really have to be there but then probing is not finished, unsupervised methods -
+And first thing <unintelligible> enough, um, the (facial) tutorial basically...
+So (forently) trying to do something, um, quantitative with these methods is not very common.
+You want to <unintelligible> say I reffer somewhere to somebody who use PCA to identify the, um, gender biass component.
+<unintelligible>, um, the, the [PERSON2] paper for multilinguality this uses clustering which even evaluate for the multi indentification.
+[PERSON2] (Also) the ICA tutorial was talking about, about behaviour texting.
+For, for instant for gender biass it´s, it´s, it´s, um, the doctor came into the room and mask said that and, and, and you want to test what´s the probability of he and she being the (word) it.
+Or <unintelligible> Goldberg, um, um, um, probe [PROJECT1] for some syntax ability using, using this like, like designing the set of comp-, of syntactically complicated sentences and, and was looking what´s the probability of the, of the correct, cor-, syntactic correctly words.
+[PERSON6] Yeah, the point is that you read the model as a (blank ones) only <unintelligible>, usually you can (struct) some interesting thing <unintelligible> that you something about a bit of the model.
+[PERSON2] We don´t refer to that but we can still say in this, in this, in this chapture that, that there is another way of testing the models and, and we are not interested in these methods.
+I think most of the, um, [PERSON7]´s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization.
+Argue that we should always choose the most complex probe since it will maximize the mutual information.
+[PERSON2] Yeah, actually didn´t get the thing what, what the mutual information that [PERSON7] was talking about.
+So I think the, the conclusion was that like people are discussing it and there are different approaches.
+Like for example in case of the biass detection you´re constructing a data set yourself and that´s the supervision, right.
+[PERSON6] Maybe we should follow [PERSON7] in, in classifying like the probing and our unsupervised methods as structure analysis.
+[PERSON19] The virtual task or sort of you can find data set maybe -
+This, this is also problematic part like when you have subwords and you need, your <unintelligible> isn´t forwards so and you just averages together or -
+That these concepts come from, um, general machine learning community and even in the general machine learning community this is, this is li-, like, like the mainstream.
+And that people in the machin-, um, in, in NLP community started to be interested in interpretability only, only recently.
+Because this book is about NLP and, and linguistic structures and we are using methodology, um, that comes from different fields.
+[PERSON6] Listed several methods and that´s, the point of this chapture it that, yeah, unless you like list methods, um, there´s no, there´s no general consensus on what interpretation means.
+[PERSON19] I agree that probably explicitly say that here we´re talking (most) interpretation of the <unintelligible> in general, not NLP.
+[PERSON6] That, um, that this the, the indroduction here should, should stay that it´s talking about the thinking general.
+[PERSON6] Also like looking at the contents attentions and effective mechanism for word element and relations need to be (sheltered).
+And do you think deep learning for the first, um, I would, maybe I would <unintelligible>.
+[PERSON2] I added some comments in this, in this chapture and, and rewritten some sentences that seemed -
+[PERSON9] So I, if you, if we (thinkg) and, or we <unintelligible> figures well and read it the whole book and comment everything.
+<unintelligible> the email was like come and have a drink in the middle of the work day.
+[PERSON9] We should have the name next before we, we can read the book so that we can start reviewing process.

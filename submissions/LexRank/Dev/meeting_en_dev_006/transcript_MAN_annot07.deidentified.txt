@@ -1,0 +1,50 @@
+So it- it would be great if you could quickly explain what is your current status of the speaker adaptation data collection interface that you are-you are working on and the document the [PROJECT1] surge 2020 organisation and add in one or two points that mention your name and the one that I would like to specifically focus on is the "regular" data flow from you to [PERSON3].
+And what I mean by that is that I would like in the very few coming weeks that you two are in close touch and whenever you [PERSON11] have some data in the system then you know where to- like how to share them with the- with [PERSON3].
+So this is something that is- it is like the final part the final stage of what you are developing.
+So this is something that I would like to set up soon and test at all the possible occasions.
+So now [PERSON11] if you can describe what is the status you are working on and ehm specific what would be the best way to link your work directly to [PERSON3].
+But the scripts are working but they aren't in the pipeline.
+You have a directory with all the documents, downloaded from the web containing the- the relevant domain-specific dat- data and then you just run the script and the <unintelligible> are the most common words from the- from the corpus.
+So this sounds good and it's totally ok that you had your time for the exams, that's- you don't need to apologize for that.
+I have another question, and that question is related to the front end, if you have started, probably not yet on, like, reviving what [PERSON7] has implemented the collection of source.
+The structure of the <unintelligible> will still evolve,so we need to be flexible with that but we are discussing what is the best way for them to give us all these files and I said that in March, in a month from now, we should hopefully be able to propose to to suggest interphase where they could upload the files and if the some restructuring of the folders we can do it behind the scene and then tell them Ok,now the directories are-are updated to your current agenda and please keep uploading the files again.
+So this is- this is something which would be good to have running in March when they could start uploading their documents and there we would also test whatever forments they have and what other problems it this creates.
+Yeah and there's one more thing and that is the confidentallity of the data.
+So therefore they indicated that some of the files they will have will be public files which should- maybe they have- there are <unintelligible> so it's downloadable from somewhere or they simply know the files will be published and they can give them to us as files and that's ok but there will also be another set of files which are strictly confidential for like the project.
+And one of the view would be green on green ground and that would be all the files which are non-sensitive and the there will be another like layer of that that would be like copy of that uploaded interface and that would have red background that would be used for files which must not leave the the faculty they can't be used.
+Yeah, sure, I- I will take it into the consideration
+Yeah ok, so that's- that's very good progress and now to my original question.
+So if there is a session going to happen, what I would like to- to be able to is just like dump the files on you and then you would process them your system will process it and you would pass it to [PERSON3] and then I would tell-
+I would dump the files for you ehm on you.
+Yeah,ok, so after the exam period is over you can start loking into this.
+<unintelligible>
+So that would be the best I think, yes.
+Yeah, yes ok.
+that I- I use for uploading the data to <unintelligible> or to online text club and that Im using the <unintelligible> for it it kind of tall<unintelligible> and <unintelligible> some packet.
+But i have you know i read the web and try it to ehm can <unintelligible>
+Yes, on <unintelligible> to yes, I hope you are, but I'm sure-
+I don't know whether you have to be there or not thats not important, Wednesday is more important-
+So that would- that would be threst test for you so it would be good to see you.
+So, yeah, I will then send it to her maybe early next week she should know, so that we can- we can <unintelligible>
+I'm not sure I have the document because I- I know you wrote to me that [PERSON9] will be involved and I don't know if she required <unintelligible> going on.
+So that.
+No not yet exactly so this <unintelligible> to start it.
+So thank you that was [PERSON2] and there is no one else remotely present so maybe [PERSON4] if you could start <unintelligible> what- what we have here.
+<unintelligible> evaluation to the set <unintelligible> it should test it on the real data.
+[PERSON4] sent me some files from - I think <unintelligible> something like that so I-
+I think thats something like that we promised to make it ready this <unintelligible>
+And by me and [PERSON1] should finalize this test now and that's all I think.
+Yes, but if- the problem is the <unintelligible> info should be exactly some- some <unintelligible>
+I mean, that yes our <unintelligible> on to run the <unintelligible>
+Yes, so the docker, I'm working on the docker images that was shared by [PERSON10]
+<unintelligible>
+Yeah, but this is what we need like for permanent use.
+Yes, exactly, so we need if you instance it actually.
+<unintelligible>
+Maybe ask today and we don't need it for Monday we can-
+<unintelligible>
+I actually don't know what's the <unintelligible> to look to some puts.
+So like you would think reduce the <unintelligible> or something like that.
+And also if you have not filled the Youtube- sorry, the doodle <unintelligible> for regular meetings, please do so.
+I just want <unintelligible> I just <unintelligible> instantly and this needs to be fix, it's like-
+So that's it.

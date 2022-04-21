@@ -1,0 +1,50 @@
+if we agree on the functions that should there you in the next week.
+So I think that the first prototype should be ideally ready, uh, on the 7th of June, like the first very first shot with with box and all of that.
+(PERSON1) Yeah, that's where the big question mark so at the moment, that's what I'm not so sure.
+One reason is that we don't have the time to to fix the cashing client,
+But the main reason is the cashing client makes the latency too big for the final users.
+So what we really want to have is ehm to translation of incomplete sentences for the user experience.
+This is where the segmentation worker has decided to to end the sentence, right?
+If you want to see right ASR output I'm not sure if <unintelligible> you will have to request the unsegmented text.
+but then we need to create the segmenters for all the ASR languages.
+(PERSON4) Yeah, so and the output, if you look at the individual segmen-,
+But still the ASR worker decides to fix word before this end of the sentence is that possible?
+But the ASR signals is explicitly, but come a time when the when the sentences markets final
+and this is this is the output that we get that we got at the last conference,
+and we just need to make sure that the the transform model handle that well.
+(PERSON2) Um <unintelligible> for one thing it's also possible that if it is (I'm it knew hypothesis, the segmentation as we run output segmentation might be different.
+The other possibility is that maybe if ASR only changes one word for the fact that my <unintelligible> one word.
+and I think that's that's a problem that has to be solve very soon is that (the herd) zero.
+I think that this is something that [ORGANIZATION1] needs to investigate and and improve the the segmentation worker so that it emits the timestamps
+we do not know the the timestamps for the individual parts like here internet full stop.
+the thing that the thing that we have to do is first.
+the baseline would be indeed to follow the segmentation coming from the segmentation worker,
+and then the final experience of the the user experience the of translation would not be good,
+because the statistics of on the internet will translate only the later part of of sentence.
+and the risk of false information for for the most part I think the empty worker does do these things
+So all the the change  together, were <unintelligible> this part and <unintelligible>
+And it will have only the baseline that I just described for the workshop.
+and and make sure to try to look up of this thing in the existing code, uh, in the <unintelligible>  ticket.
+I think that [PERSON1] we should try to train the models to be ready to accept like partial sentences,
+but that that is also really depended obviously on the on the ASR for Czech.
+And and we are testing it in the in the dry runs.
+If it is the model is is the domin indepedant enough that that will be sufficient.
+we will have to discuss the technical details like where to put the files and all that we're surely collecting the files.
+And will try to do fine tuning of the machine translation models based on <unintelligible> that that we can get based on the mono- monolingual include files.
+Okay, so this is to give you the the whole picture.
+(PERSON4) So is there anything about the connector to the the main client to say?
+(PERSON5) I don't think so just- there will be another <unintelligible> I changed <unintelligible> the whole structure and we will continue deployment there.
+that's good, because the the student I have for this is not delivering anything.
+and then I would indeed ehm rely on the [ORGANIZATION3]  platform to do to do the pipoting.
+that this empty system works and emits outputs in such way that the the subsequent English to something,
+I don't think that the the the <unintelligible> that should work,
+(PERSON4) And English to anything machine translation and the presentation platform at the end.
+and we try and on the output from ASR with- with errors against the original targets.
+And then we can use this segmentation with uh the paralel data to change the paralel data,
+so that are segmentation mimics what the what the segmentation workers is doing,
+and this would be the uh, the data for fine tuning the empty systems.
+whether we were able to uh, to proceed to to process that docks with [ORGANIZATION1] with the existing workers or whether we failed,
+So we would like to as the users at the end of the client,
+and the workers should themselves or the the the party, who is providing the workers should should be able to test individual workers.
+(PERSON2) I would like to press some of the ASR clients or the <unintelligible> are not working.
+(PERSON2) Interesting is also is the the usual problem that the the person <unintelligible>  the worker is not free dubt <unintelligible> as mark is busy in which case you couldn't even start new session,

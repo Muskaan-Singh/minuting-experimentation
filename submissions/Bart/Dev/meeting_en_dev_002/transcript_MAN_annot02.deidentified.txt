@@ -1,0 +1,63 @@
+ (PERSON8) So we are expecting [PERSON1] today? He has just written an email asked for the address now are we and I have answered him .
+He has heard that you are getting your visa soon, yes? So this Friday I have an appointment for the visa .
+The AMI and ICSI data is a good data set, but at the same time I find the data very different from what we have in other settings .
+We should definitely have the AMI data in there, but the minutes were boring .
+The question is how much data we need for the share task .
+The transcripts are very good, I'm sure .
+But the official ones are already boring and creating our own own own .
+There were speech corpora and it valid or not, for some for some it was 19,000 hours .
+For example, some of the data was only 80 hours of data .
+The group decided to use [ORGANIZATION2] data from 2006 to 2011 .
+They would have to use the data from fix year and say that we see, you must not be used in the training .
+The meeting will take 5 to 10 minutes to prepare for a meeting .
+The transcript will be automatically found on a web page .
+The annotator will now only like twice click like here is the transcript .
+The research was conducted in October 2011 .
+The results in minutes look like that, but it is different from what we have .
+The minutes of the [ORGANIZATION2] corpus not of parliament will not be used to search for minutes .
+The minutes were like some kind of hyperlinks that left to some other things .
+The way I see it now is that we should have a like one shared task assignment or well, maybe you have the A and B .
+And 3 underlying data sets as the 3 test sets without much training data provided to the participants .
+The first test set would be our corpus.
+The second would be this [ORGANIZATION2] just downloaded aligned meetings and transcripts .
+The group of participants will be given training data to use as the test set training to the participants .
+The group will also have to deffinitely beat the sessions from one particular year .
+The title the [ORGANIZATION2] corpus, we should also use bracket .
+The title was like voting on the previous session minutes .
+But normally they do not because they're quite long .
+The call was made to discuss a possible way to download data from CS students .
+Participants were asked how much of the meetings should be split into 3 parts like short meetings and long meetings .
+The minutes are there in the web, but we already agreed that they are not usable right .
+We need to redo what has been done by those -.
+The question is wheter you [PERSON2], which would be able to do this first step, which we have not done for the OHDS .
+Proposal is to have some people create this work or some of them or the best transcript that we find .
+Then we agregate the subset to the existing data and reach the diversity and we have more data .
+The [ORGANIZATION2] sessions summaries corpus, and that will be the transcript and the uh, and the minutes to that .
+The corpus alone would be very usable resource .
+We should have another, summarization corpus .
+The summary is a very specific kind of summarization, <unintelligible> does not summarize the paper content .
+We need to find the person who is familiar with Wget, and who can download and prepare the corpus .
+At the moment, we still don't have the uniformal format of our data neither .
+Maybe we should first create kind of template, how the file output should look like? No, well, what, template for what? The talk I'm referring to is actually uh, this one uh, and the link is the link, copy link, location, location .
+I'll share the link of just pasted through the <unintelligible> session, where is that chat? We should stick to the XML format that we already have, and we have also consense our own data, um, the speaker diarization .
+We should also learn from [ORGANIZATION2] data .
+The group of speakers is trying to find an automatic script to convert data to HTML .
+The plan was tested on very small number of sessions .
+The transcript is in HTML or other format .
+Proposal: Organise [ORGANIZATION2].
+Reorganize the files that [PERSON6] is browsing now .
+Reorganise them to the structure that I've proposed .
+Then you would populate this there to structure with HTML of the minutes that you can download .
+The [ORGANIZATION2] web page is not ready for the release of the software .
+The next job is to have the corresponding minutes for each of those transcript .
+The first the first is our sources.
+But they are a kind of very slowly downloaded .
+There is limit in the downscale .
+The first is from the .
+from the from the MT <unintelligible>.
+The first was for the machine translation .
+This is okay.
+We will see tomorrow.
+We are going to see tomorrow .
+We are looking forward to seeing each other again.
+We're going to meet tomorrow.

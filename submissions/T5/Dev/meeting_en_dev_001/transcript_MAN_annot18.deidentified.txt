@@ -1,0 +1,57 @@
+[PERSON19] laugh> other_language> [person9] I can barely hear you .
+'i haven t read the book for the last week and this morning I couldn't read it so I have no, um, I don't know how it is, in what shape it is now'[PERSON2] I m still missing the introduction so I still need to rewrite it into sentences .
+but the rest of the book or as rest of my chapture now should be kind of (OKish) ."odborná kniha" is a (40) intro and the morfology .
+"should we like explicitely play this is our contribution?" "person9" "what is, what is better?" "PERSON2" "i don t know what is unintelligible> opionion"if you refer to your papers in the different way than the other papers, the whole book looks like more like, um, more like the other .
+[PERSON9] It s anyway, unintelligible> in the book .
+the reader has the right to know that .[PERSON2] This is still us thinking that, that our unintelligible> is better than, the other one .
+if you really want to be a "[ORGANIZATION2]," then you can just write we .
+[Person6] The, the reference has to be there in any case .[PERSON19] unintelligible> is there.
+laugh> [Person9] Yeah, maybe someone should maybe comment here what is, what is missing there .
+[PerSON6] copied something there and I would probably delete it .
+'this could, could be included somehow or delete it,' 'person6' says .the section about the neural language models should maybe be merged to the previous chapture or deleted if it s (superfilus) [PERSON6] Yep, you can, we can delete unintelligible>, yeah .
+if you find that is OK.
+[Person19] Yeah, yeah, yeah.ICA tutorial was talking about, about behaviour texting .
+are we mentioning this too? [PERSON6] Um, maybe not yeat.
+[person9] We can still say that there is another way of testing the models and, and we are not interested in these methods .[PERSON6] Here is the slack link to the tutorial .
+[Person19] s analysis.
+And there are examples here and other_noise> laugh> the unintelligible> says what was terrible at this meeting.'interactive visualisation' is the 'unintelligible' of word embeddings .
+'supervised' classifires and 'powerfull' probes are supervised methods .
+interactive visualisation is 'like a technic (dot) exploration' 'in the book we have a different approach with the accent on unsupervised methods'a few years ago people were saying that the linear classifire will not memorize and that's a good thing .
+[PERSON6] No con-, no conclusion yet .
+we should explicitly mention that our classification is some what uncommon when the accent un-, unsupervised methods .[PERSON6] Yeah, (i was) unintelligible> vistualisation .
+[Person7] Maybe we should classify like the probing and our unsupervised methods as structure analysis .
+if you re using a model to do machine translation, you're not testing it .[PERSON9] unintelligible>.
+other_noise> .
+'i'm repeating like in one sentence.
+- laugh> I now have (rewrite) this .
+[Person6] Or should we maybe arrange a separate call and discuss it?there is no general consensus on what interpretation means .
+[PERSON6] I don t see how that s any relevant .if there is something specifical for NLP, we should say unintelligible> in NLP .
+[PERSON6] Sure they do .
+but if you think that it s important then, um, change the name .
+laugh> I don m not sure whether there is, the, the first section should be named background .[PERSON9] It is not part of the second part, but it should be 'unintelligible' when it's called summary, it looks like another chapture in the second chapture or maybe the, the last chapture .
+[Person19] I agree to the first, first chapture, but .
+it would also make sense to part a part after the second .
+chapture before the third .the title isn t story about the content.
+[PERSON6] Yeah, yeah, I don't know.
+Representing words .
+the first chapture, um, the first real chapture can be hidden in the embeddings .laugh> [PERSON19] Maybe should everyone unintelligible> read the whole book .
+rewrite or add something to the last, last, um, last section .
+but it can be somehow 'unintellligible' .[PERSON9] Yeah, it s very technical.
+[Person6] I know .
+[person19] I don t know where I will be unintelligible>.
+but maybe I will, so...
+We can, so in two weeks or? (PERSON19) Yeah, yeah, yeah.
+I ll not.[PERSON19] Yeah, I m comming back on Sunday on morning .
+[Person9] Comment it and, and unintelligible> .
+next meeting would be in, um, Tuesday .[PERSON19] unintelligible>.
+I m assistant professor.
+laugh> [Person6] Yeah, I'm an assistant professor .
+'i don't know why it is for professor up here,' says one of the professors .laugh> unintelligible> the email was like come and have a drink in the middle of the work day .
+[person6] Strange.
+[PERSON19] Maybe she has some birthday or something .
+maybe this was the reason .[PERSON5] has some grant unintelligible> something about interpretability .
+[Person9] Yeah, we don t know them but yeah .
+laugh> other_noise> [person6] Hm.
+'for now we can, we can finish?'[PERSON6] And write, write the book.
+[PerSON19] unintelligible> I would like to see many, many comments there so that we know, that we - Yeah.
+Bye.

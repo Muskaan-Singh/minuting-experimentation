@@ -1,0 +1,60 @@
+ The presentation platform now requires password and username .
+The authentication fees has been reintroduced so only people participating participating in the event are allowed <unintelligible> subtitles .
+At the moment, ASR output multiplexing has to be done at client level .
+And its putting stress on [ORGANIZATION2], because they need to provide so many workers and their have these bugs in workers so that they keep failing .
+The problem is that the mediator.
+is not sure if this EB client runs ten different pipelines .
+There is not enough ASR workers for the [ORGANIZATION4] <unintelligible> to work in English .
+There are no available ASR.
+(PERSON13) There are three ASR .
+The problem is that when when when we see we send to whole text file at once, we have to wait for the segmenter to process it .
+But in this this case <unintelligible> not at once so it could work .
+The fix is to run one audio to six six ASR workers at once .
+The call was answered by a member of the public who was unable to hear the call .
+The call ended up being answered by [ORGANIZATION2] who was going on holiday .
+The message was sent to the public that the publishers were working .
+The presentation platform has failed streaming the slides, both from my notebook and my desktop .
+The presenter has to run within network, but maybe not necessarily the whole presentation platform right? The presenter is talking to the microphone, and not even [PERSON5] can you hear them? At, on [ORGANIZATION1] premises, so that the slides are delivered .
+The presentation platform web page should be something local like RMTP Cologne //192.168 and so on so.
+The subtitles are coming from the the Internet while the stream is only copied locally .
+The Spanish coming from the German translation or English translation .
+But for example, the Spanish .
+coming from a German translation .
+The release also implemented the feature, which will .
+allow us to have select these source stream .
+The students.
+(PERSON12) will join you in [ORGANIZATION1].
+The presentation platform will simply you display different languages .
+But it has no way to to see which the English is which it will simply anyone who connects as little as a worker providing English will be displayed there .
+The platform is the current setup a ready for this.
+But there is still one more topic related, and the that the delivering subtitles to interpreters booth, and that is something which will need different English languages .
+There was the same English sentence repeatedly coming out repeatedly in the subtitles .
+It was like two different text messages interchanging, or a select appearing one after another in loop on in subtitles field .
+This was even some- something like the transfer unit mismatch .
+It could happen that you receive two long strings from the ASR output .
+The presentation platform was chopping the long string.
+The segmenter worker is preparing phrases for the machine translation.
+The empty should ignore that and just path the true .
+The risk is that there is no end of sentence in the original speech .
+The subtitles wont fit into that into that small window, um.
+The segmentation worker from the ASR does have access to the continuous stream, right? The next call that I would like to make would be actually tomorrow .
+Pexip has been running a segmenter and ASRs in Czech and German .
+It is updated every two seconds but there could be a delay .
+(PERSON11) We are going to configure te presenation platform, English as the top priority source language since we are running test with English, but please if you change the test, tell us so that we can put German as top priority and so on, because otherwise we'll not be published i- on the front end the subtitle .
+(Person11) There is some kind of, fallback mechanism but its still pretty match manual, lets check things together .
+An idea was that maybe you could setup very simple CGI script or PHP script to tell it the session ID of a worker, ASR worker which is not functioning .
+The script would know which process ID this ses-this ID corresponds to and you would kill the process and start a new process instead, so that we could initiate the restart of the worker .
+The ASR workers are the problem.
+The workers restart all the time.
+The process is very fragile and very slow.
+The system is not just used in the detail, we also have a more automated system .
+With the way is using the system, which is causing this problem to be more severe .
+It will be also be possible to have a script to make restarting one faster but mapping them to session IDs is a lot <unintelligible>.
+The log files would contain one more line that would say:" I've got this session ID from the [ORGANIZATION4] mediator.
+(PERSON12) The log file already contains the docker ID in its file name .
+The session ID could be exactly the session ID we are talking about .
+The hacker is trying to use the university's university firewall to try and get in touch with a remote server .
+The hacker pings a port on the open port on a machine running SSH on the other side of the network .
+The user pings the port and tries to connect to the other two servers running on different services .
+It would be one copy paste from slack to your screen and that would save us a lot of worries .
+You would see a message in the slak window, restart session ID and you would just run your own script restart by session ID, and it would do the grapping and killing .

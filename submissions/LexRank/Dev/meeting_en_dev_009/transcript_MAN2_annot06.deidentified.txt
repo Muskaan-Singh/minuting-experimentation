@@ -1,0 +1,50 @@
+So so the point of of these meetings is that everybody very loudly says and enters in the list actually in the in the google sheet, that is more important, the number of items that you have worked on and that you think you deserve some <unintelligible>.
+One thing that I want you to say loud is that I've agreed, I was asked by [PERSON13] to give her presentation on [PROJECT1] on the Monday seminar so as from subtitling we are also expecting to describe of what we are doing regular talk there.
+So I need to work on this which is so so this is a good place for better to use English as English models because I think that this english models could be better adapted.
+And the idea is that that we say there will be also recorded and used for domain adaptation later on.
+That would benefit from the same type of domain adaptation as we will need for the 17th of February.
+And we are also going to (writers), well it will depend what the they will let us or not, last year we were we were showing some of the subtitles and because that was were appearing just once.
+But this is something that we have a months or more for.
+So as you remember on the the day before yesterday were [PERSON3] giving (advering) talk one [LOCATION4] word which has nothing in relation that was translated as scrotum and so this is exactly the type of word which is bad for high school students.
+And then the filtering of the profanity would be would be <unintelligible> are useful for that.
+So and I would like to ask everybody to to say what they did and think about what activity they would like to work on.
+(PERSON2) OK, so so what would be your collaboration with [PERSON6] then if you if you were available?
+There was some problem of the -
+It's there.
+So let it circumstance we had that the that is not actually <unintelligible> that is not supposed to be a prophane what coming up.
+(PERSON2) So I have an idea but I don't know if we have the person for that and the idea is exactly responding to the to the fake that.
+The list will never be complete and it will contain many word which we actually like would like to have an as the output or as the input.
+So somehow there was lighter the [LOCATION4] word was "soupatko" <another language=""> which is a slider actually and for some reason in some of the corpora this must have been in the same sentence as as the error came from.
+And I would like to -
+So this is if we do this type of filtering firstly together a very huge corpus then we need to set up threshold like what was the safe we can work work frequent boundary and then we need to create the corpus which is somehow limited to these words.
+But still we would like to have a chance to prevent it from that.
+(PERSON16) So as you may know I finished evaluation framework and it's ready but maybe for some test maybe I should do some a small changes but I think it's ready.
+So this is the team and now I me and [PERSON8] working on the I and [PERSON8] are working on the paper for (exceptement) and I think that's on.
+So -
+The bad thing is that I haven't heard from <unintelligible> -
+A Okay.
+So I think that it would still be interesting to run your forced alignment of this data and we you can now use the existing time stamps to break the long recording into shorter ones.
+(PERSON2) But for for the evaluation we have now something that we can do <unintelligible> we will actually sometime.
+(PERSON16) Okay, so it's a [OTHER1] but we won't have do we have English is are we have -
+Because I have access to some of them because it's a little bit -
+Yes, right now I'm working on a next version of the czech ASR system that should be trained on even more data.
+So if the if there is something we can lost of of  <unintelligible>  then we don't want to do it but if it's like the same then will write to <unintelligible> because it simply makes the communication more (abased) less likely to be to be effected by network long.
+And -
+So -
+And I will have some more recording from the from yesterday so we can use use this non-native English for some find uniquals our models.
+So do you estimate that than your segmenter could be operational in the two weeks from now for the Monday talk by 17th or even for the dry run sesion of the workshop on the 12th and you can talk.
+And the next problem is that the segmentation should be done on speaker separately because when there is some conversation the windows can overlap to speakers and the problem is then then the transformer translate these sentences into nonsense.
+(PERSON5) Yeah that's a problem but if if if the talks are only with one speaker then there is no problem with this.
+And I I now I don't have some- now no solution to this problem.
+And [PERSON14] is now in [LOCATION3].
+So now [PERSON14] please let us know what if you have work on anything.
+(PERSON10) Yes, so so far I have only worked on the paraphrasing and actually I just w- I just wanted to say that right now I'm just waiting for a virtual machine for the paraphrasing server but otherwise it is done and working.
+(PERSON9) Okay, if it is still deleted then I can then I can started next week.
+(PERSON2) So that the problem is that [PERSON18] is not responding.
+(PERSON10) Okay, okay so I don't have anything interesting to report you right now.
+(PERSON10) Yeah, so I just try it today and it's just basicly sais that it´s like three hundred times faster for ASR so so so it could I just told it could actually be used to do ASR like on on the spot and it couldn't have to be sent and the delay problem could be eliminated.
+Is it?
+(PERSON2) Fastspeech <parallel_talk>, yeah, it seems like it it should <unintelligible>.
+So that's that's it.
+(PERSON10) Anyway I do my exams period is ending maybe I would be able to come to [LOCATION1] for for maybe one week or something like that.
+(PERSON2) Are you?

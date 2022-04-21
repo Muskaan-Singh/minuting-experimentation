@@ -1,0 +1,54 @@
+ The first prototype should be ideally ready, uh, on the 7th of June, like the first very first shot with with box and all of that .
+Monday the 20th of May at ten,   will discuss what what what we need in the platform and-.
+The presentation platform will resolve the presentation platform .
+The main reason is the cashing client makes the latency too big for the final users .
+The ASR does not close sentences at all .
+The (algoritm) what the system will be judged by the final translation,  .
+The translation was by having incomplete sentences,   .
+But my intuition would be do not put too much emphasis the incomplete sentences .
+This is the output of the secon- English unsegmented text,                                    -  - and we are getting outputs like this .
+The segmenta- English segmentatiton worker, .
+                                      - is the segment a- English .
+The segmentation worker is not emitting timestamps .
+This is something that [ORGANIZATION1] needs to investigate and and improve the the segmentation .
+The problem is that if we have from these from these are not zeros.
+We need to ask someone from [PERSON2] to validate these locks to to help us create a reliable locks from the ASR workers .
+This should include timestamps for the individual parts like here internet full stop .
+Then we don't know where to start, uh, redoing the translation will be quite quite on tricky coordination between the components .
+The empty worker does do these things for for the most part I think the empty worker .
+I think that [PERSON1] should try to train the models to be ready to accept like partial sentences .
+[PERSON5] please take the note on your side,  .
+But we need to figure out what why we failed and we should get running, .
+But as a fall back we should have a models ready for for such input .
+English and German ASR working fine .
+Language model adaptation is the language model adaptation .
+Language models system don't need adaptation any more .
+The Czech ASR will be called the integration and segmentation worker for Czech .
+There will be one interpretation of from English into Czech and one interpretation from Czech into German .
+The German ASR would be double delayed .
+The student I have for this is not delivering anything .
+He knows how to train [PROJECT2], but somehow it doesn't really work for for him .
+We should be deploying a tiny webpage to collect the documents .
+We need the MT domain dependent data for MT fine tuning .
+We need data from the [ORGANIZATION5].
+And then will get the data from    the [ORGNATION5] pipeline .
+English- German to English is probably our best translations systems .
+German ASR [ORGANIZATION1] German English empty, then German .
+English to anything machine translation and the presentation platform at the end .
+Aims to run ASR on this and train on the output from ASR with errors against the references .
+We have for now only to that corpus two milions of words, about one thousand documents .
+We need to run [ORGANIZATION1] ASR on the <unintelligible> docks, record the locks, including timestamps, and then fiddle with the alignments and segmentation .
+We can observe real segmentation as we get it from the segmentation worker .
+This would be the data for fine tuning the empty systems .
+The last person we had here were [PERSON3].
+The project was a known project, but it would be better if someone from the project was was here .
+We know from experience that [ORGANIZATION1] is running age ASR workers for English .
+Four of them don't emit any output .
+There could be script every two minutes asking for a particle worker to be tested .
+Workers would then be killed if they do not pass their test and then the platform would not be available anymore in the platform .
+Some ASR clients or the <unintelligible> are not working .
+The usual problem is that the the person .
+the worker is not free dubt as mark is busy in which case you couldn't even start new session .
+The call-in-person-to-person was interrupted by a problem .
+The call was made to discuss a possible solution to the problem .
+It would be possible to use WiFi to communicate with workers .

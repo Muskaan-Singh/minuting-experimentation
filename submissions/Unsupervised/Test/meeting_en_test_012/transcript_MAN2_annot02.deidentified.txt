@@ -1,0 +1,14 @@
+ So the plan is will be [ORGANIZATION2] welcome, will be Mary Sorrow, and in-between will be (Python Sorrow) that's excepts sentences for translation from the [ORGANIZATION2] worker.
+(PERSON11)  with partial sentences and then will forward the requester onto the [PROJECT2] server yourself.
+ And then at some point somehow there will be made a decision that let's move on to the next textfield.
+ (PERSON10) That's just whether of presentation if we want to completly replace and use the history, So, so [PERSON7] ehm needs to discuss with [PERSON10] the updates versus history of text uhm text fields.
+ (PERSON10) Last time I discuss about it the first prototype presentable should be at the 15th of June.
+Do we plan to run any [ORGANIZATION3] workers in [LOCATION1], so especially the ASR the ASRs of English and other things as a fall back solution.
+ So they are able to connect to the [ORGANIZATION2] platform and then the whole chat window is flooded with the messages not enough workers available.
+ So that's that's why I'm asking this clones of alpha workers to run in [LOCATION1].
+(Ty) I only  more worker and now is sexteen or fifteen worker ASR, who are close connected .
+So so is good that there that many workers now, so I I actually suggest that we try after this c- .
+(PERSON6) Yeah.
+I didn't attend the yesterday meeting, but the bug that I mentioning is that sometimes the work, one worker can handle several sessions, but then it's, but then it stocks and it doesn't return any output.
+(PERSON7) So, and when you see say several session you mean consecutive ones like one after another.
+And then mo- most importantly you need to run it and figure out where the problem is and then the bucket, but- Okay, so, I think it's still too early to solid final lists are in the MT models.

@@ -1,0 +1,50 @@
+I, now I, I, I get, got rid off the, like the to do sections at the end of the section so I can figure it all the papers that I want to refer to somewhere.
+Um, yeah, cause I don´t know much about it actually but I think we maybe (say) we can just -
+So I guess the paper that cited there the [PERSON17] <unintelligible> for the multilinguality this is what we´ll kind of appear there and yeah.
+Like I don´t know if you have a box of chocolate and you just plan to arrange the chocolate nicely so you´re not adding new content, you´re just rearranging what´s already in the box.
+[PERSON14] So I don´t know how, how many such paper we sh-, we, um, how many s-, um, these copied so <unintelligible> pictures are there.
+[PERSON6] So it´s kind of like if you OK with images like that I can put there images like that.
+So I opened the paper in Inkscape and I degroup it and I saved just the image into the file and <unintelligible> png.
+Yeah, I actually don´t know like to rules like, I think it depends on the licence of each of the papers.
+And should we, I don´t know, explain that somehow like that the licence allows that or I don´t know what the (nakl) licence is like.
+Because in my, in my, in my chapture I (like) the matter the, all the, of the figures will be, will be ours.
+I, I plan to generate the picture from, from tabels which are in the, in the, in the papers so, so it looks better.
+But I, I also plan the include one of two, one or two pictures from the, from the other papers.
+So they, they even no say much more in the original paper actually and I don´t know any other papers, um, on that.
+I didn´t want to put through it just other but then it´s true that I don´t know where to prove it like these are syntax but, but the the other ones like gender of nouns -
+Yeah, I tried to group them just on (through) things like syntax or semantics but, um, often I actually did not very sure, um.
+Yeah, in the, in the, in the hidden states or (contextual) embeddings people look for lot of stuff, um, yeah.
+Yeah, I don´t know why all, all my pictures are at the end of the chapture, there is some problem.
+Half of this figure is like for attentions and the other half is like for, for probing, isn´t it?
+[PERSON21] Yeah, I, I think it can be some box that you can because to, to like put it some box -
+This will written by [PERSON24] and I, I have rewritten some, some parts so that it more fits the, the book.
+I have rewritten a bit the 5.3 but, um, is still, there is still missing the last, last part of this and some discussion o-, on this part so there is still missing something and the end of this sub-, subsection.
+So this is more or less written but yeah, some parts still need to be rewritten and, and the pictures may-, must be done better.
+The first part is written I guess and I´m sure that it would, um, like I´m sure that, um, it would benefit from further reading and comments and rewritting and so on.
+And yeah, then there´s this 3.2 which I´m not sure if it belongs here or what to do with it but I think we can decide that at the end.
+I, I promised that I will, I will, I would, I will move fast of my introduction of my chapture to here as well because these, these are, these two texts are very, very similar.
+[PERSON20] But, but my point is that if you, if you would try to like shift the mean of the Glove colour scale you might end up with the same image as, as they, as they had.
+I thought maybe some of the embeddings do have some extremes so if you include these extremess then most of it will be squashed.
+[PERSON14] <unintelligible> my part write your text, um, like 4.2 or 4.3 and then you can, you can make this figure, um, better.
+[PERSON20] By the way this is the very first image I, I made in tix and the code is really terrible.
+Yeah, at these they should be there but they, they might ugly or we, we need to know what is there, what is in the figure.
+[PERSON14] If only (the font) change and the, the, the picture will be same only the nicer and then I´m sure it´s OK.
+Like it´s almost readable now when it´s a bit map so if, if it was text it would be readable.
+[PERSON20] Yeah, but at least you can replot it so it, so it has the same font as the book.
+You just, you just open it in Inkscape as a pdf and save it as a pdf with Latex text labels.
+And yeah, if I don´t see the, the green lines and I don´t see that it is really done in the comment I will, I will, I don´t know.
+The only thing missing for me is add PCA and ICA which I can basically copy from other texts.
+But at least it will be there and then move, move 4.1, 4.2, that´s also like 0,5 hour at most and then write something about probing I guess.
+Or whet it´s written somehow we should all of us, we should read it all of book and comment it what is missing where and yeah, where are the problems and other things.
+I think it´s better if we have, when we have the book alm-, almost finished, we can, we can ask someone.
+[PERSON14] It would be at least abstract or I don´t know if I ask only, OK, we will have a book with <unintelligible> about -
+Like what exactly you will find in the book, um, how was it structured, how should you read the book...
+I mean, um, you can have some conclusions that you draw from, from the book, from, from the research you, you need but the summary of, of the book is somethin else.
+[PERSON20] And there are no rules, um, it, in the books series that we should have a summary and, and summary in Czech and something like that.
+[PERSON24] Well, it´s hard not to introduce new errors when I, when there is so much errors that I can see if I´m introducing new errors.
+I, I will, I will, I will go through it and, and try to fix that is missing, missing things.
+I, I´m not registered for ACL anyway and I didn´t understand much like how it´s really works and I didn´t have time to investigate it so I´m just waiting so if somebody else like prepares it for me and says me, sit here and watch this and -
+Though, though you need to watch it at, at the given time and <unintelligible> for each paper there are two time slots.
+So perhaps all videos who are registered will get [ORGANIZATION1] link and will, will be able to ask questions and, and maybe the others can watch it as well, I don´t know.
+[PERSON6] I think it should work (badly) if you´re here and somebody else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true.
+[PERSON20] So if, if, if, if [PERSON20] is there registered one and the <unintelligible> one on what sessions <unintelligible> all the time.

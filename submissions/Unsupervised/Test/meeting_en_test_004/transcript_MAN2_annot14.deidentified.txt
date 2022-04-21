@@ -1,0 +1,43 @@
+ (PERSON4) Yes, we can see you, so here's [PERSON2], [PERSON11] and me.
+It's only some mountains above that should be ideally, the presentation from [PERSON12]'s notebook.
+This is- this is what you should be seeing now, it's [PERSON1]'s screen that runs the client for connecting together, one ASR worker and then the translation into Czech.
+So what we have now, on [PERSON1]'s screen, which you can also see, it's shared there.
+And the same ASR processing is done two times now, and it will be done three times with the German one.
+(PERSON4) Sorry, we don't have machine  system, but we could try test the ASR if you want.
+So I'll, I'll get the mike with um, the weather is for the second mike.
+Now I 'm speaking German, now I'm speaking English and I should see German translation.
+(PERSON4) Yes, that, it says you're now talking about ehm you're talking about bacteria- So you're now looking at [PERSON12]'s notebook and the think is this HD- HD button view full motion presentation.
+(PERSON9) So I'll try to share it in another way as well as well, but I'm not sure if I'll I'll make it.
+(PERSON9) So someone is now highlighting the thing, it's who is sharing that's screen.
+So the idea is that right now on the cable, a connection [PERSON1]'s notebook is sending three English, three audios? Right now it's fine, but it's a bit waste the speciality, to have couple minute languages.
+(PERSON1) No, the workers are not running, and I can't get audio into into my laptop right now.
+(PERSON7) Sorry, guys I run a test with the English ASR, maybe it's me, I wrack now finish.
+Dunno why does not let me write anything in Google Doc, except to where I do not want to write.
+(PERSON9) Perfect, no no, if this works in two weeks from now it would be perfect.
+(PERSON7) Well, I haven't worked on the source code so I'm not able to share it with you.
+And then we can test whether it's easier for us to send it through Linux machine or through the VLC  in Linux, we'll decide.
+And actually we're still working on the integration for example, we have some problems with characters and coding, right now.
+(PERSON7) When I will find working ASR worker, for example, if you free me the - (PERSON9) Yeah, so what we would like to have is [PERSON1] notebook initiating the session.
+There are for example, for sure, the German,Italian, ok, and the English one.
+(PERSON9) Ok, so from now on if this connects, I should be able to see- so what is it doing.
+(PERSON9) Yeah, so on [PERSON1]'s screenshare, only for the English, ok.
+Yes, so I can see my- what I'm saying in on [PERSON1]'s lock, on [PERSON1]'s screen.
+(PERSON9) Yes, but but I don't have google Chrome, so [PERSON12] has.
+So this is [PERSON12] [PERSON12]'s Windows laptop with Chrome looking at [URL].
+(PERSON7) Ok, don't worry, at some point it will work, I'm going to- (PERSON9) So-, yes, so during the day I'm available from like eleven to three.
+Ok, so let's plan to have the same type of test call on Fri- on Friday anyway.
+(PERSON7) We will be ehm, there will be the administrators, then let's say  who will use the- (PERSON9) So I'll share, I'll start, sorry, I'll start sharing my screen so that you can verify if I'm doing it right.
+(PERSON9) So it will be also Czech, can someone dictate to me from the Google Doc.
+(PERSON9) But the German is different, and Italian is different, so the English is, English has EUN  it's not like GB, so that's- So what I'm going to do now is that I'll paste the set of languages that we need to cover.
+(PERSON9) Yeah, so [PERSON7] I'll paste it to your, oh this is too bad.
+(PERSON7) Yes you can reload the home page, you introduce new languages for example the Czech, the Hungarian, the Polish, [PERSON8].
+(PERSON7) Yes, [PERSON9], we have to agree on whos playing the client role.
+(PERSON9) So my question, my original question was when changing here in, I'm still sharing the screen.
+So for English we are using the EU, for for Dutch it's spoken in Belgium and the Netherlands should we also use the EU? (PERSON12) This thing is Windows 10 and this is Windows 7, but does not have a microphone with, so it's not running.
+(PERSON12) Because I have, on the Windows 7, I'm to NLT connection and that should not be too many firewalls in the way.
+(PERSON9) I'm not sure if I'm, I'm sharing the screen, I'll share my camera instead.
+(PERSON9) That's- We're not complaining, so it's, I wanted to say this up front.
+(PERSON7) Well, you know it's different, the browser used on the mobile phone probably.
+(PERSON7) Yes, please consider that at the moment, the publication worker it's running on my local PC.
+Yeah, 17 6, and only only  and [PERSON7] expected and the goal for Monday was to test more languages in presentation platform.
+Ok, Thank you [PERSON7], I'll close the call now if I'm able to and we start packing things here.

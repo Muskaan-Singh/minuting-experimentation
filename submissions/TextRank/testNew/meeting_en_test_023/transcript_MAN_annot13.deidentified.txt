@@ -1,0 +1,50 @@
+Uh, uh, and I don't know if you have highlighted the portions of the document with the colourful papers.
+(PERSON1) Annotator stopped, okay, yeah, so, uh, so if you, see, if it is an online document- If you see that the annotator has stopped-.
+And, then, um, uh, get in touch with [PERSON5] and double check that he would be able, uh, to do the processing, uh,  also at the token level.
+And, uh, we need to do the second round for many of the words, uh, the annotators- You and the annotator should have indicated, that it depends on the context.
+(PERSON3) So, uh, [PERSON2]- the ma- The agenda is in the master document so if you can check the Coffee Meetings.
+Uh, the documents will, um, contain information like, uh, this word was once, uh, was suspected to be an NE, but at the the words type, uh, annotation it was, uh, marked, uh, as a regular word.
+So this is not complete, but it illustrates that we want to have the, uh, uh, the finest possible detail about the annotation process.
+I'm saying that this, uh, uh, the process, is documented to the finest level.
+Uh, to the uh, annotation maybe a rename that document, so it should not be a copy of-.
+(PERSON1) But yeah, yeah, uh, I, I just would like the name to be more descriptive for someone so it-.
+But it has to, uh, be this this copy of that is, is, like, just an automatic what uh, what, happens, if if you make a copy, uh, okay.
+(PERSON1) Okay, well, so the idea, uh, is, uh, at the end we need to have the full collection of all our documents with all named entities replaced by place holders.
+So the process of the named entity removal has to be very clean, and we have to know at what stage of this process we are.
+Um, uh, so that's why I suggested to proceed at the two levels, first at the word type level, and then at the word token level.
+To do like the bulk processing of the documents and the insertion of the annotations into the Xml and things like that.
+(PERSON1) That's  not a problem like, uh, you have, uh, what you are doing is, is, the, manual, decisions, that's the value.
+In most cases in in ninety nine percent of cases these tokens, the particular things that you have in the list, they will appear in the list for everyone, whoever does it.
+Yeah, so this is, the the typos in named entities are mainly because the people do, the annotators not knowing the correct spelling.
+So all of, uh, the words at the beginning of sentences, uh, also got into the list.
+Yeah, uh and uh, what I want to say, as the last stage is, uh, the actual deno-.
+Well, actually there need not be a replacement, but like the, like, the actual actual removal of the original text, uh, from the documents.
+Uh, for the sake of time, we can probably afford to, uh, drop, uh, order to to ignore ignore tracing of these chains for projects.
+For for speakers like, uh, as, uh, utterance labels, uh, bu- f- and persons- I think that- Persons, uh- Well, I do not- Um but we should not ignore it for speakers, ah, in both, uh, cases.
+(PERSON1) We might afford tracing, uh, other people who are only mentioned, uh, in the, uh, in the ext and uh, not, uh, taking part in the meeting.
+Jane is not not a speaker in this meeting, and someone refers to Jane at the top of the meeting, and someone else refers to Jane at the end of the meetings.
+And I'm happy to do errors in the second part, but I would be very unhappy to do errors in the first part.
+The way that I set it in the procedure that we discussed here that is based on my intuition.
+And we will then check if the procedure that we are already running is in line with that or if anything else needs to be included in the procedure.
+And the second one is we are getting the permission to publish the data in the the de-identified form.
+So I would now, with [PERSON7], I would focus on the second form which is the consent to publish the data.
+And the first one will be on the content to process the data and deidentify it with the forcing goal of publication.
+You need, uh, to to get your permission to, uh, to publish the the data.
+Uh, it is a matter of like a putting it in a directory, wrapping it in a Html uh, or, or, , uh, any any browsable format.
+Uh, so the the the preparation of the web page.
+(PERSON1) What is what is the the tedious part is ,uh, the ,uh, the linking which person was mentioned where.
+Yeah, I don't think the the stay-, the extra step of cutting out the extra portion of the master sheet is too tedious.
+I will leave it up to you what do you find, uh, like the the balance between your labour and and their labour.
+(PERSON3) Yeah, so once we have, once we have the meeting IDs and these are the partcipants so like, uh, we can easily find to which ID belongs which participant.
+(PERSON3) Yes, so I think uh what you are suggesting [PERSON1] is like  instead of the master sheet, we could- We keep one master sheet, but we keep well from the masters.
+So that we can put it online as to the prospective participants of the task at the beginning of February.
+I think that we will have the data at the end of February, and they should then do the consent.
+Uh, uh, the Xml mark up to to find, uh, uh, uh to extract the token level instances, um?
+Does the document with the C, F, P. Could we use the same document for, uh, editing the text of that, uh, email?
+So for this work better, the more personal we write it, uh, the the better.
+So, uh, the the sheet where it is the [ORGANIZATION6]sheet.
+Okay, so please put all the candidates, uh, from the web page to this list and, uh, fill what you-.
+The critical is the name and the email, and then obviously the status.
+<laugh> (PERSON3) So, uh, so, uh, [PERSON1] can you just, uh, uh, tell me the names?
+(PERSON3) Uh, so ,uh, another thing [PERSON1], just to I would be adding you to the [PROJECT3] repo for this.
+<laugh> (PERSON2) <laugh> (PERSON1) So, obviously we have to ask the old dinosaur well, not dinosaur, but the experienced people from the 2006, or what was that instance, the the AMI corpus?

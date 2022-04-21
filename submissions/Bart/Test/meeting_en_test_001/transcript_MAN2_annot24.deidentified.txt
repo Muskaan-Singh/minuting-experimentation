@@ -1,0 +1,49 @@
+ Czech republic government lifted the Czech Republic's ban on people going out to the forest .
+The rules have been lifted until June .
+There will be, before the summer, there will be at least one more, uh, in May and one in June .
+[ORGANIZATION8] and [PERSON14] said that they have the call so they can't join ours .
+The initial ASR systems [ORGANIZATION6] is not providing in ASR system .
+The volunteer should be entered in the continues reporting.
+ If it's not your deliverable and you would like to read it just tell me .
+The best position would be I think [ORGANIZATION6], because they have coordinated a number of projects .
+I'm much rather read about ASR systems, I'm not that keen on reading it .
+There must be, there must be some project management guide from previous project, says QT21 boss .
+He says he doesn't remember such a thing before .
+He'll write something and someone will review it .
+The internal reviews should be ready by mid June at the latest .
+The first draft is the first draft, but it is a complete draft .
+The main responsible for this deliverable is [ORGANIZATION6], right? "Mm-hmm.
+I have started this [PROJECT1] test sets some time ago" The layout of the test sets is that -.
+The languages are available .
+The WMT 20 [PROJECT1] test set consists of raw documents, obviously, curated to to serve well, linebay, segmented, everything .
+The actual set of documents that you will test against will depend on the set of languages that you want to test .
+There would be automatic checks so that the everybody could check out this repository and run these checks .
+The file list should be essentially like a (fine graph) so that you list all the files, and check that you have all the languages that you want .
+There should be only 3 at most 3 file lists that are interesting for the general public .
+I think it would be better to kind of avoid forks, because then the versioning is is confused .
+This is geared towards the evaluation of spoken language translation, and it has kind of a mode, where it doesn't need a translation .
+The SLTF, ideally would be the sacrebleu for spoken English translation .
+It is now under testing for the audible SLT share task evaluation .
+The only way to to do the comparison really fairly is to run the models or a serve the model .
+The SLTF should serve us like what is ideal set up .
+The forced alignment, which finds the words in the in the sound is not reliable for us either .
+The only thing that the one can say to this is the this at least affects everybody the same way .
+If we are unable to to find speech domain and auditing domain (paralel??).
+Then we will ask the people to find these text monolingually and translated maybe back to Czech .
+Irish is equally equally equal priority with as other languages .
+The project was started when the EU still existed, but the project started when it still existed .
+Users are always afraid of what [ORGANIZATION2] is working on for for the past years .
+They've reminded us off BBC guidelines and standards for subtitling, but they are not reflected in our systems in any way .
+It's entirely possible that retranslation go back a lot with the transition to end-to-end ASR .
+The MT only translate will be get from ASR.
+There is a lot of research going on right now.
+We will have our new generation of eh models previously based <unintelligible> transformers finally in direct translator .
+There will be the question for the users whether they preferred to wait for the German verb, or guess and put there some English verb .
+The ASR is so bad that that the prediction is like totally off, and so far it doesn't work at all .
+The date of the demo should be May 17th the sooner the better .
+There is no way to touch up on these topics before the demo .
+The project officer saw the demo you send project officer and she mostly seen the Monday seminary, em.
+The Czech talk, right? You mean the Czech talk .
+There are many errors in machine translation, and there are errors in the system, but there are many cases where I would simply put the full stop .
+We should send an email to the [PERSON4] to truce, his date .
+We should be ready for that at the end of the the next week, and the sooner the better .

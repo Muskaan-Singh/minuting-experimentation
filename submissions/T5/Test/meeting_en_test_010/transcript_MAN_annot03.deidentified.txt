@@ -1,0 +1,26 @@
+"there is no overlap between eh [ORGANIZATION1] and [ORGIZATION3] in this week .
+"i hope, that there will be a resistent answer soon," says a tasked to prepare the exact questions .
+if no, "we'll just transfer whatever is whatever is needed," says another .eh [ORGANIZATION1] doesn't want to have a speech to speech translation .
+we are still probably undecided how are we going to ship the translations to the participants .
+the 'organization3' integration should translate from a single speech signal into multiple target languages .in the [ORGANIZATION5] congress, you are the integrator for all the technologies .
+you are also the final eh application provider for their live use case .
+there will also be the remote meetings done remotely among the delivery SAI institute .in the first year, we should have at least one dry run, one main congress and then two follow-up workshops .
+"it's more in line with the speech research partners want to focus on, that's non-native speech," he says ."we're quite on the safe side," says [ORGANIZATION2] for now .
+if you can plan four events in total, one of them being the longer one, that will probably be easy to accomplish .
+"i don't know, how the (word) extend is like covered in [OTHER4][OTHER4] language is the one where we perform better .
+[ORGANIZATION3] is active in the ASR field and provide ASR for thirty language, currently .
+"it would be a pity not to use it i would say," says emm .for each re-speaker that we want to reliably recognise, we will ask them to sit a certain number of hours and read aloud some written text .
+speaker adaptation is done essentially how you described, usually, depending on the ASR system .eh the more the data the (most) effect that the adaptation has .
+four hours to adapt to each of the speakers, like three re-speakers and also the main person giving the plenaries (interactory) speech .eh, most important for the adaptation is to be able to collect real re-speaking sessions .
+'i will make sure that we have this it actually fits nicely in the e-in the hours here in this table,' he says .all the teams, who want to get direct access to data for speaker adaptation .
+if [ORGANIZATION6] wants to have some [OTHER2]-handled re-speakers at hand, then create this line here .
+all that has to be filled by all the partners .i've started checking the availability of specific hardware, eh, especially for the re-speakers .
+we will also have to set up the local infrastructure for publishing .
+this should get automatically edit up for each of the partner here .
+if there are more types than just to create those, I will fix this table .we have like fourteen days to finish eh the proposal and that's very little .
+all of the parties will need to integrate, also participate in the drafting the text .
+if you could make a separate line for one [ORGANIZATION4], of for for unintelligible> recording .integration of ASR (essential) from multiple partners into [ORGANIZATION3]'s platform .
+eh, there will be more involvement from us and al- from [organization1] .
+"we had to find a prototype a couple of months before the end of the project to allow the integration"the more you do, the better, because the more reliable the estimates are .
+"i would just make something up, but if you do it, [PERSON2] you'll be able to speed up"if you send me a Word doc, I will upload it to [ORGANIZATION2] doc anyway to just open it, actually, eh .
+(PERSONm): Yeah, thank you, bye bye .

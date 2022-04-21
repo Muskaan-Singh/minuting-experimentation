@@ -1,0 +1,103 @@
+the presentation platform, which now requires passwords, has been reintroduced so that only people participating in the event are allowed to participate.
+there is only one user < unintelligible...
+which is the administration one.
+the second one is the'project1'2019 is the password.the publishers are running a new credential for simple end users.
+it's no longer a problem on the publishers, but the only real problem is from organization2.
+the publishers have the blocking problem, which they say is the missing multiplexing.
+the same asr worker type is launched as many as 20 times as many times as there is the target language.there is nothing in the protocol that will help us in managing with kind of asr output multiplexing, at the moment unfortunately, it has to be done at client level.
+" i can, so when [ person13 ] will share the screen where you had the launch of ten different pipelines, or whether the mediator receives a multi - channel, or multi path request, "english asr or english sound is being converted while a a to, one from eb client.
+the nine different words are produced by eb clients without sending them to the mediator.
+one line, which means the same english sound, says the first line is actually meant to be actually done only once.
+it's not being a specially 90 here, and there's an economic solution.the organization4's project1 project aims to find the kind of'when'to work in this way.
+there is not enough, asr workers are not meant to be workers.
+the project is meant to use the if possible common route and dispatch that to the different branches.there are no available asr workers at this point, but for me, it will succeed.
+" we are failing to feed them with the input of the machine translation workers, " says person12.
+" i'm afraid that we what we need to you is, " he says.the problem is that when we send to the to the mediator, we need to wait for the segmenter to process it.
+this would be a use this text communication, so we should not be facing the bug - the bugs in their systems.
+the remedy that is a possible remedy is a use of the eb client.if we are lucky and the in german workers did not start, we can get it running.
+so what does it mean? it doesn't work like this.
+it's not if it means that the workers didn't start.
+so who would be available for implementing the c code the eb client." i have plenty errors in my log...
+i can't hear you.
+if you can hear us, they cant connect, " said person9.
+the publishers are in admin web as as idle and available on the platform or the mediator, but it's very slow.the presentation platform was created by person12 in germany.
+it received formally english and german and german asrs.
+this is not related to that, but there are still six six six available asrs, and there are six six asrs and the ofcom protocol is the < unintelligible level of security.cnn has failed streaming the slides, both from my notebook and my desktop.
+" i can run the exact configuration i've been posting, " says person5.
+" we're having connection issues maybe, but i can't hear them, " she says.
+the slides are delivered by person5, but it's not behind firewall.we should be able to test that file that he will push with the instructions.
+we need to run engines on and off the other machines, and one of the machines is only copied locally.
+so what is it 168.
+168? it should be something local like rmtp cologne / / 192.
+168." i'm expanding this extra write [ unintelligible ] file, " says person12.
+" we will join you in [ organization1 ]...
+" " if they dont kick us out, we will probably arrive at some point on wednesday, " said person 12.we strongly suggest to choose the preferred the preferred english stream at present platform level.
+it will be impossible at the moment to descriminate which stream is coming from which microphone at present.
+if as far as we understood of course maybe i'm wrong, there will be three person speaking english the one in the round table.the eb client is what fed to the input to the user via the four channel input card.
+it is able to run the english subtitles from the main round table sound card.
+this is possible if you're not mistaken for the user from the round table.
+the presentation platform will simply run the same way as the original one.the platform is a ready - for - this, or what is needed to add this.
+if we are lucky with [ organization2 ] asr workers, then like it seems to be running right.
+we are pretty stable with < unintelligible...
+and [ person ] 13 configuration, thanks to [ person12 ] and [ [ person13 ] ]." i stongly suggest to perform as much as possible test today and tomorrow and tomorrow, " says person12.
+" i think thats everything that we could have discussed...
+is whats thats.
+everything that i.
+will be travelling, is holiday ( person12 ) is holiday, " said person11.the word " carl limit? " means the transfer unit of organisation based on configurable parameters.
+this is probably the reason why you see this as an updated hypothesis that your presentation platform would be popping into two parts and showing them one after another again, and then to have to not too fester.as the presentation platform was cut off, i was not able to read it at all.
+i would have more time to read what you receive from the asr output.
+i think i think this is something which the segmentation worker should take care off.
+if it's not a problem for you, it would probably come back.segmentation worker is preparing phrases for the machine translation.
+the risk is that there is no end of sentence in the original speech.
+the segmentation should send the entire sentece - - or not into different places, this is correct, says the writer.
+" we want to have machine translation as immediate as possible, " he says.we can test it without our < unintelligible...
+and we can decide it the solution we prefer.
+we need that people are available on slack.
+we may not need to call with this phone call style.
+click here for all the latest from our live updates.there are only two but three have, one, and one, two, three, four, five.
+this is the first time a person has connected to a person on the admin site.
+it's ok to test this segment, but it could be some delay with the information about availability of two workers.the admin interface is simply slow so that the workers are already in use by the pipelines.
+there could be a delay in the mediator's information about the availability of the workers.
+the interface is just slow so only when you run something for longer period of time then then the numbers would be correct.we are going to configure te presenation platform, english as the preferred source language.
+we expect to be translating mainly from english indeed, so that we can put german as top priority and so on, so on the front end the subtitles will not be published at all even if there is no english available.the pexip call is now available tomorrow morning.
+it's not yet known if it'll be available in the u.
+s., but is not yet planned far away from the site.
+" we have other options i can...
+i will not be able to make it to [ location1 ], " said person12.if you want to be there as much as possible, you would kill the process and start a new process instead.
+the workers know about the session id, and they do but it might have this.
+" i can't guarantee that < unintelligible...
+here at every minute, " i said.in principle you could run a webpage that would be accesible for us.
+if you set it up or like it, you might get the request from us.
+you can also run a very small webserver such as python ( or unintelligible ) that has to run on the machine.we dont really know what to < unintelligible...
+but it should be easy to wrap them in something, so that the launch script will emmit its process id.
+this is the worker who all produce log files, the word.
+can you show the log back?system that works okay this way can be a lot more complex.
+it will be possible to have a script to make restarting one faster but mapping it to session ids and making the script available online is a lot.
+if you could at least one command and then three commands to run it online is available online.asr workers are.
+typically.
+the asr worker is...
+or.
+maybe stalled.
+but ( person12 ) can you tell minus f instead of this less.
+it stops.
+the worker is in fact idle.
+this log output will indicate if the session id, which should be.
+< unintelligible, is.
+in fact, it stopped.if you could recompile this worker with one print, you would immediately know what to do.
+" we need you like solving it properly...
+it should not get stuck, " says person122.
+" i have not tried recompiling.
+i will have to discuss this "it will speed up the restarts.
+there is also a session id which could be exactly the session id we are talking about.
+it's not the first time you have to switch these libraries, so [ person12 ] is not...
+it ’ s just about our presentation platform,'says person12.we cannot run 20 asr and 20 segmenters and so on.
+so 22 4443 and 4444 are open port there.
+so if you launch anything simple on your side then it should work, and i'll share my screen.
+i'm succesfully pinging it...
+and..
+this is the open port on that machine." i would be very surprised if you did < unintelligible ) university firewall that...
+it didnt get through, " says person12.
+" i like you would see a message in the slak window, restart session id, and it would do the killing, " he says.the host of the show is a.
+( person12 ) member of the host's team.
+both are failed to resolve so they, even the name the host name is not available.
+" i don't have that worker, you need to run me on the other machine, " says person12.

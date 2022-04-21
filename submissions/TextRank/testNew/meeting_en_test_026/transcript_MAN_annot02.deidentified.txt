@@ -1,0 +1,50 @@
+(PERSON2) Yeah, it is it is to complete the GPU test and and to know that one version, one new version of [PROJECT3] really, really works.
+So that's, ah, the one of the reviewers in in the review also ask whether we are, ah, combining, ah, the ah, the document level aspect with the multilingual aspect.
+And the all the corpora that we are collecting are document level if we can have them like that and they are as multilingual as they are.
+And that the spoken language, ah, is more ambiguous and therefore the, ah, the multi-source is more likely to help.
+Ah, so, so that we would like double check the the exact plans and and look under your finger.
+Ah, so it's the, ah, now it's the good point to mention the two biggest things.
+Ah, and, ah, the one of the biggest thing is that [PERSON10] is leaving, which is listed at the end of the, at the end of the, of the notes for today's call uh.
+Yeah, so I've, have started, but I think I never finished an email to you, because you have reminded [PERSON4] that your, ah, profanity filtering is not yet integrated.
+So the the important message is that, yes, it's very good that you are actively pushing so that your results are integrated and everybody should do so.
+And at the same time, we need to have the set up so that you can actually integrate and tested yourself.
+So [PERSON4], when working with [PERSON17] and when, when, ah, like documenting what the set ups are, ah, make sure that it is tested well enough by colleagues such as [PERSON11], or then even [PERSON10] for the language model checks us and and everybody else.
+So it was actually for a second, [PERSON2] saw that I think, for a second ah, the ah the incoming, ah, sentences were like flooded with lots of oh, oh, oh, oh, oh.
+Ah, so, ah, I I don't think we need to fold proprietors spasm removal, because if we remove the the one from the ASR itself.
+Ah, so, ah, that that would be on the dashboard and the monitor.
+So, when you have a call with [PERSON10], then [PERSON10] has already started, ah, preparing for the upcoming Monday seminar that's going to be given by ,ah, Italian guy, a famous one, the author of [PROJECT4], actually.
+So, ah, on Monday we will hear the Italian English and yesterday, ah, we had a chance to hear the Japanese English and the ASR was really struggling with that.
+The recording segmentation is that the thing that you are, ah, ah, the is it really?
+And later on, we, ah, we may, ah, do something more about, ah, the the, um, the multi accent things.
+But um, I think that the pipeline, um, the training pipeline, um, which is used for training of the <unintelligible> that uses this same technique.
+So that is, ah, that was the, ah, like news and and work that is being put on you, because [PERSON10] will be leaving.
+So, I would really like to ask everybody to record the experience from the [ORGANIZATION7], and as the one sessions.
+So the the system needs users, and the more diverse users, the more different users, the better.
+(PERSON5) That he got rolled in the pipe and and I kind of had a ah talk, ah, call with him right at the moment, when I was free.
+Now you are getting this errors how to debugg what what section is exactly the hair issue with so first tribe with the ASR of then try with the <unintelligible> itself, try individual ASR <unintelligible> and things like that.
+(PERSON1) Yeah, but I was surprised that like the pipeline, because it was the same pipeline that the pipeline -.
+So, next week, I would like to hear from you three how far you got in the in the like specifications of the requirements.
+So you have multiple scripts that start the um that starts you avanti and workers, which is like a multi-edr and multi bigger and multied relevant.
+So maybe if you could remove these scripts which have the similar performance, or only leave that which which is usable and which is kind of okay for the for our life sessions.
+The zimbra will auto- autocomplete the um, ah, the ah, the the email for you.
+And so I already have the first models, but now I'm trying to vary the amount of data and the length in the dataset, and to see, like, what is the difference in performance and and length.
+And then when I'm happy with this, then I will get to the second phase, where I will basically translate and and synte- and creating to dig data from the rest of the and the end dataset, and then I will build like the final shortening model.
+So what essentially my script will be doing is taking an input of taking the index file as an input and it will generate the ASR from whatever model there is mentioned in the script.
+And I'm trying to make it as as well as possible, so that we don't need to hardcore the ASR in the script.
+So, after that I'll have a call with [PERSON7] to discuss all the, oh, things that I put in the script, and then I think he can take it up from that.
+Then, without running anything, you should just be able to look at the the stored outputs and the store scores, and it would immediately see where we are standing.
+So, [PERSON4], let me know when you finish it, and we can arrange a meeting, and then I will look at it, and then I will write it into the deliverable.
+Okay, so that that that was the the first immediate lesson and to do that that arose from the last week sessions.
+So, when there is some session happening, we really need to make sure that we have the important people around the globe, ah, ah, like available.
+And I would like to put your names next to those for your, to know that like you are the people who are long term, including this goal and this, ah, ah, this challenge in in your plans.
+So, my impression, ah, from the, ah, domain adaptation that [PERSON10] has been carefully doing for all the sessions, was that it was not really visible in the hybrid ASR.
+But I would like to see the the benefit of of that domain adaptation in in in the [PROJECT2] set up.
+And the substitute words are for the language model are are really used, and it's asking the correct anagrams with the substitute words instead of the the new words.
+And and another suggestion is that we really should have our arm fully new ASR and do various experiments on fine tuning and and and all that.
+(PERSON8) And and like, I had this idea that we could just like, ah, use some tool to the download basically these some kinds of filter and videos from [ORGANIZATION5] and make your training tests, ah, ah, a training set out of them.
+So not exactly similar, but when I was working with the financial dataset that we had created, or in my previous work, so uh we were looking for things uh from, let's say, an investor's point of view, it was since it is related to sentiment analysis.
+So, even if you train a neural network model to a spot some, some of the things that might be disrespectful or um demeaning to someone, or maybe that that shouldn't be there.
+I'm the the the social media like [ORGANIZATION4] or or or um or [ORGANIZATION8] etcetera they, they actually use such things to filter the the posts.
+The, the, the difference is that we do not expect the speakers to use this abusive language, or whatever you call that.
+And I think that with in this different setting, the the problem with the subjectivity that [PERSON4] mentioned and I agree it's very important, but it may be less, ah, less severe.
+So we will have one more this call next week, and then, ah, it will be already the Christmas Day and then, um, the the New Year's Eve.

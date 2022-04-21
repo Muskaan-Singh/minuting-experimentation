@@ -1,0 +1,38 @@
+the presentation platform now requires password .
+username and password the authentication fees has been reintroduced .
+the only real problem is from [ORGANIZATION2] at the moment .there is nothing in the protocol unintelligible> will help us problems solution .
+if you could just.
+Quickly share the screen where you had the launch of ten workers at the same time .i'm afraid that we are failing to provide so many workers that the bugs wont be that severe .
+i will try to keep pinging [ORGANIZATION2] for a for getting this running .if we are lucky and the workers work.
+and then we can get it running .
+the highest number that we saw it running with was six .
+it's not if the in german workers did not start.
+they were available .i have plenty of errors in my log.
+I haven't seen any of the subtitles .
+could it be related to the new authentication that is in the presentation platform? PERSON9 will still investigate.i can run the exact configuration I've been posting.
+I can run it on the local network .
+i'm still trying to figure out what is preventing us now from testing it .the subtitles are coming from the the the Internet while the stream is only copied locally .
+the feature will allow us to select these source stream .
+it's pretty been impossible to the debug problems in these environments .it will be impossible at present to descriminate which English is coming from which microphone .
+we strongly suggest to choose the preferred the English stream at the beginning .
+uh, we would want to have the English subtitles presented from the main round table .if we are indeed lucky with the subtitles being streamed from the from the presentation notebook .
+this is the critical things that need to be debugged during tomorrow and the day after tomorrow .
+one thing that i noticed when the subtitling was somewhat working was that there was a lot of repetition.if there is like a logic implemented in two separate the components.
+the two logics may fight together will fight with each other .
+the segmentation worker should send the whole sentece into, and not into different places .if the segmentation worker is the one who would be forcefully cutting the sentences, then the presentation platform is stuck .
+but in the meantime maybe a new message will come already .
+we can test it the solution without our unintelligible> .i have connected one to nine, nine workers but only seven of them are taken here .
+i think that probably the admin web is based on unintelligible> there could be a delay .
+the interface is simply slow so only when you run something for longer period of time would the numbers be correct ."we need you to swiftly restart the workers unintelligible>," says PERSON6 .
+if a worker's session ID is not working, a script could be used to tell it .
+"i think that at this point there is nothing else to discuss," says one participant .i think this would be very useful and could be just the few lines of code .
+i have no experience in coding in any web server package .
+but it should be easy to wrap them in something so that you forgot to launch it .there is no worker unintelligible> running on this server right now .
+if you can restart them with just one command and not like moving to some screen .
+it will also be possible to have a script to make restarting one faster .in theory, this log output will indicate if this worker is in fact idle .
+in protocol, worker knows its session ID .
+recompiling this worker with one print will speed up the restarts .the problem was exactly this Xml that you were lying on some custom XML library .
+they need a function call that would extract the session ID from from .
+if you launch one more simple thing on your side then it should work .slack would be one copy paste to your screen to restart worker .
+both failed to resolve so they, even the name the host name is not available .
+if you accidentally run this on the wrong machine it will tell you: "well, I do not have that worker"

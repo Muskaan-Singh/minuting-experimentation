@@ -1,0 +1,50 @@
+Yeah, so I haven't heard from uh, from what- wha- was his name, [PERSON5] uh- yet.
+(PERSON4) I- I can't (this whole month), but it may be <unintelligible> limited to, weekends or something like that, because, weekdays we'll (be), (fully), (taken).
+(PERSON1) Okay, so uh, yeah, also that- that could be difficult, but <laugh> because we are- we are failing to get our people here.
+So we should really, uh, like, even if it was for a short time, I think it's- it's very important that you uh- that you actually do come to do the paperwork, which cannot be done remotely.
+So, uh, so please, like, do not think that the matter has been solved by uh- by you still, getting the- the money.
+It has- it has been- the problem has been postponed, but there is a limit on, how far we can push, this.
+And, we were lucky that you started in the middle of the year, so uh, so that went smoothly.
+So, so professor [PERSON1], I think- I think um, yeah- uh, let me talk to you regarding this sometime (really) <unintelligible>.
+So now, I'm- I was kind of hoping that [PERSON5], uh the- the student of mine would- would be able to join, but he didn't respond to my email, I sent him an email uh, three hours ago, if he would be available at this hour so it was, like late notice.
+So this is what we need, and, um, like- the- you can s- spend the rest of the- the call talking about the, the procedure that we discussed yesterday, uh but I- I don't think there's any- any new input from me at this point.
+But um, yeah, if- it can easily fail as well <laugh>, so.
+(PERSON4) So <unintelligible> that we are going to do is just, insert the words that [PERSON2] prepared, in the text, and polish it?
+So, it is okay to know that, this word is possibly a named entity and no person has looked at it yet.
+So that we do not- we don't want to have- we- we need to formalize it in our way of- of course and not- not in- in bold facing and- uh, italicisation.
+Ah, it would be good if people already are looking at the documents, uh, if they, actually saw, uh the type level annotation, because there could be errors, and they could notice there are errors in that type level annotation.
+And it's also good uh, when Microsoft Word, will (screw up) the file after saving it.
+There will be a lot of, like, mess around, because whenever you open HTML in these editors, they- they will add a lot of, uh- useless stuff, but it should be, fairly easy, to extract that information, uh, back.
+(PERSON4) Yeah, I will look for that, but, I must tell you again that uh, I jus- I'm just limited to weekends.
+[PERSON2] please, can you put this remark of mine, about the timeline, somewhere, outside of that comment, so that we do not lose it?
+(PERSON1) So please, put it into the main- main text of that, uh, of the (minutes).
+Another option would be that we would have <parallel_talk> NE, um, status equals, suspected.
+So does this type of annotation, make sense to you, uh to- to all of you, actually?
+Sometimes you have just this short (SAO), or as a sentence, and we don't want to, er, filter all of that as it- if it is- so if it's not so complicated, I would vote for showing more.
+So it's actually, I think it's even- uh it makes things easier, because we can stick to the documents-
+(PERSON1) We would only convert them from the current format, which is plain text, uh into this HTML with the, with the, um like, highlighted places.
+So if the, is it best for you that you really would individually send them the files, and tell them, open this in Microsoft Word, and do the bold facing and italicisation, uh of all the-
+(PERSON2) It's easier just to send the files, so [PERSON3] has invented- well invented, has begun a very nice way using Google Forms for that, so that they, uh- s-
+(PERSON1) Yeah, another option is to go for Google Docs, uh, if- if that would, uh-
+(PERSON1) Yes, that's right, yeah so that would- we would have to like, Google Docs obviously they have the permissions uh system, so we could somehow like divide it and, and like make it accessible only to specific people, and so on.
+(PERSON2) Yeah, but, so, you, <?another language?> you ca- just imagine how colorful it's going to be, just-
+(PERSON1) Okay, yeah, l- let's- it's- it's uh important for, that you are saying this.
+So that we are sure that, for the given editor, we are able to extract that information with uh, not too many problems.
+Uh but after that, call I- I can look at that, so that's- that seems like, <unintelligible> I think.
+So she also said that she would be adding some more names to the- to this sheet, to the prospective, uh Scientific Committee.
+So, uh we would want to host the [PROJECT2] in some conference, which is probably, [PROJECT1] or [ORGANIZATION1], so we are submitting to, two places currently, that proposed (file), [PROJECT2].
+So <unintelligible> very quick person, who is getting- givin- giving me back the meeting in <unintelligible> in two hours after I give him, it's shorter than the meeting- than the meeting duration.
+(PERSON2) You are, uh, well, I can't find a word <laugh> to- to express my appreciation.
+Because um, uh li- (nowadays) we are on a very, strict timeline.
+And [PERSON1] is really, wa- like he wants to have the sample data, at least uh, some files, to be uploaded on the- on the website as soon as possible.
+Yeah, my father is also a diabetic, so- that- that's why I didn't go to Russia on this Christmas.
+Once the vaccine, mass immunation program starts, it will obviously slow the spread.
+Even- even if the vaccine works for 70 percent, accuracy, it has still the ability to s- stop the spread, yeah.
+(Call) for participation, and now (I see some) Google Doc, [PROJECT2], first [PROJECT2] on automatic minuting and then a lot of task.
+And also, uh most importantly, after that, you can see that <unintelligible> submission portal requirements.
+Uh, with registration- is- isn't it possible to make the link shorter?
+(PERSON2) I just, somehow didn't- <laugh> didn't <unintelligible> so I just thought, I should found somewhere the XML uh, source.
+I really want to get all this, proposal submission stuffs done by, January tenth, maybe, so that we can like, again, focus back to our, research part.
+(PERSON3) Actually, like I- I too, like one or one and half year back, I was also, uh not, I was also new to- all- new to this.
+But I learned from my colleagues, um like organising, three or four workshops, and, it really helped.
+It's kind of <unintelligible> differences between people and I really, I'm really very bad at all these group, things.

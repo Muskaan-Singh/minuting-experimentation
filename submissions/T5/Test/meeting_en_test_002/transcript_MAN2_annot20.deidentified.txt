@@ -1,0 +1,14 @@
+if you want to join, there's no problem with that .
+it's possible that you're not in the mailing list yet .
+(PERSON9) Oh, yeah, it might be about 1 P.M.
+[LOCATION2] time .uh, the way they employed you is really, really, like, they had to close both of their eyes .
+it would be better for us and better for the project if you decided to take it as an opportunity .
+you will have to come in person to enter a proper work contract .i believe that the [ORGANIZATION3] is still closed, isn't it? uh, I think that you at the moment, you cannot apply simply because the [organization3] has been closed .
+i have no messages from [PERSON5] since last Thursday .(PERSON2) We can raise that on the Thursday call .
+but there is also an objective problem with the quality estimation .
+(Person3) We can barely hear anybody now, so .i'm really, like always s– sceptical to these machine-learned evaluation methods .
+the problem is that if the decoder generates a sentence that is, uh, has the same meaning, but different words, maybe we have a problem trying to use just (blue) d–, yeah definitely .if we take the pretrain model and fine–tune it during training it might be useful for this kind of distinguishing .
+we could add as many constraints as we want and see ho–how many can we add until we lose the meaning completely .if you don't have anything to discuss, we can leave it at b– let it, be it for this week .
+we'll see how much time it will take, depending on the, on the time consumption .
+(PERSON4) Okay, so, yeah.
+Thanks, thanks for your time .

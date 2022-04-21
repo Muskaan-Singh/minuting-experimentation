@@ -1,0 +1,50 @@
+ The goal is to synchronize the group, and the date and time .
+The day and time of the week is chosen, uh, so that it is fits to most of us .
+The kids have taken all my computers and I left with eh, with the cellphone only .
+Anonymized calls will be anonymized, so we´ll be removing names, replacing names with placeholders and replacing project names .
+The ELITR project has asked Metaforum to only allow us to connect to their Zoom to only connect and show the the subtitle somewhere on the side, silently without much publicity .
+The Khan Academy corpus is being used for a rainbow model for for paraphrasing for Michal Novak .
+The model is based on monolingual data that we can use for this rainbow model .
+But I found that that it is actually quite a problem to to find spoken data there .
+Facebook has released a data and a model for mining parallel data in one hundred l- languages .
+The models are very tricky to run, because you need like for like for GPUs with sixteen gigabytes of RAM at least .
+But on some, uh, on some of our testing data sets from IWSLT, they are actually not much better than the best Edinburgh model .
+Ebrahim Ansari is overseeing the development of the SLTF .
+The ELITR test set is completely finished .
+The SLTEV is now workig wi, it´s working with alignment by .
+aligning by .
+alignment if they are inside in ELITV test set .
+The name is Khan Academy for SLTEV, independent from the others .
+The ELITR test set contains the input texts and references and also input sounds and reference transcripts .
+The tool can use any other inputs and references, but it is also directly capable downloading what files you want to evaluate on .
+The Khan Academy selected the Khan Academy as the test case of the evaluation for the purposes of the publication of the SLTEV .
+Peter Polak could also evaluate your ASR systems on SLteV .
+The most urgent thing to do is getting the evaluation of the of all the systems, of .
+all the components .
+from the .
+components from the ...
+mediator, all the .
+connected workers, running through ELITR test set.
+The true regular evaluation of all .
+the systems .
+Rishu is putting together what Vojtěch Srdecny would be kind of doing .
+The censorship component is something which we want to have as a one part of the pipeline after the ASR .
+The goal of this censorship tool is to allow to immediately hide the outputs and then show them again .
+Bohdan has worked on multi-target machine translation for his master thesis .
+Part-time employed on ELITR to develop multi source models .
+It's Peter Polak and Umar Faru working on multilingual ASR systems .
+The question is whether we would want to use just a Jasper as a model.
+The Jasper, translates .phonemes and then followed by transform .
+The model is only for offline processing .
+The simple Jasper only wou- on the same augmented data set evaluated each other .
+Umar also please, train as a comparin- compa- comparison in using the exact same training data, exact of evaluation you two please be t- in touch together .
+The call will be hosted by Peter, Umar and Sangeet .
+Peter is staying, and Umar will stay for a while .
+Umar wants to use Mozilla Common voice data set to create wholly new sentences .
+The main objective is to train a robust ASR in English ASR .
+There are in the in the Mozzila Common voice data set there are twenty three percent unit- U.S.
+English, eight percent England English, five percent India and South Asia accent .
+He was talking about comparing the performance of your system with something <unintelligible> But I'm afraid that these data are just eh, private and we cannot use them .
+The Mozzilla Common voice is the best option as the most papers that work with accented speech are working with the Common voice .
+"We train the set and we test it," says Kaldi .
+"I think we can compare the <unintelligible> of more systems" "Kaldi" will be Kaldi again or same model .

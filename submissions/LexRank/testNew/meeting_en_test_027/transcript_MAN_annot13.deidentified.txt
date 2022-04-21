@@ -1,0 +1,50 @@
+(PERSON2) Uh, yeah, I I can hear you now that you're- So, how are you [PERSON4]?
+Okay, so let's get started, because we want to, uh, cut this shortest uh, uh, so yeah.
+So one is [PROJECT2] and the other is [PROJECT3].
+So [PERSON2]  you or you said that, you would be very busy and you could- Uh, like, is there anything you can help with or, uh, or, uh-.
+Mm, it, it, could, be, any, data preparation, like, downloading for, uh, some, some, domain data you know, for the two, uh, events, or, or, something, like that.
+And, like, the more important and still persisting topic to to work on is the ladder climbing and I've suggested here uh, in the uh, uh, in the uh, paragraph for [PERSON3], uh, that we could use simple HTML tables that would be auto generated, and that would grow.
+So I think that that would be probably the easiest, uh, to just put up the tables as HTML.
+Um, yeah, okay, so Weights and Biases this is not really, uh, recommended by [PERSON9].
+(PERSON3) Okay, yeah, yeah, I'll do that.
+let's say, (PERSON1) Mhm, yeah.
+Could you do that?
+(PERSON3) Uh, there was one more thing.
+(PERSON1) Mhm, okay, so, uh, the, uh, segmenter or well, it is a problem.
+(PERSON1) Mhm yeah, okay.
+And I, uh, for the continuous, uh evaluation, for the ladder climbing I really do want to have tha, uh, uh, um, these observations being gathered like throughout the weeks and not for the deadline.
+Because, then you you see how stressful it was to to to get, uh, all the things together.
+So, uh, so let's, uh, that is for everybody.
+And uh, uh, like the presentation of that is also important, and we need to do it way before the deadline is approaching.
+For both of the sessions, [PROJECT2] and [PROJECT3] I do already want to choose the system the the pipeline from some choices, and this has to be based on some numbers.
+(PERSON3) <unintelligible> (PERSON1) You will need to be in touch with [PERSON7], as you said, uh, because we need to revive, uh, the
+So the the goal is to have the baseline, and then to do the, uh, uh, the word uh, cutting thing.
+And and now I do not know which is if it is D one point-.
+Uh, uh, for this call.
+And you are the one.
+It can be also outside of [PROJECT1] it can be like you have the directory.
+I I was also thinking I would like to get in touch.
+I <unintelligible> to work with [PERSON4] on [PROJECT4] [PROJECT5] actually.
+(PERSON2) So I mean, I think the sooner I get started working on it the sooner I will be able to I, I will be able to build the- Uh, I I do not know, because I haven't done this in the past.
+<other_noise> So maybe it it will be better for us to to attend the call with the [PERSON7].
+So because I m actually also like to work on the non native speakers so of it is actually, uh, uh, one part of my, uh, uh, of my thesis.
+So.
+Uh, but if I understand it correctly you you would like to do this model using [PROJECT4] <unintelligible> (PERSON2) Yeah, yeah, yeah.
+Yeah sure, I'll I'll do and [PERSON2].
+(PERSON3) Yeah, about the call with [PERSON7].
+(PERSON3) Uh, uh, [PERSON8].
+I I  I need to, uh, respond to that.
+(PERSON1) That, the [PROJECT7] that will be with [PERSON9].
+It would be like.
+It would be great if we managed to to do that.
+And and and class, you can see the silence, Czech, German, English, and then I will let on the others how they want to use it, in, the, pipeline.
+Uh, because, uh, that is, uh, [PERSON3], and also [PERSON3], when you talk to [PERSON10] a well and also possibly [PERSON2].
+Uh, if we have this tool, we need to ship the audio, uh, to multiple, um, uh, [PROJECT5], uh, or, multiple, uh, workers, in, the, directory.
+<other_noise> So we need like, uh, filters for the [PROJECT5]s so the [PROJECT5] is silent if' it's the wrong language and it, uh, it, it is the recognized text if it is the correct language.
+Another set up would be that, the same sound is shipped to [PROJECT5] and this language checker and, uh, that already, like this language checker is essentially a a part of the [PROJECT5] silencing the [PROJECT5] if it is the wrong language.
+<other_noise> So this is,uh, like, we, need to, uh, figure out, uh.
+Like it's.
+Uh, it is not.
+Uh, I don't think, it, should deteriorate too much if it's if it's, uh, three languages, uh, at the, uh at the beginning.
+Yes, the the book, uh, we definitely have to have it out, in uh uh.
+I'll try to record somewhat my suggestion about how to use the language ID in theirs that we have in the document, and otherwise, uh, uh, uh, uh, have a good week and talk to you, uh, next, uh, Thursday, and be in touch, uh, with, uh, the preparations for the for the events so that is, uh and the continuous evaluation.

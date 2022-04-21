@@ -1,0 +1,50 @@
+And also, I don't think there is any way to switch off your webcams in the Alfa view, unless you simply like put a ducktape over ovet them.
+If you actually had a little video presentation, html client that I could test these streaming off slides with.
+So you have already provided numerous <unintelligible> sample ways of examples how to run various clients.
+I have tested that-<other_noise>And I've also add the example <unintelligible>, [ORGANIZATION6] worker client, ehm server, sorry.
+I don't know if I need to maybe write dummy ASR worker <unintelligible> test sentences or something like that.
+(PERSON12) The KT translation platform is very heavily <unintelligible> specific use case that we're using it in.
+(PERSON10) Ok. (PERSON12) As if the sentences were were spoken-<other_noise> (PERSON9) Actually, this week we work together with [PERSON12] and [PERSON5], in order to find better workarounds.
+But I hope that we will find out a solution even if ehm, at the moment, the [ORGANIZATION5] worker are not meant to manage, the batch use case.
+So also [PERSON1] needs to test machine translation by looking at the output of the online ASR.
+Instead, I think it may be even better, if like [PERSON12] send <unintelligible> audio files to [PERSON1] and [PERSON1] did the ASR offline.
+Don't see any big benefit from fixing the batch processing at [ORGANIZATION5] through the mediator.
+(PERSON14) So, so maybe if [PERSON5], does that sound reasonable, so that [PERSON12] would send the audio files to [PERSON1] or to you, and you would do the ASR offline, and you would check the segmentation.
+I think the best way would be constantly running ASR worker, and [PERSON1] sending the audio file and making sure that the finger prints like connect the together.
+And [PERSON12] feat to this client, can you just repeat to me the exact set up for the testing of the [PROJECT2] worker connection.
+So I I think we have offline ASR systems that are <unintelligible> and what's running in the mediator.
+So there is a big risk that if we train on the segments from the ASR will get something very different from the on, from in the online mode.
+The ASR output does relatively close to resembles like TED talks and your <unintelligible> sort of spoken word empty datasets.
+I mean, what what what I understood is that [ORGANIZATION5] have already connected together online ASR and machine translation system trained independently on the current state of the art.
+But there- (PERSON14) So the easiest- (PERSON13) <unintelligible> (PERSON12) - everyday, I can send you some samples from the actual translator.
+But- (PERSON13) <unintelligible> ok. (PERSON14) So I think our main concern is not the quality of the translation, but the mismatch of the segmentations.
+I need to raise it a bit so, that the noise around- (PERSON12) A quick sidewalk, because- (PERSON14) Yes.
+So please just write it down that we, we have solved this differently by going to simply offline mode and will focus on the batch operation later on.
+Yes, so I think that's still this line that I've just highlighted in the [ORGANIZATION3] document, where [PERSON12] says," I also need either the [PROJECT2] worker or text client for CTM to TXT, or better both, to get the final hypothesis.
+(PERSON9) Of course next week we can perform again test all together in order to check both segmentation worker and other things together.
+And there is no immediate plan to to have such client, that would be able to digest CTM, send it and then use the segmentation worker in isolation, right?Is that correct?
+It should, there is no urge to fix this client, for the CTM, but at, but the condition log the testing of the machine translation.
+(PERSON9) Yes, but actually I see that the ASR worker has start producing some text in the chat window.
+And by his summary if I try to re-That the ASR workers are <unintelligible><other_noise>And they are registered as non-ideal even when they have finish their jobs, and send there done messages to the mediator.
+They are removed by the segmentation workers, so in the in the MT input, these tags are not present.
+I'd say <unintelligible> (PERSON14) Because I think that from the users point of view, even if we are seeing pretty bad voice recognition here, because whatever sound conditions.
+So SLT [ORGANIZATION5] is connected to the mediator, doing some preprocessing for MT, for example, like PPE, and that sort of thing.
+And I think that we could follow that, but when you were mentioning like adding three dots, for unfinished sentences, I didn't see anything like that in in the SLT [ORGANIZATION5].
+Is just the labeling, the labourer, the trained <unintelligible> model and the the published scripts in the SLT [ORGANIZATION5], right?
+[ORGANIZATION5] segmentation and MT, how is the fix, with the batch <unintelligible> sentence, so this is, this was, has been made irrelevant.
+And we need to to decide online, which of these streams in concatenation with the ASR and the MT is the best set up.
+And we can, we will have on the presentation platform an administration page where we can choose the main the selected stream for each languages.
+<laughing>So if we have four different pos- MT that translate to this many target languages that that you see here in the document.
+And what we need to do now is to make sure that that subtitles in Romanian are based on the machine translation all the target languages at once.
+The fallback solution that I see is that each of these source streams is assumed always pro all the sequence, that you mentioned, and we would be manually killing those that we do not like.
+And if the output from one of the re-speaking cabin or the output from the floor is bad, this operator should kill the client that is unavailable, the machine translation will not be connected to that and further and the presentation platform will automatically jump to the other provided translation, right?
+(PERSON9) But actually, killing the client is useful only to ehm in computational power on servers which was the workers.
+(PERSON12) I think what [PERSON6] is proposing is that all audio inputs are translated into all target languages at all times.
+But I understood that there is no way to switch, which of the sources is the one to be presented while the whole system is running.
+Yeah, can there be more people monitoring the same presentation platform at the same time, so that one would be checking the Spanish outputs, and one would be checking the Dutch outputs, and one re-checking the German ones, and they would like simultaneously make their decisions.
+Ehm, is the same logic as an <unintelligible> user may see the English final subtitle or French one, that's it.
+(PERSON9) Actually the the browser of the cl- the final user will be the client of the subtitle solution.
+So the client will connect to a particular stream of publishing subtitles and this is to both for the the one who's configuring the system.
+(PERSON9) Sorry [PERSON14], just a technical question, our integration has ask me to report you, they are pretty care by the fact that 4000 people connects on the same WiFi network.
+But we could ask [ORGANIZATION2] to organize the people by the language and to put like screens in front of group that that wants to read Polish subtitles.
+I hope that also [PERSON15] which is a more expert technician will comes up with a brilliant solution, about this part.

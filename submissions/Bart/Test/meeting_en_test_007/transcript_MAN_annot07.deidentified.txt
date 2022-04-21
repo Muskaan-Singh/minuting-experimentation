@@ -1,0 +1,51 @@
+ The call is being recorded and there is no way to switch off your webcams in the Alfa view, unless you simply like put a ducktape over ovet them .
+The presentation platform is slowly taking its form and working .
+A text client would be useful also for debugging .
+Having this also for the presentation is what we would like .
+There will be probably real video mixer available for the three days or two days of the workshop .
+KT translation platform is very heavily <unintelligible> specific use case that we're using it in .
+It is meant to be run with the continuous input stream .
+It does not handle the batch eh the batch example very well .
+It's also possible then some cases it's not confirming to the interface .
+There are main priority now, is to have the online mode working .
+[PERSON1] needs to test machine translation by looking at the output of the online ASR .
+Don't see any big benefit from fixing the batch processing at [ORGANIZATION5] through the mediator .
+In order to test the all integration <unintelligible> command line, the command line will run on your command line .
+The command line is designed to resemble the output of the ASR .
+The ASR output that will be getting as messages when it goes through the mediator .
+It seems that the machine translation quality is not affected by mismatching segmentation between the training mode and the operation mode .
+[ORGANIZATION5] have already connected together online ASR and machine translation system trained independently .
+The chat is filling up with messages but no ASR worker being available .
+The segmentation workers expect data of type unsegmented text and I'm not sure that a client exists, that send that sort of data .
+The text to text client is the second to that machine worker .
+The segmentation workers in [ORGANIZATION5] don't work with the CTM client .
+The CTM is the word level output of ASR .
+The segmentated worker shares a lot of the code with MT worker .
+At some point, they will both be redone .
+The problem seems to be that after session is completed the client has send all of it stuff, recieved all of its output, stop sending anything .
+But the worker still believes it's part of a session .
+And therefore does not accept and is registered as such in the mediator .
+The only common link that they share is the client.
+That the, ehm, the audio client.
+And the bug is still triggered .
+The presentation platform doesn't handle unsegmented text .
+It only handles the text as it comes out of the segmentor .
+The segmentation worker is is sequence as I understand.
+It labels each word with either opf insert coma or insert the full stop .
+The ASR worker connect, reconnects very quickly, the MT workers do as well, but it take some time .
+[ORGANIZATION5] segmentation and MT, how is the fix, with the batch <unintelligible sentence, has been made irrelevant .
+Ignore batch mode until [PROJECT3], ok .
+The presentation platform will receive all those streams, and we will have on the presentation platform an administration page where we can choose the main the selected stream for each languages .
+From we can, which can cover the main one outage.
+So that the main stream dies for some reason, we still have the subtitles even if are not the the preferable ones .
+An operator monitoring the output of the re-speakers cabins should kill the client that is unavailable, the machine translation will not be connected to that and the presentation platform will automatically jump to the other provided translation .
+There is no way to switch, which of the sources is the one to be presented while the whole system is running .
+For June it will not be available the preview of the subtitle .
+The final users- the browser of the cl- the final user will be the client of the subtitle solution .
+The normal user is selecting which language he wants to see and this super user, the monitor of the presentation platform is choosing for all the followers of of Spanish, which Spanish source should they get .
+(PERSON9) Actually this could be really important point of failure for our solution, we have to be careful about it .
+We could ask [ORGANIZATION2] to organize the people by the language and to put like screens in front of group that that wants to read Polish subtitles .
+We have a year to to find better one.
+We could also add wires, so to like half the number of of clients there.
+Will be will be a lot again again.
+This is, let's leave this for for the next [PROJECT1] call.

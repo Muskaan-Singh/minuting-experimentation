@@ -1,0 +1,50 @@
+(PERSON9) Oh, uh, uh, we're waiting for someone, maybe, uh, that is going to join us, but I'm not sure.
+And [PERSON6]is not going to join us today, so, other than that we are ready to start, I think.
+It might be good for [PERSON4] to get more insight into the project itself, I guess, but again it's –
+(PERSON4) Uh, not sure, I'll check this, because, uh, I didn't see it at first.
+(PERSON9) That's the good thing to check, because, uh, otherwise we, we should add you to the maidli– mailing list at least.
+(PERSON4) And maybe I have, I have one from [PERSON7] here, but no, it's about the, the GitHub.
+(PERSON9) You should rather look at that it's quite possible that you're not in the mailing list or, uh, yet.
+(PERSON9) So, no, it might, it, it might be about 1 P.M. [LOCATION2] time, I'm not sure, what it is called.
+We w– we would really like you to come visit us at least for, I don't know, for some limited time.
+Uh, so, uh, th– the hosting agreement and other paperwork that is being prepared really has to be used, uh, as soon as you can, uh, and as soon as you can arrive.
+Uh, and, uh, the length of your duration, uh, I would prefer you to stay here but I know you, that you, uh, initially indicated that you would like to stay, uh, remote, if possible.
+And, uh, it would be better for us and better for the project if you decided to take it as an opportunity and not as a, as a negative must.
+You, you will have to come, uh, for the paperwork and then you can possibly return and, and work remotely.
+Uh, but, uh, it would be b– nicer and better, uh, if, if you decide to, to stay here in person.
+Yeah but I, I was still – didn't receive the, the letter from, from you.
+(PERSON6) If you please start checking, what would be the process for you to apply for, uh, for visa.
+I, I think that you at the moment, you cannot apply simply because the [ORGANIZATION3] is closed.
+I know this for the Indian [ORGANIZATION3] because we have other people who are trying to come here and they really want to come, uh, is from India and they cannot.
+(PERSON6) We will also, occasionally check for you and as soon as you can apply for visa, then please go for it.
+And you will get the full support from the university, the, uh, to show them papers they need and, and so on.
+Okay, I will, I'll keep checking and as soon as I can, I, I go.
+I, uh, nudged, uhm, [PERSON5] that he should do something and then, yeah, he, he starts to or like finish testing it and thanks to [PERSON1] for resolving all the issues that, that like [PERSON5] came across.
+And raised again and, uh, yeah, because we, we were at the time we, were at the wedding and like after the wedding.
+(PERSON2) Yeah, we have to like in this week, I have to, uh, discuss things with [PERSON8], what should we do next.
+(PERSON2) I will also, maybe run this, uh, translation on CPUs, because there are many CPUs that are now not used, so, just to, uh, make it quicker.
+Oh yeah, we already discussed right that you're, you're, you're s– still catching up with the state of the art.
+So, the thing is that it might be useful, but I'm not completely sure whether we would like or how w–
+But, yeah, I, I'm thinking that, that it might be implemented into the pipeline somehow, but – I– in my case, also, I, I, I, don't know, don't know exactly how we can add it or include it right now.
+(PERSON9) And it, it seems that it ma– might be useful that the, the approach they, they take there in in the paper, so, so, definitely good thing to keep that in mind.
+The, the problem is that if, uh, the decoder generates a sentence that is, uh, has the same meaning, but different words, maybe we have a problem trying to use just (blue), right?
+Like they, they, uh, uh, their argument about the metric being semantically sensitive, or what's the term?
+I think if we, if we sort of maybe take the pretrain model and, and fine–tune it during training it might be actually useful for, for this kind of distinguishing.
+Like, right, uh, I guess with paraphrasing or if we use it for example for paraphrasing, we might use the metric to, uh, estimate the sim– sim– simil– like semantic similarity, but still have the constraints to enforce some, some like surc– surface form.
+Like that's, that's, that's the thing that comes to my mind, but, uh, again, I also, need to look into it in more, in more detail.
+It's, uh, because of that, uh, like case of paraphrases, that bo–, <unintelligible> is in fact measuring the similarity, not the diversity, or?
+And the thing is that we want to kinda guarantee a semantic similarity, right, which BLEU doesn't capture, because it's just using the surface forms during evaluation.
+And this blurred metric can be used to guarantee that the, the, the paraphrase or the alternative sentence does not straight– stray away from the original meaning too far, right?
+Uh, the idea is that w– we could add as many, as many constraints we want and, and see ho–how many can we add until we lose the meaning completely.
+(PERSON4) Yeah, I, I don't know it was, uh, addition idea that I think that we can work on for now until we have new ideas.
+(PERSON9) Yeah, this is –  this definitely sounds interesting, because again, I think that the papers that do focus on the constraint decoding, they, they really don't evaluate it from this perspective, right?
+Still, still, I guess the metric can be, can be useful during the, let's say, some, some fine–tuning or development phase.
+And maybe later when we are ready to publish the paper, we should definitely still, uh, generate some subset –
+Uhm, I'm not sure, do you want to have a longer meeting this week t– about the [PROJECT5], like?
+I'm, I, I'm okay, I will keep, uh, until I have new ideas or new alternatives –
+Let's pu– put it this way, like, if you, if you don't have a–anything to discuss, we can leave it at –
+And, uh, I'll, I'll try to ask [PERSON6]and we, we should, we should try to have a, a meeting for the task next week together with him.
+I'll try to give – to have some ideas until them – to maybe an alternative to the alternative, okay?
+Ye–, uh, well but then I think like this, this might be a good, good approach to the, to the task.
+We'll, We'll see, we will see how much time it will take, depending on the, on the, on the time consumption, we can then, uh, shift to, uh, additional or another, another research direction.
+But yeah, we can, we can wrap it up, and I guess see you, see you next week, right?

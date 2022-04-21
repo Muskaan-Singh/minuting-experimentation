@@ -1,0 +1,18 @@
+ (PERSON7) Well, it's not a problem now but it we like want to screen a film or something - Um, yeah, first I, I, I would like to thank [PERSON6], um, that he submitted the (camera diversion), [PROJECT3].
+Yeah, only maybe, maybe in, in chapter 6 we should, we should change some of the sections - (PERSON4) So, yeah, we still donít know whether to restructure it somewhere to have only one chapter - So, I, I, I will rewrite the paper to [PROJECT11], to the deadline at the end of June.
+(PERSON4) But for - so, um, for example who will be here the second, second week in the, in July? (PERSON4) So the first deadline the end of June would be stopping adding any contents, new contents.
+But, um, anyway, um, I would like to submit it like officially the end of July.
+(PERSON6) So for some conferences that happen in the first half of 2021 we could still use the money from the project? (PERSON7) Yeah, but if we ask for the Covid nineteen postpone then we could use the money.
+So, the, um, the next meeting would be July, oh, no, no, no - no, July thirteenth.
+(PERSON4) Visu-, um, [PROJECT6] heat maps and [PROJECT2] heat maps and I know that some [PROJECT6] heat maps are completely different from balustrades.
+(PERSON3) This is [PERSON6]ís [PROJECT5] copied in the, um, in the .
+Because anyway now the, now the, um, the book now is one hundred and thirty pages something.
+So, I think itís better we donít write it like one hundred fifty-eight, right, itís OK for a book.
+Um, so, um, so I, Iím restruct-, restructured the section so now what should be definitely readable is like the structure.
+(PERSON4) Yeah, someone would say, oh, this is not semantics, this is something else.
+(PERSON4) I, I have a discussion with [PERSON1] whether part of speech (tags) are syntax or morphology.
+Yeah, um, so I think this should be like maybe two pages, now itís one paragraph.
+Itís something else than, than the regular papers but anything, anyway I shouldnít  not, no problem.
+So, um, Iím writing now survey mostly about, um, syntax in, um, neural networks.
+Comparison of different papers, um, so I done 4 comparisons and those are on that task of predicting part of speech, um, (type).
+Um, and I compared, um, 4 pairs of approaches to that, 4 pairs of settings.

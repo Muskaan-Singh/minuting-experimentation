@@ -1,0 +1,50 @@
+ The session was 'disastrous again' and 'very badly recognised and it was also slow' 'I need to be logged into, one, of, the machines.
+I had to address this problem where the files were too big, so I could not get uploaded to [PROJECT10].
+'Please get in touch with [PERSON10], uh and, uh, try to debug the, that again.
+I will download the recording from yesterday, and I will try to replay that' The data that [ORGANIZATION5] has are just view, uh, read only .
+There are videos, so that even the transcript, you can't get it it unless you apply for it .
+The full archive is in the [PROJECT2] Archive, which are the interviews with survivors of World War II of of the Holocaust .
+[PERSON1: 'I'm still horribly struggling with the [ORGANIZATION10] demo papers which are due tomorrow' 'I think for some of them, we are calculating exactly the way we should do if you see the code,' he says .
+'I can send you an email when I come back,' he adds .
+Proposal4 is very bad for all, uh, remotely handled sessions, and especially if people are wearing face masks .
+Proposal for [ORGANIZATION4] is not too keen on that, but the idea that I have is that we use again a brute force force.
+(PERSON1) If you have time in the afternoon for a call,  receive the answers,  write the answers down .
+Researchers want to learn how to automate, uh, x Windows and, uh and or perhaps windows that can be done also with Windows .
+Researchers are looking at scripting of of user interface in [PROJECT8], and and and uh-.
+Researchers say it is not too bad if you run it in four sessions in parallel .
+The performance was so bad that we really need to like go into this and and try to improve, uh, that.
+So, if you could start ...
+uh, start with that, we would have better chance to ...
+finish it in time .
+The first question: Could you process all the files that [PERSON4] has for training data we need for English? There will be a conference about [PROJECT2] and we are going to provide life subtitles and transcription .
+We will need to get some feedback, from the people that are using our subtitles .
+The conference will be on the twenty fifth on January.
+It's not much, but it's not starting immediately .
+(PERSON5) Okay, we need some, uh, some more useful information .
+(Person5) We need to have better working system on the twenty fifth day .
+The quality is pretty bad, we don't want to ask the people, to tell us, it's bad, it is bad .
+There is something which makes the output 80 percent of the input length and the bleu score, yes, is lower, but just the shorter outflow the lower .
+The shortening [PROJECT5] systems based on what [PERSON16] provides, so that we can look at the outputs .
+The [PROJECT15] speech for example has less than three hundred thousands of texts .
+The [PERSON15] has like fifty or millions of recordings .
+The problem is with, uh, the big corpora the be the big textural corpora like Czech .
+The call ends at 42:06:06  with the latest, uh, next, next Thursday .
+The call goes to [PERSON17] and [Person17] to discuss the status of the [PROJECT11] tool .
+The German verb is split into two parts, and the second part is the content bearing .
+The German sentence will say "Ich habe" and then something very long here, and something vey long and "gezacht" "Said" would bring the early time stamp of the "said" to the late part of the German verb would get aligned to the English word .
+Proposal is to max out all the rest of the sentence based on linear ordering of the words in the reference .
+Proposal: maxing out with the value of the previous word .
+The translator is trying to make the words in German into intelligible language .
+He asks for examples like the one in the [PROJECT9] case, that would be great .
+He says he's confused by the numbers in here .
+The first time you see the 0 is the end of the word "Oh das ist" The number of characters should be based on the length of the words .
+The formula should be like, what is the value for the word Ein" or the eath word, uh,  in the table T .
+The end of the world is like three characters proportionally from two, 0, four and four four zero .
+The first time the word appears is the first time it appears .
+The end time for t shirt is this four, four, zero .
+There is nothing in the paper that would allow people to calculate this .
+But the problem is that there is the formula .
+The call ends with a request to add access to the [PROJECT1] test set and the <unintelligible> test set .
+The call goes back to the original version of this article .
+The author says he is surprised if you still do not have access to this version .
+Researchers: 'I'm stopping to the sharing now, right? And hopefully I will know everything already'

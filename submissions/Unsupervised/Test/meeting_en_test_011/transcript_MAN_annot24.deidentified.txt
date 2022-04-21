@@ -1,0 +1,23 @@
+ But anyway there are much more cases that didn't register and didn't make the test and so on.
+(PERSON7) My idea was to eh, eh, run named entity recognition model on the English meetings.
+Find the proper nouns the names that we want to change, and then we replace them in both English and and Czech meetings.
+Okay, and I am not sure, should the letters correspond with the names that we are going to replace with real names for example - (PERSON12) Here in brackets you have MI for example or KA and inside the transcript we will have Karen.
+(PERSON15) I eh, agree with [PERSON12] that technically we're probably good with like ignoring this.
+But uh, [PERSON3] is probably name, eh then [ORGANIZATION1] is already something that we want to  replace.
+(PERSON7) And first we remove some words from this one, for example, eh, we can be sure that (PERSON7) Yes, so we can remove them and then the words that are kind of gray boxes we can we can just indicate them in the meetings and then let the annotators - (PERSON15) Well, eh what we could do we could say country ID and then two first letters of MT five sum of Switzerland.
+(PERSON12) And eh [PERSON7] doesn't know about our name tag, so he asked about Czech and eh named entity recognition eh.
+So we can use the first letter, not use, not do not use the se- the second letter.
+So for now, I will eh I will do that and after that I will eh use named entity recognition for Czech meetings .
+And then uh, what is indicated as a named entity that will again be automatically uh, done on all occurrences.
+(PERSON7) Yes, something that just came to my mind is that these are the unique words.
+(PERSON7) Something else is that for example eh if this marked word for is the grey word.
+Eh, eh how to anonymize it means A, B, C, D unify all of them.
+And it would be something like speaker, ID equals and then in eh quotes the the anonymized version of [PERSON15].
+And of eh this eh bracket, then [PERSON6] and then end of eh, named entity.
+And uh, they should say that O equals [PERSON6], sorry [PERSON15], C equals [PERSON6], D equals [PERSON17], and and so on.
+And then we only delete the contents, the the [PERSON6] and what remains would be the IDs.
+It's not too common that the uh, well there is also this Chang but that's a misunderstanding actually.
+(PERSON7) Okay [PERSON12] if you don't have anything to do with me, I just - I'm so I don't know eeh what Ondra told now that [PERSON2] should say us? And then the annotators, the two annotators will take let's say twenty or fourty like twenty minutes, twenty meetings each.
+And then the evaluators will evaluate them like using the procedure the manual procedure and will produce the eh the scores.
+(PERSON12) Yes, so could you could you choose these meetings and send them to you and [PERSON9]? (PERSON12) [PERSON15] told to [PERSON9] and eh eh what [PERSON15] told [PERSON2] and what [PERSON2] told  now.
+(PERSON12) How many transcripts eh he wants from us to read and to create minutes from and actually why.

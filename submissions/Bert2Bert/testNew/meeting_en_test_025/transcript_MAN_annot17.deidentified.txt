@@ -1,0 +1,137 @@
+hi, hello, can you hear me? i can hear you, by the way.
+i'm i'll make [ person3 ] the host for now...
+and i r - - - re - reconnect and leave meeting.
+( and ) i will make ( person3 ) the host, uh, makes [ person2 ), the host.a transcriber of germany's german subti - subtitles is on the way to the spreadsheet.
+the transcripts for checkables are al - - almost done.
+it's the same thing as a person's computer program.the transcripts for the first 30 parts of the transcript are still running.
+but for some folders, the audio format should be already fine.
+it's great that person5 has the time to get it right.
+the transcript should be on the way to the end of the interview.uh, uh, there is no way we could do it for the next week.
+uh is uh uh slightly easier than what we do, uh.
+uh...
+and uh.
+there is like natural shortening,'uh'says uh.'uh.
+oh, uh uh, oh, yes, uh 'the people from i think, uh, but uh, it was [ organization2 ] actually.
+they are just processing first k words as they as they get them into the input.
+so basically we would just just train it s - - so that it is faster because we ran out of time, right.uh uh uh, uh uh in edinburgh, who would have had the time to do that.
+the only other candidate would be, ah, [ person10 ] from uh, the [ project5 ] project.
+uh uh is a very risky and and distant, uh so it would be difficult to do it.uh uh, i - i - if i see that i - it is possible...
+if i.
+could..
+click on to s - s - some buttons.
+i - think that [ [ person ] ] should uh just like, click, uh, uh - uh.
+i will work it on tomorrow.uh uh, uh uh and uh uh uh...
+are you away from eleven to one? ( person1 ) uh uh? ( ( person6 ) ) and uh.
+uh uh ( person ) ).
+uh : uh uh is not that true.
+uh is uh uh huh? ( uh uh ) uh.uh uh uh.
+( person1 ) and " person1 " are in the project1 test set.
+uh.
+uh uh? ( person3 ) ) : " we have the the link, uh uh somewhere else, " says uhuhl.
+" we can run the dataset for monday, " he says.
+" it would be useful test "" uh, it should be easy for me to do that, " says one person.
+" i have two laptops at home.
+you need to ( arc ) and one more machine with x to go, " he says.
+" it will be done today, i guess, and both is good for me.
+"uh,'person3'will provide a link between the two domains.
+uh is the same...
+but still.
+you should not mess it up,'uh says.
+the two videos will be updated and re - posted on monday or on monday.
+the models will also be updated on monday and on monday, and monday.each of the pipelines is uh, but each running actually runs exactly the same thing.
+each of these uh uh uhs uh is uh - th - we should all know like how to do it.
+this should be part of the automatic evaluation of [ project1 ] test set right now.the sound quality is uh a little worse.
+uh is uh, uh uh, that's uh.
+uh uh is a good way to do it, uh...
+but it should really be done uh all the time, or for future i would not need it, says uh.if you're keeping track of the files, it could take care of at least the known ones.
+if we add some new files, we can see for that later.
+we will just run it...
+and only when you actually do it, it's a message for everybody.
+we'll just run the test set.uh brian said that once they get the transcript, we will learn it together.
+this is the last chance to get it running before the weekend.
+he will ask person7 if he's available.
+he'll have a call with person7 on monday and then only from monday onwards." i mispronounce it.
+so probably, you know, the correct pronunciation.
+and i don't recognize it, " says person5.
+the uh - ( person1 ) is a " organization4 " ( person3 ), which means " organization 4 " it's just a single word.the asr system is being developed by person6.
+it's working on the two types of dictionaries that come from person2.
+there are some things to discuss about the system, including how to run ( and ) if you already know how to ran ( sldf )person2 sent the uh files to the uh ( watson ibm ) and yeah.
+( person6 ) and then sent them to him.
+so he first recognized the words in the audio file and then converted them into phonemes.
+he then sent the phonemes to person2.
+and so he added these pronunciations in his dictionary.the uh word is uh - to grapheme.
+it means that ( person1 ) should contain watson.
+this is exactly as what you did with the ( phoneme ) model.
+it is assumed that [ [ [ person ] ] should contain our ( ( person )...
+but it's - - uh.
+uh.if the person uh s - says this also with zet 20 times in the uh in the talk, then then you will see that in the data.
+this will be not as frequent as the ones that were observed three times or more or something like that.
+if he says this, he will have to leave now, because he needs to give the kids, the lunch and so on.the dictionary will have three columns.
+uh, uh, the grapheme as it is output...
+and there will be multiple lines with different phoneme variations.
+so what exactly the dictionary looks like in the dictionary? it's not ready for two big custom dictionaries, so we need to test it out.uh uh uh.
+uh uh is uh...
+uh, uh uh, that you have.
+uh.
+that you.
+have.., uh? that you, uh, what exactly do this make sense? ( uh ) uh uh??..
+( uh uh )?? " uh uh " uh.if we want to do uh uh, we might try it...
+for for for the time stamping it's good enough.
+but there is no way to enrich the language modal by texts.
+we may need both.
+uh uh or at least we can get uh uh time stamps.there is possibility to use language model for different models.
+we will do first test of this tomorrow at one uh prague time.
+this is the numbers that we want to obtain for the different models, we will use to get the system running.
+it's the number one that we need to use for the various models.as long as person3 is on the call, we need at least two numbers to compare.
+if it's asked, we can still move monday to tuesday, but tuesday is already the ( project2 ) day.
+" uh, uh, the uh.
+decision uh.
+decided to p - happen on monday, " i said.uh uh, uh, i'll send you uh a text on slack later today, and sorry for all the, uh.
+i'm sorry for what happened to you on the call call lat - - yesterday or ( ( day before ) yesterday, i tried processing it, but i saw silence...
+but i see silence.
+uh.
+uh uh is basically about uh - uh.an asr worker, or one of the same as anr workers, is going to do more of an adaptation.
+" uh, one is from [ [ organization1 ] and we have two, " says one.
+" we'll see, uh, uh uh - uh - sequence, " he says.uh uh, uh uh uh 32, 43 to 43 languages.
+" rainbow workers had better scores than our len, " says uh uh.
+" uh uh " is a new way to get people to sing better.
+" i'm not sure if you you you are not at at this moment, " he says.like most common words, it's just uh the - like all the words are some just uh.
+but for some, it may be caused by the speaker.
+if you want to inspect it, then l - listen to the source audio.
+for the asr, you can see w - when it is right.the annotator will ca - ca - can filter them out by herself.
+the transcripts for the first files are processed incorrectly.
+it's not clear how to convert them to the uh right format.
+it will be good to save the volume of the files, so they were processed incorrectly incorrectly.the format does not support the format, actually.
+it doesn't support the length of the format.
+it's actually a problem that basically the length is incorrect.
+the format is different to that of the standard format, but it does not allow it to be used in parallel.the conversion command is called sox.
+it gives you only the information.
+for the conversion, you can't find whi - which files.
+this is because it's a lot of files, so maybe i will change the conversing...
+and i will trade for one file if it works better.if you provide me with a la - language model, then you can provide it.
+i think it could be done by today...
+and without punctuation.
+i hope there will be a good quality for the recognition.
+i'm not sure whether i'll get it done.if it doesn't work, then we don't need to care about the rest of the rest.
+if it does, then then we can ask the annotator whether it works.
+" i will send an email to [ person2 ] and i may disconnect this call soon.
+"there are the curly brackets uh around the pronunciation and be ( calibrated ) around first and the last for me with ( ( w b ) in there ).
+the problem is - so this is the < unintelligible dictionary dictionary, and it is actually in our public format.phonemes there some ip formats that are not alphabetic.
+if you're familiar with this, you can use that package as well.
+it's possible for you to use the other f - package to graphemes...
+or in any way that is very easy to use.uh - uh - ( person2 ) and the nearest one are for example, you did not link these two or s - or um.
+we can just substitute each uh word with this.
+uh - oh is a pro - variable pronunciation, but it seems that uh - huh is the one.if you go to the uh.
+uh paragraph paragraph, then there should be some uhms.
+there should also be some mapping or or some map of uh uh.
+the uh is the first ipa phoneme for the uh open ( bat ), and for example, it's in the meat.there is an example of uh the flying uh animal.
+uh is uh a rotated a? ( person2 ) or ( person6 ) ) uh.
+uh uh is in a rich word in our dictionary...
+and it is in the rich word.
+in ( person ), we don't have in in.if you have time and you are not too busy, so i'm as sure i am < unintelligible.
+i can definitely do that...
+but it would be very great for me to uh uh, uh.
+uh, i can do that, but i don't want to be too busy.
+so a - if that can be done, i'll let you know an email or flight.if you convert this list into the uh phonemes, that would be great.
+if you can change these ( ipa ) to the alphabet phonemes ), you'll get in touch with you.
+" if you could just change these to the uh ( cmu ) uhu, " that ( it would be ipa ) ), " you mean? "

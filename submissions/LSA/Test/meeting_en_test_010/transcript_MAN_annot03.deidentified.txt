@@ -1,0 +1,50 @@
+(PERSONm):Because you have the official contact points and eh I'm not  sure whether you have received any response from them whatsoever.
+(PERSONm): Eh, the second question is: can we go on and, like split the budget, that we previously allocated for [ORGANIZATION7], among other parties?
+(PERSONm): Ehm, so I don't know, how this is going to be checked by the commission afterwards, but just promise some sensible number of person months, that you could indeed claim, that you have worked on project, and definitely, it should tasks you want to do within the scope eh, of the project, so just like (broadcasters) further within [ORGANIZATION7].
+(PERSONm): So, we will (board) in the project as you specified or you, within the integration work package should, like make sure the description is clear, and [ORGANIZATION7] should be aware of this, like for their workshops.
+(PERSONm): That [ORGANIZATION7] should somehow make sure that participants have some devices at hand, that can display the subtitles in in some form.
+(PERSON2): Sorry, it wasn't clear to me, so I will also <unintelligible> asking the integration work package for the let me say presentation application development.
+(PERSONm): So, the idea is that that you, in this project, you are the integrator for all the technologies, and you are also the final eh application provider for their live use case.
+(PERSONm): And maybe, [ORGANIZATION7] should contribute to that integration task some person-month on like, agreeing on the interface.
+(PERSONm): So when I say workshop style, I mean: it's a live meeting of up to twenty people, and each of them strives to speak [OTHER2], but they are non-native speakers and there is the subtitling running, and that subtitling translates this non-native [OTHER2] into all the participants languages, so that they can eh follow the discussion with, like more input and better confidence.
+(PERSONm): So, I think, that in the first year, we should have at least one dry-run workshop, eh which is like actually a complete test, but it's still before the main [ORGANIZATION5] congress.
+(PERSONm): Could you check, if this is eh if this is feasible, or if we have to go for just one dry run main conference and then one follow-up?
+(PERSONm): And, it like reduces the the further burden of the source languages, so eh it's maybe the more important setting.
+(PERSONm): So, I think that ehh, [PERSON2], for now, I think, we're quite on the safe side to say that will have one dry run, one main and then two follow-up experiments.
+(PERSONm): So, eh so the then this task should be planned for the all the three years, like ehh, maybe starting at month 7, because nothing could happen earlier, but running until the end without any specific dates, right?
+(PERSONm): And then,  related thing is the eh the view, like where the events should be mentioned, and I've put it into that into the agenda here.
+(PERSONm): While the work package 7 dissemination helps to promote the project and its results at these events.
+(PERSONm): And at the same time, we need to justify eh this additional resources for [OTHER4].
+(PERSON2): Currently one of our customer is the constitutional (court) <unintelligible> and depending on the availability of the data, the person-months required the for training and dedicated the [OTHER4] model, for the [OTHER4] ASR model eh let me say, can vary from eh three to six month person months for maximum.
+(PERSONm): So this like very good, you can easily propose your own person months there in the work packages and then they will see that you want to be a body or in touch with them anyway, probably.
+(PERSONm): So eh so it's up to you to to put three or six person months there it's I just see that it's not too much effort needed, which is good, at the same time, it's it's good to put that effort in so the justification is something that can, like be easily (awarded), it it's that's perfect.
+(PERSONm): So my understanding is that for each re-speaker or interpreter that we want to reliably recognise, we will ask them to sit a certain number of hours and read aloud some written text.
+(PERSONm): And then, for the presence eh of these re-speakers, at the conference, that actually needs to estimate the full duration of the event.
+(PERSONm): So three full days of dry run, and five for main conference.
+(PERSONm): That estimates eh at now like seventy hours that need to be covered and this is obviously no longer like uninterrupted speech.
+(PERSONm): So, i was just saying, that for the recording, you have only the person and the device, and then, for the usage of this recording for the actual model adaptation, you need to have the the baseline acoustic model and I assume, that for [OTHER2], this will be given to to or provided eh to the project by [ORGANIZATION4] or [ORGANIZATION6], or possibly (even) [ORGANIZATION3].
+We we will try to create our own, but we are still starting with this, so i don't expect that we'll be able to to have eh like the best perform models ourselves.
+(PERSONm): I'm like getting the numbers right now and put them into proposal a to create the baseline acoustic model.
+(PERSONm): I think this is, that in the proposal, that we should write that this will happen at the dry-run, but we may want to have like more such re-speaking sessions eh as well.
+(PERSONm): Yes, so all that, this should be filled by all the teams, that want to get, like direct access to data for speaker adaptation, and I would leave this to up to the [ORGANIZATION4] to decide, how much time do they want to invest into speaker adaptation for [OTHER3].
+(PERSONm): But if [ORGANIZATION4] or your would like to have more data for your particle language of interest, then enter this here eh.
+(PERSONm): Well, as i said this is only for us to see how much how many person months do we have to have in in work package 1 on the data.
+(PERSONm): So for the equipment: eh yeah, it's i don't know, how to how to go about this, but [PERSON2], you previously said, that you were just fine for for the conference interpreting that you already ran, for the for the insurance company.
+(PERSONm): Can we simply trust that the same luck will happen for the [ORGANIZATION5] congress, or do we want to be specific, as i initially suggested, that like you would describe what equipment is is needed and [ORGANIZATION7] will then eh include this in their eh call for (tenders) or?
+(PERSON2): Ehm let me say, that i've started checking the availability of specific hardware, eh, especially for the re-speakers.
+(PERSON2): So it's, I will add some ehm hardware costs for the equipment, because we will have also to set up the local infrastructure for publishing.
+(PERSONm): And the total numbers, the eh subtitles per partner, then get automatically copied to this first sheet so you'll see how that balances the overall budget.
+(PERSONm): Some for, for the equipment eh, I think, that we will also need some of those devices for the re-speaker adaptation.
+(PERSONm): And then we will, depending on how much is that, we will probably purchase eh like two or or maybe even more for this (site) so that we can do the recordings of the re-speakers here.
+(PERSONm): Thanks, already, you created the tasks in the integration work package, but primal titles only, and it was not clear to me what is the integration with publishing platform, so the publishing platform is for the minutes, that's like the, eh, or wha- wha- that's task 6.4.
+(PERSON2): Task 6.4 eh was the one what was not so clear to me and yo- we already thought about that before and if-  <other_unrecognisable speech>
+(PERSONm): So, task 6.1 is the integration of ASR (essential) from multiple partners into the [ORGANIZATION3]'s platform, and eh that's, so everybody is involved in there, which is expect- to be expected.
+(PERSONm): The integration of multi target empty engine should definitely include us and [ORGANIZATION6], i guess.
+(PERSONm): So this is this is where your involvement could also eh raise in our (submitting) there, and the integration with publishing platform is probably something, which will be mainly [ORGANIZATION3] and almost nothing from others.
+(PERSONm): I don't know, yeah, maybe, maybe [PERSON1] could comment on there design of deliverables, because that's what like in the spoken language translation, and maybe we could mimic this layout in, in in the integration work package 2.
+(PERSON1): In fact, those were small reports, to be said well, this is a prototype, just how you install it, this is the number of languages covered here's what it stands for, ehm.
+(PERSONm): So the organisation is then, kind of eh taken over by the individual prototypes and the releases.
+(PERSONm): I would slightly prefer to have some, like progress visible also in the tasks, and that's what I do for my multilingual mission translation.
+(PERSONm): Eh, so the for for example the minuting integration is definitely something that can start only like in the middle of the project.
+(PERSONm): So, if you start a [ORGANIZATION2] doc, separate one then I'll, I'm happy to do the merging of the text into the Overleaf.
+(PERSONm): So thanks very much everybody for joining today and eh, [PERSON1], we'll talk again on Thursday, and otherwise we keep exchanging e-mails and, hopefully, the text will like get created quickly, yeah.

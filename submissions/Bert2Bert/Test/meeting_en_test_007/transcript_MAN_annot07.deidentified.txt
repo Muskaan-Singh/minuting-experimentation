@@ -1,0 +1,74 @@
+the chat window is filled with failures of the asr clients.
+if you were not happy with that, you would have to choose a different platform.
+" i've emailed [ person ] [ person8 ] whether he can join asr as well...
+and we can close the, close the chat windows "the presentation platform is slowly taking its form and working.
+it's possible for the real video mixers that you know about.
+this could be useful for connecting to other unexpected ways of presenting.
+if you had a little video presentation, you could see something that stopped working.
+there is a chance of having a video mixer available for the three days or two days." having a text client would be useful also for debugging, " says person15.
+" i have tested that...
+and it seems to be a side effect that is also also text client, " he says.
+the way this would work is to present subtitles without the presentation platform in order to create subtitles.people can run only from english text to german text.
+there is still some bug on kick - start, but there's still a bug on the way.
+person12 has asked for the test to be tested.
+it's not the first time the user has been asked for it.this week we work together to find better workarounds.
+the batch is needed for transcribing.
+it's not great, but we need to do more test next week.
+we also fix something i can - i fixed something in the mediator, in order to train machine translation on this.the online segmentation of the online asr will be on cnn at 11 p.
+m.
+et on monday.
+don't see any big benefit from fixing the batch processing mode, says person1.
+do you know a hero? send it to cnn ireport.asr says it's not trained on the " unintelligible " segmentation.
+the best way would be to send the audio file to person1, according to the company.
+" we won't have a worker.
+it will just be our asr, " says person1.the command of the command is called'unintelligible'and it sounds like the same thing.
+it's possible to test the all integration on your command line, so every line is a request, what will the command do? the command was created by project2's project2.we also have very similar offline offline as in the online mode.
+the asr output does relatively close to what's running in the mediator.
+there is a big risk that if we train on asr, there is no cashing worker and things like that.online asr has been working independently on the current state of the art.
+it's possible for users to get the partial sentences of online and offline.
+if you had a sample of online or offline, you'd have to feed all the audio through, or that's it.we can get online asr, we have 19 different lectures that are using online asrs.
+" it's terrible demo, try to make it better, " says one of the lectures.
+" i think our main concern is not the quality of the translation, but the mismatch of the segmentations "the chat is filling up with these messages but no asr worker is available.
+" i would like to know if this is the problem with the asr workers, " says person12.
+" it's like it...
+i don't know, " said person12's voice.the segmentation workers expect data of type unsegmented text.
+" i also need either the [ project2 ] worker or text client for ctm to txt, or better both, to get the final hypothesis, " says person12.
+" we have solved this differently by going to simply offline mode, " he says.mt worker will probably have the same problem as the text client for the mt worker.
+the segmentation worker shares a lot of the code with mt worker and therefore is not reliable to debug it.
+mt worker is on asr on < unintelligible...
+but it's not reliable.if you're struggling with testing on by shipping audio, you'll find solution.
+if you want to fix the ctm or maybe asr workers more reliable, then let us know later than next friday.
+" it should, but the condition log the testing of the machine translation, " said person14.asr workers are registered as non - ideal even when they have finished their jobs, they send done messages to the mediator.
+the only common thing that [ person5 ] sees is the as - the sound client, the audio client, audio client and the other set - ups, and the different set ups.a segment on cnn's " the segmentation worker " shows the direct ctm output of the segmented output.
+" it would be nice to have this directly translated at this level of individual worse, almost...
+the delay, yeah, really, " he says.the slt [ organization5 ] is connected to the mediator, doing some preprocessing for mt sequences worker it is.
+the segmentation worker is sequence labeling each word with either opf insert coma or insert the full stop.
+" this is all the logic, all the trees that you mentioned, " said person12.the mt workers connect, reconnect, but it takes some time.
+" i have to restart the mediator in order to check it properly, " says person12.
+" we need the reconnection.
+when the, when the...,..
+dies, their worker should survive "if you're willing to discuss something online, you'll - - or it's good - - to slack off.
+" i need to debug text client or [ [ person ] 12 days ago, " says one user.
+" we're covering, covering the languages somehow.
+"the presentation platform will receive all of the streams.
+the main stream dies for some reason, but we still have the subtitles even if not the preferable ones.
+we will have to switch the source of english, because the re -, how do we do these things?the presentation platform is just um a presentation layer.
+it would pick up the highest level of match matching the highest ranking one that is available.
+the fallback solution is to have a kind of combinatory explosion of all the possible match matching paths.
+the presentation is a new component of the work project and we have to reason about it carefully." killing the client is useful only to ehm in computational power on servers which was the workers...
+the workers remain blocked for some time, " says person99.
+" i need the asr worker again, and it needs to connect to the mt worker again "all audio inputs are translated into languages at all times.
+the selection of the stream should be available to the public.
+but the selection should be selected by...
+so it could be selected also by.
+click here for the preview of the subtitle.
+it's not sure that the presentation allows to switch.this is the preview function that will be for june.
+it will not have men in the middle, but will have a man watching logs from the mt systems.
+the man who's performing the monitoring is able to access the asr log and to the machine translation log.the final user will be the client of the subtitle solution.
+this is the same logic as an < unintelligible.
+the final users will connect to a specific stream of publishing subtitles and this is to both for the client and the one who's configuring the system.4000 people connect on the same wifi network.
+" it depends how do we deliver the subtitles...
+and what way of presentation do we want to offer it to the people, " said person99.
+" i'm glad that you know about it, " he said.a company called person3 has developed a system that can support subtitling and transcribing of speech.
+the company says it's working on a brilliant solution to the problem.
+it also hopes to test the system's ability to transcribe voice data.

@@ -1,0 +1,36 @@
+ (PERSON1) And, uh, uh, then I I'm really worried about [PERSON5] if he can actually help us or not.
+And now after this Christmas holiday, during the holidays I didn't address him but now I see that he is not going to finish it because he stopped.
+And, then, um, uh, get in touch with [PERSON5] and double check that he would be able, uh, to do the processing, uh,  also at the token level.
+And, uh, we need to do the second round for many of the words, uh, the annotators- (PERSON2) Uh, um, we can write it to the agenda if we can find it.
+This is in full documents if, uh, that particular instance is an NE is not ,uh,  an NE, and then insert token level annotations again into the same xml [PROJECT2] documents.
+Uh, not processed at token level yet, and then, uh, marked as an E at token level, right? (PERSON2) This is copy, because [PERSON5] has made the annotations to the same file.
+(PERSON2) He, he asked me to make a copy of his document not to delete the lists so so-.
+Um, uh, so that's why I suggested to proceed at the two levels, first at the word type level, and then at the word token level.
+(PERSON1) Uh, like then, uh, creating such a list again, uh, it is very easy.
+ (PERSON2) I'm getting into the list so [ORGANIZATION4] once written with M once written with N, once written with MN and so on.
+(PERSON1)  Uh, the, uh, the, student, uh, Martin, uh, Mareš.
+So, if you have World War II, you, you, you will have three words and and, well-.
+(PERSON1) And what is an unresolved problem as the identity of NEs, um, preservation and now well-.
+(PERSON1) Yes, if the labels are  A, B, C, that is what you said.
+And I'm happy to do errors in the second part, but I would be very unhappy to do errors in the first part.
+Yes, so get in touch with [PERSON5] and check if this is what was discussed with him.
+And in that case, that probably falls on [PERSON3] for the programmer parts, I'm I'm afraid.
+If I could lock myself in a sanctuary for a week, then I think I will have anonymised the corpus myself.
+(PERSON3) Yeah, I think I think like I'm not, uh, like certain minutings are still not clear to me.
+(PERSON1) So what I'm thinking of is, for example, for the token level annotation.
+(PERSON2) Well, [PERSON7] is working on our de-identification from the beginning of January or? (PERSON2)  So she has to say, if we have to delete also the names of languages.
+And then, the other thing that [PERSON2] needs to discuss with [PERSON7], uh, is the consent forms.
+And the second one is we are getting the permission to publish the data in the the de-identified form.
+So I would now, with [PERSON7], I would focus on the second form which is the consent to publish the data.
+So they need to have a place where they would record, uh, these, uh, extra observations.
+(PERSON3) Okay.
+(PERSON3) Yes, so I think uh what you are suggesting [PERSON1] is like  instead of the master sheet, we could- Yeah, so the data de-identification consent from their end should be done by, uh, February end.
+So if we are able to have the data for them by mid February, then I would agree with you.
+I think that we will have the data at the end of February, and they should then do the consent.
+(PERSON3) So, um, it is not finalised, as I have just put the names.
+(PERSON1) Yeah, that's, uh, we really have to do it, uh, today, right? (PERSON3) No, I I I would propose that we submit the proposal within the January seventh or eight.
+From [ORGANIZATION10] I don't expect anyone to be in any good position for, uh, serving on this.
+For example.
+(PERSON1) So, obviously we have to ask the old dinosaur well, not dinosaur, but the experienced people from the 2006, or what was that instance, the the AMI corpus? And then, uh, I would ask Ian  if he would either himself be, uh, like agree or have someone else to to suggest.
+And [PERSON2] will hopefully get some response from both, [PERSON7] and [PERSON5].
+Please [PERSON1], [PERSON1], could you please i will send yu the three prepared letters.

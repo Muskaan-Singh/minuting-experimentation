@@ -1,0 +1,38 @@
+ The call is being recorded because I'm also collecting various meetings .
+(PERSON3) Can you guys hear me? (Person3) <unintelligible> (another-language>) "Yes, I can hear someone.
+I like it, it's fine" The purpose of these meetings is for everybody to say, what they are working on, and what they have in mind for the upcoming weeks, and the reason is for me to collect this credits .
+The point of the call is to make sure,that people know, what others are doing, and they nicely, like a collaborate, in the sense that no work is done twice .
+The next event will be the next event, for which we should like try the domain adaptation surge again .
+The session will be held in English.
+The final session on on on the Congress, or at the Congress of the Congress.
+The software is based on an interpretation corpus created by [ORGANIZATION6] and Europarl-ST.org .
+It has 1.7 terabytes of audios, videos interpreting in 22 languages, and it's a lot of work .
+The main project, until 6th of March is is is't is multi-source spoken language translation research .
+The data that you have gathered, would be used to retrain the ASR models .
+[PERSON14: 'I didn't find time to deal it with the current- my current pipeline.
+So I was working on the like the [PROJECT1] thing, trying to clear on with it' 'So I I 'm going to instruct all these to [Person23], yeah' 'I completely agree with you.
+I completely agree' The surge is not for not for the [ORGANIZATION4] Congress, but that's for the other purpose.
+And that is more important.
+The compression is not really effecting the ASR output that that should be a really good thing.
+The shared task, that we are running at IWSLT is directly aimed to help [PROJECT2] in the [ORGANIZATION4] Congress .
+The data set will include our domain and and all that.
+But I would like to somehow even further .
+The evaluation script of [PERSON10] to be used in this surge, in this in this gradual improvement of our systems .
+The Italian is not included, so I exclude Italian .
+German, French, Spanish, English, Czech, Czech and German .
+We can see monolingual, but <other_unrecognisable speech="">.
+Person11: 'I've sent two PDF files to you and everyone' Person13: 'Please be in touch with [PERSON15] and make sure, that you both use the best tool.
+The most of the tool like G- or for German, <unintelligible> is working fine.
+But still, the underlying tools would be would be the same.
+Person5: 'So right now [Person5] is mainly working on the IWSLT test set,  mainly working on .
+I have list of the whole that all things and I will- I have do a store on the cluster' [PERSON14] should regularly process the test sets with pipelines and use the evaluation tool by E- [Person10].
+These numbers should be then picked up, or collected by [PONON5].
+That we want to know, that all these numbers are comparable in some way .
+The IWSLT is spoken language translation from English into two languages of our interest only .
+(PERSON12) So well, back trans - There is multiple occasions, on which we can we can use these systems .
+The first occasion, for which we could try, is the talk by [PERSON16] on Wednesday already .
+And then we actually need to find tune systems to be deployed by Wednesday .
+On Monday, we'll interest in in in like models, that do text translation,  we will interested in, what is integrated in our speech processing pipeline .
+On Tuesday, [PERSON20] could fine tune the system .
+In-domain data from European data to train the segmenter, like English and Czech segmenter .
+And use [PERSON10]'s evaluation tool to see, how they are doing .

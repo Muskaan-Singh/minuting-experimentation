@@ -1,0 +1,50 @@
+And so I have to address this problem where the files were too big, so I could not get uploaded to [PROJECT10].
+And yes, doing something with [PROJECT3] is useful in the long term, but it is better if people who already have that experience do it now.
+So what it should at least explain to him that there is a clear distinction between the [PROJECT2] Archive, which are the interviews with the survivors of World War II of of the Holocaust.
+So it is like breath for scan for the data so that he has whatever he can, even if he is still waiting for some resource.
+And like after we finish with the general call, if you're still available, if you do not have to rush for your dentist, uh, then we can discuss this.
+Just I will see all of your things, and I will check the code, and we will answer everything in detail in one email to you.
+Uh, let us move on to, yeah, uh, the, uh, the idea that I have, uh, discussed yesterday, but [ORGANIZATION4] is not too keen on that.
+And, uh, we pass all our training data through [PROJECT12] and other systems in an automated way so that we get the data distorted, uh, um, in the same way as these platforms distort it, and also that we will use a frequency filter to cut down on the hate, on the like high frequencies.
+And then we would, uh, either ourselves retrain that, or we would also like happily shift, send the data to [ORGANIZATION4] and ask them to train their system, because their system is is online and, uh, fully integrated.
+(PERSON1) Yeah, so so [PERSON3], you should work on the evaluations first and fore- So for you, this is a lower priority I think.
+But otherwise I suggest that you, uh, move or give more priority to the the write up of the experiment with [PERSON14], because he will also be struggling.
+Could you get in touch with [PERSON4] and process all the files that [PERSON4] has for, um, uh, English, uh, training data we need.
+And there should also be some support for a docker, uh, and part of the pipeline that are, that are in docker.
+Uh, that the pipeline will be defined in terms of like abstract graph, in a way, uh, and, then it will be compiled to a batch launcher, or a docker launcher, or or evaluation launcher.
+So, uh, next Friday, uh, like, next week somewhere there there is going to be a conference about [PROJECT2] and we are going to provide life subtitles and transcription.
+And because we will have some non native English speakers in there, so we will need to get some feedback, from the people that are using our subtitles.
+If the organisers say, that it is it is reasonable to ask such a thing, to get feedback from the uh, from the participants.
+You and [PERSON9], you and [PERSON9] if you could, uh, um, could come up with the strategy, like the set of things that we want to offer and that we want to ask for.
+Given the quality is pretty bad, uh, we don't want to like, uh, ask the people, to tell us, it's bad, it's bad, it is bad, it's bad, like, it's- We, we need some, uh, some more useful information.
+Uh, and if our outputs are so bad as they were yesterday, then there is actually no point in collecting the feedback at all.
+(PERSON1) And also, uh, if Vicky, uh, and and [PERSON3] find out some [PROJECT2] data in the public domain, please add them to the public part of [PROJECT1] test set.
+So that the next week same time, uh, you can present the summary, uh, of which, uh, [PROJECT4] systems and which [PROJECT5] systems we have at hand.
+(PERSON1) So so you you two, please make sure that we evaluate everything on everything, and we, uh, can choose the the best set up.
+So there is something which makes the output 80 percent of the input length and the bleu score, yes, is lower, but just the shorter outflow the lower the bleu score.
+And there is that we can create more robust [PROJECT4]  that is that is not for refitting any speaker we can read, because we can um.
+We can, uh, for example, alter the distribution of speakers, or and uh, the second, uh, important, uh, gain that may be from this method is that the end to end [PROJECT4] models, um, are creating implicit language models within.
+For for, for example, uh, some, some ,uh, some pure uh textual, uh, corpora that we can, uh, we can train on more, um, more texts or so.
+Uh, now I'm str- struggling to optimize the the pipeline, because, uh, I, I've  I tried to plug it in the standard training pipeline, but it was too slow.
+If I want to create a, uh, like for for the [PROJECT15] speech, uh, text, uh, I'm doing there is so many such manner that.
+And, uh, I have, uh, a job running on the cluster that is, uh, constantly, uh, rewriting, uh, new versions of, of, each, text, and, uh, it, is, it.
+(PERSON1) So- But can you do it like in a rolling buffer on the disks so that you would actually be training over whatever, let's say-.
+Uh, but, uh, this should be discussed with [PERSON17] as well, because I'm not sure if she would um, uh, if her [PROJECT11] will be active now, uh, when she is on maternity leave.
+So she is giving a talk, uh, this afternoon, somewhere a remote one, uh, but after that, she, she would be hopefully available for to say, what is the status with the [PROJECT11].
+And the second part is the content bearing, and ,uh, would get very likely aligned to this, uh, to the late part of the German verb would get aligned to the English word.
+Uh, the uh problem I see there is, uh, that uh, the alignment information between set and "gezacht" would bring the early time stamp of the "said" to the late part.
+The German sentence will say "Ich habe" and then something very long here, and something vey long and "gezacht" So the "gezacht" appears as late as 1500.
+So the proportion or alignment directly values will all require these words to be emitted, like it they would, it would expect these words to be emitted sooner than a previous word.
+(PERSON1) Uh, my question on [PERSON8] and you is now, if we if you are able to, uh, come up with an example so that we would actually replace the.
+Ah, in the pictures, these pictures are okay, but, uh, if we were able to illustrate this, uh, this alignment, it, would be perhaps even better.
+If we if we are doing the alignment based thing, then we should follow the alignment and this like maxing, uh, uh, of the linear order progress of the maximisation.
+And then I also had the questions for the, um,- (PERSON6) <unintelligible> (PERSON1) Yeah, so there I I 'm not sure if I actually wrote the questions down.
+So, it's it's okay in the simply like calculation that O is located at 235, because, that is when O was emitted.
+The formula should be like, what is the value for the word "Ein" or the eath word, uh, uh,  in the table T. So how do we arrive at this three o four.
+And it should be just the proportion of the characters in "Oh das ist" And then I don't know whether you do include or do not include design "ein" in the total number of characters from.
+So the there should be just a number of characters, and the time stamp of O and the time stamp of T-shirt.
+<laugh> Uh, so so what you think if we, uh, if we really [PERSON15]ed the simple calculation to something which is based only on the C segment and the number of characters?.
+But that's the alignment view, and "das" is not like perfectly aligned to, uh, to this, uh if you look at it, proportionately.
+I'll- I may email you in the afternoon if I still need some help, but I hope I do not actually need.
+If you could repeat one comment just now in the <unintelligible> You said, you will, you will fix it yourself, or I will fix or I should fix it?
+And after all of this, I will send you an email, because I think I, maybe I might be not available in January to the first of February.

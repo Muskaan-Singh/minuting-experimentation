@@ -1,0 +1,50 @@
+(PERSON5) Well, the rules changed here and since this Monday we can't go out even if it is not like the most necessary groceries or stuff like this, and -.
+Yesterday I search in sigma like what is the description of this of this deliverable, and it says just czech management guide.
+So it is important that they do start writing and the the due date has not been shifting.
+So the internal reviews should be ready by mid June at the latest.
+But unfortunately, the the colleague of mine who is supposed to be responsible for this is extremely slow.
+So please pick up on that, and hopefully will not be like too confused from the layout of the of that test set and also that you would not disagree too much with the ambition that I have there.
+So, it is and kind of assorted collection of documents in terms of languages, and like modality the speech, or or the text.
+So the test sets consists of these raw documents, obviously, curated to to serve well, linebay, segmented, everything.
+So it is like constraint, when when when finished, they all should be curated for the part- particle purpose.
+And if it's the machine translation test set then it's the standard (poll) think, ideally documents.
+It would check the number of lines, the the length of the non emptiness, and everything all the format things.
+Uh, you you for those who like a clever (fine graph) so that you list all the files, and check that you have all the languages that you want.
+And with this (fine graph) the result of the set of files that that you can test on.
+And that should be stored there as a fixed file list, so then in order to evaluate with the test set you would say I'm for the evaluation I use this particular version of my model, whatever, and I use this commit ID of [PROJECT1] test set with this file list.
+So that we we would really have like there could be a file list cord called year 2 SLT test set.
+(PERSON6) So that would be a nice extension of sacrebleu, so that we could like add like FLAC to sacrebleu [PROJECT1] test set and then the the file list name uh, and it would do automatical downloaded and it would put the commit ID the current commit ID into the fingerprint.
+(PERSON1) Yeah, and I, I have observed that Max apps test sets really quickly to sacrebleu.
+This is more interesting to me, because mean, essentially, I know I know how to text evaluation marks.
+And yahoo it's not a problem and <unintelligible>, I would prefer just send the sour- eh the lock file we have to do, because with the something in translation task and probably the SLT and I was not able do that.
+It is quite clear, this (cries) what the lock file shouldn't lying.
+So this is all is risky with the lock files, because people still can misinterpret what time stamps should they use.
+Eh, so so the so the the one people misinterpret it then someone's results can be like shifted in bad ways.
+So that people with really live, receive the the sound, and they would like in in in (actual) networks sockets provide the the outputs.
+The the extra thing that I wanted to mention is that the forced alignment, which finds the words in the in the sound is not reliable for us either.
+Then indeed, we will ask the people to find these text monolingually and translated maybe back to Czech.
+So so [PERSON10] sh- [PERSON10] has, for example, link to one great site of of speeches and he should run by textor and they and he-.
+(PERSON1) We assume that Irish was not huge priority for the project, um.
+And he will be moving to to to these like supervision and managing the the annotators for the [PROJECT1] test set if if [PERSON10] doesn't start really.
+And, but feel free to step in and provide feedback on the layout, upload data sets everything.
+So they've they've reminded us off BBC guidelines and standards for subtitling, which we are aware off, but they are not reflected in our systems in in any way.
+So so in a sense this is not the first time I hear that the users are always afraid of what [ORGANIZATION2] is working on for for the past years.
+Yeah, if you're doing retranslation you're never going to be up to completely make it stable without actually messing up the end performs.
+I think that in the long term I would like this to be evaluated on humans towards the end of the project we we we would really have like user study that would be great to to see which, and I think there will be people of different groups.
+(PERSON1) I mean immediately end and say ou, we should retranslations a terrible idea.
+But it's entirely possible that retranslation go go back a lot with the transition to end-to-end ASR.
+(PERSON9) We will have our new generation of eh models previously based <unintelligible> transformers finally in direct translator.
+(PERSON9) And this is how much improvements is for flickering and every translation support generally, the quality is <unintelligible>.
+[PERSON9], you were saying that with the in the end-to-end SLT which includes transform models now in the new generation.
+If you listen to German, you don't know what the verb it so you make prediction and (reproduction) wrong.
+German to English say, you don't know the verb is <unintelligible> in the sentence predictor wrongly, or you could just wait, but maybe that's bad to.
+Like the system, even guess is what people are gonna to say, and translates sooner.
+We are trying to run GPT tool to predict the tail of the sentence.
+It's like, the ASR so bad that that the prediction is like totally off, and so far it doesn't work at all, but but we are trying this guessing.
+And that's a question whether we will be able to do it well enough and half a good enough confidence eh explicitely in the models to make the decision, whether we should follow this guess or not.
+(PERSON6) Maybe, maybe, so actually it won't be better if you could even create the Doodle Poll with time slots already for [PERSON4].
+(PERSON13) I saw the demo you send project officer and she mostly seen the Monday seminary, em.
+Because actually during the demo you project both the [ORGANIZATION1] representation and the sub- [ORGANIZATION4] subtitles.
+So what the, yeah, what was the challenge on the French watching session that we didn't understand the source language.
+So what so far in our experiments what kills the performance for the final user of the machine translation is the sentence segmentation.
+So maybe maybe [PERSON9] he could propose some German talks that are uh, on this and we we should test the whole set up via English into all the languages.

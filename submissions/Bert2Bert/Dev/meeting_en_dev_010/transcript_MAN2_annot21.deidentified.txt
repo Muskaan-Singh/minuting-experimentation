@@ -1,0 +1,89 @@
+hi [ person ]15 : " it works.
+so you have to unmute unmute yourself, but i can see that you have joined " " we we've always said that we should download the...
+and our it is very restrictive, " says hi.
+" we're not allowed to install something, but uh, uh, the it's good to see "the iwslt presentations are the presentation process.
+the presentations can be pre - recorded, but uh, then podcast um, at an european time zone time slot.
+the papers can - also the presentations - are pre - taped and then podcasted, but not podcasts.the main organizers of the project, person20, have received a request from main organizers to prepare a video for his.
+the deadline was already uh, 3 days ago and deadline was given by acl so - ( person3 ) for the decisions.
+" we will need to have pre - recorded summary of the results, " said person2.person2's new proposal is to organize workshop sessions of 1 or 2 1 ( or 10 ) a 1 ( 10 ) evaluation.
+he says he's got about 2 dozen or more emails on that topic.
+he wants to organize workshops of 1 / 2, with different speakers or papers being pre - recorded.i can probably unmute someone's name, but i don't know whether that would be polite enough to unmute a person.
+if you're s - talking to someone else, then let us know what this doodle is.
+we need to figure out the date, the date and date.the eu gives us 2 months to finalize these numbers.
+this is a preparation process for the new official numbers.
+so, we can give uh, uh, time enough to have all the numbers in their final form.
+we can also get the deadline of may uh, for the financial tables.uh, uh, are we aware of any problems there? do we expect any problems from our respective financial departments? if we don't, there would be some paper with necessary on your side and especially in your financial departments.
+we'll review these, and then send it as as 1 of the report, or fill it in.the numbers will be a - approximate, but it's to test whether we understand each other.
+this is the purpose of the like dry run, uh, uh - uh, which was due uh, end of may.
+" this is all uh, standard, " said one person 12 months ago.uh, we don't have a reviewer for the report on nlp technologies.
+the reviewer on spoken language translation, which is overseen by organization7, is also missing.
+" it's...
+in the organization3 doc, but not in the - - we are all in involved, " he said.the continuous reporting table is just uh, on uh, uh, under the page break here.
+it's a report that has to be written by [ [ organization10 ] ], but everybody should contribute their data.
+we can integrate it into the scientific dissemination part and the 7.
+2.if there's some other online - ( person ) activity, it's partipi - participation to a conference.
+if there is any other online event, we should report all the papers somewhere and maybe these dise so - called " project 3 " should be put into this document.in the pre - review, we put uh, the papers only into like into the text.
+it's automatic, like to this open ( ira ) paper.
+there must be steps like as an [ project ] paper, which is our bibliographical system, and the eu can get it.a spread sheet of paper has been put together by person7.
+com.
+it's like " uh, rather the things, which don't have a paper associated " with the paper.
+" i would put here all the things that uh, uh, are not associated...
+"uh, uh, so this is an assignment for uh, for us.
+we need to check that everything got there.
+uh, there is a big risk, that there will be this manual conversion necessary then on our side of the aisle, says uh - uh.
+uh - oh is an open ( ira ) system that already handles these papers, but there's a major risk.nlp technologies workshop is for people not familiar with nlp.
+if you're familiar with that, you can do the nlp and - ( person3 ) uh, that's what it will be - that - - it's as i said yes.
+i'm not going to open the overleafs now, " uh, uh, yeah, yes, yes "we need to submit all these deliverables uh, uh, and uh, these milestones normally don't have report.
+this uh - we will write the report the 7.
+2 uh, about all the participants, who have to contribute, to to - we are proposing a partial report for the events, which were postponed.the congress date is already uh, known as the new congress.
+the event will be on the 1st of july, june 22, 2021.
+the workshop will be held at the same time as the event.
+it's the first time a congress date has been announced.
+the conference will be at the beginning of june.some of the uh, file service has come up successfully again.
+this is good time to ask for a new date with the project officer.
+if you want a date, you can email him tomorrow, or email him with the option of emailing him tomorrow.
+" i would like to check that all these services are running uh, " says person3.the demo will tentatively take place in on 1 of the days um, uh, in the 2nd half of june.
+if we send uh, the choices validate from the uh, they are validated from the next week.
+the demo is the best week for the demo, but it's getting quite far into june, according to the group.uh, we are able to run some of the organization7 mt systems, " uh, uh, o - our side is now the least safe for for this demo, " says uh.
+" we do uh, or other colleagues, not me,, do it on some virtual machines, " he says.the actual docker is running as root.
+uh, it's made for containerization.
+the root thing should be something, that you can work around than me.
+" it really seems a much better way to go, " said person197.
+" i'm really surprised, that your system system is just like no docker "docker plays well with the id approach machines in czech, that's [ project5 ] based on the missing segmentation.
+" we will investigate what exactly can we do and we will try to package our systems and get back to [ person8 ] and uh, " says docker.
+" i suppose it would be easier for us some run [ project ] systems, " he says.the punctuator is a virtual machine that can run on gpu.
+it can be used to run on a gpu system up and running.
+if you're not mistaken, it's a better way to run it, says the creator of the project5." we could give to to to spread it across the consortium, " says person3.
+" we are able to - ( person3 ) support you.
+( person ) to run it, " said person3's creator.
+" it's more ( flexible ) than you have to call, " he said.the production system has to be stable without any new segmenters.
+the process involves introducing a better segmenter, uh, w - - uh.
+it's very compatible with dockerization and - - and it doesn't - - but it doesn ’ t need new updates for a long period." uh, uh, is the main message, " says one of the group's members.
+" we need to < unintelligible...
+feature for use, basically, " said one member.
+the demo was delayed for several reasons, including the bomb and power outage.
+" i don't know what is the status of that "the uh, or tec - or? ( person17 ) to to put it into a into the mediator terms, it works and has a better results.
+the way to - ( or? ) is translation is more interesting directly than that of our models, it's a big risk uh, for that set of things, it will be great to demolish.the system is like testing under research conditions only.
+the system will cover language pairs and set - ups than the iws shared task.
+the project3 test set will cover further language pairs than iwslt shared task lists.
+the test set is expected to cover more language pairs, including time stamps and time stamps.we would have to have frozen fingerprints, and for the research, to demo.
+we need to come up with uh, some form of just a uh, having a ( consist ) list of these.
+uh, uh, is uh, the message, that i wanted to uh, to tell you, that [ person1 ] is on top of this and that we know, that all the components are stable and they play well together.we have a uh, a separate um, separate google doc, called uh, found out.
+uh, the dry run c - uh, calls for like demo uh, before the demo.
+we can do the same uh, uh, for the second time uh, using the test uh, which is the cheating.uh, please, let me know if you are opposed to this approach, but i think it's better for everybody to know, what is the - scientific experiment.
+uh, we will have a number of demo uh, uh, a kind of test, and freeze um, the fingerprints for the demo, which is what is important to everyone to know.the covid crisis is a new project by person8.
+covid : " we should probably respond to unintelligible...
+but maybe it's not ok, " says person3.
+" i have to, what do you think? " ( person3 ) : " i'm sorry "" the universities i shouldn't i wouldn't be again is like an extension for 3 months or so - - ( ( person )3 ) ) ( person3 ) " this it's really no harm, even if you know, " says one of the final deliverables.
+" we're not really spending much money in that time "if you're fine with the decision, let's ask for the extension before uh, or what is too soon ( 10 ) " uh, ok, we should have a discussion, a technical call on the iwslt um, " says one person.
+" we'll make a decision...
+this is probably what will happen, " another says.the final results paper is expected to be published at iwslt.
+com.
+it will be released at the beginning of june.
+the deadline for the final report is alread - it's not yet known if it is correct.
+the final paper will be published in june, with the deadline set for june.uh, uh, we're at the end of the agenda...
+that's seems like uh.
+we need the contribution from uh, someone? we'll have call, so or like urgent calls, then send it to the project officer, for the demo of the system.the iwslt submission was created by person3.
+it's free to download and is free for downloading to the rest of the project.
+you're very happy to have the project finished, so we're great.
+it was very uh, effective i'm happy and let's proceed, " says person13.

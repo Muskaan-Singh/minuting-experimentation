@@ -1,0 +1,48 @@
+(PERSON3) is, has a meeting unintelligible> still probably .
+(Person4) I haven't told you, I would like to arrange meeting for the (start) project .
+it should be this week .PERSON6 submitted the camera diversion, [PROJECT3] .
+he said he would like to send him a good-looking table of contents .
+(PERSON4) I think it is ready for [PERSON9] so he can start searching for reviewers .we have only two weeks on to the deadline but it's not much .
+I don't know whether we - I would like to have the book more or less written on, at the end of the June .
+(PERSON4) I think it should be clear from the, from the sections what is, what is there .I don't plan to submit anything to [PROJECT11] because we haven't resubmitted it to any other conference so maybe .
+but the results of that paper are not very, not very good so maybe we should rewrite the paper .
+(PERSON6) I plan to be here at least till the fifteenth for sure because then the, that's the, the Black box deadline.(PERSON4) I think its Fifteen August.
+Or unintelligible> .
+(Person6) Thirteen or fourteen.
+For me, later is better .
+'i'm taking vacation this week from Thursday to Friday and next week on Wednesday'the next two Tuesdays will be fine.
+(PERSON4) At eleven as usual .
+then, there will be the third, the next week of - the first week of July there is no meeting .
+if it is a three, we will have the meetings twenty-twenty-three and thirty .
+(Person4) Thirty, and then thirty - so, yeah .the official deadline for the book was the end of June but now it's 'um, we will not make it so' the final report can be postponed from the end- of December to end of January .
+PERSON4: i think we need several deadlines .if we postpone the covid nineteen we will not write the book .
+but we could use the money for some conferences that happen in the first half of 2021 .
+we could say that we couldn't attend conferences because they were cancelled .if we have some new publication next year, I think we will get some money from other sources so .
+PERSON13: 'this lady that sits it's room and nobody knows who she, who, who she is?' next meeting would be July, oh, no, no - no, July thirteenth .the balustrades are really sharp but, um, how to say it, not sharp .
+(PERSON4) I think that, that was like an exact replication of the "Attention is all you need" paper .
+we, we were training on the same, same data set as you used .the first part of, um, section, of chapter five must be reviewed .
+there are some things that are, that should not be there and maybe, yeah, should be changed .
+PERSON3's comments are almost done .the book is one hundred and thirty pages long .
+it's almost ready to be read, but not quite .the old idea of having a story is not really doable for me because I don't know that much of the history and I would have to spend another half a year reading things .
+so, i think i would concentrate on visualisations of embeddings and comparing different visualisation .
+'i think it will be easier to  If i just write them on Slack and we will discuss it there because I have to run anyway'a lot of the visualisations that I want to do are missing .
+(PERSON7) I'm planning to go through at least the first two articles mentioned in the three, zero, one .
+if you don't put section, you just put subsection then it's in the zero section ."who is better", is, is a very bad title of the section .
+"person6" should contain several subsections .
+the main thing is the section six point two .
+it should be partitioned into several sections .i think I'm missing still some of the key papers that find syntax in there .
+i have a section which is now called "Semantics" i'm really not absolutely sure which things belong into semantics .(PERSON6) I'm thinking whether to really try to say which is semantics or whether to have multiple smaller subsections and just say coreference and - .
+'this is not semantics, this is something else,' a PERSON1 said .
+(Person6) I think it could be better for reading.a lot of paragraphs moved from elsewhere, so I think we should have a section on that .
+the question is whether it really captures some abstractions or whether it only captures word identity plus context .
+(PERSON4) Yeah, yeah, that fit some of the previous sections .if anybody wants to take over this section, I, I would be glad but .
+(PERSON3) I don't know if we can just copy paste our paper here .
+we could copy the introduction and the related work from the paper .
+but if it is OK, we can leave out the technical details .(PERSON4) I think we just remove the sentence level representations we decide nobody (wants) it .
+tomorrow is the [PROJECT10] - (Person6) Hm.
+(PERson4) Day .
+PERSON1) I can share it, I have it here .all of those results are from recurrent neura-, neural networks .
+machine translation is better than language model, but it's harder to compare .ninety something percent personned lab and, but but, not really encode the part of speech .
+(PERSON4) These are, these are all for part of, speech unintelligible> because, yeah.
+I, I also plan now to do some visualisation about transformers .if the text is OK, I will regenerate them in LaTeX .
+if you have a look in deep learning images slash, um, unintelligible>, underscore, encoding, you can see how to set up the format .

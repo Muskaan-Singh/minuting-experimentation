@@ -1,0 +1,35 @@
+the first prototype should be ideally ready on the 7th of June .
+we have a call twelve o'clock, but early it's perfectly fine for us .
+if we agree on the functions that should there you in the next week .i refuse the [ORGANIZATION3] tutorial, I have taking a look at the some work unintelligible> .
+i can have a prototype soon like within a couple of weeks .
+the main reason is the cashing client makes the latency too big for the final users.if you run into in in the EB client, and you see the lines great deal extending, then suddenly the lines being cut short .
+and so the segmentation worker decides that given given that (causes so far), maybe unintelligible> sentence would be better .
+but with the same timestamp that you already saw before, there would be new token .if we run the segmentation worker, we should train our empty systems to work on all the individual lines that we are getting from them .
+and some of these lines will be complete sentences .
+if you have incomplete sentences, you should unintelligible> the translation was by having incomplete sentences.a problem that has to be solved very soon is that (the herd) zero .
+the segmentation worker is not emitting timestamps .
+it's possible that if a word is unintelligible> one word, it might be different .if we have from these.
+Even if if these are not zeros, we are not uhm, we do not know the the timestamps for the individual parts like here internet full stop .
+so we don't know where to where to start, like redoing the translation .
+I think that we should go for this baseline for for for the workshop .this workshop would be to preserve the good part, as it was translated already .
+we do not necessarily have to rely on the alignment .
+the empty empty worker does do these things and unintelligible> details .option two is to train MT or fine tune send level models to gracefully handle badly segmented input .
+if this works, let me know in the call next week .we are working on a cruise control, and we are testing it in the in the dry runs .
+we don't have [PERSON10] here English and German ASR, what is the status there? PERSON4: Generally any text is unintelligible> .we are still in the face of creating the ASR models ourselves .
+we can skip ASR if we don't have it, and we can have it from, uh, from German .
+so we will see in practice whether we like- which output we like best .if we can get the models from [PERSON1], that's more- is much safer, yeah .
+uh, what is the latest date, when we need the input for the fine tuning?we need a MT domain dependent data for MT fine tuning .
+if we choose the most reliable source, we would need the german to english empty system .
+we also need the english to multilingual empty system for the next translation .test this, and let us know again next week, if it works .
+we will be replacing this part was the [PROJECT2] worker .
+test the fine tuning from start document on unintelligible> real .this is the first one to train on real ASR from unintelligible> docks .
+it would be like a realistic test, where we can observe real segmentation as we get it from the segmentation worker .
+the empty system would do the same errors on name entities and rire works as usual speaker .there's a feature request for [ORGANIZATION3] to avoid broken workers .
+if we run the same client, the same pipeline concurrently six times, we will end up with four lines four pipelines four sessions ineffective .it's not easy to imagine such behaviour on the ORGANIZATION3 platform .
+the platform is based on uhm having distributed services allowed you to join .
+and leave the service .
+if the worker doesn't work as the party themselves expect, they would kill the worker .(PERSON9) Yes, in the mean by if you want to share with us your experiment, we can check it .
+'i'm wondering why you are having this problem all, and then we unintelligible> .we're not receiving any output from the worker.
+It connects But it doesn't emit any output at all.
+will let you know.
+(PERSON2) Doodle let us know maybe we can have a unintelligible> mechanism .

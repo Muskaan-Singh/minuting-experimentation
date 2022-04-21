@@ -1,0 +1,19 @@
+ And and the other think if now we have to really (mobilize) our efforts tools the proposals.
+(PERSON3) And I   I should be able to get back to all of you uh by the end of the week with the [ORGANIZATION1] data set.
+(PERSON3) Immediately but for the for the fast shared task I'm not sure like we have  clear or on the  of using the alignment thing.
+  (PERSON3) So the  [PERSON5] like uhm I  late personally I would prefer the shared task to be as simple as possible,  Because that will be like then then we will mixing up too many things in one in one place.
+(PERSON3) So I'm saying like uhm little skip the fast shared task as simple as possibly.
+and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake.
+Yes, actually [PERSON5], I was I was thinking too uhm evaluate some meetings based on the based on the automatic evaluation metrics that we have.
+And then we can decide that uhm which which evaluation metrics we can  we can  for the shared task.
+ So it start (drafting) and then uhm we will definitely come up with some gaps that we need to killer.
+Then I will be late I can I can see that uhm what other things we (require).
+(PERSON3) For the [ORGANIZATION1] data set, you need the data in the form like our [PROJECT1] meetings.
+(PERSON5) So you, you want to you want to transfer this task to [PERSON2]? (PERSON3) Yeah, so one thing that we need to be sure about the tool is like the tool is doing annotators uhm like alignment .
+(PERSON5) Uhm, so you (should) think it's come it should come immediately uhm at the same time? (PERSON3) So yes, for example, if you see uhm that (Jens) that minutes fix just smaller part of the transcript  So kind of a structured uhm transkript into pieces where one line of summary corresponds to a piece of transcripts.
+I just saying that this is already a good advantage to have smaller pieces of transcripts, and a correspondent summary line.
+But I'm I'm not sure that if if we should include that evaluation part as part of  shared task.
+ (PERSON5) Well, it is actually okay and and I don't I don't mind it we started one,  (PERSON5) But uhm may I ask [PERSON2] and Thirtankar if you could just join to you to together So (that we could) already speak (??about )  on Friday and started on Monday.
+So you are looking forward the start (date??) for the annotators to do the annotations from Monday on worse.
+(PERSON5) 130 minutes for English.
+(PERSON5) I'm I'm looking forward to that [ORGANIZATION1] data to .

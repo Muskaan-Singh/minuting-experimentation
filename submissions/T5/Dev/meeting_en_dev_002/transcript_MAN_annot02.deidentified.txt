@@ -1,0 +1,43 @@
+(PERSON6) I'm probably he he is join in in half minute .
+'it's australian horrible.
+because of covid the officers are like semi open and -.
+it's hard to me, ehm .
+(Person6) I just have to leave the office so that i'm not disturbing .
+we found most of the talk talks extremely boring.the problem is AMI is also that it is very different from the point of view off summaries .
+if at least the meeting runs as we expected it, to round, then we can do our own minuting .
+but still, it would be more similar to what we are normally collecting .the official summaries are already boring and creating our own .
+if we have 50 hours in total, that will be great .
+but we have to admit that this data set is small for the full training .there were no speed summarization share tasks for a long long time .
+if only half survives, we would have 25 hours of evaluation for English .
+15 meetings would be enough to score a good or bad score .if [ORGANIZATION2] comes for free, it is only matter of downloading some of the data .
+it is the domain that people who do speech, or or like a good at, can gather .
+we can take the corpus from 2006 to 2011 and add minutes that can be found .the only thing is [PERSON1] unintelligible> a bachelor would would would to give a doctor 's yet .
+(PERSON6) Again, it is what way to prevent that our because we have spontaneous speech .the question is if to do that, that increase the data, of course .
+but when we want today, because we want to decide if we do that or not .
+if you were voting I support it as a secondary track .in some minutes there were hyperlinks that leaving to some other things .
+so we need to assured that guidelines who avoid those kind of minutes .
+we should have our corpus, ICSI and AMI as test sets .all the sessions that we put into the test set should be from one particular year .
+it would be better to download it all and align it fully automatically and provided as training data .
+if you are poor, no one the laugh> file anything against you .the program found two outputs, but both on the same days .
+one of them was some voting on the previous session minutes .
+this happens every week, but normally they do not repeat .if we do it we should do all and provide it as the training data .
+if doing this all, it allows us to clearly separate what is the training avoid the evaluation data set .if we are include [ORGANIZATION2] in the share task, then we should prepare it for the participants to make it easy .
+the data set is, it will involve some work indeed, but it should be really done by a CS person by annotators to match the transcripts and the summaries and the minutes .i think that the [ORGANIZATION2] sessions summaries corpus alone would be very usable resource .
+i don't think that we should spend annotation money on on this .PERSON8: i'm absolutely fine with this because more data means you get unintelligible> the importance .
+uh, we have now added 2 more domains to the task .
+that ads the condition like train cross the main, but constrained .uh, who is unintelligible> enough in that? that's the critical thing .
+we still don't have the uniformal format of our data neither .
+it's just a scripting, that web and downloading it in a way that automatically aligns it .we will convert the bullets to the non standard thing that we have as standard .
+we will give as output the data will mess you, but okay .
+here is the link of just pasted through the unintelligible> session .a colleague is developing a web brow-, like browser for big corpora .
+he has gone through decade of corpus annotation .
+format is not a zero and it is a question that should be explicit .i have a very clear idea of what should be done, but I don't have any idea .
+the question is how much work will the consense before [PERSON7] have .
+and how much time will [Person8] have for any such of the job .the best way to reorganize is to start from [ORGANIZATION2] .
+reusing the files that [PERSON6] is browsing now .
+you would only want to copy the files there .if you need me in another call then let me know in advance .
+[PERSON8] will process this, organize it, according to the dates and the names of the sessions .
+but, nothing from the uh, from the minutes .the first the first is our sources.
+but they are a kind of very slowly downloaded.
+(PERSON6) There is limit in the downscale.
+Yeah, you can download -.

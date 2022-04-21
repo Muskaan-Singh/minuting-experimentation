@@ -1,0 +1,29 @@
+ (PERSON12) So lets wait short while for a short while on because I hope that [PERSON5] would join.
+She went for lunch an hour ago, and then I hope that someone from [ORGANIZATION2]a can actually join.
+(PERSON12) Yeah, so [PERSON13] will probably disconnect for a while, or another machine.
+And then another line, which says the same English sound, converted to another machine translation output and so on.
+It should have publishing or in English, or send it to the machine translation into Czech and so on.
+So right now [PERSON13] has tried to launch those and it failed, because there is not enough, ASR workers  right? And then it would send it to the different machine translation of systems as like another EB client would do.
+(PERSON7) I'm afraid that you have low availability because [PERSON2] is going on holiday.
+(PERSON12) Ok, so you will be around on Wednesday, Thursday and Friday but not tommorow.
+(PERSON4) And the, I'll be around in the evening  stuff need to do on Wednesday.
+Okay, so thats the ASR workers in the Google document, and hopefully we'll hear something from [ORGANIZATION2], then the empty workers I said that these good.
+(PERSON12) So what what what are you seeing in the subtitles now, because I dont see anything.
+(PERSON1) Yeah, [PERSON5] is talking to the microphone, and not even I can hear them.
+The the [ORGANIZATION4] presentation platform web page, and URL should be something local like RMTP Cologne//192.168 and so on so.
+(PERSON12) Yeah, so when we we should test this, and to get the enging server running.
+(PERSON1) Yes I'm expanding this extra write  file, so you can you can find it on on GitbHub.
+(PERSON12) Yes, now but it is essentially the same thing that I've put in the a sample pr- sub streaming some time ago, right? (PERSON11) Okay, I have a office number, but I can share with you the [PERSON3] one.
+We are going to check  each path and i think that they already manage the directs ASR output for English, Czech and.
+So if we are lucky with [ORGANIZATION2] ASR workers, then like it seems to be running right.
+So that, for example, the output ASR could be an updated hypothesis that your presentation platform would be popping into two parts and showing them one after another.
+(PERSON12) I'm afraid that if if there is like a logic implemented in two separate the components.
+(PERSON13) Moments ago, we had eleven ASR workers, connected ten of them, and there are only one and 5 of them connected.
+Now there are only two but three have, one, two, three, four, five connected.
+(PERSON12) So twice a second we are getting an update but [PERSON5], could there still an delay in the mediator in the admin interface? (PERSON12) Well, [PERSON13] is concerned about empty workers not being used, while the they should be.
+(PERSON12) Uuuh, so that is very well fragile, because you can accidently kill things which are okay.
+This is this is the worker  running on this server right now and the docker so that we can kill.
+And I dont have the ASR workers  running in an screen session  right now, normally we dont have ten of them.
+(PERSON11) The XML which is the data XML, there is stream ID, which I actually dont know what it is.
+So if you launch one more simple thing there, that we could get in touch with, then it should work, and I'm now I look up simple.
+But anyway, I think still having the session ID in the log would be very useful for you so that you could restart it right away.

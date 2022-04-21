@@ -1,0 +1,50 @@
+(PERSON3) Yeah, so we have [ORGANIZATION5].
+Um, we don't have [ORGANIZATION9] here, but they are not in the project.
+So this is [PERSON18].
+If you have any, uh, things that you would like to bring uh, up on the agenda, uh, please, put them there right now.
+Uh, so that it we would get an estimate from you  um, uh, and we would also like double check that you are sending as the numbers, that we understand uh, and uh, that we can put it together and that everything makes sense already before the uh, the final dates.
+And from that point, uh, until the end of August, we have to finalize it and send it as as 1 of the report, or maybe (fill) it in uh, in the online system, so that the EU knows.
+Uh, so the uh, the reviewer for - And we don't uh, yeah.
+So [PERSON21], please make sure that we we do it, that we examine like what has to be done, and we'll let you know in a week or 2 uh, in what format we need your papers.
+Yeah, yeah, so this is this is an assignment for uh, for us.
+Uh, okay, so uh, uh, for back to the deliverables.
+Um, yeah so well, <laugh> if I'm not have to be familiar with with that - (PERSON3) Yes.
+I would do this, yeah.
+Uh, uh, so one thing, which is still not fully clear to me, is that this uh- We will write the report the the the 7.2 uh, uh, about all the preparations uh, and stating that the workshop has actually not taken place.
+Uh, so uh, we will have to check and [PERSON21] that's again something for us to do.
+(PERSON3) Uh, so we don't have the date.
+(PERSON3) Yeah, that's that's that's uh, that's great, actually.
+So uh, there is still the risk, that every- that something will will fail, but I think that it is now good time to uh, to ask for the uh, date, uh, for the new date with the project officer, right?
+And this is something, that uh, I would like uh, to ask [PERSON1] to to do.
+Uh, so and they have like virtual machines uh, which then are okay for uh, running docker.
+(PERSON19) You you yes, you kind a need a things dockerized otherwise, or some you need some components.
+(PERSON3) Yeah, so we will so we will investigate what exactly can we do and we'll try to package our systems and get back to [PERSON8] and uh, and also [PERSON14] for for this system.
+Uh, and uh, um, we have [PROJECT2], or [PROJECT1] systems.
+<laugh> You don't you don't need to <unintelligible> GPU for these systems <unintelligible> you're asking.
+(PERSON16) Because actually, I I have to ask before, but <laugh> our virtual machine, you know, with the- (PERSON3) With the GPU, yeah.
+Uh, okay, so that's good, we know what to do.
+But you know, it it t- takes <unintelligible> to run it, it doesn't- (PERSON3) Yep.
+(PERSON3) Uh, so um, and at the same time  uh, we we want to test the uh, the uh, components uh, better components because I know, that [PERSON14] had something which could be very uh, very promising for the ASR, right?
+[PERSON14], uh?
+Could you have some?- (PERSON17) But you mean <unintelligible>- (PERSON3) So I thought - So you've mentioned uh, the that your submission to IWSLT, or paper uh, paper to IWSLT.
+Uh.
+Uh, so this is exactly a candidate for a thing, which if it work an if it was well integrated, it will be great to to demo it.
+So so the way to - (PERSON17) That is not in this demo.
+I mean I I'm - (PERSON3) Yep.
+Uh, yeah, so this is uh, so this this is uh, the the message, that I wanted to uh, to tell you.
+But at this point uh, I hope, that uh, uh, that [PERSON1] is on top of this and that we know, which uh, fingerprint paths do we want to demo for the various um, input documents.
+So uh, if [PERSON4] could uh, also propose uh, dates for uh, the dry run c- uh, calls for like demo uh, sessions uh, before the demo.
+Obviously, this is like a uh, the th- over- overfitting, this is this is already uh, cheating uh, in terms of um, uh, like showing the real the real performance, but I think, that uh, we can do in the demo we can do for example the same video uh, presented twice.
+So uh, please, let me know if you if you are opposed to this approach, but I think it's uh, it's better for everybody to to know, what is the- This is <unintelligible> benchmark, how far can we get.
+This is not, the not, the not a proper evaluation, this is what is the best performance that we can deliver, uh, a kind of test.
+So the main message is that we will have a number of demo uh, dry run sessions again and the date for the demo will be chosen uh, and uh, we will choose and freeze um, the the fingerprints for the demo.
+I've mentioned that already in in the previous call if I'm uh, not mistaken, but I know, that we have not maken uh, we have not made any steps to that.
+(PERSON19) But don't quite understand that, so I'm not sure with <laugh> all of that, but I think, you you saying, you've got an email from a project officer?
+(PERSON2) Yeah, we shouldn't we shouldn't tell it that way, we could just say- (PERSON19) Um-hum.
+So uh.
+Yeah, so that's that's probably what what will be the final result, that we will ask for 2 or 3 months extension of the uh, of the project.
+And we should do it uh, in - Yeah.
+And I think that uh, this can be uh, this can happen at the demo dry run sessions as well because this is all research partners there.
+Uh, and uh, we will also try to uh, include in this video uh, a demo of the of the system as it is, uh, live uh, subtitling some of the videos, that w- are planned for demo, for the p- for the project officer anyway.
+Uh, so in one of these dry run session, we'll also record what what we are delivering and we'll include it in the uh, in the IWSLT uh, presentation.
+Like that we don't understand, what's in the paper uh?- <laugh> (PERSON20) Um, I I think it's okay.

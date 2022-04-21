@@ -1,0 +1,48 @@
+ The problem is that we haven´t that defined what does it mean to add new content .
+The multilinguality is not there at all .
+This is just a png extracted from, from [PERSON26].
+But so this is extracted from .
+a paper and, um, how many s-, um, these copied so <unintelligible> pictures are there .
+I don´t know like to rules like, I think it depends on the licence of each of the papers .
+The licence is probably somewhere in archive but archive lists the licence probably somewhere .
+The book is entitled 'Creative comments atribution 4.0 international licence' The author says he plans to include one of two, one or two pictures from the, from other papers .
+The conversation ends with a question: "What do you do with this? What do we do with it?" There is also hidden one with [PROJECT2] - so it would be also like probing.
+ There is on the right.
+The hidden one we cannot see it now.
+The book is more or less written but some parts still need to be rewritten and, and the pictures may-, must be done better .
+The first part is written I guess and I´m sure that it would benefit from further reading and comments and rewritting and so on .
+The to do section here can be safely deleted .
+FastText shows the structure and the others don´t .
+FastText is automatically adjusted to, to show the whole range .
+But it's strange that the FastText - The original [PERSON2] model had some, um, I´ll -.
+I´’ll - .
+I´'ll delete this figure and I may do something with your figure so...
+so...
+I´ve seen worse .
+Figure 4.1 will be deleted and figure 4.6 will also be deleted .
+The book will be sent to reviewers after it is sent to them .
+The deadline is today midnight .
+The text is written in the [PROJECT3] document .
+The only thing missing for me is add PCA and ICA which I can basically copy from other texts .
+Send you something.
+The reviewers are [PERSON10], [Person18].
+And I think that it is not as...
+the word of tokens (text and trees), the reviewers are .
+The reviewers (PERSON20) are .
+the reviewers of previous [ORGANIZATION2] books .
+The deep-learning algorithm is being taught by deep-learners .
+The code is based on deep-schooling software .
+There are no rules, um, it, in the books series that we should have a summary and, and summary in Czech and something like that .
+The series said that the summary is obligatory.
+But I don´t think it says more about what should be in the summary or so .
+There are some citations that are not in the Zotero format so they´re deffinitely will bee always missing .
+There are undefined references not (reply) defined cit-, citations .
+We have to write it somehow and so it´s readable, readable and...
+The meeting is plan, planned 12:30 and currently [PROJECT3] is - 'project3' The meeting will take place at 2 p.m.
+on July 13th .
+There are, there are prerecorded presentations and QA sessions .
+The presentations will be broadcasted like prerecorded and then the QA will be live .
+There are tutorials on Sunday at 3 p.m.
+for each paper .
+Someone else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true .
+He says he doesn't know if people can watch if they´re not registered .

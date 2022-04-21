@@ -1,0 +1,23 @@
+ (PERSON12) 1, 2, 3, 4 there was the pin, but it's also your net .
+So right now,I would like everybody to go like one by one and summarize in a minute or 2, for which we are doing domain adaptationand then there will be on the 12th of February a dry run of the workshop,that we are going to give for the [ORGANIZATION4] congress.
+5 colleagues at least from [ORGANIZATION2], going to the [ORGANIZATION7] officesand presenting these NLP technologies.
+(PERSON3) Yes, so, I can confirm, that I've understood everything, what [PERSON22] said and I write them.
+The next thing, that I spent last week, like the weekends preparing transcript for the Monday seminar.
+Things I need to do, is in-coming days, integrate [PERSON23]'s audio compression on these YouTube videos.
+And progress more on the[PERSON2] 36 36 empty models and doc translation, and basically like  that [PERSON15] And I'm trying to do your part, and I'm downloading all of plenary session from your parliament since July 2018.
+(PERSON3) So [PERSON23] has differently updated me the  the compression, and but I am - But what what I'm proposing is, that not you, but [PERSON23] would do this.
+So for example, if the compression is not really effecting  the ASR output that that should be a really good thing.
+(PERSON12) I meant in the in the document of Monday test, there is a list of wanted things.
+(PERSON12) So if you don't have any any immediate thing to try, then have a look (PERSON4) Okay, so now, I'm working on the framework or for example test set for evaluation of simultaneous translation.
+So this this worrying that [PERSON10] is doing, is generally preparations for the SLT shared task.
+And the shared task, that we are running at IWSLT is directly aimed to help [PROJECT2] in the [ORGANIZATION4] Congress.
+(PERSON12) Yeah, so [PERSON14] is [PERSON14] is in India until end of January, is arriving in early February.
+So my job's to to have an overview of all the data, we use for for the [ORGANIZATION4] Congress.
+So there's a demo and and some README, which you can check and you can run my ASR.
+The first occasion, for which we could try, is the talk by [PERSON16] on Wednesday already.
+So all the 6, or 7 ASR languages to the English and then from English into all the target languages.
+So I think, it's to use the the Wednesday opportunity to have better [PROJECT1] systems as as a good thing.
+(PERSON12) Yeah, so which did we- which one did we use a last week for, or - ? (PERSON12) We have a source audio, that's the one, that that's [PERSON19] - (PERSON3) So far I- I followed this so and I'm I'm  probably something to progress so.
+Okay, So I think, that's- we are 12 minutes beyond out time, let's stop it now.
+To get in touch with [PERSON20] and get European data to train a new segmenter, without like .
+(PERSON4) And I think I'm available next week and whenever you want, we can we can have a meeting together.

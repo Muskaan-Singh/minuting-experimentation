@@ -1,0 +1,50 @@
+[PERSON3] And so, what is it I look at the my papers and the -
+And you you should you can try to probe on [PROJECT2], or [OTHER5] or these of GPT tool, or I do not know -
+[PERSON7] Yeah, you you you [ORGANIZATION2], yeah, yeah and -
+Okay, but, that you can use the [ORGANIZATION2] and you can use SL the the word the read the context word and manning.
+[PERSON3] Yeah, and another <unintelligible> we did, we we was barely admitted what we did but but in a paper.
+So we could differently do more stuff, we could do the tactogrammar, the [OTHER9], <unintelligible> you, as you said.
+What they do attention and and compution scores would interesting in the sense that in their <unintelligible> 60 internet use emm try to use sentences and test on harder, weirder like constructions to see introduction like emm for like still means that would <unintelligible> some basic characteristic.
+So what the paper does is that they have distinct where they take attention between subject and verb, subjects and verbs and subjects and verb in in sentences.
+[PERSON3] And it seems like the the attention actually still manages to find still manages to find the proper subjects for the nouns particular the <unintelligible> about higher layers.
+Okay so, okay so, you you can start with I don't know, if you can start with [PROJECT2].
+[PERSON7] And and maybe, yeah, you you can focus on [OTHER9] or or I dunno.
+[PERSON3] No, I mean like automatic dependencies and the stuff I don't know of the freement.
+You can, for example, you can try to probe for the for the for means, which are really like more semantic dependence relations like ac- for example actor.
+Which is real actor and this was not as subject what is real actor that mean that in passive sentences it's it's the object.
+I I think and you can you can see what what result it it you you have.
+[PERSON7] Yeah, we saw we haven't we have connected, we want to we want to have a skype call that we need.
+So it will be managed to to you to know what we need will do here and so that you can contribute or I don't know.
+[PERSON5] Yeah and I checked there is a measure, which measure is (out) the attention matrice is a line with particulations and actually I got this from from other paper.
+And We've to look what are the patterns of the eeh what difference actually our results from (though) measure <unintelligible> for [PERSON2] proposed one from different photo eh like one observation was that (for the), let's say easier <unintelligible> find the determiners or multifiers.
+[PERSON7] On the on the zero on the first layer the there are the attention looks on the previous on the next token so that's that's the determiners on the other.
+Ehm and it's also one head that's very very surprised look that (penny sour) for (relations) done for determiner is the multifiers it's subjects or objects and looks in the last layer.
+I think in mostly, yeah, it's said like for the first layer is like many just low close positional in some cases which some variations like <unintelligible> very focused <unintelligible> in the principe like bounce.
+And for those the determiners modifiers those heads look like justs looking up the neighborhood but context the words just shift that one of it's one to way to find determiners and something <unintelligible> some clients is in that eeh variations that's look plus one, minus one, just with any fix pattern.
+And the the higher layer  for components depend subjects was what was it was (balustrade) layer which have this rows was looking in to different eh eh chunks.
+What's this items and like I think it's I think it's the the relations eeh let's say that can be drive from attention matrice some of correlate with (syntactic tree).
+[PERSON7] Have have you visualised, sorry, have you visualise which which phrases or which which (balustrades) are are there because it seems that there are almost all possible and these if you take the shorter phrases or shorter (balustrades) there are also almost all all possible balustrades somewhere, or at least according my observations.
+Yeah, it seems they do different stuffs so it makes sense to try to seek which head those what try to hide them supportly, I guess.
+I should say one thing we tried to have have the similar results here in a use not nevermind then use open NMT system and try to generate somethink like balustrades and we have many problems many problems with generating something similar, like similar to balustrades.
+Then we realise that we have to switch to eeh some it was it eeh was the option.
+So, so, I I I want to say that it's not easy to eeh that there maybe different different settings and little bit difference settings of transformer that generates completely different results.
+Very <unintelligible> from the balustrades the matrices, the attention mattrices are very (blurt) and there were no (balustrades) straight and we have to it was like, the option.
+So I only want to say that there are many, many things that made many, many parametres that may chains and the chains and there is completely different, completely different attention it's an attention ways so, so, yeah.
+[PERSON10] There is, yeah, there is the papers where they took syntactic trees so from from syntactic parser and use that to form the the input of machine translation systems so you would just use and put using graph (conclusion).
+So the idea was that we could try to replicate this and to compare it with <unintelligible> the extract from the attentions.
+With the objective function to to to be as similar as possible to the to the (dependency) trees if I if I (redisconnect) it.
+So they they have two two synt- two heads or eeh that were trained to to be similar to a that attentions in these heads, attention to the syntactic <unintelligible>, syntactic (precedence) or syntactic -.
+And they, yeah, they train it together so they don't need they don't need the syntax annotation when translating so it's it's learnt.
+So you can you can try to read it and yeah -
+[PERSON3], [PERSON3], I will I will send you the links to the tactogrammatic when you can when you can download the treebank and the other link you need and other other anything you need to start experimenting, and, yeah.
+So, if you have anything else, yeah, we can quit this call and and see you in next 14 days and I will be in contact with [PERSON3], too.
+Okay, so, so what what you that there are you working on, [PERSON3], cause it seems you two are basicly working on similar stuff  -
+And, so, okay, guess, yeah, with the milestone part we basicly using what we did for award book papers appear something we use.
+So, so, you and I and someone else can be language model so [PROJECT2] language model or you can be a model payed person possibly task and then he could think okay, so, for doing machine translation it be into syntax or maybe it's useless the syntax.
+Right, yeah, what I thinking it's okay, should be really continue analysing the transformers that we have or should we <unintelligible> someone <unintelligible>.
+[PERSON10] And so so do you know the the large [PROJECT2] if it's just large data or it's <unintelligible> model?
+Yeah, we tried this with the transformers we think <unintelligible> models and <unintelligible>.
+As are assumption okay, something like syntax <unintelligible> we have it's layers it's to have layers model analyse small layers so easier to find <unintelligible> that <unintelligible>.
+[PERSON10] That's all, the training model it's just most train some <unintelligible> and the stuff like that.
+[PERSON10] So, I don't know I don't know these comming in December while I'm staying where is <unintelligible>.
+I don't know the <unintelligible> deadline is delay just possible date so the video <unintelligible>.

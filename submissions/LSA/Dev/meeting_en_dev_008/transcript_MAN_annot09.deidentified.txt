@@ -1,0 +1,50 @@
+<ehm> Did you see the document Minuting annotation guidelines?
+(PERSON6) (One more) thing is – is that they want to make it <ehm> – so that – so we sh- we have to pay for it beginning (till) next month or so.
+Because <unintelligible> ([PERSON5] seems that) [ORGANIZATION2] meeting link, it is (obvious) the – like <unrecognisable_speech> (PERSON6) <ehm> We have (the paid) version of [ORGANIZATION2] for our faculty.
+<unrecognisable_speech> (PERSON6) You really have to follow if nobody else is – s- needs this hour for their teaching, so it's better to have something outside.
+(PERSON5) So [PERSON6], could you – could you respond to <unintelligible>, like if he can (reensolve) [ORGANIZATION2] and (then join), because in [ORGANIZATION2] meet it is really difficult to hear.
+So we have transcripts with really bad automatic quality, which I send to the annotator and ask him to correct the data.
+I send a big attachement via some server and link to it, and in the attachement of the e-mail i send him the pre-processed automatic speech reconstructed – speech reconstruction transcript.
+(PERSON5) Okay, so I would like to ask you now – So, by this original meetings, what <unintelligible> [PERSON5] and [PERSON2] (has) created, so it is just for (reference of the annotators).
+<unintelligible> doesn't have the (full) representation as needed yet, but it can be changed to this presentation and it also reflects the essence of the meeting.
+so I cannot actually say that they are worse that the min- minutes created by annotators.
+It is actually a questions, because there are some drawbacks of those originnal minutes, because <ehm> they do not contain some information or they may contain something that was not discussed during the meeting.
+We can put them together with other <ehm> – with transcripts and get more, just get more – (PERSON5) So, not all the meetings has the original minutes, right?
+So, you send this (via file sender), and (they) <unintelligible> (you back) the manually corrected ASR?
+I want to say that (support) after the team watch them, where from (today look the) <unintelligible>.
+<ehm> So I still kind of – so at the moment I do not have any idea hw to technically work with the variant that annotators send the data via (GateHub).
+So maybe not today but he still sees the option <ehm> better that this (teams would be created) again, <unrecognisable_speech>.
+(PERSON6) Probably (we should) – (PERSON4) So, [PERSON6] – (PERSON6) Not exclude this option for the moment, <ehm> but – (PERSON4) Okay, so, [PERSON6], I – yeah I – so – so this is like you <unrecognisable_speech> to upload the minute <unintelligible> correct, so this is actually a (list) work for us.
+(PERSON4) Like if the annotators up- upload the minute themselves, so – (PERSON6) Actually I'm not really fine with that at the moment, because for me – <ehm> I should think it over and I didn't do it yet.
+It could be changed, I think it could – so, wh- I and [PERSON5] still thought about this option is not – not because of the present situation.
+So at the moment I would prefer to have the contact with annotators, but <ehm> actually I'm really <parallel_talk> Wonderful.
+(PERSON6) Aou want me to repeat why you need the alignment?
+I – I need the al- I – understood we need the alignment, but <ehm> I was talk <unintelligible>, so we must have a measure or a <unintelligible> by which we can use the alignment to produce something.
+(PERSON6) <ehm> <unintelligible>, could I ask you, please, now, if you could write this very question very explicitly somewhere into – into the agenda.
+So we as- [PERSON5] has kind of vague idea that it helps and so have I.
+And we have the intuition <ehm> based on some experiment- experiments with other data, that it would help.
+So I've like – I – I would pick up from this (here), so the thing is that <ehm> meeting or coming up with that measure want to be that much busy.
+Okay, so, it – I do see th- this coming within October, that I'll be <unintelligible> measure and that is accepted that, okay?
+(PERSON5) First, alignment first, manual evaluation measure – (PERSON6) Okay – (PERSON5) Should be a part of the shared task?
+<ehm> Okay, so- suppose they does speak a scenario that we don't come up with a manual evaluation measure, before the shared task, so, what options we have.
+And then <ehm> we (reuse) the data and we evaluate the submissions based on automatic measure.
+But we add another human evaluation score, that was the point of <ehm> th- that I wrote the protocol, like try to come up with some tips.
+So, we need the na- next try human evaluation, (decides) them, we compute them, but we add the number of human evaluation, so that we can <ehm> be sure that we have good  quality.
+(PERSON4) <mmhm> No, it's not very subjective, it's like – we I – I think – did you read the document that I wrote?
+And they like try to assess different aspects like <unintelligible> reada- readibility, (the quality) etc., and they put scores of that.
+And then we (abbregate), we wait this <ehm> – let say this aspects, and we come up with the – with the final score.
+And the (liker giving) skills, okay, but still I would believe that it is subjective.
+<typing> <unrecognisable_speech> Okay, so, like – Okay, so the thing is that if we don't come up <ehm> with the alignment based manual evaluation <unintelligible>, we will do as the normally the other (energy) task <unintelligible> <ehm> entries, right?
+And in this case we follow variant B, and this is using <ehm> human evaluation like readibility and so on, not using the alignment.
+And then maybe we would also like do some research on this and we come with some (beautiful) matrix, and then maybe the second <ehm> – you know the second event <unintelligible> we can come up with this <ehm> new <unintelligible> – new techniques that we want to do.
+And we – if we like say that we are going to human evaluation using the <ehm> like pst- like the reading skill or how they <unintelligible>, (no one we yuestion)?
+If varian A doesn't become clear to us before the proposal submission deadline, we move in variant B.
+(PERSON5) <mmhm> (PERSON6) So this – my – my point of how to create basic samples should be discussed with [PERSON1] before we <ehm> go on.
+(PERSON4) So this is – I think this is the <ehm> – so it's almost like I said, but you can – I said to remove the meta-data, you can put them with <ehm> – with a (label) in your <unintelligible> brackets – (PERSON6) Yes, meta-data and dashes, dashes is important.
+(PERSON4) So it's – it's almost the same, so the format is stable <unintelligible> – (PERSON6) Yes, this is – Well, I think I will have to discuss it with you before I begin once more about some details.
+But we are kind of centralizing it and we're making server as one of (mocking) versions of GateHub repository, so who is doig all of that?
+(PERSON6) Somebody – so – and if I – (PERSON4) Yes, so you create the (file) – you create the (file) the document that – internal – that you have access to, or even a notebook let say, a paper notebook, and you have to keep the – the names of this collaborators or annotators, their full names – (PERSON6) Yes, this is clear.
+(PERSON4) <unintelligible> record of this list when you name the folders with their (collaborators).
+Because <ehm> I'm not able at the moment, I'm not sure if I can be – if I can make <unintelligible> but I – at the moment it is very complicated for me to anonymise <ehm> all of the files to – so to name general names.
+So it may – it should not be the name of the annotator, but it should be some ID that I can <ehm> dete- that I can determine where to put it.
+(PERSON4) Yes, I told you, annot01 is like – (PERSON6) Yes, yes, in this case it is a <unintelligible>, so nw my task is to rename the files.

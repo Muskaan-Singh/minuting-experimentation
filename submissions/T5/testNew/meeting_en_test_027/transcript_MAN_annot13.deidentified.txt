@@ -1,0 +1,27 @@
+laugh> 'i wasted my holidays by being ill,' 'laugh' "i'm actually back to work and that actually improved my mood" 'this is my private private apartment in mannheim,' says PERSON1 .
+'it's back.
+it's a little bit more like a village kind of part of the city'the [PROJECT3] will have two parts .
+one will be online, pre-recorded.
+that will be interleaved with a real live discussion .
+we need someone to take care of the recording so the archiver person .i'm working on updating the demo paper submission, which is due next Friday .
+and then I have some project reports to do .
+i think of the one point five and six point three .uh, we should add complementary met these complementary metric .
+we should have an explicit list of things which must not appear in the output .
+this could become a part of the second thing of the railroad .uh, what I miss still is [PROJECT6] style of evaluation .
+if we improve our segmenter our score should be higher than what we are getting .
+but if you improve your segmenter, it would be much better .
+we will talk about this at the latest next Wednesday with partners .PERSON3 has done tremendous amount of work for the deliverable .
+despite, it seems simple, it actually takes time .
+"let's really start making an informed choice," says loud .the goal is to have the baseline, and then to do the uh, cutting thing .
+but at the same time, i'm pretty sure the common voice alone would be too small .
+it would not be good for comparison purposes, but it wouldn't be good as a system for deployment .i think the sooner i get started working on it the sooner I will be able to build it .
+i'm also thinking to do some non native speech as a part of my masters thesis .if you understand it correctly you would like to do this model using [PROJECT4] unintelligible> .
+(PERSON2) Yeah, that would be great because i 'm more fan of the of the .
+[PERSON7] is busy and not available on Friday, so it will be probably on Monday or Tuesday .create one s simple start up script to increase control so anyone can use it .
+and then analyze the ASI dev unintelligible> data and then [PROJECT7] training .
+aiming towards [ORGANIZATION13] deadline with a subtitler study paper .ideally, uh, our [PROJECT10] models were multilingual .
+if it supported different source languages and they were translating from these languages into English .
+but if we have a multilingual model, the quality is probably going to the deteriorate .direct bilingual models are better, uh, than models that are pivoted .
+if you have good data for the language pair, then yes, it is better to go directly .
+but if your data is more available through English then it's best to go through English .thank you.
+(PERSON3) Thank you.

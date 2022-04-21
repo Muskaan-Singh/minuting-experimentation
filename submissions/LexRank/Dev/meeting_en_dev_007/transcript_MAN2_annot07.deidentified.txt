@@ -1,0 +1,50 @@
+But the question is whether you can also, whether you are happy to work like without the Overleaf interface with this, i guess it is it should be not a big problem for you.
+(PERSON7) No it's not, ehm, for us the main scoop of this meeting, should be to define a kind of structure of the deliverable documents
+The only thing that I can do is, and it's the it's, the Overleaf is somehow strange.
+(PERSON4) Yes, so this is this is a sharespace, this is the sharespace that we can use to uh, to discuss the structure.
+(PERSON4) So so the the
+(PERSON6) Connect from the laptop, but I already was in this you know application, so I wonder what the problem is, sorry for that.
+Let's simply use it as, like, use it as our deliverable, and then we will, once we get it compiling we will make it again the template.
+(PERSON4) Yeah, okay, great, so then if you click on our icons, either mine or or [PERSON7]'s.
+So we can discuss the structure of this deliverable, and you already know the ACL demo paper, so definitely please read that, and I think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+So, yeah, please just, it's important to see what we have done
+(PERSON4) Yeah, so, so that's an important thing, this deliverable is going to be I'm scrolling, well it doesn't say so, but we need to follow, the requirements in the description of work and the D platform updates, the six, is it publishing platform it's called demonstrator.
+(PERSON4) So that's, yeah.
+So please talk to, it should not be too difficult for [ORGANIZATION1] either, because they need one screenshot, which was already available in some preliminary version for the review, review meeting, if you remember, if you still have the slides.
+And so this [ORGANIZATION1].
+Yeah, we don't have anyone to revi-, yeah, so I'll push you [PERSON7], I'm now looking at the [ORGANIZATION6] sheet, I'll again paste the link so that you can easily get it to the chat window.
+I think that, so well, what was the documents.
+So.
+I don't think it would be a problem.
+(PERSON4) So that would get us like two days to, so we could reuse that for the for the paper for ELG and [PERSON6] you were not on the not on the call.
+Ok, so we should ask [PERSON1] and [PERSON2], and, yeah, I'm emailing colleagues in [ORGANIZATION2], and [ORGANIZATION4] who of them could review the the deliverable.
+So.
+And we already have it, and that's it.
+So I think that, I will.
+I don't think that there is anything that we need to discuss at the moment, because we have the document.
+So if you, if you for [PERSON6].
+(PERSON4) Yeah, so, but you are looking at the link, so you can click the Menu button which is on the left, at the top left corner.
+And there is in the in the menu.
+(PERSON6) I don't have, i just use the [ORGANIZATION6] credentials.
+So.
+(PERSON4) Okay, probably that will work as well.
+So just use the screenshot, which is in the review slides and a paragraph where you describe, what do you know how it behaves.
+And then, you will know, okay, yes
+Where I, there is probably a link in the email for for the original of the ACL paper, right?
+(PERSON6) Let me check, there is one, okay.
+So that's a problem, that it's.
+And if you want to commit, which is important and to to do properly, and then type of make space CI and have a look at the goal in in the make file, because the commit actually
+(PERSON6) Yeah, I see, sorry, I actually looking at the paper.
+(PERSON4) Ok so [PERSON7], if that's all, let's, I'll disconnect, maybe you want to discuss something more with [PERSON6] or not, but I'll disconnect and I'll try quickly debugging that's editing.
+(PERSON6) Do you have, <unintelligible> or something?
+So first thing okay, if I haven't things installed, I have to install them, okay nice.
+(PERSON6) And it's like, you don't have it.
+(PERSON7) Oh, don't worry, I also do not remember my <unintelligible> manager, which one is, but just give me one second.
+So you.
+You get for the distant for you you.
+(PERSON7) I I'm, I'm trying.
+(PERSON6) Because, you know, it's kinda tells you, if you if you have a different package to load instead of it.
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.
+So you see those version and the screenshots in a while, I'll just finish it and then I probably work on it like over night or something, but I guess.
+<unintelligible> a note if you think I should modify something, I actually don't feel like I should be the final one to dictate what's in there.
+(PERSON7) I think that, that probably you will write something much better that what I can able to provide to this document, so don't worry.
