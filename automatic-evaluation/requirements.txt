@@ -1,5 +1,0 @@
-bert-score
-sumeval
-spacy==2.1.3
-https://github.com/mymusise/emnlp19-moverscore/archive/master.zip
-pyemd
