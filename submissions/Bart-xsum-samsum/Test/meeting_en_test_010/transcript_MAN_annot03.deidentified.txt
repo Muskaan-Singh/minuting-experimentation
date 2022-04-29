@@ -1,0 +1,28 @@
+The meeting is being recorded.
+Organizing7 doesn't want to get any money from the project.
+Organising7 will split the budget for the project among other parties.PERSONm and PERSON2 discuss how to ship translated audio to the participants of the remote conference calls.
+Organizing7 suggests that they should make sure that participants have some devices that can display subtitles.PERSON2 and PERSON3 are working on the presentation application development for the organiser's remote meetings and live events.
+There will be the main [ORGANIZATION5] congress in the middle of the project.
+There will be some dry runs workshops and other events.
+Organizing7 should make sure that there are enough events happening and that they know about them and connect to them.
+PERSON3 wants to know what will happen the year after the congress.
+There is a clear distinction between the plenary and the workshop-style sessions that the congress is with plenary sessions.
+There will be one dry run, one main and then two follow-up experiments.
+The integration work package 7 is the one that makes sure that everything runs.
+The dissemination 7 helps to promote the project and its results at the events.
+The organization organizes the events, but it does not provide any remote platform.
+Organizing the ASR 3 is active in the ASPERSON2 has been competing for the [OTHER4] parliament and reached the accuracy up to ninety eight percent of accuracy.
+Organizing7 wants to use the best ASR system for the project.
+(PERSONm) explains to the audience how to prepare the interpreter and re-speaker for a live event.The main conference is four days long.
+There are three full days of dry run, and five for main conference.
+Each speaker needs to be able to speak for up to five hours.
+The adaptation starts from an existing acoustic model for the language.PERSONm is working on a proposal to create the baseline acoustic model for the [OTHER1] radio.
+He is in touch with the radio and they should be able to provide a considerable number of hours of recordings for this model.
+All the teams, who want to get direct access to data for speaker adaptation should add the needs for [OTHER3] in work package 1 on the data.
+PERSON2 will make a rough estimation about the cost of the audio equipment for the organiser's congress.
+PERSONm wants to know how much it will cost to record one person, so that they can do the recordings with the re-speakers here.
+People have 14 days to finish the proposal.
+People need to integrate, also participate in the drafting the text.PERSONm is talking about tasks 6.1 and 6.2.
+The integration of ASR (essential) from multiple partners into the organiser's platform is expected.
+There will be more involvement from organiser3 and organiser6 in the integration of multi target empty engine.PERSON1 and PERSON2 discuss the delivery of prototypes and milestones.
+They agree that the deliverables should be in line with the timing of the work packages.PERSONm would like to see the minuting integration in the middle of the project.

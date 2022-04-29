@@ -1,0 +1,51 @@
+The left speaker is to the right.
+It will be strange if they want to screen a film or something, because the sound will go in the other direction.
+They are recording.
+The deadline for the start-up project is this week.
+On Thursday and Friday I officially have a vacationThe principal investigator of the grant has not started his work yet.
+He submitted the project 3.0.
+The project 12.0 is ready for him to start.
+He will write an official e-mail to the principal investigator and send him a table of contents.PERSON1, PERSON4 and PERSON6 want to send him the whole book.
+PERSON9 wants to improve it and send it to him at the end of this week.The deadline for the book is at the end of June.
+People need to improve their sections so that it looks good.
+They need to focus on the book b- because there will be many holidays in July.
+People don't have a Google calendar for Project12, so they don'tThe second week is the thirteenth to the twenty-sixth.
+The fifth to the fifteenth is the Black box deadline.
+There will be a meeting on July thirteen, fourteenth and fifteenth.
+People will send some papers to Black box.
+There will be a meeting on the thirteenth of July.
+There will be regular meetings on Tuesdays from June to July.The deadline for submitting a paper to calling is on the thirteenth.
+The deadline for writing is at the end of June and the deadline for publishing is on July.The official deadline for the book was the end of June, but it will be the middle of July.
+People will go through the book and make a decision on the new contents.
+The grant can be postponed from December to January, so they have one month more.
+The final report willConferences were cancelled, so they couldn't write the book.
+People can postpone the deadline for the book to the 31st of January, but all the finances must be spent.
+People will ask for an extension to the deadline.
+The next meeting is on July thirteenth.
+The deadlines are June 30th, July 13th and July 14th.
+PERSON3 and PERSON4 are discussing the differences between the balustrades paper and the one they wrote.
+The heat maps look different in PROJECT9.
+The first part of chapter five must be reviewed.
+The chapters about self-attentions, cross-lingual attention and the start of attentions need to be added.PERSON1, PERSON4, and PERSON7 are working on a book.
+PERSON1 wants to add more details to the text.
+Person4 wants to write fewer details.The chapter is almost ready to be read, but it's almost unusable.
+I don't know much about the history and I would have to spend another half a year reading things, so I will concentrate on visualisations of embeddings and comparing visualisations.
+PERSON3, PERSON4 and PERSON7 discuss the progress of their chapters.If you don't put section, you just put subsection then it's in the zero section.
+If you set the section counter to minus one, and then at the section it will probably get zero.
+The main contents of the chapter should be this, this section.
+It should be partitioned to, to several subsections mostly the ones that are already there.
+The title should be rewritten.
+The chapters should be organised according to the individual papers.PERSON3, PERSON4 and PERSON6 discuss semantics and coreference resolution in the papers.PERSON4 is having a discussion with [PERSON1] whether part of speech (tags) are syntax or morphology.
+He wants to split it into multiple smaller sections.
+PERSON1, PERSON3, PERSON6, and PERSON4 are discussing language modelling.
+The multilinguality paper that they submitted to Project 4 was about the hidden states of multilingual people.
+They want to report on it somewhere.
+They don't know to what extent they can copy paste their paper here.PERSON3, PERSON6 and PERSON9 are working on a paper about neural networks.
+PERSON1 has submitted abstracts and next week he should have it ready so that he can send it to Project1.
+Tomorrow is Project10's day.PERSON1, PERSON4 and PERSON6 are talking about the survey visualisation for that so-called pre-training task.
+Language model is better than machine translation.
+Language model had more data for pretraining.
+Machine translation is better and encoders are not that good to have the part speech encoded in them.
+Most of the papers are about probing for part of speech.PERSON4, PERSON6 and PERSON3 discuss how to prepare visualisations for deep learning.(PERSON4) will update his scripts into his script.
+(PERSON6) will do the same.
+They have two weeks to do it.

@@ -1,0 +1,48 @@
+(PERSON8) So we have <unintelligible> here.
+And, this is something that we also know about, [PERSON9] has created something which is perhaps better than streaming of video, because the standard video players are designed,
+
+<other_noise> 
+
+to play in a continues way.
+(PERSON9) Um, I was saying that it looks like very like <unintelligible> solution, like you know, hitting with hitting it with the hammer
+
+(PERSON8) Yes, but it's, I don't think it's too bad solution, because it's intended for slides, there is usually no, it's, it's not good for videos obviously, there is no way this would work for videos, but it's good for static slides, and the setup that we have on Monday seminars all the time, and, um.
+So there is no change on the slides for a couple of dozen seconds.
+[PERSON5], you are in [LOCATION1], right? <laugh>
+
+(PERSON4) Where are you studying? (PERSON8) Ah, I'm <unintelligible>, I'll double check.
+Then we need to include this word in the language model in all its forms.
+So if the new word is well, "reference", such as the reference translation.
+And so that's feminine known "reference", then I would use that list of all [LOCATION2] word forms to generate all the forms of this word, so "reference, "referenci", "referenci" this is actually boring, so this, this is very few.
+And then you would use the corresponding form.
+<other_noise>
+
+The technical process, I should process the, the dictionary, because you mentioned some, you mentioned the <unintelligible> transcript for using that, but from my findings, I'm not sure if it that's necessary.
+<laugh>
+
+But if you are searching for the domain <unintelligible> the [LOCATION1], <unintelligible>.
+That you should get in touch with [PERSON6], because [PERSON6] <unintelligible> some language model data related to my talk on Monday, so it would be great, if you to try to put this to Monday <unintelligible>.
+So that could make it possible to visualize the sound from the microphone the longer we, we have the volume.
+But as soon as we have the evaluation running, we can directly.
+(PERSON9) <unintelligible> bit ready, yeah.
+It looks like the paraphrases are much better than the previous model.
+(PERSON9) The problem is is that, the problem is just that, because it was trained with TPU that, there are some other like, ways of how it, how it saves the models.
+And I also received new data from [ORGANIZATION2], and I'm going to get it training today, and hopefully I will have some results, until until the end of the weekend.
+(PERSON9) No, it's many to many actually.
+(PERSON8) Yeah, that's the paraphrasing, but for [PROJECT2] purposes, simply the send all the various recordings that we have already transcribed, and we don't have translation for that, so we need to polish the data set, but just for.
+And you mentioned the third thing 
+
+(PERSON9) Oh yeah, the third thing was the paraphrasing server itself, so.
+(PERSON8) Yeah, okay, great, that's running when we won't need it.
+And if you have now these models, if you believe these models.
+(PERSON12) No no, right now it isn't modeling <unintelligible> some documents<unintelligible> available on parallel
+
+(PERSON8) But we've we've agreed that the parallel data extraction will be done by [ORGANIZATION2].
+(PERSON8) Yeah, great that's that's good thing.
+(PERSON9) I have a quick idea, could we perhaps make just something like, Wikipedia page, or something like that with at least all possible data sets or all possible like you know purposes, so that so that when someone like has a new one, we can always just add it there, so it can be used by everyone else.
+So just please hold on, and we are kind of what you want
+
+(PERSON9) Yeah, okay, okay, because like I, I also have some processed data that I collected, and so, so I could send it somewhere and so on.
+(PERSON9) Terrible, <unintelligible> 
+
+(PERSON8) Other data and know about them, work for [PERSON11].

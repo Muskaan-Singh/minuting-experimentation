@@ -1,0 +1,15 @@
+PERSON10 is on the call.
+(PERSON7) Hello, I don't hear anybody yet.
+(PERSON11) and (PERSON7) discuss the implementation of a translation system for partial sentences.
+They discuss the handling of timestamps.(PERSON7) and (PERSON10) discuss how to present updates and how to manage partial translations and partial output.The development schedule for the presentation platform was agreed on Monday.
+The first prototype should be ready at the 15th of June.(PERSON10) and (PERSON7) want to find out if organiser organizes calls with live subtitling.
+They want to switch to the organiser's platform.
+Organization1 will prepare an image.
+Organizing4 will try to get that running.
+Organization3 will prepare a presentation.
+Organization7 will talk to Organization3 about setting up a backup side for ASR workers.The platform is ready.
+The workers have one by one died out.
+The ASR worker can handle several sessions, but then it doesn't return any output.
+The production client is different from the simple one only by a by- I change only the default parameters and comment send documentations, and I removed to Windows version.
+The text text client is the same ebclient as before.
+PERSON10 will not be able to come to the workshop.

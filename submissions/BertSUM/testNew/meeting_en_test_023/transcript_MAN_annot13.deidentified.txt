@@ -1,0 +1,36 @@
+[PERSON1] was about to join because he told me that he wants to be in the meeting.
+(PERSON2) Uh, um, we can write it to the agenda if we can find it.
+But if he is not responding, then, like we have to-
+(PERSON3) Is-
+(PERSON1)  Recreate it, uh, ourselves.
+Candidates without context, if they are surely a named entity.
+Uh, the documents will, um, contain information like, uh, this word was once, uh, was suspected to be an NE, but at the the words type, uh, annotation it was, uh, marked, uh, as a regular word.
+So we do want to have the annotation of the documents.
+So that is the word type annot, or word type level annotation.
+(PERSON2) Ah, okay, well, I don't understand the code.
+If the annotators already  de-identified, they didn't know who is who so the labels can be A, B, C and so on.
+I don't think that the data set for the purposes of summarization will suffer much if we if we-.
+(PERSON1) We might afford tracing, uh, other people who are only mentioned, uh, in the, uh, in the ext and uh, not, uh, taking part in the meeting.
+(PERSON3) Yeah, I think I think like I'm not, uh, like certain minutings are still not clear to me.
+(PERSON1) So what I'm thinking of is, for example, for the token level annotation.
+(PERSON2) So she has to decide what should be actually anonymised.
+Where we would be still removing something which, like, we 
+haven't thought of and [PERSON7] has found it out.
+(PERSON2) So that is something totally different.
+The first constant form created, which agrees with, uh, kind of working with our data.
+(PERSON1) Yeah, that's that's the problem.
+So I would now, with [PERSON7], I would focus on the second form which is the consent to publish the data.
+He could browse them and check himself if he is still represented in that or not.
+(PERSON2) What I it can probably automatically extract is from is to extract the names
+of participants from meeting minutes.
+Like, if you have an annotator who could review this.
+And with the consent form sent to Jane or Mary we will say: "Based on our records you were a participant of this and this meeting.
+(PERSON3) Yes, so I think uh what you are suggesting [PERSON1] is like  instead of the master sheet, we could-
+We keep one master sheet, but we keep well from the masters.
+(PERSON1) End end of February would be a good date for the participants, for the meeting participants, to uh, to get their consents, right? <unintelligible>
+<laugh>
+(PERSON3) Okay, so I will, I will increase the timer.
+(PERSON2) Yeah, just the short questions.
+(PERSON3) Uh, so ,uh, another thing [PERSON1], just to I would be adding you to the [PROJECT3] repo for this.
+(PERSON3) So, so the plan is like we will do it latest by 10th.
+(PERSON1) Okay, let's let's do it this afternoon.

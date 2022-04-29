@@ -1,0 +1,19 @@
+(PERSON5) is going to work.
+(PERSON14) is watching the lecture on PROJECT2.
+The lecture has already been live streamed.
+The transcript is processing.
+The ASR and the segmenter should be run separately to test the script.PERSON5 is working on the calculation of Czech transcript this week.
+He needs to get all the input files for the transcription.
+The most important ones are Antrecorp, Austrian, Belgian and all the speeches.
+The most important path for the evaluation is the forced alignment inputs.
+The most up to date OST versions are in the repositor, which you do not have acces to.(PERSON5) wants to start Antrecorp.
+(PERSON14) asks him to put the path of the files that he is processing here.The Antrecorp files with the test are clean all audible cell ties, 16 kilohertz WAVs for the forced alignment and OST files are here.
+The deadline for EMT is tomorrow.
+People need to synchronize on the on the audible SLT test set and depth set forced alignment files.
+The OSTP files are what the SLTF should be and the ASS files are the subtitles for preview.
+The WAV files should be(PERSON1) and (PERSON14) discuss how to create a case similar to the academy test set they have now.PERSON5 is working on a paper about subtitler.
+The deadline is 25th.
+PERSON14 is working on 3 languages Polish, German, Russian and other 43 languages to prepare test the data.
+He collected 3000 sentences for 3 languages and almost cleaned them.
+Now he's working on WSLT and that languages.
+He will create a Python script for Antrecorp

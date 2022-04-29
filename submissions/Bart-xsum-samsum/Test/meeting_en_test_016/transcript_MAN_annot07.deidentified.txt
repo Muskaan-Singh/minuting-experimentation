@@ -1,0 +1,26 @@
+The recording has already started.
+The important document is the PROJECT2.
+The call is being recorded because I'm collecting various meetings.The meetings are on Thursdays.
+The purpose of the meetings is for everybody to say what they are working on, and what they have in mind for the upcoming weeks.
+The meetings are important for me to collect the credits.
+They are also important to synchronize themselves and to avoid duplicatingAfter the presentation of natural language processing tools, the next event will be the English given presentations of the tools.
+After that, there will be one more dry run and then the final session on on the Congress on the 12th of February.
+Then the Monday seminars start again.In the coming days, I need to focus more on sentence detection on both English and Czech segmenter.
+I also need to integrate more on the[PERSON2] 36 36 empty models and doc translation, and spend more time on integrating <unintelligible> office <unPERSON12 is starting a project until 6th of March.
+His main project is multi-source spoken language translation research.
+He is also working on the binding worker for automatic speech recognition and mediator.
+PERSON3 was busy preparing for the Monday seminar and didn't have time to deal with the audio compression.
+PERSON3, PERSON12, PERSON7 and PERSON10 are working on preparations for the SLT shared task.
+PERSON4 is working on the framework or test set for evaluation of simultaneous translation.IWSLT is running a shared task aimed at helping Project2 in the [ORGANIZATION4] Congress.
+PERSON11 and PERSON12 are working on a project.
+They need help with translating documents from English to German, French, Spanish, English and Czech into their native languages.PERSON13 and PERSON15 use different tools for different tasks.
+But still, the underlying tools would be would be the same.
+PERSON11 uses both <unintelligible> Tokenizer and PDF text convertor.
+PERSON5 is supervising and supervising the IWSLT, that's spoken language translation from English into two  languages of interest only: Czech and German.
+There are multiple occasions on which we can use these systems.
+The first occasion is the talk by [PERSON16] on Wednesday.
+In preparation for Wednesday, Person 12 asks Person 14 to process the dry run of the talk.
+People 12, Person 13, Person 14 and Person 15On Monday, people will send in the outputs of the speech processing pipeline.
+On Tuesday, they will fine tune the system and on Wednesday morning, they'll decide which one to deploy for the event.
+On January 29, 2019, there will be a competition linguistics talk by [PPERSON3, PERSON4 and PERSON12 will meet on Thursday and have the session on Wednesday.
+PERSON3 will use this week to train the segmenter and get European data to train a new segmenter.

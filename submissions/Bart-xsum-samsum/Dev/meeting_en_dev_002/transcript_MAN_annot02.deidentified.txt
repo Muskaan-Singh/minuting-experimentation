@@ -1,0 +1,39 @@
+PERSON8 and PERSON6 are going to meet with [PERSON1] in half a minute.
+PERSON4 is getting a visa this Friday.
+He has an appointment at the embassy.
+The organisation organiser has sent him a link to the agenda.The AMI and ICSI data is a good data set, but it is different from what we have in other settings.
+The AMI minutes are boring, but they have one paragraph abstracts of coherent texts.
+The minutes were structured in a way we didn't expect.The data set for the share task is too small for the full training, but it's acceptable for fine tuning and evaluation.
+The participants should get half of the data set.There was no standard for speed summarization share task for a long time.There will be 25 hours of evaluation for English and 15 hours for Czech.
+There will be one separate track for organiser2.
+Organiser2 will use the corpus from 2006 to 2011.It will take about 5 to 10 minutes to prepare the minutes manually.
+The minutes are on the organiser's website.
+For some minutes, just listing who mange, who like contributed discussion is sufficient.(PERSON1) and (PERSON6) explain to each other how to do the research for 2011.(PERSON1) supports it as a secondary track.
+(PERSON1) and (PERSON8) discuss the structure of the project.
+They agree on 3 test sets, corpus, AMI and ICSI, and 3 tracks, the corpus, the [ORGANIZATION2] track, the transcripts and the minutes.PERSON1, PERSON6 and PERSON8 agree that the transcripts should be automatically and provided as the training data.
+They also agree that all the sessions from one particular year should be excluded from the test set.
+There was only one session in that period found in those five years.
+There were some voting and voting on the minutes every week.
+The chapters are quite long.
+The minutes are from different days.
+They can be found based on the date and the title.PERSON7 is working on a fix on consense now.
+He will call Person 6 tomorrow to discuss something.
+PERSON1 and PERSON2 need to redo what has been done by the open academic corpora.
+They need to prepare the data set for the participants to make it easy.
+The first step is finding and downloading the pairs of transcript and the minutes for all the sessions that are thereThe minutes are on the web but they are not useful.
+People have different ideas about how to improve them.
+One person's proposal is to have some people create a summary of the work or some of them or the best transcript that they find and then aggregate the subset to the existing dataPERSON1, Person2, Person3, Person4, Person5, Person6, Person7 and Person8 agree to prepare a corpus preparation.
+PERSON1 needs to find the person who can download and prepare the corpus.
+There is no uniformal format for the data.
+The output should be similar to the basic symbols and data set.
+The text should be in some reasonable way and for minutes.The presentation by the colleague of organiser 1 was on TEITOK in Hnanice.
+Organizer1 will be mostly faciliting on having the ASR and the corresponding minute in one format.
+Organiser2 will be downloading the current downloading of the data.PERSON1, PERSON9 and PERSON6 discuss the format of the corpora and speaker diarization details in the transcripts.
+PERSON1 has a clear idea of what should be done.PERSON7 has a lot of work with English data, but he will join the team tomorrow and he will work with Czech data.
+He has uploaded fast, but only in English.
+PERSON8 wants Organizing2 to put the whole corpus to the server and organize it according to the dates and names of the sessions.
+PERSON8 will continue annotating the data with her annotators.
+The next job is to have the corresponding minutes for each of the transcripts.(PERSON6) and (PERSON8) send each other links to their sources.
+The sources are for the machine translation work.
+The source was released as part of the parl corpora for machine translation in 2011.
+PERSON6 and PERSON7 will see each other tomorrow.

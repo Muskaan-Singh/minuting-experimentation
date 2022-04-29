@@ -1,0 +1,40 @@
+(PERSONm): I hope that everybody's fine with recording this meeting, eh, yes.
+(PERSONm): Okay, and, yeah and there is this, eh, <parallel_talk> I'll minimize this </parallel_talk>, so there is a small agenda for eh the call today.
+(PERSON2): Yes, that's actually correct, we don't want any money.
+(PERSON2): I, that that could be considered official already, mm.
+(PERSONm): Or like you should allocate those in the Overleaf and I will somehow make it clear in the tables, that the person months that are by [ORGANIZATION7] will not be paid for from the budget, but you will be assumed to have your own funding for those person months.
+(PERSONm): Ehm, so I don't know, how this is going to be checked by the commission afterwards, but just promise some sensible number of person months, that you could indeed claim, that you have worked on project, and definitely, it should tasks you want to do within the scope eh, of the project, so just like (broadcasters) further within [ORGANIZATION7].
+(PERSONm): For the real use case, like not remote, eh but but eh, the physical world use case, eh we are  still probably undecided how are we going to ship the translations to the participants, but my baseline eh idea is some web page that gets updated, so that would be again speech to text translation, and eh eh, I don't know em, [PERSON2], whether you have experience with shipping voice to individual cell phones or, how should we approach this for the for the conference or the workshops at eh at [ORGANIZATION7] events.
+(PERSONm): Because [ORGANIZATION1] will not be involved in the the live meetings eh.
+<other_sigh> </parallel_talk>
+
+(PERSONm): Yea, so simply,  [PERSON2] will create a task in the work package 7 in the integration, and this task should have some like many more person month by [ORGANIZATION3], because they need to develop this.
+(PERSON2): Also, for the view for the-
+
+(PERSONm): Yeah.
+(PERSON3): Well, it is, I believe it s not decided yet eh.
+(PERSON3): Yes, it makes sense, but I need to ask.
+(PERSONm): So I understand that the [ORGANIZATION3]  would like [OTHER4].
+(PERSONm): That's, that's very good and I think, that the that needs to be like advertised for in the project proposal as well, and that extends your role from being just the integrator to also working directly on the ASR work package, right? (PERSONm): And since we have the [OTHER4] partner and the best eh ASR system for [OTHER4] in, it's, it would be a pity not to use it i would say.
+<laugh>
+
+(PERSON3): But what to do is probably for you to decide to talk about it in this way anyway.
+(PERSONm): And this is something where we need to eh like eh.
+(PERSONm): Or is it done differently, the speaker adaptation? 23:29 
+
+The number of hours depends on the ASR system.
+And also (obviously) eh the more the data the (most) effect that the adaptation has.
+(PERSON2): I have lost you on <unintelligible>
+
+<other_noise>
+
+(PERSON2): Eh (believing), okay? (PERSON2): My eh, my final suggest in regarding the adaptation is to be able to collect real eh re-speaking sessions in order to also be able to model not only the voice, but also the way it is.
+(PERSON2): Because you know, reading ehmm without the pressure of the event is different than on the event.
+(PERSON2): Ehm let me say, that i've started checking the availability of specific hardware, eh, especially for the re-speakers.
+(PERSONm): Some for, for the equipment eh, I think, that we will also need some of those devices for the re-speaker adaptation.
+(PERSONm): Yeah, so there's one thing actually that I want to wanted to comment on.
+The the imple-, the development of the plot- of the publishing platform of the <other_unrecognisable speech>
+
+(PERSONm): Ah, yea, I see, okay.
+(PERSONm): Or maybe exclusively [ORGANIZATION3], right? (PERSON2): It's much faster for me to wor-  <other_unrecognisable speech>.
+(PERSONm): So, if you start a [ORGANIZATION2] doc, separate one then I'll, I'm happy to do the merging of the text into the Overleaf.

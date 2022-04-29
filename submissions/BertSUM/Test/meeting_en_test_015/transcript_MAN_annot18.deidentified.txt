@@ -1,0 +1,74 @@
+So today is the deadline for, um, stop adding new content into the book.
+It doesn´t mean to comment on text that is not finished at all.
+I´m just planning to rewrite what´s already there, um..
+
+<laugh>
+
+[PERSON14] So you didn´t understand what, what it is content.
+Maybe we should at least check the licence of the paper.
+<laugh>
+
+Yeah, it´s just (covereted) comments by so I only have to atribute the source.
+[PERSON14] OK, the thing is one -
+
+How many such pictures you would like to have in our book? Or I can generate some of pictures from maybe -
+
+I, I plan to generate the picture from, from tabels which are in the, in the, in the papers so, so it looks better.
+I didn´t want to put through it just other but then it´s true that I don´t know where to prove it like these are syntax but, but the the other ones like gender of nouns -
+
+[PERSON21] Hm.
+Um...
+
+Yeah, I tried to group them just on (through) things like syntax or semantics but, um, often I actually did not very sure, um.
+[PERSON14] Because this is <unintelligible>, this is, um, GPT? Yeah, the, the pictures will be, will be changed within so the-, they, they should be nicer but, um...
+
+5.2, syntactic function, dependency trees, so yeah.
+And yeah, maybe we will, we will remove this table, I don´t know.
+And yeah, then there´s this 3.2 which I´m not sure if it belongs here or what to do with it but I think we can decide that at the end.
+<laugh>
+
+[PERSON20] At the other one would, would totally different fonts and -
+
+[PERSON24] Yeah.
+[PERSON20] Um...
+
+[PERSON24] But yeah, also I think this is -
+
+[PERSON20] That´s (line) only say that, um, that you can find the, um, the probability value for word at depositions it´s...
+
+It doesn´t mean any like computational connection.
+[PERSON14] OK, so please, um...
+
+When you finish your part made the lines in the, in the [PROJECT3] schůzky document, um, green.
+<laugh>
+
+Ugly pictures in the -
+
+<laugh>
+
+[PERSON21] <unintelligible>.
+Or whet it´s written somehow we should all of us, we should read it all of book and comment it what is missing where and yeah, where are the problems and other things.
+So yeah, so they have like the -
+
+<other_noise>
+
+(PERSON1), <unintelligible>.
+[PERSON14] One of conclus-
+
+[PERSON20] Um...
+
+I´m not sure if it´s, if it´s the same? [PERSON6] Yeah, anyway would we put something different into a book conclusion and into a book summary? [PERSON14] But...
+
+[PERSON20] [PERSON24] brought some books.
+But this is like related work is included.
+[PERSON6] But it´s -
+
+[PERSON14] Yeah, but this is, this is, yeah, this is in the table.
+[PERSON6] Um...
+
+[PERSON14] But -
+
+[PERSON6] I don´t know.
+[PERSON20] So what´s time is the meeting? [PERSON6] But I did, I didn´t check the ACL website.
+[PERSON24] Do you have to be registered for the tutorials? [PERSON20] Um, but you can, you can ask questions live on [ORGANIZATION1].
+[PERSON6] I think it should work (badly) if you´re here and somebody else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true.

@@ -1,0 +1,15 @@
+PERSON8 is preparing the link into the web interface.
+[PERSON5] prepared some crieteria, so the guidelines for the evaluation are ready, but they are not fully ready yet, so as far as they will be ready, she will share it with the rest ofPERSON4 and PERSON8 are trying to find the minutes of the European environmental accounts debate.
+The index of the minutes does not correspond to the index for transcripts.PERSON5 is showing PERSON8 how they have built a tool for annotation of the valuation.
+They have shown a snapshot of the interface, but it doesn't have their base interface as a meeting.
+(PERSON5) will form an airdraft and send it to Person 8.
+Person 8 will finalize the implemetation.(PERSON4) and (PERSON5) want to build a web base interface for manually evaluation.
+They want to do it for training data and for the train test.PERSON4, PERSON5 and PERSON8 discuss the interface and the draft of the papers.
+They agree that the interface is fine, but they need to be sure about the rating scale and the rates to each of the questions.
+They also agree that it is very hard workPERSON5 will prepare two small minutes so that she can evaluate based on the measures.
+(PERSON4) will choose two different minutes for the same set up of what good and bad minute looks like.
+(PERSON5) did not link the papers which he implemented in the agenda.
+(PERSON4) asked him to do it.
+He did.
+He also did the evaluation of the papers.
+He has sent the meeting transcript and two short minutes.PERSON4 will link the implementation of the paper that the paper of <unintelligible> and send it to Person 8 and Person 5.

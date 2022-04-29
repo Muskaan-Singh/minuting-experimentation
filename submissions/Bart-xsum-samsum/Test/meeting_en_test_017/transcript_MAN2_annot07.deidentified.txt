@@ -1,0 +1,28 @@
+The presentation platform should be ready on the 7th of June and ready to be tested by the end of June.(PERSON9) and (PERSON4) will meet on Monday the 20th of May at 10 on the platform development call.
+They will discuss what they need in the platform and then work on the integration with Project2.
+They expect to have a prototype within a couple ofThe cashing client makes the latency too big for the final users.
+The ASR does not close sentences at all.
+The segmentation worker has decided to end the sentence.
+If you want to see right ASR output, you need to request the unsegmented text.
+The ASR worker can change the output of the segmentation worker at any time.
+The system will be judged by the final translation.PERSON1, PERSON5 and PERSON4 are going to train sentence-to-sentence models for MT systems to handle input like this.The segmentation worker doesn't emit timestamps.
+Organization 1 needs to improve it.The baseline for the workshop is to follow the segmentation coming from the ASR workers and translate sentences like this.PERSON1 will train the models to be ready to accept partial sentences and even inputs that started at the middle of sentences.
+There are problems with badly segmented inputs.
+The solution is to train MT or fine tune send level models to gracefully handle them.
+Then the production client will use a different connector.There is no need to adapt ASR for English and German speakers at this workshop.
+The language model adaptation is working fine, but it's a lot of effort to change language models and it's possible that models system don't need adaptation any more.The workshop runs in English.
+There will be one interpretation of from English into Czech and one interpretation from Czech into German.(PERSON5) should be able to speak now.
+There will be another deployment of the platform and daily testing of the install and test scripts.
+The student for project 2 is not delivering anything.
+They are collecting data from Taos.
+On Wednesday, June 19, the organiser will get MT domain dependent data for fine tuning by.
+And then will get the data from the [ORGANIZATION5].
+PERSON9, Person 4, Person 2, Person 5 and Person 2 are working on a new translation pipeline.
+Person 4 will let them know if it works next week.(PERSON5) tried to fine tunder original model on on on sub sentence window of size three to fifty words.
+(PERSON4) Wide failed, and then so on.
+Now they have paralel subsentence corpus of two million words, about one thousand documents.
+TheyThe first one to train on real ASR from <unintelligible> docks will be the first one.
+They need to record the locks, fiddle with the alignments and segmentation.
+The segmentation mimics what the ASR segmentation worker is doing.
+They willIt would be better if someone from the project was present at the meeting to discuss the presentation platform and avoid broken workers while starting a client.(PERSON4) and (PERSON9) discuss how to improve the performance of the platform.(PERSON9) and (PERSON4) are having problems with their ASR clients or the <unintelligible> are not working.
+They have a lot of sessions starting, stoping with regular election tranclation so it's four to six times a day(PERSON2) and (PERSON4) would like to have a general call in 5 minutes.

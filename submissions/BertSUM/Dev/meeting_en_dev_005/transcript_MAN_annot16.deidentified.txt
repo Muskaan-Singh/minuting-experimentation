@@ -1,0 +1,56 @@
+<transcript>
+
+
+
+(PERSON9) Hi, does it work? <laugh>
+
+
+
+And and do you know who is this M? (PERSON9) Yeah so it should it should it should not be that difficult.
+So actually on the [ORGANIZATION5] server we are able to expose an HTTPS URL, ok.
+Prepare the FFM peg command which streams the video file and both provides the inputs to an AB client client on the server.
+[PERSON6] But at this point we can let the video be playable both from a common web browser, VLC, because also VLC take input network streams.
+Yeah, so so this this is the best solution.
+(PERSON9) No I think [PERSON7] should should discuss it primarily.
+[PERSON6] Ehm, so maybe while we, me, [PERSON10] and [PERSON7] we focus on the technical set up.
+(PERSON9) Yeah, so it's I haven't seen those possible ideas TED talks.
+If [PERSON7] succeeds in injecting these instructions to the subtitles to all the languages.
+And we could simply say that this is due to the fact that we want to show real Youtube videos and we would have to clear copy rights to to re-broadcast them.
+And receives like for the worker so that we can actually call directly the worker.
+You know how to set it up so there is no delay.
+So what we will do is we will we should demo the system transcribing and translating our speech as the meeting goes.
+So there is like do not test only for the success but test also for the recovery from a failure.
+And it should be running for for the rest of you.
+I can-
+
+
+
+(PERSON12) It would be interesting for me is if-
+
+
+
+[PERSON6] Ok.
+(PERSON12) Well if I have video that I think would be good but I can test it on our set up.
+We have a mediator too, we can I can test it on that presentation platform, but.
+[PERSON6] For all the others I copy the cruise control Github repo.
+(PERSON7) Could you demonstrate the plan C which you're currently having-
+
+
+
+[PERSON6] Ok, I can explain you one half the part which involves the ehm video streaming.
+[PERSON6] And the second part is the one who's working on [PERSON10] in this moment.
+[PERSON6] In fact if we go back to the ehm expose directory we will see that DTS files start appearing and being visited.
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation-
+
+
+
+(PERSON7) For this platform.
+Actually in putting everything on the publics server.
+[PERSON6] Maybe well you not the tixati client the one who sends text I do not remember how it's called.
+(PERSON12) Ehm I think as long as you have a set up that i can use to test the videos and ok, I'm actually-
+
+
+
+[PERSON6] Ok.
+(PERSON7) And you will for plan B it is so so you will show me how to insert test text into the [ORGANIZATION2] presenter [ORGANIZATION2] presentering.
+Is it fine for you to have the next test session tomorrow at half past 10?

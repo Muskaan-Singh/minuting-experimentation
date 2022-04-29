@@ -1,0 +1,31 @@
+Today is the deadline for adding new content into the book.
+The introduction is to be done.
+Multilinguality is missing.
+In the next week Person 6 is going to rewrite the text and add pictures to it.
+Person 14 wants to ask the alters if they can include their images into the book.
+Person 6 doesn't know how to do it.PERSON6, PERSON14 and PERSON20 are discussing whether or not they can cite from ACL antology papers.
+They need to specify the licence of the papers.The article was published in the year of 19.
+It's creative comments atribution 4.0 international licence.
+There are many subsections with no content.
+PERSON6 and PERSON14 discuss how to organise their text.PERSON6, PERSON14 and PERSON21 discuss how to divide a document into two pictures and how to change a text file.In the chapture, the first part of the text needs to be written.
+Some parts still need to be rewritten and, and the pictures must be done better.
+The text will be written by [PERSON24] and he has rewritten some parts so that it fits the bookPERSON14, PERSON6 and PERSON24 are working on a project.
+The scale is automatically adjusted to, to show the whole range.
+Some of the embeddings do have some extremes so if you include them, they will be squashed.
+FastText shows the structure and others don't.PERSON20 and PERSON24 are arguing about the differences between their figures.
+PERSON14 and PERSON20 discuss how to improve the figures after they are sent to the reviewers.The deadline is today at midnight.
+PERSON24 is going to read all of the book and comment on it today.
+The only thing missing is PCA and ICA.
+Sentiment is written in English at least 160 pages.PERSON6, PERSON20 and PERSON24 are writing a book about deeplearning.
+They need a preface and a summary of the book.The summary in English must be in every Czech book.
+If the book is too short, they can write the summary in Czech.
+The longest book in the series is the light lexikons.PERSON7, 375, Wau.
+PERSON14, PERSON24 and PERSON6 are meeting on Monday, 13th July at 2 p.m.
+in their office.
+They are going to have lunch before the PROJECT1 meeting and then go to the organiser's2 meeting.
+PERSON14 has holiday fromPERSON20 and PERSON24 are interested in ACL.
+They want to know how it works.
+The presentation will be broadcasted and the QA sessions will be live.
+They need to be registered for the tutorials.
+PERSON6 doesn't know how links work.
+People can watch if they are registered.

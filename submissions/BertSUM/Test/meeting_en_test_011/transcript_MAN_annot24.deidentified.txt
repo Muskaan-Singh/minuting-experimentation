@@ -1,0 +1,38 @@
+(PERSON12) Eh, uh, not always, when I open the link I am never the host.
+(PERSON12) Well, I'm actually looking forward to when you come.
+(PERSON9) They don't report because -
+Like there is a panic among the people like eh, the die solution centers are like not very much eh of good qualit.
+These are only Czech ones and eh and these are very qualitative meetings that is very good to use.
+(PERSON12) This is very important, otherwise you can't read the transcript when you don't see eh, that there is already another person.
+(PERSON12) So at the beginning of the line if we have brackets and something inside of brackets -
+(PERSON7) Uhm hm.
+(PERSON7)  Yes, it's exactly that in the meetings.
+Tak jestli jako kdybys nahodou mohl, jestli by ses pripojil.
+(PERSON7) Okay, so let us -
+(PERSON12) And also there are a lot of cases that annotators should not really understand the name.
+(PERSON12) Eh, in this case, it could be just removed from you is usually -
+(PERSON7) But -
+(PERSON12) I'm not sure -
+So from the point of view of GDPR I could suppose if the word is not finished, it is not the name.
+And the manual validation should be done at the level of word types.
+So it's eeh, we can little bit improve the way we're collecting this list so that we also know the surrounding three, four words on each side.
+Yes, Polak is eh named entity named entity that should be replaced.
+So um, for this two step eh should the annotators do that or I should mys- I should do that myself.
+(PERSON15) And then that means that what they label with the question mark that will come on to them in the Xml format, or in the more complicated format for the individual instances.
+(PERSON12) So Switzerland will be also anonymized? So line is Javascript, catch NLPD, eh, eh catch proffesor, parliament, rainbow, eh, eh whatever that will immediately and [PERSON14] up to [PERSON14].
+Okay and -
+(PERSON15) That's the fastest, so you need -
+(PERSON7) Yeah.
+What is not a named entity that will, uh, be labeled in the whole corpus as a not a named entity like, uh, as I said: this word was suspected to be a named entity.
+But we have decided at the token, uh, at that type level that it is not.
+And it would be something like speaker, ID equals and then in eh quotes the the anonymized version of [PERSON15].
+(PERSON12) And -
+(PERSON7) We must provide a table for the speakers.
+If you use MT five sum, that is not reversible.
+(PERSON15) So use MT five and cut some, uh, middle letters of of that.
+I'm so I don't know eeh what Ondra told now that [PERSON2] should say us? And then the annotators, the two annotators will take let's say twenty or fourty like twenty minutes, twenty meetings each.
+(PERSON9) Yeah, so I want to ask [PERSON12], so why do we like again do the minutes since the minutes are already there? So I don't want -
+(PERSON2) <unintelligible>
+(PERSON12) to create twenty minutes myself.
+You have to ask [PERSON15] about the timing.
+I actually I don't even understand why should we create minutes.

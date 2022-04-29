@@ -1,0 +1,19 @@
+PERSON5 and PERSON6 are going to have a coffee meeting.
+PERSON5 will send them a link to minutes and the organiser's link.
+Person6 will also put the organisational2 link and the [ORGANIZATION2] link.PERSON5 and PERSON6 have problems with the organiser of organiser's meetings.
+Organiser's meet is going to be free for one hour from next month, but they have to pay for it for the rest of the year.
+They have a paid version of the organPERSON5 and PERSON2 send him the pre-processed automatic speech reconstructed transcript.
+He listens to the audio and corrects the transcript.
+After that he writes the minutes and sends them to me.
+The original minutes were created by the annotators.The minutes of some of the meetings are very short and they contain just one line.
+But on the other hand they are rea <ehm>, so they contain real names and they don't have errors in the content.
+People have to check if their transcript and the minutes are okayPERSON4 and PERSON6 had a meeting with the person who deleted their team.
+It deleted the team, but they will keep communicating with you in the same way and that they will manage (log it up) log it up.
+PERSON4, PERSON5 and PERSON6 are discussing whether or not to use alignments in evaluation.
+The proposal has to be submitted within the first week of November.
+The manual measure is a manual measure for <ehm> automatic (minority).There are many automatic measures for summarising papers, but none of them works well.
+The protocol I wrote is based on human evaluation.PERSON4, PERSON5 and PERSON6 discuss human evaluation in nature language.
+If they don't come up with an alignment based manual evaluation, they will go with the <unrecognisable_speech> instead.(PERSON5) and (PERSON6) discuss the proposal and the data format of the basic sample trial.PERSON4 and PERSON6 discuss the format of the data storage from Sorbow to GateHub repository.
+The format is stable, but there are some details to be worked out.PERSON4 does all the pushes in GateHub.
+Before pushing, he renames the names in the cluster and anonymises the names of the annotators.
+If he is allowed to do it so, he has to change all the names for each annotator.PERSON4, PERSON6 and PERSON3 will have a meeting tomorrow morning.PERSON4, PERSON5 and PERSON6 can't discuss anything without [PERSON5.

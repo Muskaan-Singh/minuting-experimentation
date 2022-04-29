@@ -1,0 +1,42 @@
+The presentation platform now requires password.
+The authentication fees have been reintroduced so that only people participating in the event are allowed <unintelligible> subtitles.
+The administration user is allowed to assist to settings.
+The credentials provided to people preparing for the workshop are limited to one password.There are problems with the platform in the mediator.
+It is not possible to manage ASR output multiplexing at client level.
+It has to be done at the level of the client.
+There is nothing in the protocol to help solve the problem.
+There are bugs in the platformPERSON12 would like to see the information lines going from English lecture [ORGANIZATION2] hybrid audio to English <unintelligible> English text to English published, and similarly for the for the other languages.
+It's not meant to work in the case of theThe machine translation workers are not working properly.
+There are some bugs in their systems.
+The solution is to change the EB client.PERSON2 is going on holiday.
+Organizing3 has low availability.
+People need to rewrite the script.
+People will be around on Wednesday, Thursday and Friday but not tommorow.
+The presentation platform has finished.
+It received English and German subtitles.
+However, it failed to stream the slides.
+It's not related to the new authentication that is in the presentation platform.
+The participants notebooks will all be connected to the same wired network, and they need the RTMP protocolPERSON1 and PERSON12 are trying to set up a presentation platform on the local network for organizing an event.
+They need to connect two machines to the same network, run engines on one of them and open the other one.PERSON11 and PERSON12 will join PERSON3 in the organization around the 16 or 17 if they don't get kicked out.
+PERSON13 and PERSON11 agree that it is possible to have the English subtitles presented from the main round table, and the translations to go from the respeakers.
+PERSON11 will be travelling on Wednesday.
+He will provide his support during his travel.
+There are some issues with the presentation that need fixing.
+(PERSON11) and (PERSON12) agree that the presentation platform should show two long strings at the same time.
+The segmentation worker should prepare phrases for machine translation.The segmentation worker from the ASR does not have access to the continuous stream.
+The risk is that there is no end of sentence in the original speech and the subtitles won't fit into the small window.
+The solution is to disable it for now and test it during the afternoon.He restarted workers on my request.
+There are seven workers but only seven of them are taken here.
+There is a delay in the mediator in the admin interface.
+The information about the availability of two workers is updated every two seconds.
+The empty workers should be used by the pipelinesPERSON11 is going to configure te presenation platform, English as the top priority source language.
+If there is no English available, the subtitles will not be published.
+(PERSON6) and (PERSON12) are trying to set up a website to help restart ASR workers.PERSON12 wants to know how to restart the workers.
+(PERSON6) Restarting the workers is not easy.
+It takes a lot of effort.The ASR workers are not being restarted fast enough.
+With the way is using the system, which is causing this problem to be more severe.
+It would be possible to have a script to make restarting them faster but mapping them to session IDs and making the script available online isThe log files should contain one more line to know the session ID.
+The log file already contains the docker ID in its file name.
+This will speed up the restarting of the worker.PERSON6 and PERSON12 are trying to connect to each other.
+The connection is complicated because the workers are running on different services.
+PERSON6 asks people to prepare a simple script restart session ID and modify worker to show session ID.

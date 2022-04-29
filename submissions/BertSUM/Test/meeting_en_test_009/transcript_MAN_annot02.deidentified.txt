@@ -1,0 +1,51 @@
+(PERSON5) I can also view the lecture on [PROJECT2] [ORGANIZATION4].
+(PERSON5) So he basicly proposed that the ASR and the segmenter they should run separately.
+(PERSON14) So the ASR -
+
+So I'll disconnect this -
+
+Now I'll hear you better.
+And I would to review review the scripts, not to test them.
+With or without true (cancer) I gave up <unintelligible> I'm still <unintelligible> for this sound this week.
+(PERSON14) No these are the easy, the AMI is easy.
+And, so, I'll just say and so long of chunks it's not important and so consecutive plus w w w what is that (BGP) test.
+(PERSON14)Yeah, so forced alignment inputs and go to see 5.
+So I just wanted to mention that [PERSON10] has already -
+
+So that there is some inconsistency of names now, and they are is ([PERSON11], [PERSON8] and [PERSON13] and also [PERSON13], ??) You should simply -
+
+(PERSON5) Not look at these transcripts.
+<parallel_talk>So we don't have [PERSON10] here on the call .
+And the it's probably I'll have to I think I'll have to do it myself so that is make sense to you.
+So its -
+
+Only that after we are happy with the forced alignment, and after we have converted since to to the subtitles for the caraoke for preview and the OST format that SLTF evaluates, than we need to have it versioned.
+So this is -
+
+And depth set is -
+
+Depth set -
+
+Since set is -
+
+Yeah, so it is just 2 files.
+And then we will have one more one the right outputs output paths.
+(PERSON5) Path, <unintelligible>, [PERSON14].
+So and similar thing has needs to be done for this.
+Just I if it is possible I can do everything tomorrow, okay? (PERSON14) Okay, if I have not done that myself then do it tomorrow, okay, yep.
+And so I'm writing, and everything is fine.
+(PERSON14) Okay, yeah, so, thanks, so, please all of you who are here go over the yours your comments and discuss anything.
+I suggest that we all rehandle the Doodle poll.
+(PERSON15) Yeah, so, what's new [PERSON5]? We would has to be given it's all timestamps and didn't know what <unintelligible> that I give the one segment and I had -
+
+Now I give the timestamp of one complete segment.
+So now it helps to test WSLT and that languages.
+And after that I will collect from other 43 languages.
+This week work was very slow because of some other reason, so -
+
+I think I can leave.
+(PERSON5) JSON file -
+
+So [PERSON14] (forrest) ask me to process this Antrecorp test which is an 17 and 18 and 19.
+(PERSON5) Yeah, so that's the, moment, so these I meant the subtitles for this <unintelligible> test, they are in VDD format or <unintelligible> do that.
+Tell me what exactly the files and what you need and maybe I can create this script for it.

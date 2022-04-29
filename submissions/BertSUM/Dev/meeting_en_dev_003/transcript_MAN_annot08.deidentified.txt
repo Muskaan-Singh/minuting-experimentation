@@ -1,0 +1,50 @@
+(PERSON3) Ensure that I have followed the guidelines that you have sent.
+And and the other think if now we have to really (mobilize) our efforts tools the proposals.
+(PERSON3) So the <unintelligible> [PERSON5] like uhm I <unintelligible> late personally I would prefer the shared task to be as simple as possible, 
+because even the task is hard.
+(PERSON5) So actually, 
+why we want to run this [PERSON4] 's tool is that <unintelligible> has actually no real sense run estimating the summariz on the one hand, 
+and on the other hand that manual metrix, manual evolutions that we have now are very very subjective and uhm kind of also very wake.
+The only thing that is <unintelligible> too properly align with the properly align with the corresponding trasncripts.
+(PERSON3) So I 'm saying that for for the you-
+(PERSON5) Firts, so.
+(PERSON3) And <unintelligible> with to you <unintelligible> finally data.
+(PERSON3) Yeah, so one thing that we need to be sure about the tool is like the tool is doing annotators uhm like alignment <unintelligible>.
+So but the thing is that once the once the annotator does the alignment,
+so what is the output of the tools.
+It should be some manual score or metric or what.
+So that I think you need some discussion.
+We sh- uhm
+Yes, this is important question.
+(PERSON3) So yes, for example, if you see uhm that (Jens) that minutes fix just smaller part of the transcript 
+or uhm then so then they get less as smaller number of kind of in these evaluation.
+Similar I think <unintelligible> go for summarization when we see that <unintelligible> models <unintelligible> very good.
+So <unintelligible> we have other type of data somehow,
+that not just big one hour long transcripts,
+and long too pages long minutes.
+(PERSON5)  I 'm not sure if I'm say- saying it clear enough.
+Because there are still many questions unanswered.
+But there is some connection is missing that.
+I think it-
+(PERSON2) I'm here <unintelligible>.
+We started an hour earlier than normally today.
+(PERSON3) Yeah,
+if you if you want to start uhm you can.
+And and how we how the work could be started.
+(PERSON5) Are are <unintelligible> I 'm looking forward to started from this from September, 
+because I think we have a lot of data
+and I 'm so I 'm still (waiting on terms) for creating uhm kind of uhm double summarize for meetings that are already minuted.
+I think about that, 
+and probably excludes some <unintelligible> meetings, 
+and some other meetings 
+and I uhm I will definitely start with imaging center of the shore <unintelligible>.
+(PERSON2) So [PERSON5] what exactly do you want as one from us like to start the annotation work, because I think we should do it as soon as possible, 
+because it will it is going to get a lot of time.
+You can tell me whatever you one may help with.
+(PERSON5) Uhm I didn't speak to him, 
+I didn't so uhm we don't have the con- concrete topic to ask him,
+so so I didn't do it.
+(PERSON5) If you noted to the agenda, 
+it will be it would be great.
+So I think I think we can have something by the end of the week for all of this.
+[PERSON5], you should you should have it by the end of this week.

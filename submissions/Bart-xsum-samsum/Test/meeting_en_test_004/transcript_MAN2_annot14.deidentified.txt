@@ -1,0 +1,46 @@
+PERSON4, [PERSON9, PERSON11, and PERSON1 are on a conference call.
+The microphone was muted, but the voice level of the amplification should be reasonable.
+There is no true German speaker at the moment, so they are presenting the subtitles directly whenPERSON1, PERSON9 and PERSON4 want to test the German ASR.
+(PERSON1, PERSON7 and PERSON9) are trying to translate German into English and then back into German.
+(PERSON1) and (PERSON4) are solving another issue with the presentation right now.
+They want the critical observations from the test at the end of today's blog.PERSON1 will share his screen with Pexip screensharing.
+PERSON1 will try out the multipol input stream request functionality.
+(PERSON1) started some workers yesterday.
+They translate multiple times the same ASR output.
+It's not optimal and it bounces also the usages to the key worker.
+(PERSON7) is trying to figure out something to manage it for the June meeting.
+Organizing(PERSON4) wants the ASR worker to return something even if it can say we could repeat it.
+(PERSON9) Cashing is useful even if there is a genuine repetition.
+PERSON7 and PERSON1 are having problems with the presentation platform.
+The German ASR is not working, so they need to use the English ASR.
+(PERSON7) shares his screen with PERSON9.
+They are working on functionality for VLC.
+(PERSON9) wants to get access to the source code of the web page for debugging purposes.
+(PERSON7) doesn't have it, but asks for the repository of Project2 to upload at least the part that runs the video client and the webpage that shows the video(PERSON1) and (PERSON9) are trying to figure out how to start the session.
+They want to send the audio and the presentation platform and show the subtitles corresponding to that.
+PERSON1 connected English and German screenshare and it's not working.
+The worker is correctly engaged and he says that it's publishing at Winx, but PERSON7 and PERSON9 can't see anything in the presentation platform.
+It's a matter of web browser.(PERSON9) wants to test it on a Linux machine with Google Chrome.
+It works on one machine, but there are still some problems with browsers and Windows.
+The main focus now is to focus on the logic in the ASR.
+Next Monday, Person A will be onPERSON7 is available on Monday, but not on Friday.
+(PERSON7) and (PERSON9) want to know how to improve the quality of the streaming from VLC.
+(PERSON12) explains to Project 2 how it works.
+(PERSON7) There are three issues with the presentation platform: character in coding, subtitles not appearing, font size and number of words displayed, and multiple sources for the same language.
+It is not possible to see the administration interface.PERSON7 can't add admin now, because it requires the credential.
+The language sources are the audio sources.
+There will be the default available languages displayed in the front page.PERSON1, PERSON9 and PERSON7 are looking for a map of the database of fingerprints.
+They need it before the 27 June meeting.PERSON7 is not going to the workshop, but he will be there in order to check technicals and provide technicals.
+(PERSON7) and (PERSON12) don't know how to update the presentation platform to accept more fingerprints.
+When changing the set of languages and adding also the Spanish language, ES, it will affect the buttons available on the front page.
+PERSON9's presentation is not running properly on both on Windows 10 and on Windows 7, because the microphone is not working.
+The slides are too small for the default screen, so the participants will have to sit in front of a notebook.
+PERSON9 wants to make changes to the website for the workshop in two weeks.
+They want to make better use of the space of the screen.
+(PERSON12) and (PERSON7) would like to have the video screen text bigger for desktops.
+They want the slides rectangle to be wider and the subtitles to be displayed.
+They also want at least 2 languages supported.(PERSON9) wants the clie- the console client presentation platform to send back the published subtitles so that they can catch the subtitle directly from the client running.
+(PERSON7) is not sure about the answer.
+The presentation platform will be deployed on asure.com on Monday.
+The goal for Monday was to test more languages in the presentation platform and improve the functionality.
+On Friday they have to check the multiple language fingerprint path selection and the multiple publishing system.PERSON9 will try to clean up the Google document on the prepare to the calls and make it explicit.

@@ -1,0 +1,16 @@
+PERSON2, PERSON4, and PERSON2 are going to have a meeting on Thursday at around 1 P.M.
+of their scheduled time.
+There will be a call with the other project partners.PERSON4, PERSON9 and PERSON6 want to know if they can come visit them for a limited time.
+PERSON4 wants them to think about it as a mandatory visit.
+It's 1 hour from now and 4 days from now.
+They need to enter a properPERSON4, PERSON6 and PERSON9 are trying to apply for a visa for a student from India.
+The paperwork has to be shown to the [ORGANIZATION3] when applying for the visa.
+The organization is closed.The organization organizes a meeting on Thursday.
+The communication is not completely perfect.
+There is some objective problem with the quality estimation.
+The certificate on the server has expired.
+The leaflets are being prepared and handed out.PERSON2 and PERSON9 are discussing the work on Project 2, Project 5 and Project 6.PERSON4 and PERSON9 are sceptical about machine-learned evaluation methods.
+They agree that they might be sensitive to domain shift and, and such, so it might be useful to keep that in mind.
+They also agree that the metric might be semantically sensitive, but(PERSON9) and (PERSON2) discuss the use of the blurred metric.
+They agree to work on it until they have new ideas.PERSON2, PERSON4 and PERSON9 have discussed everything they needed for this week.
+They will try to have a meeting for the task next week together with him.

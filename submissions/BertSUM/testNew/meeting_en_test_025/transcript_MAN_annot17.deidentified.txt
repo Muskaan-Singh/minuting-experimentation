@@ -1,0 +1,37 @@
+Or maybe can can someone else, give it a try as well.
+So uh there there is like natural shortening in the data.
+(PERSON1) Yeah, so-
+
+(PERSON6) (Probably) I will work it on tomorrow.
+(PERSON6) And uh I I just saw the uh program for ([PROJECT2]).
+(PERSON1) So even if we do the test of uh like the two concurrent uh subtitlings.
+(PERSON3) Yeah, so I am compiling some (clusters) <unintelligible> (for that).
+But there are some audio files uh where it, it gets converted to the <unintelligibile> format.
+Uh so this should really be done uh all the time.
+So uh every time, there should be a fresh download of [PROJECT1] test set, a fresh conversion and fresh evaluation.
+(PERSON1) And you have the-
+
+(PERSON3) I'll have a call with him.
+Uh the uh-
+
+So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.
+(PERSON1) So you just convert the uh the uh international phonetic alphabet into the phonemes, uh, that uh uh that uh (cmu) knows.
+(PERSON1) So that way uh these random errors, such as the example with this (four Ibm) instead of (Ibm).
+And I think that this way uh the uh these uh systems should be able to to load it.
+Uh, used to observe uh her more steep conversions, and uh now it uh um.
+(PERSON2) But uh if if you have uh transcript, and we want just to do uh just to do uh time stamping.
+There is possibility to use language model.
+So I think that if if you [PERSON7] focused more on getting the numbers.
+I- it's basically about uh the error rates uh in machine translation.
+(PERSON3) Right now, one is from [ORGANIZATION1].
+So you may be <unintelligible>
+
+(PERSON3) Uh I have the scores, so that's why.
+There is this problem that basically the length is incorrect.
+(PERSON4) And how much time do you have to work on the German ASR? (PERSON5) So I figured out that actually in the fi- in some of the files there is, you don't just hear the interpreter.
+That it's picking up the wrong person, actually.
+(PERSON4) And <laugh> if she says that not, even when the quality is good, then then we don't need to care much about the rest.
+Various manual is also available for that package.
+(PERSON6) And just let me <unintelligible>.
+(PERSON2) Uh uh I guess that they are so mhm.
+I will let you know an email or (flight), because tomorrow I I uh am usually off for Friday prayer on Friday for ten to twelve.

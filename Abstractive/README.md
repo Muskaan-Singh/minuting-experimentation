@@ -11,7 +11,6 @@
 !pip install nltk <br/>
 !pip install gensim <br/>
 
-
 # BERT
 cd Bert <br/>
 pip install -r requirements.txt <br/>

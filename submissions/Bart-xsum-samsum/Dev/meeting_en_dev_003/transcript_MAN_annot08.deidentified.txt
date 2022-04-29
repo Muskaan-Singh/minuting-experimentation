@@ -1,0 +1,16 @@
+The deadline for the data is November 30th.
+The proposal should look good with all the components.
+The annotators should be ready by the end of the week.
+They will discuss the annotations and alignment tool today.(PERSON3) and (PERSON5) propose to skip the fast shared task and make the alignment part of shared tasks to improve the quality of the annotations.(PERSON5) wants to relieve (PERSON3) before the end of November.
+She wants to get manual and automatic evaluation metrics for the shared task.
+She also wants to know what she should do herself to be more effective.PERSON5 needs someone to take charge of organizing the annotators work.
+PERSON3, PERSON5, and PERSON6 are waiting for someone to help them with a task.
+The task is written in Python, and Python has problems when install in that tool.
+The tool is doing alignment, but it's not clear how to use it.PERSON3, PERSON1 and PERSON5 are discussing how to improve the quality of the minutes.PERSON5 wants to start the alignment thing with the annotators soon, but she's not sure if they should include the evaluation part as part of the shared task.
+The tool is ready, but there's some connection missing.
+PERSON5 wants to start the work on the alignment of the corpus from September.
+He wants the annotators to do the annotations from Monday on worse.
+(PERSON5) and (PERSON3) will meet on Friday to discuss what to say to annotators.
+They will have answers to all of this by the end of the week.PERSON3, PERSON2, and PERSON5 are going to meet tomorrow to discuss the evaluation.
+They will also discuss the proposal for organisational data and annotators tool.
+The deadline for the data is the end of this week.

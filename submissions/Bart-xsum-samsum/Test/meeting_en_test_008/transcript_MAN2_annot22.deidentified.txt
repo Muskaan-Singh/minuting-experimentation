@@ -1,0 +1,15 @@
+PERSON7 and PINDI will do some probing on transformer networks.PERSON7 and PERSON3 are talking about how to improve the tactogrammar.
+PERSON7 and PERSON3 want to have a skype call with the people in [LOCATION2] for two weeks.
+The attention matrice is a line with particulations and it's chunked down from much attention eh is focused of the first of words data in ee syntactic laytion.
+The lower layer zero lenght layer was quite good and for for one subject -  PERSON7 is training about its raise or the dependency trees.
+PERSON5 is in location 1 until the 15th December.
+He will be taken in the beginning of December.
+Two syntactic heads were trained to be similar to the gold trees in order to improve their performance.
+They don't need to annotate the syntax when translating, because it's an objective function.
+They also report better results improvement in they in they target these two heads like gold syntax.PERSON3 is reworking the manual paper.
+PERSON10 is working on the money paper.
+PERSON3, PERSON10 and PERSON5 are discussing the differences between multilingual and based multiligual models.
+There are three layers to the model: large, small and base.
+The large layer didn't capture syntax crash.
+The small one didn't but it's just layer just and predict <unintelligible> in tact.
+It's to have layers model analyse small layers so it'sPERSON3, PERSON10 and PERSON1 are working on their master thesis.

@@ -1,0 +1,48 @@
+<another-language>
+
+<other_noise>
+
+(PERSON2) We still didn't have [PERSON1].
+So briefly describe all what you did what do you think deserve some <unintelligible> because it is usefull for at the all all of that.
+And everybody else who should also come later.
+So that is the early session for the adaptation.
+So there will be then other Monday seminars.
+And the second dry run and then the final workshop.
+So so there two events which have the same type of adaptation.
+So two weeks from now and a little bit later.
+So that's the 18th and till 20th March and for that we would highly benefit from having some profanity filtering.
+And It will be non-native speakers of English.
+So and I would like to ask everybody to to say what they did and think about what activity they would like to work on.
+(PERSON7) I don't know what he is using the tools what is the aplication so it would be nice when we would be -
+
+(PERSON2) So I didn't catch the details, the numbers.
+So if the idea is that the compress sound goes always to network and is directly decompress before (begin sent).
+(PERSON2) <unintelligible>
+
+(PERSON1) Yeah, yeah, so but I believe in the putting up the <unintelligible> top of list.
+So that's a like a bigger experiment and I would probably find someone new for that one semestr stars from the students but it's it is an option.
+So -
+
+(PERSON2) So the bad thing -
+
+[PERSON15] is on the call.
+So realize and then [PERSON11] has double checked this corporas actually.
+So I think that it would still be interesting to run your forced alignment of this data and we you can now use the existing time stamps to break the long recording into shorter ones.
+It 's I don't know I don't know why it's a case normaly recorders it's much quieters.
+(PERSON16) But the question <unintelligible> corpus we had the English and [LOCATION4] parts or only-
+
+(PERSON2) So no, we have only one recordings translated into [LOCATION4] and [OTHER1].
+Because I have access to some of them because it's a little bit - 
+
+So maybe if we can have name of files.
+So I've experimented with various technics and especially like domain adaptation of a language model and then acoustic fine tuning on [PERSON3] talk.
+Now my systemlooks in the window with a greedy decoding and looks for pauses bef- between words and I have window that must be at least four seconds long and maximum is eight seconds found find the the most probable pause between the words and then I cut the windows there.
+But the results were at least for at least for some [ORGANIZATION2] talks they were really bad because the the corpora on which the transform were trade was trained is for casual speak and and fairy tales and so on.
+(PERSON15) I hope so but I haven't heard from [PERSON18] yet.
+(PERSON15) That sould be better and the next problem is that the windows overlaped sentences and this causes some problems too.
+So you are in touch with some other colleagues from here who are actually <unintelligible> today.
+I remember that I have asked him to check if the virtual machine set up is is reasonable and something like that and then forward to the IT department.
+And I told you might be interested in it.
+(PERSON2) ehmm
+
+(PERSON10) And they also say it is that it is robust and dust nearly eliminates words keeping <unintelligible> which is also interesting interesting so I can just send it to you if you like.

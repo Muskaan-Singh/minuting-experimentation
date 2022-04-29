@@ -1,0 +1,79 @@
+(PERSON4) So I just realized that the, the, the speakers are -
+
+The left speaker is to the right.
+<other_noise>
+
+(PERSON4) <unintelligible>.
+(PERSON4) I donít know how to change it but -
+
+(PERSON1) Because <unintelligible>.
+Um, then, um, I plan to write like official email to [PERSON9] that we want to, that we want to have a book, publish a book and, um -
+
+In the instructions on the web is that we should, we should send him a table of content at least.
+(PERSON6) We can -
+
+I think we can send him the whole thing and just tell him how it's <unintelligible>.
+<laugh>
+
+(PERSON4) So, yeah, we still donít know whether to restructure it somewhere to have only one chapter -
+
+(PERSON6) Hm.
+(PERSON4) But for - so, um, for example who will be here the second, second week in the, in July? (PERSON7) Anyway, doesnít really matter I plan to be here anyway but -
+
+Yeah, thatís, thatís good because I want to send something and, and I havenít written anything yet and Iím writing the book so -
+
+(PERSON4) Yeah, I suppose that we, we will send some, some of the papers to Black box because, yeah.
+So, we can, we can have a meeting on July thirteen, fourteenth.
+(PERSON6) But do we have some meeting before that or? The next Tuesdays will, there will be the meetings.
+(PERSON4) Because -
+
+(PERSON6) So thirtieth we do have a meeting.
+(PERSON3) Well, it, it, it doesnít, does not depend entirely on me but I think the results is that, that we have now wonít lead into something publishable in two weeks.
+So, I donít know how long, um, will take, um, the, the reviews and all the, all the things which I planned for half of ye-, half of year.
+Um...
+
+So, um, June, June thirty, stop -
+
+(PERSON7) Um, actually it says here that we say I donít know whether we have to prove it somehow or whatever that we werenít able to -
+
+(PERSON4) Yeah, I know.
+(PERSON6) So for some conferences that happen in the first half of 2021 we could still use the money from the project? Or at least for a couple of days per week.
+We tested this thing of, um, neural machine translation and we tested bad and (beside the, beside) the outcomes or <unintelligible> try more param-, changing the parameters and see different heat maps and ñ 
+
+Um, but it will be much more and more complicated how to, how to say something about that so.
+(PERSON4) You would say -
+
+(PERSON3) Yeah.
+And also, I donít think I will be writing very much about, um, the generative, the new generative language models because like they are based on sub-words and the embeddings are not interesting anymore.
+So thatís, Iím the - the, the, the, the -
+
+Thatís the overview of where my chapter is going, and I have a few questions about data, but I think it will be easier to ñ 
+
+If I just write them on Slack and we will discuss it there because I have to run anyway.
+Um, but these ones they should probably there, um, in some form.
+Um, so, um, yeah, itís a same thing so itís, itís, um, things from different parts of the chapter now moved together to one syntax section and -
+
+Yeah, I think I'm missing still some of the key, um, papers that find syntax in there.
+(PERSON6) Um, it doesnít really fit to the linguistic abstractions, before so I moved it here now.
+<laugh>
+
+(PERSON6) I donít even know if we want to put it into this chapter cause, um, in some way -
+
+(PERSON3) I think we -
+
+I think we do because itís about, itís about the hidden states of multilingual [PROJECT2].
+(PERSON3) Um -
+
+(PERSON6) Thatís basically what we did for the related work in that paper.
+But I donít really, I donít send it to [PROJECT1] -
+
+(PERSON6) Hm.
+(PERSON1) So mostly language models and machine translation.
+(PERSON1) Like from this paper -
+
+(PERSON3) Hm.
+(PERSON4) At the, at the end because <unintelligible> -
+
+(PERSON3) If you, if you have a look -
+
+If you have a look in deep learning images slash, um, <unintelligible>, underscore, encoding, um, you can, youíll see how to, how to set up, um, the LaTeX format.
