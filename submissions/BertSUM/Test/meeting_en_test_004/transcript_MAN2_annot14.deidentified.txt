@@ -1,0 +1,37 @@
+(PERSON9) Hello, can you hear me, is it doing anything? (PERSON4) Yes, we can see you, so here's [PERSON2], [PERSON11] and me.
+So I will try to get the batteries, ehm, and you're right that- the good thing about German ASR is that we don't rely on the German, on the English segmentation worker so that that could run as well.
+The HD, it will become blue, no, post thing, view normal presentation.
+(PERSON8) <unintelligible>
+
+(PERSON9) So I'll try to share it in another way as well as well, but I'm not sure if I'll I'll make it.
+So I don't know how to, maybe it's not possible to do with the with the screen sharing.
+(PERSON4) <unintelligible> we found it there.
+(PERSON7) It could- It could work also asking, for example, for multiple eh translations that's giving the input audio file, and they want, for example the germ-German audio file and that want in to receive the English translation and the French translation.
+(PERSON4) One thing is efficiency thing, like we are getting the same request multiple times, sometimes four five times the same input.
+And all their workers are are meant to work in a transparent behavior.
+(PERSON9) I think it's what we want, because like it's very same string then the empty worker should not have been called.
+(PERSON1) I don't know I worry it's only-<czech language="">
+
+(PERSON7) Sorry, guys I run a test with the English ASR, maybe it's me, I wrack now finish.
+Is there anything we can test today, remember I should be the one talking more.
+(PERSON9) Yes, so can we test this now as well? (PERSON7) When I will find working ASR worker, for example, if you free me the -
+
+(PERSON9) Is there any way that we could ship the data to it? Well, we see something in the locks but we don't see it in the Elite- in the presentation platform yet.
+(PERSON7) But, ok, it, actually it work we haven't yet tested the multiple publication <unintelligible>.
+I would just like to ask if you could get in touch directly with [PERSON10] and make sure that they help you with the with segmentation input.
+(PERSON12) All right, the M3U8 format it's it's ehm list all the currently available chunks and the browser goes, again and again, fetching the M3U8 file, right? (PERSON9) So I'll share, I'll start, sorry, I'll start sharing my screen so that you can verify if I'm doing it right.
+(PERSON9) Are you going to [LOCATION1] for the workshop? And do not edit the existing ones, so [PERSON7] could you please put all the fingerprints of the languages that the presentation platform responds you next to he object that I just created? <unintelligible>
+
+Idea is to add just a minus pub to language-
+
+(PERSON9) But the German is different, and Italian is different, so the English is, English has EUN  it's not like GB, so that's-
+
+And we need the the full list of languages.
+(PERSON9) Yeah, so [PERSON7] I'll paste it to your, oh this is too bad.
+(PERSON9) Yeah, so this is this is the full screen mode of the web browser, what you're seeing in the webcam from my Pexip, right? Well, actu- I think probably at the moment the CSS is operate the same we have to introduce-
+
+(PERSON9) To different ones.
+Yesterday we actually we tried for the full screen mode to prepare let's say a kind of overlapping, you know the the <unintelligible>, but we haven't found a solution and it's actually it's it's nothing in problem to, to develop it.
+(PERSON7) I'm reasoning about it because at the moment, the the worker, the publi- the publication worker returns exactly the packet recieved and not the one published.
+Ok so thanks a lot and talk to you on Monday.
+So that we know what is what is happening.

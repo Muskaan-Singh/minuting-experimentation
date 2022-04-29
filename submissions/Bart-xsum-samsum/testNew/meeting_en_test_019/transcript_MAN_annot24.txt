@@ -1,0 +1,35 @@
+The goal is to synchronize the group, and the date and time of the week is chosen, so that it is fits to most of them.
+If people can't come, it's not a problem.
+Matus Zilinec will give a brief summary of what he has been workingThe consent to process the data within the team is not required.
+It's only consent to use the data for summarization purposes.
+The team is preparing for the Metaforum conference in December.
+The conference will serve as a test event for the technology.
+If the EUROSAI Congress isMichal Novak is using the rainbow model for paraphrasing for his work.
+M has been working on collecting monoli- monolingual data for this model.
+It is a problem to find spoken data.
+He is in touch with Eda Subert for help.Facebook released a data and a model for mining parallel data in one hundred English-speaking languages.
+On some of their testing data sets from IWSLT, the models are not much better than the best Edinburgh model, probably because they didn't train on spoken data.
+In order toEbrahim Ansari is overseeing the development of the SLTF.
+Vojtech Srdecny is moving more towards system integration.
+Daniel Suchy will join them only from December.
+The ELITR test set is completely finished.
+Ondrej's wi-fi is working.The ELITR project wants to make SLTEV the standard evaluation tool for spoken language translation.
+They want to publish it at a conference.
+Ebrahim is in the Czech Republic and he is working on his things.
+He will talk with Peter Polak about the evaluation of ASR systems on SLTEV.Next week O will come to UFAL and help Rishu with the evaluation of the systems.
+Mohamad wants to talk to Sangeet, Rishu, Mohamad and maybe Umar about the censorship pipeline.
+Bohdan has worked on multi-target machine translation for his master thesis.
+Now he is working on ELITR to develop multi-source train set.
+The cluster is full and it's hard to receive more than one GPU per machine.
+Bohdan will double check if the paperwork is alreadyPeter Polak and Umar Faru are working on multilingual ASR systems.
+Rishu will help them with the onlinezation of the model.Umar and Bohdan should train as a comparin- compa- comparison in using the exact same training data.
+Umar also should be in touch with Bohdan.
+Bohdan can contact R by e-mail if he's interested in doing some communication.After the lecture, Peter and Umar will stay for a while.
+Peter is making Peter the host of this call.
+P is working on improving ASR.
+Umar wants to share the path with him.P is working on the same thing as the Interspeech challenge.
+The main objective is to train a robust ASR.
+P is using the Nemo toolkit.Next week P will be in Prague.
+He will start to work on the multi-lingual ASR he created during his master thesis.
+The data from the Interspeech challenge are private and cannot be used, so they need to check whether they can use them.U is leaving a message for P on mail.
+They train the set and they test it.

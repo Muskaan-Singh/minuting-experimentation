@@ -1,0 +1,31 @@
+PERSON9 and PERSON12 are discussing the pandemic in the Czech Republic and the situation in India.There was an event in which almost three hundred people got infected.
+The family members did not report it to authorities.
+The names of common nouns repeating from English to Czech meetings need to be transferred.
+There are good named entity recognition models for English and LNTJ for Czech.There are two thousand and one hundred names on the menu.
+Some of them are unrecognized.
+The names in brackets are the names of speakers and they show diarization.
+They need to be unified to keep the information that the speakers changed.PERSON12 will write to [PERSON15] to ask if he wants to join the meeting.
+PERSON15 will send an e-mail with the link to the meeting at 00:00.
+(PERSON7) and (PERSON15) agree that all the named entities have to be located automatically and that manual validation should be done at the level of word types.
+(PERSON7) and (PERSON15) agree that <unintelligible> is not a proper noun, so they can remove it in the meetings and let the annotators decide if they need to be removed or not.
+PERSON7, PERSON15 and PERSON9 are discussing the procedure for annotating transcripts.PERSON12, PERSON15 and PERSON7 are discussing the organization's name tag system.
+They are also discussing how to exit full screen and then chat.(PERSON12) and (PERSON15) agree that name tags is too fine grained for their purpose.
+PERSON15 will use named entity recognition for English meetings and after that for Czech meetings.
+In the first phase, the name tag will pre-annotate this list.
+If it's a person's name, all occurrences of that name will be automatically confirmed in the training data.
+IfPERSON7 and PERSON15 are discussing the semantics of the named entity recognition recognition model.PERSON7 will run the name tag at the token level.
+If it makes an error, it goes up to the level of the annotator.
+The name of the speaker can be anonymized in the transcript.
+(PERSON12) and (PERSON7) must provide a table for the speakers.
+They need to preserve the full name like [PERSON6] here on line one.
+Then they need to map them to specific names.
+The IDs are the same as in the anonymizedPERSON15 and PERSON7 are discussing how to correct mistakes in the transcript.
+PERSON18 is starting his Phd.PERSON9 wants PERSON18 to transfer the tool to PERSON9.
+PERSON12 and PERSON15 want him to be more responsive to emails.
+PERSON12, PERSON7, PERSON9 and PERSON15 are taking a leave today.
+They are going to work on a project together.PERSON9 and PERSON12 want to know how many meetings they should choose and send them the minutes.
+PERSON4 has already prepared some evaluation form, they will discuss it and they will evaluate them.
+The minutes are already there, so they don't need to create them.PERSON2, PERSON12 and PERSON9 are going to annotate and then evaluate twenty minute- twenty meetings.
+The annotator needs a week to prepare a transcript and a minu- nad minutes for one meeting.
+The meeting is about one hour long.
+PERSON

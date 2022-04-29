@@ -1,0 +1,43 @@
+The transcripts for check are almost done, one transcriber of Germany is working and she wants to do it alone until December the tenth.
+PERSON1, PERSON4, and PERSON5 are working on the deliverables.
+PERSON1 is hopeful about PERSON8, but hasn't heard from him yet.
+Person5 has just added the transcripts for the first 30 parts and for the next ten parts.
+PPERSON1, PERSON5, and PERSON10 are discussing how to improve the model of speech translation.PERSON1, PERSON5, PERSON6, PERSON12, PERSON2, PERSON3, and PERSON6 are on the call.
+(PERSON6) is trying to gather data from the program for ([PROJECT2]).
+He is away from 11 to 12 on Friday.
+He will be working on the Monday similar model as well.
+PERSON1, PERSON3 and PERSON6 are going to have a test tomorrow in the afternoon.
+They need to operate two local machines: (arc) and blackbird.
+PERSON3 is updating models on Friday and updating the pipelines on Monday.
+Some videos are not getting properly connected into a 16-cave format.
+Some audio files get converted to the <unintelligibile> format when passed to the sound system.Every time Project1 is run from scratch, there should be a fresh download of the test set, a fresh conversion and fresh evaluation.
+Once I have the (WAB) file, I probably won't need to do convert.
+PERSON11 is organizing some event tomorrow and over the weekend.
+Today is the last chance for PERSON1, PERSON3 and PERSON5 to get it running before the weekend, so they need to rely on PERSON11 only from Monday onwards.
+PERSON6 is not taking part in the Monday seminar with [PERSON11] as he does not know how to run (SLDF).
+PERSON1 developed a domain adaptation model that is slightly better than the other models.
+The one that he developed with his manual pronunciations produced the long word list, but he hasn't tested it yet.
+PERSON6 and PERSON2 need help with creating a custom dictionary.
+The training set has more than 600 hours, but the actual training set contains around 300 hours.
+There are some serious errors in the ASR output.
+It's possible to use language model or to use the language model.
+It depends on what the project needs.PERSON7 has a lot of work to do in the coming days.
+He has presentations to make and assignments to complete.
+He needs to get the ASR numbers today and the improved numbers on Monday.
+PERSON7 will send the numbers to PERSON3 later.
+On Monday they will choose the best ASR worker in quality.
+During the month of August, the numbers for the empty models were better than those for the len- our, but for some folders the output is terrible.
+For some folders it's okay, and for others it's terrible.
+Mohammed compared the scores between the rainbow and the summer set ofPERSON5 is having problems with the ASR.
+The transcripts for the files don't have the right length, so they were processed incorrectly.PERSON4 is working on the German ASR.
+He needs to prepare a language model to process the interpreters.PERSON2's ASR is lower case and without punctuation.
+In some of the files there is an interpreter saying something in English in the background and it's picking up the wrong person.
+If it doesn't work, I will ask the annotator whether the transcription work helped.(PERSON2) and (PERSON6) have a problem with the pronunciation of the word.
+They need to convert it to W, B for all the words.
+There are some phonemes that are not in the alphabet.
+There is a package of our language.PERSON6 and PERSON2 are trying to solve a pronunciation problem.
+They want to replace a phoneme with another one to produce different pronunciations.PERSON2 and PERSON6 are looking for a pronunciation of the vowels.
+PERSON2 doesn't know the pronunciation of any of them.
+(PERSON2) and (PERSON6) are going to meet tomorrow.
+Person 2 is going to prepare a dictionary to convert IPA to alphabet phonemes.
+Person 6 wants Person 2 to convert the IPA list into the CMU list.

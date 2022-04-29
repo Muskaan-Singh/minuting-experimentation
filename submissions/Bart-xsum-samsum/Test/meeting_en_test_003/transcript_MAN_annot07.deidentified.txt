@@ -1,0 +1,18 @@
+The live workshop dry run at the [LOCATION1] on Wednesday went well for the people who could understand [OTHER4].
+People who had to rely on their subtitling were totally lost.
+The technology is now working technically, but it's not usable for those who don't speakOn Monday at 2 pm I'm giving a talk on the Monday seminar.
+On the server side the presenting machine is taking screenshots.
+If the screenshots change, it will send them to the browser.
+It's good for static slides and the setup that we have on Monday seminars all the time(PERSON13) managed to convert the script into bigger script, so the processing should be faster.
+(PERSON8) sent an email to the <unintelligible>, asking for help.
+PERSON13 will get in touch with [PERSON7] and make sure that he has the files needed for the technical talk on Monday.PERSON4, PERSON8, Voj, and PERSON9 are going to have a seminar on Monday.
+PERSON4 wants PERSON6 to send him some language model data related to his talk on Monday, so they can search for similar sentences in a huge corpus ofPERSON7 has already measured word rate a few times and there were differences.
+(PERSON8) asks him to choose random thresholds and scripts to test the ASR.
+PERSON9 worked on the paraphrasing model.
+He used a data set of 300 million open subtitles fromAs soon as the TPU support is available, Person 8 will send Person 9 an email with the models that correctly load on the GPU's.
+Person 9 will try to export them in an open neural network exchange format.
+PERSON9 wants to apply the same models on the same data and see how big improvement, we can get.
+PERSON1 is collecting monolingual data, and needs to translate it to create synthetic parallel data.
+Organizing2 will apply the models and we will get the first follow synthetic, in domain corpus, across six main languages and then redo this also with all the other 30 somethingPERSON10 helped me integrate buffer in the segmenter.
+PERSON4, PERSON7 and PERSON9 are trying to figure out what data set could be used for the Project 2 conversations talk.
+PERSON11 is on vacation this week, so he proposes a Wiki page of all the data that they are using or plan to use.

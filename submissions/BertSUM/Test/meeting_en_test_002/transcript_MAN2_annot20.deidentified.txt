@@ -1,0 +1,56 @@
+(PERSON2) We're still waiting for the others.
+(PERSON9) Oh, uh, uh, we're waiting for someone, maybe, uh, that is going to join us, but I'm not sure.
+There will be call on Thursday, you probably received the email from [PERSON7] already.
+Uh, but I don't think it's completely necessary.
+(PERSON9) That's the good thing to check, because, uh, otherwise we, we should add you to the maidli– mailing list at least.
+Because it's possible that you're not added yet.
+(PERSON9) It should be around 1 P.M.
+
+(PERSON2) So, it should be like –
+
+(PERSON4) Oh, we're having lunch in –
+
+(PERSON2) 1 P.M.? And also, uh, [PERSON6]asked me, uh, to tell you [PERSON4] that you s– you should think about the possibility that –
+
+Basically, the moment the travel restrictions are, uh, going d– go down.
+How –
+
+You, you don't know, how, how is it going to –
+
+So, so, here's [PERSON6].
+Yeah but I, I was still – didn't receive the, the letter from, from you.
+And I believe that the [ORGANIZATION3] is still closed, isn't it? (PERSON6) If you please start checking, what would be the process for you to apply for, uh, for visa.
+And you will get the full support from the university, the, uh, to show them papers they need and, and so on.
+So, I again, the same situation, I don't know whether they started it or not.
+It, it's sort of like a –
+
+(PERSON2) Like it i– like it is fine, but, uh, yeah, uhm.
+(PERSON3) Yeah, uh, sorr–
+
+Uh, so, to comment on that, uh, the (certificate), uh, on the server of that (plane) who does the <unintelligible> just expired.
+(PERSON9) <laugh>
+
+(PERSON2) <laugh>
+
+(PERSON9) Okay, so, so, next, uh, let's go to [PROJECT2].
+(PERSON2) So, it's nothing that –
+
+(PERSON9) Yeah, yeah, that's, that's quite –
+
+(PERSON2) If you, if you (secure) your own job like in two hours, it will be on.
+Like, uh, is there any, was there any issue, something that needs to be discussed? I think that the idea –
+
+I'm not sure –
+
+Like they, they, uh, uh, their argument about the metric being semantically sensitive, or what's the term? I think if we, if we sort of maybe take the pretrain model and, and fine–tune it during training it might be actually useful for, for this kind of distinguishing.
+Uh, distinction or something like that, I guess.
+(PERSON9) No, so, I, I can –
+
+(PERSON2) Why do we need like another like non–standard metric? But on the other hand, we like again, we can, we can force the system to choose different wordings, different phrases and this kind of –
+
+And this blurred metric can be used to guarantee that the, the, the paraphrase or the alternative sentence does not straight– stray away from the original meaning too far, right? Uh, yeah, so, that's, that's a good start.
+We can still discuss the matter after the meeting, uh.
+I'm, I, I'm okay, I will keep, uh, until I have new ideas or new alternatives –
+
+(PERSON9) Okay.
+But yeah, we can, we can wrap it up, and I guess see you, see you next week, right? Or is there anything, uh, else you would like to discuss, any of you? Thanks, thanks for your time and see you next week.

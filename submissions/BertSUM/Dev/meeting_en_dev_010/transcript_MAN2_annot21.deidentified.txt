@@ -1,0 +1,57 @@
+So you have to unute unmute yourself, but I can see that you have joined.
+(PERSON2) No, I haven't done any steps and decisions,
+I thought sort of you'd ask with doing it-
+(PERSON3) Yeah.
+So they organizing a panel, so we shouldn't do that I guess.
+(PERSON2) And then they always have 2 time slots for the presentation of the papers.
+So expect that at the boundary of July and August, there would be some paper with necessary on your side
+and especially in your respective financial departments.
+(PERSON3) So that we know, that we understand the tables the same way.
+(PERSON3) Either, yes, either you, or I thought that it could even be [ORGANIZATION10].
+(PERSON12) Sorry, may may I say something about it? So the uh, I remember, that someone told me that if we simply put the papers into our Biblio,
+which is our bibliographical system, then it will get there somehow.
+So we'll we'll check the open air uh, thing
+and we'll check how the the uses that um-
+It's possible, I remember that in the past projects, such as in <unintelligible>,
+you've asked us for Bibtech entries uh, of the papers.
+Um, yeah so well,
+<laugh>
+if I'm not have to be familiar with with that -
+(PERSON3) Yes.
+These are milestone for the events, which were postponed.
+What exactly should we should we do for an event, which has a milestone,
+but the event has not taken uh, place.
+And since you have so much time ahead,
+maybe you can consider planning at a visit to [LOCATION1].
+Yeah, so that's-
+Uh, if if we send uh, [PERSON6] the options uh, very early next week,
+then uh, the choices validate from uh, the uh, 2nd half of June would make sense.
+So the demo will tentatively take place in in on 1 of the days um, uh, of the  uh, in the 2nd half of June.
+(PERSON16) Because actually, I I have to ask before, but <laugh> our virtual machine, you know, with the-
+(PERSON3) With the GPU, yeah.
+So the performance can be immediately killed by introducing a better segmenter,
+uh, w- the caching  of which is not in perfect line with caching of of the machine translation system.
+(PERSON19) Really, you're asking for a staging in a production and development-
+(PERSON3) Yeah.
+(PERSON3) Uh, so um, and at the same time  uh, we we want to test the uh, the uh, components uh, better components
+because I know, that [PERSON14] had something which could be very uh, very promising for the ASR, right? Could you have some?-
+(PERSON17) But you mean <unintelligible>-
+(PERSON3) So I thought -
+So you've mentioned uh, the that your submission to IWSLT, or paper uh, paper to IWSLT.
+(PERSON17) I I hope, we didn't that say 1 year update at the SLT.
+(PERSON17) I have not compared it -
+(PERSON3) Um-hum.
+(PERSON3) And the current model, that you have -
+(PERSON17) I don't know, if it is better.
+So uh, please, let me know if you if you are opposed to this approach,
+but I think it's uh, it's better for everybody to to know, what is the-
+This is <unintelligible> benchmark, how far can we get.
+(PERSON19) <other_speech_unrecognizable>
+(PERSON2) What that -
+(PERSON19) Yeah.
+(PERSON2) What that we can <unintelligible> actually.
+(PERSON19) The universities I shouldn't I imagine, there's not a problem
+because universities begin after <unintelligible>, but I'm not sure.
+This is too soon and ask uh, before June 15th.
+Uh, and uh, we will also try to uh, include in this video uh, a demo of the of the system as it is,
+uh, live uh, subtitling some of the videos, that w- are planned for demo, for the p- for the project officer anyway.

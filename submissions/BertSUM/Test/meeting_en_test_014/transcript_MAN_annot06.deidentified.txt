@@ -1,0 +1,37 @@
+(PERSON12) So lets wait short while for a short while on because I hope that [PERSON5] would join.
+(PERSON11) Okay username and password the authentication fees has been reintroduced so that only people participating participating in the event are allowed <unintelligible> subtitles.
+And thats putting stress on [ORGANIZATION2], because they need to provide so many workers and their have these bugs in workers so that they keep failing.
+<unintelligible>
+in order to use the if possible common route and dispatch that to the different branches, but the is something we have to reason carefully.
+(PERSON12) So is there anyone who would be available for implementing the C code the EB client, modified to do the multiplexing internally.
+Okay, so thats the ASR workers in the Google document, and hopefully we'll hear something from [ORGANIZATION2], then the empty workers I said that these good.
+(PERSON1) <unintelligible> I I I can run the exact configuration I've been posting.
+And I'm still trying to figure out what can, what can possibly interfere with that.
+(PERSON12) So could we with this file that he will push with the instructions.
+(PERSON1) Ah yes of the <unintelligible> its almost the same.
+(PERSON12) Yeah, at the beggining I send.
+(PERSON12) So it is totally out of of control, and its <unintelligible> so out of control for presentation platform the presentation platform will simply you display different.
+(PERSON11) Yeah
+(PERSON12) So this is the uh, thank you for the classification.
+(PERSON11) Its correct the idea to put the segmentation if only in one place into, and not into different places, this is correct.
+And I 'm adding that to the next call that I would like to make would be actually tomorrow, and I dont know what what time.
+(PERSON12) So that he have not like <unintelligible> up to date information about the availability of the workers.
+<other_noise>
+(PERSON11) Sorry [PERSON12].
+(PERSON12) Yeah, so [PERSON13] should not rely on this, like the.
+(PERSON12) Yeah, soI've asked [PERSON2] in the slack today, maybe you can not see the message, but my idea was that maybe you could setup very simple CGI script or PHP script or whatever, so that we could ping fixed URL and tell it the session ID of a worker, ASR worker which is not functioning.
+Or the log file could already have the process ID in the file name or something like that.
+And to create a webpage that would be accesible for us, its it depends on your setup but in principle you could also run a very small webserver such as Python <unintelligible> or Parallel <unintelligible>
+that was the thing, and that that has to run on the machine where the workers are, so that like it can kill them and the firewalls must not be in the way, but if we set it up or if you set it up on on high port then you hopefully to get the request from us.
+(PERSON12) Oh, you restart them all all the time.
+(PERSON12) Can you maybe show the log back? Be aware that this system is not just used in the detail, we also have.
+So we we have the system that works okay this way, I would prefer to find <unintelligible> the workers not resetting this so much more, for the [PROJECT1].
+(PERSON6) <unintelligible> workers and hour here.
+So right now at the end, it says waiting for client.
+(PERSON11) When you have the <unintelligible> cloud packet, it will have the get session ID function
+Will provide you the session ID.
+So I guess that if you, 
+<parallel_talk>
+So there is definitely way in which we could if you launch anything simple on your side then we should be able to reach it.
+(PERSON6) Yes, I am a.
+(PERSON12) So its actually failed to resolve.

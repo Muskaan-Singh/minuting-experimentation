@@ -1,0 +1,47 @@
+The Czech Republic government has lifted the rules.
+People can go out even if it's not necessary.
+People are allowed to reach their family starting from the 4th of June.
+People living in Trento and Bolzano can now go to the forest.PERSON5 is the last one.
+There will be at least one more call before the summer, two more in May and one in June, and six more in July.
+The administrative part of the call will take place in September.
+People will have to postpone one of their regular meetings.The volunteer should be entered in the continues reporting.
+Organizing6 needs to ask for an extension for this deliver because Congress has not taken place.
+Organizer4 is developing their own systems in this area.(PERSON1, PERSON16 and PERSON5 are going to write a project management guide.
+They will cross review what they wrote and they should review what we wrote.There is no project management guide for the Czech deliverable.
+The description of the deliverable is just "Czech management guide".Any partner planning to start working on EU projects should start writing by the end of June.
+The internal reviews should be ready by mid June at the latest.
+After that, they have two weeks to finish the complete draft.
+Then they have a week to fix it.
+After the Congress,There will be one more deliverable due in the end of August.
+There will be another one due in December.
+The colleague responsible for the test sets is extremely slow.
+The layout of the test set is many documents, depending on the availablity of the document.
+The WMT 20 is a collection of documents in various languages.
+The language map is a directory of file lists.
+The annotators are searching for documents and in many of the languages.
+There is a low deliverable of the year 2 test set.There are three types of test sets: speech, machine translation and line oriented documents.
+There are also file lists.(PERSON6) and (PERSON1) agree that the public use of the test sets should be limited to few of them.
+They agree that there should be only 3 file lists for the general public.PERSON1, PERSON6 and PERSON9 are talking about the evaluation of spoken language translation.
+(PERSON1) and (PERSON6) need the SLTF to serve the model.
+They have to send the source code of the model to the organizers to run it for one of the tasks.
+The forced alignment, which finds the words in the in the sound, is not reliable for us.
+PERSON1, Person2, Person3, Person4, Person5, Person6, Person7, Person8, Person9, Person10, Person15 and Person15 are working on getting translations out of the auditing websites.The project was started when the EU still existed.
+Irish is equally important as other languages.
+The next person who finishes the overview of the audible SLT test set is [PERSON7] who is now finishing supervision and managing the annotators for the [PROJECT1] test set.PERSON4 has just answered and they have also provided some feedback.
+Organizing2 has been working on this retranslation approach for the past years.
+The users prefer a delay.
+The organization has been playing with this simulator ASR and wants to improve the stability.
+The project is in the middle of the project.
+It's not a priority to do retranslations at the end, but it's a good idea to do it as soon as possible.
+If the ASR waits to the end of the sentence before sending his hypothesis, it will injectThe quality of translation support is getting better.
+The models previously based on transformers are finally in direct translator.
+There is no internal SLT.
+In end-to-end ASR there is only complete sentences admitted.PERSON1, PERSON6 and PERSON2 are trying to run GPT tool to predict the tail of the sentence.
+It doesn't work very well.
+The demo should be on 14th May 17th the sooner the better.
+Organizing4 should supervise the organization of the demo.
+The deadline for the demo is the 8th May 11th.
+(PERSON13) and (PERSON6) discuss how to present the demo to the project officer.
+The demo should demo both the representation and the sub-representation with subtitles.
+The text should be in three parts: translation, transcription and translation.(PERSON1) and (PERSON6) didn't understand the source language of the TEDx talk.
+PERSON6, PERSON9, PERSON13, PERSON16 and PERSON4 are going to meet next week to prepare a demo for the day.

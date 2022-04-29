@@ -1,0 +1,47 @@
+And maybe I'll ask you before anybody else is <ehm> (connecting),
+<ehm> how is it – how does it work with the link? (PERSON6) If I <ehm> –
+if we look at it together and I will just <ehm> detailise some things that you want to know <ehm> –
+so <ehm>, <ehm> I will send you a link to minutes annotation, so that you can open it now.
+Because <unintelligible> ([PERSON5] seems that) [ORGANIZATION2] meeting link, it is (obvious) the – like <unrecognisable_speech>
+(PERSON6) <ehm> We have (the paid) version of [ORGANIZATION2] for our faculty.
+<ehm> But –
+(PERSON5) Oh –
+(PERSON6) There are some [ORGANIZATION2]s that we prepaid, but <ehm> I'm not sure if it's a good option for lo- for our coffee m- coffee meetings.
+<typing>
+(PERSON6) <mmhm>
+(PERSON5) Okay.
+(PERSON5) Okay, so I would like to ask you now –
+So, by this original meetings, what <unintelligible> [PERSON5] and [PERSON2] (has) created, so it is just for (reference of the annotators).
+It is actually a questions, because there are some drawbacks of those originnal minutes, because <ehm> they do not contain some information or they may contain something that was not discussed during the meeting.
+So, you send this (via file sender), and (they) <unintelligible> (you back) the manually corrected ASR? (PERSON6) This is the question we discussed today in the morning.
+(PERSON6) Probably (we should) –
+(PERSON4) So, [PERSON6] –
+(PERSON6) Not exclude this option for the moment, <ehm> but –
+(PERSON4) Okay, so, [PERSON6], I – yeah I – so – so this is like you <unrecognisable_speech> to upload the minute <unintelligible> correct, so this is actually a (list) work for us.
+(PERSON6) So let's not think about it at the moment if possible.
+I think it's a very good question and <ehm> I don't think that we have answered it yet.
+So this is what – <ehm>
+if you would ask [PERSON5] this question he would probably say that <ehm> <unintelligible> think about it and <ehm> make o <ehm> or invent the measure or metric for – for that.
+So the thing is that this is <unintelligible>, right? (PERSON5) <mmhm>
+(PERSON6) Because –
+(PERSON5) So I <unintelligible> this points.
+(PERSON6) <ehm> Do we –
+where do we get the automatic measure? (PERSON5) <ehm> How many <ehm> do you have tried? (PERSON6) Let –
+<ehm> so in summarising paper on that <unintelligible> maybe [PERSON4] also knows, none of them really works well.
+So, we need the na- next try human evaluation, (decides) them, we compute them, but we add the number of human evaluation, so that we can <ehm> be sure that we have good  quality.
+And they like try to assess different aspects like <unintelligible> reada- readibility, (the quality) etc., (PERSON4) I'm really sorry, I didn't follow you.
+(PERSON6) So <ehm> really <ehm> we want to use <ehm> alignment annotation for summarisation, this is variant A.
+But we have <ehm> (little) time and very probably we don't have to <ehm> prepare this alignments.
+(PERSON5) <ehm> I'm talking to you <unintelligible>.
+(PERSON4) <ehm> No, we will keep both of them.
+What I was saying is that you or I or together we will have to rename the names in the cluster, all the names.
+Because <ehm> I'm not able at the moment, I'm not sure if I can be – if I can make <unintelligible> but I – at the moment it is very complicated for me to anonymise <ehm> all of the files to – so to name general names.
+(PERSON6) Yes, <unintelligible> be everybody <unintelligible> in person, yes, perf- 
+<ehm> I agree.
+(PERSON6) So <ehm> –
+(PERSON4) So –
+(PERSON6) I'll write him and you now and –
+(PERSON4) Yes, try to – we try to catch him.
+(PERSON6) <unintelligible> meeting tomorrow morning.
+Okay –
+(PERSON6) So, have a nice evening, everybody.

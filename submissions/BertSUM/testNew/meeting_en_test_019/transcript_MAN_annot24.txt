@@ -1,0 +1,45 @@
+(O) Yeah, sorry, for the delay and sorry for the complications.
+And thanks to all who joined, um, so to explain to especially Umar and Rishu who didn´t -
+And maybe Peter, eh, who didn´t have the experience with these calls last eh s- summer.
+Because you could be always identified by your background.
+Eh, we should be as prepared as we would be for the main EUROSAI Congress.
+(M) I have -
+So, I have been thinking that that well -
+Eh, so so so at first, I tried eh, actually filtering eh, so- some some other data sets that already exists.
+Such as -
+Such as common crawl and so on.
+(M) Actually -
+(O) They release some data.
+But we have Ebrahim Ansari here eh, and he is overseeing the development of the SLTF.
+We can run SLTEV on data and see the result and eh, you know, make the final agreement if you want to do some minor changes.
+So Sangeet can help with that eh, to -
+So Rishu and Sangeet to evaluate all the workers that are in the ELITR pipeline.
+So please, everybody get in touch with Ebrahim directly, and get it s-
+Like eh, like find a way in which this tool will work for all of you.
+Eh and the mhm eh, so -
+Now we´re doing this like stress test within the consortium.
+But if any of your, uh, evaluations would uh, would be like more interesting than we could switch to this other use case, so that´s -
+In any case this is a a big request from me.
+But this is exactly what we want to go through.
+But only with the files inside the ELITR test set.
+It´s the same way -
+(O) It´s a same way as Sacre Bleu.
+But whenever you have time, I prefer to talk with you around half an hour to an hour to finalize it.
+But eh, eh, the censorship component is something which we want to have as a one part of the pipeline after the ASR.
+When when it didn´ t see anything bad, but there was something bad.
+So then is the uh, the second next lost person? How many GPUs can you run at one, at once? And then we can combine it with with English- Czech, which is already high quality from WMT.
+So it is kind of I don´t know whether it´s strictly -
+(O) The data augmentation.
+(R) Yes then we can experiment with this on small models and small GPUs at first, and then -
+(On) Yes.
+So I´m using first alignment and ehm, eeh, what I what I´m want to do is to to chop the the utterences and recreate new sentences using eh using using the words itself.
+So it has eeh -
+From my point of view it has eeh, few few at- eh, few few eh <cough>
+Eeh, few things that can improve the eh, improve the the robustness of the ASR.
+Then there´s eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish.
+(P) Hm, well I should be I should start to work on multi-lingual ASR, but eeh, this this -
+Because I I´m still at home and I eh, do not have much time to work.
+So I need just eh, use the same data for Kaldi <unintelligible> evaluations.
+(U) So I'm leaving a message for you on <unintelligible>
+(P) Well, if it´s okay for you I I´m not -
+I rather use mail.

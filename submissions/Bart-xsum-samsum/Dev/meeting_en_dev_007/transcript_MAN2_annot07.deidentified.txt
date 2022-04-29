@@ -1,0 +1,24 @@
+PERSON8 has sent the Overleaf link and a link to the GitHub prepositary where we have the template is normal directory.
+(PERSON4) is trying to fix the program in Overleaf.
+It doesn't compile for him, but he can use it as a plain textThe deliverable sumarizes presentation platforms of live, transcript.
+The Overleaf link doesn't compile.
+The deliverable template is still D00 template.The deliverable is going to be publicly available on the PROJECT1 website.
+PERSON10 is the main person responsible for the preparation of the ACL paper.
+The paper has to be internally reviewed and it's due today.
+There are too many things to discuss at once, so Person 7 will email all of them and tell them that they are late with the preparationThe deadline for the ELG is February 21st.
+The ELG should be ready by Wednesday.
+The deliverable should be 2 pages in length.
+The deadline is not optional.
+The presentation should be in the form of an e-mail with links to the documentation.
+The e-(PERSON4) and (PERSON7) need a document with functionalities and notes regarding the user interface.
+The document doesn't compile.
+The ELG paper is due next Friday, 21st February.
+PERSON9 has a problem with cloning, but it works if you clone it.
+People need to create a special password for Overleaf to access it.
+They need to send an email to Organizing1 to have the deliverable there by Wednesday.(PERSON7) proposes to directly use the second strategy.
+(PERSON4) suggests to direct use the first strategy and ask Organizing1 to review my understanding of the platform.
+(PERSON7) wants to know how to make and compile a document.
+He needs to get the latest changes from Git stash and push them on later.
+He also needs to check if the last page of the document is taken care of.PERSON7 doesn't know how to install the Tex Live package manager.
+He doesn't have it installed.(PERSON6) is trying to install Overleaf for the ACL paper, but it doesn't let him in for the other paper.
+(PERSON7) thanks (PERSON6) for his work.

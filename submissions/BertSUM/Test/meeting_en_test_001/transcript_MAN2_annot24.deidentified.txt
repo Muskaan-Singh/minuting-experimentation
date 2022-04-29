@@ -1,0 +1,54 @@
+But, ehm, the Czech republic government, they already lifted the-
+
+
+
+Kind of lifted the rules.
+But we think that we have to wait until June for the free circulation of people.
+(PERSON6) Which is a good opportunity to choose them now.
+(PERSON5) Yes, we will have to chec- check it with [PERSON12].
+So we should review what they wrote and they should review what we wrote.
+(PERSON6) But there must be, there must be some project management guide from previous project.
+(PERSON6) Yeah, exactly, that's that's what [PERSON2] can has always said I also believe in selforganization.<laugh>
+
+
+
+Hm so QT21 doesn't seem to have this.
+(PERSON5) And and <unintelligible>
+
+
+
+(PERSON1) I don't remember such a thing, no.
+Anyone who was not coordinated the projects yet.
+We could even ask [ORGANIZATION8] to to review that because there -.
+So the test sets, this is something that we are building.
+And these file lists are then the subset of of that.
+It will be the sound, and the transcript with timestamps of individual words.
+<other_noise>
+
+
+
+Uh, you you for those who like a clever (fine graph) so that you list all the files, and check that you have all the languages that you want.
+And that uniquely defines what is what is the test set.
+And yahoo it's not a problem and <unintelligible>, I would prefer just send the sour- eh the lock file we have to do, because with the something in translation task and probably the SLT and I was not able do that.
+And this is the time when the translation appeared on screen for the user.
+So I think it is, it is quite easy to proceed with a with these limitations and what the set up.
+(PERSON1) In in terms of finding the translation I mean we and [PERSON2] maybe can (comment).
+But we also want to do it for the well represented languages, because we should we should cover them as well.
+(PERSON6) Yes, with this is that the finishes, the set of feel free to step in, and whatever you can do for [PERSON10] that will help us then the next person when [PERSON10] is still not like woken up is [PERSON7] who is now finishing the overview of the audible SLT test set.
+And if we if we do this over the following couple of weeks.
+So [ORGANIZATION2] has been working on this retranslation approach.
+I think that in the long term I would like this to be evaluated on humans towards the end of the project we we we would really have like user study that would be great to to see which, and I think there will be people of different groups.
+<laugh>
+
+
+
+Well, I mean it it's a question that's it's a question of making the time.
+So it's entirely possible that pressure answer.
+It's like, the ASR so bad that that the prediction is like totally off, and so far it doesn't work at all, but but we are trying this guessing.
+So could it be like the 8th the so 11th seems like the average.
+(PERSON16) We learn about <unintelligible> quit couple of proposal in the <unintelligible>.
+<other_noise> 
+
+
+
+(PERSON6) But the the live aspect there.

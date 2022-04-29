@@ -1,0 +1,28 @@
+So I'm curious, if [PERSON4] is here, we don't have [PERSON4].
+(PERSON2) So after we done this, then we will know which version of [PROJECT3] we will for the use.
+(PERSON2) I'm waiting for the input from <unintelligible> from [ORGANIZATION2].
+So that's, ah, the one of the reviewers in in the review also ask whether we are, ah, combining, ah, the ah, the document level aspect with the multilingual aspect.
+(PERSON1) So so sorry, what you are, you're saying that there is no gain to be expected, ah, from multi-source, right? And, ah, I think this is also an important message for [PERSON17] who has disappear again from the call.
+Yeah, you are, ah, ah, so [PERSON4], you have the call with, ah, [PERSON10] later today.
+(PERSON6) I mean they're cutting the recordings to words and done getting together to to create a new, new, new recordings with, ah, different sentences.
+So the language is were swaped there and some of the languages didn't contain any reasonable output.
+So that, ah, people would be able to to get it running.
+So, next week, I would like to hear from you three how far you got in the in the like specifications of the requirements.
+Ah, EG easy to integrate, ah, also the profanity filtering.
+(PERSON8) Which also uses tensor to tensor, so it uses the same structure.
+But if you think that when starting the worker, if you limit the parameters, if you limit the number of languages there itself.
+And the other problem is that it was basically trained using tensor to tensor, which makes it very, very slow.
+It is good, maybe, for creating the the syntethic data or whatever.
+(PERSON4) Yeah, for that uh, I think I located the directory on uh.
+But this is so like low level issues, that it's worth having this discussion in the devel at [ORGANIZATION1] mailing list.
+They have seen that the people have thought about it.
+(PERSON1) So try, yeah, try that, because I'll have called at half past three with Dominic and and [PERSON3].
+I think I'll be able to wrap it up today itself.
+(PERSON1) So are you also planning [PERSON7] to be on that call with [PERSON11], or with with the [PERSON4] after that? So, after that I'll have a call with [PERSON7] to discuss all the, oh, things that I put in the script, and then I think he can take it up from that.
+Then, without running anything, you should just be able to look at the the stored outputs and the store scores, and it would immediately see where we are standing.
+So, when there is some session happening, we really need to make sure that we have the important people around the globe, ah, ah, like available.
+But the word discussing was recognized as disgusting.
+But maybe we, we could employ um these neural networks that I forget how this this task is called, but it's like based on the movie review -.
+Ah, I mean, we can just say in the profanity filter part, they can just look out for a hateful comments or or hateful sentence, and we can simply remove it.
+But there's probably more and, um, ah, yeah, we just need more people to do that.
+And then on the 7th of January will meet again.

@@ -1,0 +1,78 @@
+Um, um, I sumbitted, um, last week, um, previous week, I submitted the paper (I working) to [LOCATION3] to [PROJECT5], [PROJECT5].
+[PERSON6] OK, the book is here and [PERSON2] is there.
+<laugh>
+
+[PERSON19] OK, um, so I´m still missing the introduction so it´s stil this, um, this, this (bullets) which I plan to rewrite into the text like one to put this text away.
+I don´t have any <unintelligible> opionion with -
+
+[PERSON19] I think -
+
+[PERSON9] What is, what is better? [PERSON6] Yeah, well, but the, the reader -
+
+[PERSON19] Yeah.
+So imagine it´s like ([PERSON15] and [PERSON10]) and no idea like, OK, some random Chinese names and so -
+
+[PERSON2] And the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+It´s probably more but...
+
+[PERSON9] OK, so, um, so who would -
+
+[PERSON19] <unintelligible>.
+<other_noise>
+
+[PERSON19] <unintelligible>.
+So maybe we still need to <unintelligible> there.
+So there are, so this is the language model, 24, <unintelligible> delete.
+[PERSON2] Well, I discussed how, um, how neural language model works in, in the previous chapter.
+You want to <unintelligible> say I reffer somewhere to somebody who use PCA to identify the, um, gender biass component.
+We can look at the slides on the tutorial.
+[PERSON2] Oh, I don´t think that, that´s relevant for the book at all.
+You´re -
+
+You have to -
+
+[PERSON19] When it -
+
+[PERSON6] Like there have to be a person who decides if, if -
+
+[PERSON19] Hm, hm, hm.
+[PERSON9] Yeah, we can the <unintelligible>.
+[PERSON6] Like in case of language modeling -
+
+[PERSON19] Hm.
+That these concepts come from, um, general machine learning community and even in the general machine learning community this is, this is li-, like, like the mainstream.
+And there was another one but it´s not here somewhere.
+[PERSON6] Yeah, I still don´t really know what you mean so you would have to write it yourself.
+[PERSON19] Like I don´t know like for example the chapture that [PERSON9] has, so do you think into the attentions.
+[PERSON6] That, um, that this the, the indroduction here should, should stay that it´s talking about the thinking general.
+[PERSON6] No, I -
+
+[PERSON9] <unintelligible> pages.
+<laugh>
+
+[PERSON6] Yeah, it´s two pages each.
+I, yeah, I start within the first parts, added some of the, some, actual these are, these are <unintelligible> for, from paper, so...
+
+[PERSON19] I´ve defined, um, macro for, from -
+
+[PERSON9] You define the macro? [PERSON9] I can see -
+
+I can ask someone from [LOCATION3] <unintelligible> your what someone else.
+[PERSON6] Yeah, I taught the email was rather -
+
+[PERSON19] It seems like -
+
+<laugh>
+
+(Amsterdam) something or I don´t know or -
+
+[PERSON6] Yeah.
+<laugh>
+
+[PERSON6] We should have gathered and listen her <unintelligible> here and -
+
+[PERSON9] Yeah.
+[PERSON19] But <unintelligible> know about it <unintelligible>, this is missing.
+People who know about it will see what is missing but we will, we don´t know about this who will see more like -
+
+[PERSON19] Yeah, it was yeah, I don´t understand.

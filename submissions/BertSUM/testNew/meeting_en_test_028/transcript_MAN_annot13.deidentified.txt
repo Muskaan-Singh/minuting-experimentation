@@ -1,0 +1,37 @@
+Uh, [PERSON7] you are trying to, uh, recover from your past, uh, missed sessions uh, uh, by coming twice.
+[PERSON2] has added some files, uh, to the [PROJECT1] Test set.
+I mean you can't download it or <unintelligible>
+(PERSON1) Uh, well-.
+Not not too late, because, like, I will be busy the the whole Saturday, and I have to go early to bed on on Friday.
+So that we actually give more time to the system.
+And like after we finish with the general call, if you're still available, if you do not have to rush for your dentist, uh, then we can discuss this.
+And, uh, we pass all our training data through [PROJECT12] and other systems in an automated way so that we get the data distorted, uh, um, in the same way as these platforms distort it, and also that we will use a frequency filter to cut down on the hate, on the like high frequencies.
+There there would be some extra overhead, uh, um, for for the restart or whatever, but it but it should work.
+Well, then I'll have to look at it myself.
+And then I want to rerun the alignments of source and targets of of the interpreters and do some analysis on them.
+I do not know whether [ORGANIZATION4] can fine tune.
+So then, [PERSON7], uh since I've already asked you, uh, please summarize for everybody.
+So that the next week same time, uh, you can present the summary, uh, of which, uh, [PROJECT4] systems and which [PROJECT5] systems we have at hand.
+(PERSON1) So so you you two, please make sure that we evaluate everything on everything, and we, uh, can choose the the best set up.
+For example, for English, and I 'm now working on English and, um, I cut the recordings, uh, to words.
+We can, uh, for example, alter the distribution of speakers, or and uh, the second, uh, important, uh, gain that may be from this method is that the end to end [PROJECT4] models, um, are creating implicit language models within.
+But, uh, the problem is with Czech, because, uh, the [PROJECT15] speech for example has a 
+, uh, less than three hundred thousands texts.
+So, uh, I need to, uh somehow find how it works.
+Because I've seen your concern, maybe I can describe and you can see the formula here.
+Well, it could be related the same values.
+Maybe if the sentence is not very good, but it has a meaning.
+(PERSON1) I'm thinking, so I'll I'll write the paper as if we are doing this already.
+And another thing is whether we want to max it also with the proportional value.
+But maxing it with the, uh, with the, uh, with the, like proportional alignment, doesn't make sense to me.
+The formula should be like, what is the value for the word "Ein" or the eath word, uh, uh,  in the table T.
+
+So how do we arrive at this three o four.
+(PERSON1) I think this is like the end of the word.
+But or if it is not, I will write all of this details, you said.
+And based only on those time stamps in C.
+Just can I ask if, [PERSON8], if you follow, I-.
+<laugh>
+Uh, so so what you think if we, uh, if we really [PERSON15]ed the simple calculation to 
+something which is based only on the C segment and the number of characters?.
+<unintelligible> for example, for [PERSON8].

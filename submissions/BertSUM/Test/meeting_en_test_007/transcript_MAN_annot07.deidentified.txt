@@ -1,0 +1,35 @@
+So let's wait until [PERSON6] and [PERSON5] get back from the break.
+I've, as I said, I've emailed [PERSON8], if [PERSON8] would be joining as well.
+I would like to hear from everyone what they are working on and and what's the status.
+(PERSON9) [PERSON15] also propose me another option for the main stage presentation problem in order to present subtitles without the presentation platform in order to <unintelligible> 
+But I have to investigate it little bit, maybe we can find different solution.
+And it don't use sample client but production client.
+But I hope that we will find out a solution even if ehm, at the moment, the [ORGANIZATION5] worker are not meant to manage, the batch use case.
+But that would be like the way to to get the transcriptions.
+(PERSON14) So what will you run on your command line, that's it.
+(PERSON14) Then, [PERSON5], what we need is to have lines of text that resemble the output of the ASR.
+So I I think we have offline ASR systems that are <unintelligible> and what's running in the mediator.
+So getting parallel data is the real problem.
+And [PERSON5], please check that the line oriented output is as similar to the segmentation that we are going to receive from the segmentation <unintelligible>And [PERSON1] can in the meantime test the [PROJECT2] worker.
+(PERSON14) I'm trying to set up this, yeah.
+Ehm, that he sees nothing wrong with the ASR workers, they are running, and they are, they're available <unintelligible>Maybe I, maybe I mispoken about which workers, I will check again.
+(PERSON10) Yes, they working on line mode, but not in <unintelligible> batch mode.
+PERSON1] we will be back next week and we can arrange some kind of, some test together, of course.
+Even though <unintelligible> it doesn't, I guess it does.
+(PERSON12) I 'm really not sure what it what it is recieving, because normally the the present our presentation platform doesn't handle unsegmented text.
+It only handles the text as it comes out of the segmentor-
+(PERSON14) After-
+(PERSON12) - will using our segmentor, than there shouldn't be any any text.
+(PERSON12) The system is <unintelligible> we actually have to <unintelligible>
+(PERSON14) Because this this, yeah.
+Make sure that we figured out everything again.
+(PERSON12) As far as I know our ASR worker connect, reconnect very quickly, the MT workers do as well, but it take some time.
+Their worker should survive and reconnect again.
+Everybody will be speaking their non-native English.
+The the the actual solution is to have a kind of combinatory explosion of all the possible match matching path.
+I I know it's not that <unintelligible>
+(PERSON14) Yeah, yeah.
+(PERSON14) But I know, but the reason to kill the client is that I 'm not happy with the ASR output that I'm getting from that.
+(PERSON14) Ok, so there will be someone monitoring the presentation platform, and we would know, by looking at these the lock files on the side that we are that we could like somehow hack together the monitoring in a separate window.
+One of the persons will be responsible for making the the Polish output using the best ASR, another would be responsible for making Spanish output using the best ASR, and they all would look at the ASR and they would like indicate to each other, which of the ASR is is the best at the moment.
+So well, we could ask, I'm just making this up.

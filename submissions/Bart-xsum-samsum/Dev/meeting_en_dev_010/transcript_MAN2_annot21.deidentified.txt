@@ -1,0 +1,43 @@
+It works even without installing anything.
+Organizing of the IWSLT presentations is going to take some time.PERSON2 and PERSON3 discuss the details of the conference.
+The conference starts at 9 am and ends at 6 pm Seattle time.
+The deadline was already 3 days ago and the deadline was given by ACL.
+There will be one panel, one paper, one poster, 20 minutesPERSON2 didn't see the emails before Monday because we had a long weekend.
+(PERSON3) has failed to do the work on the workshop session.
+The postponed review will be postponed till September.
+People have seen the agenda before.Organization 10 wants to have the final versions of the financial tables with the deadline of May before the EU deadline of 2 months.
+Organizing 10 will review the estimate numbers from Organization 10 and send them to Organization 10.
+Organization 10 will send the final version of the estimates to OrganizingThe dry run for the report on NLP technologies was due at the end of May.
+The numbers will be approximate, but it's to test whether they understand each other and to get the final numbers in July.
+The reviewer on spoken language translation, which is overseen by Organization 7,PERSON13 is reviewing the sheet.
+(PERSON12) wants more input in the scientific dissemination part of the report.
+There are going to be about 200 people at IWSLT.
+PERSON19 created the website from Bibtech.
+In the past projects, they asked for Bibtech entries of the papers.
+In this case, they need to convert Bibtech into spreadsheet.
+Organizing10 will let them know in a week or 2 in what format they need their papersThe workshop is for people not familiar with NLP.
+All the main authors responsible for the deliverables have to have them by the end of this week or on Monday.
+The reviewers have 2 weeks to process the changes and then 1 week to incorporate the changes.
+They need to submit allThe new Congress date is from 30th of May to the 3rd of June 2021.
+The workshop itself will be on the 1st of June.
+The demo went well.
+The power has been restored since yesterday afternoon.
+The project officer will inform the project officer about the new date.PERSON3, (PERSON13) and [PERSON1] will do the internal pole during the end of this week.
+On Monday or Tuesday the latest, they will have the dates and options ready for the demo.
+The demo will take place in the 2nd half ofPERSON8 has no experience in docker.
+He wants to know how to run docker on some virtual machines.
+The rootless docker runs as root, but it's still insecure, because the files that the docker wr- writes back to the root will be owned by root.
+The ASR systems are not integrated yet because of the missing segmentation.
+Project5 uses CPU, whereas Project2 and Project1 use GPU.
+The punctuator is GPU based.PERSON3, PERSON16 and PERSON19 discuss how to prepare a production and development system for the demo.All partners should avoid doing any updates to their workers shortly before the demo.
+The demo was postponed because of the bomb and power outage, but it also put the demo at risk.
+(PERSON17) feels the system is not ready for the demo, because there is no worker that does this yet.
+The system is tested under research conditions only.
+They are also working on the PROJECT3 test set.PERSON1, Person13, Person4 and Person3 are working on a project.
+They need to prepare the proper staging of the systems.
+They also need to finalize the fingerprints.
+For some of the videos they need to present the same video twice, once with the properly devThe main message is that they will have a number of dry run sessions again and the date for the demo will be chosen.
+They will present the videos twice, once with the devset chosen system and the second time with the test set chosen system.
+The deadline for the project is DecemberPERSON2, PERSON3, PERSON19 and PERSON13 agree to ask for 2 or 3 months extension of the project.
+They will make a decision on June 8.PERSON19 wants to have a technical call on the IWSLT before June 15th.
+PERSON3 is happy with the progress of the project.

@@ -1,0 +1,59 @@
+<another-language>
+
+So it- it would be great if you could quickly explain what is your current status of the speaker adaptation data collection interface that you are-you are working on and the document the [PROJECT1] surge 2020 organisation and add in one or two points that mention your name and the one that I would like to specifically focus on is the "regular" data flow from you to [PERSON3].
+So that the data actually makes it to the models.
+So this is something that is- it is like the final part the final stage of what you are developing.
+So that this final integration is actually he most stable and best tested part.
+You have a directory with all the documents, downloaded from the web containing the- the relevant domain-specific dat- data and then you just run the script and the <unintelligible> are the most common words from the- from the corpus.
+And optionally filtering that corpus using the dictionary of already known words.
+So the web front end where people can upload their files.
+Have you started doing anything about this? So they are definitely going to have many source files for us.
+The structure of the <unintelligible> will still evolve,so we need to be flexible with that but we are discussing what is the best way for them to give us all these files and I said that in March, in a month from now, we should hopefully be able to propose to to suggest interphase where they could upload the files and if the some restructuring of the folders we can do it behind the scene and then tell them Ok,now the directories are-are updated to your current agenda and please keep uploading the files again.
+So I hope that it the timing is good for you.
+So this is one more feature request on that user interface to separate like layers or gags of permissions for files.
+It would be this person talking about this and that.
+Yes- yes, after the I have-I have school basically, I will be busy on Thursday.
+So I I'm trying to make the webster kit connection working.
+So maybe also some set up on the apache that needs to be done.
+Was it there in reply to your- 
+
+I'm not sure I have the document because I- I know you wrote to me that [PERSON9] will be involved and I don't know if she required <unintelligible> going on.
+S youre now my deputy for communication with [PERSON9].
+[PERSON2] will <unintelligible> the discussion with [PERSON9] on documenting and also functional requirements on presentation web forms <unintelligible>
+
+So thank you that was [PERSON2] and there is no one else remotely present so maybe [PERSON4] if you could start <unintelligible> what- what we have here.
+Like- yeah, so-
+
+<unintelligible> don't know it how to do that and yesterday I with help of [PERSON4] and IT department fixed- <unintelligible>
+
+I mean, that yes our <unintelligible> on to run the <unintelligible>
+
+So that was good move
+
+So did-
+
+So we can totally run <unintelligible> on Monday, we can start everything ourselves-
+
+Yes, so the docker, I'm working on the docker images that was shared by [PERSON10]
+
+So we don't have the segmentor yet.
+Not the segmentor, only the <unintelligible> worker on some machines.
+That- and show him the docker file that we have and that we need to process this in pipe line actually.
+I actually don't know what's the <unintelligible> to look to some puts.
+Actually on I was that we have a list number of periods.
+So if-
+
+So recall it's low proposing pits frequently.
+Frequently, we need more frequent for the stops and the text
+
+<unintelligible> period <unintelligible>
+
+So like you would think reduce the <unintelligible> or something like that.
+Ok, let's- let's like oficially close this session with the reminder that everybody should enter themselves for specific things they have done to the- to the Google sheet.
+I was expecting to see soon it and after here because both of them mentioned in the doodle <unintelligible> that they are available but-
+
+Yeah, ok.
+More instantly like-
+
+Exactly, yeah, yeah.
+So thanks for those who are on the remote call and will be in touch by e-mail.

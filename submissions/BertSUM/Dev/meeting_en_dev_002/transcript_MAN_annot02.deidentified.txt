@@ -1,0 +1,31 @@
+(PERSON8) So we are expecting [PERSON1] today? So that's that's that's like halfway the problem.
+(PERSON1) This is point summarization
+
+So how many sessions -.
+It does not need some work because, and for each meeting, we should find the minutes.
+(PERSON1) That's why I don't want to invest much work into this.
+(PERSON6) Oh, shortly to show you the screen.
+(PERSON1) So they they are like they have one minute so contributions right in the discussion.
+But otherwise we can say that there is no training data that they have to like download that from the web themselves.
+Can we download that data and will make um, like <unintelligible> then as the test set training to the participants, 
+
+or we just say that here are the links you need to download and then test? (PERSON1) Because it's a than it standardize this the way to propose and see it.
+And this is these are the minutes for for this chapter.
+(PERSON6) Yes, yes,
+
+(PERSON1) But uh, he has.
+(PERSON1) But I don't find it any better -.
+I think that the content is simply boring that no one will come up with better minutes.
+And we have looked at more minutes [PERSON2] have enough long before.
+But it is on very large set of topics that I think that is the the this corpus alone would be very usable resource.
+(PERSON1) Yes, exactly, as as as as as a scripting, that web and downloading it in a way that automaticaly alignes it for you, so that you can use the uh, if you if you escape spaces and others, the dangers characters in the in the titles.
+(PERSON1) As the <unintelligible> file, so that there are some of your mind that that.
+This is something that we uh, the session already uh, the the people in that area we find.
+(PERSON8) Yeah, the transcript and the minute in one format.
+And we can, and we have also consense our own data, um, the speaker diarization.
+(PERSON6) Well, it's really in your head.
+[PERSON6], can you share again the screen or the transcript are? (PERSON1) Sorry, the transcript are [ORGANIZATION2], right? And test it with just txt output but then we probably move to something which preserves more of the <unintelligible> details.
+So one thing I would like to ask it <unintelligible> also, this thing was, it was like manually downloaded, right? (PERSON1) And that is uh, the full think.
+(PERSON2) Yes, the full thing <unintelligible>.
+I'm just working whether this [ORGANIZATION2] corpus should be in [PROJECT1] minuting or whether should be moved one, one directory deeper.
+So [PERSON8] please processes this, organize it, according to the dates and the names of the sessions.

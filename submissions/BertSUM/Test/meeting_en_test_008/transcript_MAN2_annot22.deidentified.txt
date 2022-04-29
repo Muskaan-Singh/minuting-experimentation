@@ -1,0 +1,46 @@
+[PERSON10] <another-language> Ahoj, slyšíš nás? [PERSON10] <another-language> A myslíš, že [PERSON1] ví, kam má zavolat? [PERSON3] Yeah, <unintelligible> the picture.
+So maybe we we agreed that you you will you will do some probing on on transformer networks.
+What they do attention and and compution scores would interesting in the sense that in their <unintelligible> 60 internet use emm try to use sentences and test on harder, weirder like constructions to see introduction like emm for like still means that would <unintelligible> some basic characteristic.
+[PERSON7] Yeah, yeah, it would be possible, yeah.
+Okay so, okay so, you you can start with I don't know, if you can start with [PROJECT2].
+I mean, on top of the on top of the transformer you used a perceptor or  -
+
+[PERSON3] Is it a one one layer one layer what we need, it's basicly like more than one <unintelligible> .
+And maybe it's you, because you you collaborate we need.
+[PERSON5] Yeah and I checked there is a measure, which measure is (out) the attention matrice is a line with particulations and actually I got this from from other paper.
+But -
+
+Yeah, it seems they do different stuffs so it makes sense to try to seek which head those what try to hide them supportly, I guess.
+So, so, I I I want to say that it's not easy to eeh that there maybe different different settings and little bit difference settings of transformer that generates completely different results.
+Very <unintelligible> from the balustrades the matrices, the attention mattrices are very (blurt) and there were no (balustrades) straight and we have to it was like, the option.
+[PERSON5] Actually, I wanted to try ehm extract the graph structures compare how how was like similar syntactic trees or or different types of trees we can (extract) from syntax.
+The syntax relations can improve eehm, eeh, machine translations for instance.
+And by this training they also, they also report better better results improvement in they in they target these two heads like gold syntax.
+They added that two heads must be similar to the gold trees.
+[PERSON10] So so the paper working about <unintelligible>.
+[PERSON6] Or, I can add you to our doctor Who and share
+
+[PERSON7] Sorry, what did what did you said, [PERSON6]? () <laugh>
+
+<parallel_talk> I wanted to ask [PERSON8] about [PROJECT2] secure.
+So we will get invitation e-mail to join.
+<laugh>
+
+[PERSON10] There is this this thing, okay, so now we're analysing is one of those retrained and test iniciate may be -
+
+[PERSON3] It's model.
+Right, yeah, what I thinking it's okay, should be really continue analysing the transformers that we have or should we <unintelligible> someone <unintelligible>.
+[PERSON3] <unintelligible> very find <unintelligible> is expecting just <unintelligible> research.
+[PERSON3] It seems to be <unintelligible> working on picture form.
+[PERSON10] But he said he will be in the beginning December, so -
+
+You you you know -
+
+[PERSON6] I think he was planning to come back like before I will supposed to I was supposed to be 8th of December.
+The <unintelligible> make sense try to set up some more frequent <unintelligible> with [PERSON1] like like model one on one <unintelligible>.
+<laugh>
+
+Definitely [PERSON1] seems to know what you might better <unintelligible>.
+<laugh>
+
+I don't know if [PERSON6] need to discuss something? [PERSON10] Rewriting this paper with [PERSON8].

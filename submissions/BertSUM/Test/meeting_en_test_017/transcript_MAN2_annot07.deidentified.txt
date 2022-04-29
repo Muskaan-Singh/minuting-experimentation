@@ -1,0 +1,197 @@
+(PERSON4) Everybody is busy,
+
+
+so let's make this very quick.
+So great that you are ready to start calling.
+(PERSON1) Okay, okay, ehm,
+
+
+I refuse the [ORGANIZATION3] tutorial,
+
+
+I have taking a look at the some work <unintelligible>.
+One reason is that we don't have the time to to fix the cashing client,
+
+
+or it's reliable and all that.
+When I 'm looking at the outputs of of the ASR,
+
+
+it's not complete sentences,
+
+
+but it's closing off every now and then, 
+
+
+so how does this work? (PERSON5) The ASR does not close sentences at all.
+<unintelligible> is continues sequent <unintelligible>
+
+
+(PERSON4) Okay.
+And there is-
+
+
+you see individual words there, uh, 
+
+
+in the vertical format, so that one word per line
+
+
+and the time stamps, 
+
+
+yeh, 
+
+
+so the the question is,
+
+
+which approach should we take as the input for for [PROJECT2] client.
+But the ASR signals is explicitly, but come a time when the when the sentences markets final 
+
+
+And that will also <unintelligible>
+
+
+(PERSON4) Yeah, so what do-
+
+
+in general if we run the the segmentation worker,
+
+
+if you run pipeline and if we look at the outputs of segmentation workers,
+
+
+we should train our empty systems to work on all the individual lines that we are getting from these.
+And some of these lines will be complete sentences.
+(PERSON5) Yes,
+
+
+I 'm-
+
+
+I 'm not train with these system myself I think we're in the process of doing them,
+
+
+but my intuition would be do not put too much emphasis the incomplete sentences.
+So hopefully I'm now sharing my screen, 
+
+
+if you yes, 
+
+
+and this is this is the output that we get that we got at the last conference, 
+
+
+the mock conference with the interpreters.
+So uh, 
+
+
+is this the type of input that our empty system should be ready for,
+
+
+which is starting in the middle of a sentence, 
+
+
+having full sentence.
+(PERSON1) Sorry, [PERSON4], why does segmentation change, though it it sort of- it has.
+So the problem is that if we have from these.
+We need to ask [PERSON2], 
+
+
+or someone from [ORGANIZATION1] to validate these locks to to help us create a reliable locks from the ASR workers,
+
+
+so that we are seeing what we are supposed to be seeing,
+
+
+and this should include timestamps.
+And it will have only the baseline that I just described for the workshop.
+Okay, 
+
+
+so please tell us next week then,
+
+
+please tell us next week.
+(PERSON5) I don't think so just- there will be another <unintelligible> I changed <unintelligible> the whole structure and we will continue deployment there.
+Yeah, [PERSON2] is  empty that's on a German to English, 
+
+
+mainly because the the English ASR will be a uhm,
+
+
+so so then, our main input will be the English ASR 
+
+
+or one of those from the rich speakers,
+
+
+the secondary, like the fall back input could be from German to English, 
+
+
+and then I would indeed ehm rely on the [ORGANIZATION3]  platform to do to do the pipoting.
+So this is something where [PERSON9] and you should coordinate.
+So than [PERSON5]
+
+
+can you very briefly say about this, 
+
+
+because we were discussing this ehm, what is your idea.
+Looked to one of the the top as SLT systems in last year 's <unintelligible>, 
+
+
+and they were using this technique as-
+
+
+It was only one aspect of their systems.
+So this is this is something that you are probably already doing so uhm for this.
+And then we can use this segmentation with uh the paralel data to change the paralel data,
+
+
+so that are segmentation mimics what the what the segmentation workers is doing, 
+
+
+and this would be the uh, the data for fine tuning the empty systems.
+It would be useful, 
+
+
+but we could do it,
+
+
+ehm, even say, would be extremely useful for you to see the whole thing in in practice, 
+
+
+because the last person we had here were [PERSON3].
+So we would like to as the users at the end of the client, 
+
+
+would like to say,
+
+
+we want to build this pipeline, 
+
+
+but avoid this particle worker, 
+
+
+because last time it didn't work for us.
+(PERSON9) Maybe this afternoon in order be more prepared on Monday.
+(PERSON4) Yeah,
+
+
+we will apply <unintelligible>
+
+
+[PERSON10] is responsive,
+
+
+I know though we we just email him, 
+
+
+and then get him on on slack.
+Okay,
+
+
+so thank you very much for your time.

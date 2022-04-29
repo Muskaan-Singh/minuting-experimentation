@@ -1,0 +1,45 @@
+PERSON3 started running the experiments that he was told about a while ago.
+He had some problems with them, but finally he managed to run them.
+The objective of the experiments is to complete the GPU test and to know that one version, one new version of Project3 really worksThere is not enough progress in multi-source research, because they need the data.
+There is no gain to be expected from this approach.
+It would be useful to replicate some of the experiments on some larger text, text only data.
+PERSON1 and PERSON2 will have a separate call tomorrow at 3 pm.
+They will talk about the multi-source and how to test it.
+PERSON4 will probably be in touch with [PERSON10] or some other person early next week to set up a do it yourself integration for the profanity filtering.It was tested on <unintelligible> something.
+Now it's the time to test it on the life pipelines.
+It would be better if the author of the component explains how to do it himself.
+The profanity filtering should be employed twice on each path.
+The new ASRPERSON4 has a call with [PERSON10] later today.
+On Monday we will hear the Italian English and yesterday we had a chance to hear the Japanese English.
+The ASR was struggling with that.
+For the multi-accent English, the current idea is to create new sentences by concatenating words that were spoken by different speakers.PERSON10 is leaving the team.
+PERSON17 is not able to start the training pipeline, so there is only one person who can start it.
+Some language coats were swaped there and some of the languages didn't contain any reasonable output.
+It's to for agile and did respect.
+[PERSON17] didn't know enough about the architectures.
+PERSON1 wants to make a call and set up a call with [PERSON17] to discuss how to make the configuration cleaner.
+PERSON1, PERSON8 and PERSON5 are discussing how to improve the performance of a subtitling platform.The model is slow, because it was not properly trained.
+It is better optimised for Project3.
+As a fall back solution, they should have the Project3 models running as a worker on their side.PERSON4, PERSON8, and PERSON9 are on the devel at [ORGANIZATION1] mailing list.
+They are discussing technical issues related to getting Project3 up and running.
+PERSON1 is working on shortening and extending models.
+He is running out of storage quota.
+He will ask for more data.PERSON8 needs to know how much space there is available on Troja to store the data.
+The organization takes 50 gigabytes of data.
+There is a command to check the quota.The deadline for applying for PHD one is at the end of the year.
+A man from Zabrican is interested in joining the group, he is almost done with his masters and wants to join the team.
+PERSON1, PERSON4 and PERSON7 are working on a project.
+PERSON1 has a call at two thirty Prague time with [PERSON11] to discuss some of the specifics of the SLTS capability of downloading files.
+After that, he will have a call withThe recording of the results is something that [PERSON7] will manage.
+PERSON1, PERSON4 and PERSON10 need to work on the non native accent.
+The domain adaptation is for the toolkit for the [PERSON20] toolkit.
+The dictionary is well included and it's asking the correct anagrams with the substitute words instead of the new words.
+The domain adapted models capture the domain related words much better than non domain adaptedPERSON1, PERSON8 and PERSON6 discuss how to improve the artificial intelligence system.
+PERSON6, who is in touch with someone such as [PERSON4] will help with profanity and positive speak filtering.
+There was a cable competition where people had to train a neural network model to detect harmful tweets or sentences.
+PERSON4 thinks it would make the task much easier, because since we are not expecting anything bad, we can just remove it.
+ASR should make a different hypothesis.
+PERSON1 thinks it's a great option for someone who would like to supervise a student.
+(PERSON4) wants to talk to elderly students who are already in Prague for the first or second year about coming to Prague.
+(PERSON1) wants them to record their experience from the most recent sessions and read the problems in the Monday tests document.
+Bye, bye.

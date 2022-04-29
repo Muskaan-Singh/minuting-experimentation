@@ -1,0 +1,41 @@
+(PERSON7) Hello, I don't hear anybody yet.
+Ehm after we have have had the call on Monday, what is the proposed development schedule.
+But her camera is disabled and I don't know if she can speak.
+(PERSON11) Yeah, I'm here,I'm here with <unintelligible>
+
+(PERSON7) Yep.
+(PERSON7) Yeah, so for partial sentences, I think that they should be treated from the [PROJECT2] prospective as simple simply a different sentences, other sentences that we expected to process.
+And we need to- we need to know where to start overwriting.
+and the the limitation with this approach is that we can handle only like one single timestamp at the beginning and would be the end of the segment.
+How do we present partial translations and partial output.
+And how do we make sure that the updates are reasonably well displayed.
+And I think that we had something like the textfiled.
+(PERSON10) Let's say uhm [PROJECT2] out of the incremental updates must be done.
+So, but then the textfield content can be sent several times as an update.
+And at that point the presentation platform would like scroll it up, and it would again start displaying whatever comes as as full textfield.
+(PERSON7) But the the scrolling the history of previous texts fields would that be supported? Each message is intendent (we) new subtitle.
+So, so [PERSON7] ehm needs to discuss with [PERSON10] the updates versus history of text uhm text fields.
+So [PERSON10] when you were fighting with your network connection,
+
+I had one question on you.
+I will have the <unintelligible> and whether we can start I think it maybe ok.
+So so is good that there that many workers now, so I I actually suggest that we try after this c- .
+This part of the call to switch to the [ORGANIZATION3] platform, at least with some of us those who are interested, 
+
+and we could see how that works with the workers available.
+So I would like to make use of that you spend some time to run them.
+So it's the priority of this image is not- uh not high.
+I know that in the call yesterday, with [ORGANIZATION3] the workers worked at the beginning.
+I didn't attend the yesterday meeting, but the bug that I mentioning is that sometimes the work, one worker can handle several sessions, but then it's, but then it stocks and it doesn't return any output.
+I will <unintelligible> us, but yesterday so yeah I don't know what is happening there, because we <unintelligible> when I do know what <unintelligible>prophones it was able to handling several sessions.
+The production client-
+
+Yeah, so this is from [PERSON6].
+That this point the production client is different from the simple one only by a by-
+
+I change only the default parameters and comment send documentations, and I removed to Windows version.
+(PERSON6) But  I'm not sure if [PERSON8] is the rigt persons for it.
+Okay,
+
+(PERSON10) But I can be with you with my heart.
+And and will be in touch and speak to you next week.

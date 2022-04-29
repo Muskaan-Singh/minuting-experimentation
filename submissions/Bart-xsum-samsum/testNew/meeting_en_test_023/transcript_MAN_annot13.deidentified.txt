@@ -1,0 +1,38 @@
+PERSON1 was about to join the meeting, because he wants to be in the meeting.
+PERSON2 had already been in contact with him for two days.
+He is writing a lot of emails today.
+He sent me a list of named documents with the colourful papers.
+He wasAfter Christmas, the annotator stopped working on the document.
+He didn't respond to PERSON1 and PERSON2's messages.
+They need to do a second round of annotation for many of the words.PERSON1 will be back in 30 seconds.
+(PERSON2) will write the <unintelligible> here.
+PERSON1 made a copy of his document.
+PERSON2 made a proper copy of the document, because PERSON5 has made annotations to the same file.
+PERSON1 and PERSON2 are working on a project.
+They need to prepare documents at two levels: at the word type level and the word token level.
+They do not need to finish the annotation of the documents.
+If PERSON5 is not available, they will need someoneThe collection of candidates that was done by [PERSON5] at the stage where the documents were when he did it is still going on.
+It has a lot of typos and most of the output is not a named entity.
+The program did not include all the words beginning from c[PROJECT4]tal.PERSON1 and PERSON2 agree that the data set won't suffer if the annotators de-identified the speakers.PERSON1, PERSON2, and PERSON3 need to put an outline on a time frame.
+PERSON1 will have a session with [PERSON2] with the data.PERSON1 told her yesterday that she should start.
+She needs to read the regulations and de-identify the data.
+She has to delete the names of languages.
+If she doesn't, she will have to do mock named entities.
+She should align the transcript with the minutes.PERSON2 and PERSON7 are discussing the procedure for de-identifying people's data.There is a lot of work on the project.
+There are two consent forms: one for working with the data and one for publishing it.
+People have to give their consent to both of them.PERSON1 proposes to skip the first form for the release of the corpus and focus on the second form only after the corpus is finished and released.
+As soon as the corpus is released, people will be able to browse the data.
+The tedious part is the linking of the meta data that is in the directory structure.
+The names of the participants from the meeting minutes are incomplete and sometimes even the names are incorrect.PERSON1, PERSON2 and PERSON3 are discussing how to organise a meeting.PERSON1, PERSON2 and PERSON3 discuss the timeline for the task.
+They agree on the end of February, end of March, first week of April for the de-identification of the participants and the training of the data.PERSON2 will be finished with the work type level annotation in two days.
+The coding of the Xml should be done by the end of February at the latest.
+The removal of the text from the document should be completed by mid February.
+The creation of the Scientific Committee should bePERSON1 forwarded the email template that they would be sending to the prospective members of the Scientific Committee.
+It is not finalised yet, as more or half of them are master's students or PhD students.
+PERSON1, PERSON2 and PERSON3 are working on a project.
+They need to divide the candidates into a scientific committee and make several copies of the invitation e-mail with the names of the candidates.
+They have to submit the proposal within the January 7th or 8PERSON1, PERSON2, and PERSON3 are going to have a conference call to decide on the participants of the Scientific Committee.
+They will send them the names of people they need to contact.
+The deadline is in two days from now.PERSON1, PERSON2 and PERSON3 are going to send the proposal by January 10th and January 15th to organiser7 and organiser9.
+They are also going to ask three Russian candidates for being on the committee.
+If one of them comes to the eventPERSON1 and PERSON2 will meet this afternoon to discuss a financial matter in English.

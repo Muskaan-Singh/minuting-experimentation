@@ -1,0 +1,38 @@
+You are preparing the link into the-
+(PERSON5): Ye, Ye, Ye
+No, no, I'm just aligning that link of the web interface, which is already there one in the corrector-
+(PERSON8): So [PERSON4] we have discussed with [PERSON5] your negotation.
+(PERSON4): I did with you [PERSON8] for like I have to collect the minutes so-
+I don't understand this upload thing.
+(PERSON8): Yes, so for each transcript in europarl you can find the minutes.
+And here here we are not on within the [ORGANIZATION2] website.
+(PERSON5): [PERSON8], I have linked the reference in the agenda.
+So you want to just see that what they are following like the based or is it some kind of the-
+So they have shown us a snapshot of the interface which they have done for the annotation tool
+(PERSON8): But what should I do with that? How they have built this tool for annotation of the valuation.
+But this is just a web application which they have shown the snapshot.
+It does have web application front-end which.
+As you can see from the description of the figure.
+But they have the for the ratings they have this web application.
+I think you just come up with what you consider to be the best.
+So what you've already done is very beautiful.
+Because I think the annotators will be able to evaluate it in in a better way.
+(PERSON5): So, what I proposed is that we have the transcript and the reference in the interface.
+And then the annotators do give rating to it.
+(PERSON4): You mean the train test where you just share everything, yes? This is a good summary and this is a bad summary.
+And that's what I was asking that building an interface would be a good thing.
+(PERSON5): So let me share the draft maybe.
+So actually multiplying them with the constant value is is thing to be decided.
+Okay so I will send the-
+(PERSON4): So as I underst-
+Understand so the coherence with the read ability and all these scores.
+So that would be the human judgement, right? (PERSON8): And anyways it has a sense to speak about it after we see your <unintelligible> criterias.
+Ye [PERSON5] please also while you put your criterias please also evaluate two minutes-
+(PERSON5): Hmm, okay
+(PERSON4): Okay, so that we can have the same set up of what good and bad minute looks like.
+(PERSON8): Yes, everybody-
+(PERSON4): With the transcript, ye.
+Definitely they are also gonna have judge.
+(PERSON4): Yea, no, I thought the matrix that you that you did.
+(PERSON5): Yea, so I did try with our data.
+And [PERSON5] and please also send the automatic evaluation that the paper of <unintelligible> want to.

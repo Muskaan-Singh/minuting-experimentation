@@ -1,0 +1,35 @@
+(PERSON4) So [PERSON7], wan-
+
+(PERSON7) <unintelligible> or hear.
+(PERSON4) Yeah, so [PERSON8] has sent the Overleaf, well one Overleaf link, and also the link to the GitHub prepositary where we have the template is normal directory.
+(PERSON4) That would be good if it if it actually worked, uh, so the the reload.
+<parallel_talk> I'm not sure if it will work or not.
+(PERSON4) Do you see the chat, do you see the chat window? So we can discuss the structure of this deliverable, and you already know the ACL demo paper, so definitely please read that, and I think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+(PERSON7) Well, I just asked the about the possibility to share internals, and it shouldn't be a problem we should.
+Publishing platform, it is jumping too much.
+(PERSON4) Yeah, the workshop at <unintelligible>.
+(PERSON4) On that was discussed on the [PROJECT1] call, so I'm and remote call the standard consortium wide thing.
+Ok, so we should ask [PERSON1] and [PERSON2], and, yeah, I'm emailing colleagues in [ORGANIZATION2], and [ORGANIZATION4] who of them could review the the deliverable.
+With the hope that you will have that the content ready.
+I think it's interesting the way it's connected.
+There is Dropbox and there is Git and you click Git, and it will give you Git clone command.
+No that's strange, I don't know how that'll work.
+Yeah, so [PERSON7], do you have any questions concerning what should be in the deliverable.
+(PERSON7) Well, proceed just important to have em for for each part the same structure at least so that, the functional main functionals <unintelligible>.
+So please, <unintelligible> this structure down to that Overleaf document.
+And then, you will know, okay, yes
+
+(PERSON7) <unintelligible> fix and so on
+
+(PERSON4) Yes, yes, yes.
+(PERSON6) Let me check, there is one, okay.
+So make filed, this is zero zero two as six one.
+So if people are editing, it will become impossible for you to commit your work, because pull and push, they will always have some change.
+(PERSON6) Internally recording the Git command.
+(PERSON7) Oh, don't worry, I also do not remember my <unintelligible> manager, which one is, but just give me one second.
+But the package names are called the tex live dash.
+(PERSON6) So if you say the YAM install tex live dash last page or something.
+I am, well still the wrong package, that why it doesn't, doesn't found it.
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.
+(PERSON6) It maybe even, it's actually it's it's working so maybe easier to working online, so maybe it's easier to without, without that.
+(PERSON6) Yeah as well, thank you very much and hear from you later.

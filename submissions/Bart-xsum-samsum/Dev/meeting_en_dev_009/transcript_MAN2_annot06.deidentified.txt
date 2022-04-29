@@ -1,0 +1,20 @@
+PERSON2 is going to give her presentation on Project 1 on Monday 17th February.There will be a Monday seminar on the 17th of February.
+There will be some dry run of a workshop where we are describing various language technologies and that's for the [ORGANIZATION6] congress the part like the (site) activity.
+On the 12th and theOn the 18th and till the 20th of March, non-native speakers of English are going to present their companies.
+PERSON7 would like to work on a project with [PERSON6].
+In the TOK on Tuesday the word "soupatko" was removed from the corpus.
+(PERSON16) has finished the evaluation framework and it's ready but he needs to make some small changes to test it.
+The team is working on the paper for (exceptement).
+The bad thing is that[PERSON15] is on the call.
+PERSON16 is working on a next version of the czech ASR system that should be trained on even more data.
+[PERSON1] has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and decompress before being sent to the ASR.
+The sound segmentation has been improved.PERSON15 is waiting for feedback from [PERSON18 on his new segmenter.
+He needs it operational in the next two weeks for the Monday talk by 17th or even for the dry run sesion of the workshop on the 12th.
+PERSON14 has already worked on the project last June.
+He was helping to rescue the project because TEE was cashing its output.
+He is now in [LOCATION3].
+He can participate only remotedly and has to have as little interaction with others as possible.
+He(PERSON10) and (PERSON2) are interested in the paper from organiser3 on ASR and FastSpeech.
+The paper is from December.
+It's very similar to Audacity recording chanells except it is not recording.
+It is three hundred times faster forPERSON5, PERSON10 and PERSON15 are saying goodbye.

@@ -1,0 +1,30 @@
+The presentation platform is slowly taking shape and working.
+There is no way to switch off the webcams in the Alfa view.Last Friday, organiser2 tested at the premises.
+There will be a video mixer available for the three days or two days of the workshop.
+There is text to text client and a text worker.
+The KT translation platform doesn't handle batch messages very well.
+Personall is the only person left in the team.
+PERSON10 needs the segmentation for training MT <unintelligible> to obtain the train data.
+PERSON1 needs to test machine translation by looking at the output of the online ASR.
+PERSON13 will run a command on the command line to test the all integration of ASR.
+The quality of the machine translation is not affected by mismatching segmentation between the training mode and the operation mode.
+The main concern is the mismatch of the segmentations.
+(PERSON12) is trying to set up the microphone level.
+The chat is filling up with messages but no ASR worker is available.
+The segmentation workers expect data of type unsegmented text and it didn't work with his batch mode.
+The text to text client isThe segmentation workers don't work with the CTM client.
+The CTM is the word level output of ASR.
+The ASR workers are reliable but not reliable enough to be used for the testing of the machine translation.PERSON12 would like to have a more directed bugging session to solve the problem of the ASR output in chat.
+(PERSON1) will be back next week and they will arrange some kind of test together.It would be nice to have voice recognition directly translated at the level of individual level.
+The mediator is not reachable.
+The ASR and MT workers connect very quickly, but the segmentation worker takes some time.
+When the mediator dies, the worker needs to survive and reconnect again.
+There will be a session, session with <unintelligible> andThe presentation platform will receive all the streams.
+(PERSON9) will choose the main stream for each language.
+The presentation platform is just a presentation layer.
+If one of the streams stops working, the subtitles in Romanian will be based on the machine translation all the target languages at onceThe presentation platform will receive all audio inputs in all target languages at all times.
+If one of the clients is unavailable, the machine translation will automatically jump to the other provided translation.There is no way to switch which of the sources is the one to be presented while the whole system is running.
+For June it will not be available the preview of the subtitle, but the selection of the stream should be available.There will be more people monitoring the same presentation platform at the same time.
+One of them will be responsible for making the Polish output using the best ASR, another one for the Spanish one.PERSON9 and PERSON14 are working on a presentation for the next project.
+They have a year to find a solution for the presentation.
+They will talk again next Friday.

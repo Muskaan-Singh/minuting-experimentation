@@ -1,0 +1,37 @@
+PERSON7's system is frozen.
+The easiest way to fix it is to replay the file with time stamps and use [PERSON2]'s replay scripts to feed it to AB client and to the presentation workers.PERSON4, PERSON7 and PERSON9 are waiting for M.
+They don't know who M is.
+They are also waiting for the first path of the Zoom US link they are using.
+PERSON10 and PERSON12 are anxious about the demo.
+They need a simple set-up that will work remotely for the project officer and also for other guests he will invite.
+PERSON9 doesn't know how to stream a video file.(PERSON6) is trying to stream a video on a public server.
+The video box takes in input a public M3U8 URL and simultaneously streams it to AB client.PERSON9, PERSON7 and PERSON10 want to discuss the technical set up of their localhost.
+They need to identify the video file suitable for this kind of demo and start performing test of it.
+The project officer will focus on the quality of the provided translation.(PERSON12) tested the videos with the current best set up.
+The German segmentation is not as good as the English one, but it was ok.
+The TEDx talk is in Austrian German.
+(PERSON4) and (PERSON12) should focus on the selection of the input and test it separately just on using direct tools, while [PERSON7] and PERSON10 will focus on technical aspect.
+The schedule for the project officer is Wednesday, Thursday and FridayIf [PERSON7] succeeds in injecting the instructions to the subtitles to all the languages, then they will see the subtitles telling them to scroll back to the starting point and then wait for the click instruction.
+If they get out of sync, they can try to re-synchronThe plan C is to re-broadcast with Youtube broadcasting.
+PERSON9 and the project officer decide to stream the meeting on Youtube.
+The meeting will be in German and none of them is a native speaker.The audio from the video passes through the service architecture, but it does not pass through Youtube or whatever.
+Yesterday the sound was coming from the output of [PERSON7] and when they were talking it was not part of the subtitles.
+Friday is a national holiday in the Czech Republic.
+There is no national holiday on the 8th of May.
+The project officer agrees with Thursday, tomorrow afternoon.
+They need to test restarts and recover from a failure.PERSON4 and PERSON12 are going to work on the technical set up.
+PERSON7 has a German ASR script to run multiple translations simultaneously for [PERSON12.
+The idea is to log in on the organiser5's web server and upload a video file.
+Then run FFM peg to create the M3U8 playlist and provide input to AB client.[PERSON6] needs a couple of minutes to recap their text to the presentation platform.
+[PERSON10] is testing the idea of plan C.
+In the example acati docs streamer, there is a local apache server installed on my laptop.
+It writes the output in the exposed directory.
+Since I'm running apache, I'm able to reach the expose directory through the web browser.
+When I connect to the exposure directoryThe project officer will see the demo through the screen so they will be able to present both online text flow and the subtitles of the presentation.(PERSON7) and (PERSON6) discuss how to fix the problems with the live streaming of a conference.
+Plan B is the most easiest.
+Plan C is overloading the system.
+Plan D is to put everything on a different machine and let the demo run remotely.
+If [PERSON5] can join the meeting, they will be able to fix audax instantaneously.PERSON6, PERSON7 and PERSON12 will be available starting from half past 10 tomorrow for the next test session.
+They need to book the Zoom meeting slot.The source language for the meeting will be English and the video file will be German.
+The list of videos in the section the finder demo input in the Google document will be used during the demo session.
+The command to pipe the text to the presentation platform will be sent as soon as
